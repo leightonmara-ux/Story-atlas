@@ -8,16 +8,24 @@
 - Compare: the frameworks lined up moment by moment, plus a full grid.
 - "Check yourself" questions at the end of each lesson; progress saved on the device.
 
-## Phase 2: Complete Foundations, and practice
-- Write the rest of Foundations: Poe, Freytag, Forster, Egri, Propp, Campbell & Vogler, Story vs. telling, Burroway.
-- Flashcards with spaced repetition, drawn from every lesson's key terms and ideas.
-- A glossary of terms (inciting incident, nut graf, peripeteia…) linking each to its lessons.
+## Phase 2: All lessons, and play (done)
+- All 49 lessons written, each with diagrams where useful, "Check yourself" questions and a quiz.
+- Play tab: a quiz for every lesson, a mixed quiz that brings back missed questions (spaced repetition),
+  "Whose idea is this?", "Put it in order" (16 frameworks) and a 60-second lightning round. Streaks and mastery tracked on the device.
+- Compare now has 22 frameworks.
 
-## Phase 3: The three tracks
-- Screen, Stage and Journalism lessons, then Counterpoints.
+## Phase 3: Deepen
+- Glossary of terms (inciting incident, nut graf, peripeteia…) linking each to its lessons.
 - "Diagnose this" exercises: map a known work (*Casablanca*, *Death of a Salesman*, a Pulitzer feature) onto two frameworks and compare.
-- Add the new frameworks to Compare as their lessons are written. Good candidates for the chart:
-  Swain's scene and sequel, Kristin Thompson's four acts, the Nāṭyaśāstra's five stages, jo-ha-kyū.
+- Verify the points the lesson writers flagged as uncertain (kept in the commit history and listed below), against the books.
+
+### Flagged for checking against the source books
+- Swain: the order of reactions (feeling, action, speech) in a motivation-reaction unit.
+- Hart: the exact stage names of his narrative arc (used in Compare and the ordering game).
+- Burroway: the line "only trouble is interesting".
+- Thompson: her own names for the four parts.
+- Vogel: her terms for alternative play structures.
+- Natyashastra: where its stages sit on the arc in Compare.
 
 ## Further voices (for "Read next" lists, not full lessons)
 Weave these into the relevant lessons' reading lists:

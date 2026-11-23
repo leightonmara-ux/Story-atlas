@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "q": "A teacher starts class with yoga, then has writers close their eyes and picture a room in detail before writing in silence. Whose method does this echo?",
+      "choices": [
+        "Ball's",
+        "Scribe's",
+        "Fornés's",
+        "Brecht's"
+      ],
+      "answer": 2,
+      "explain": "Warm-up, visualization and silent writing are the best-documented parts of her workshops."
+    },
+    {
+      "q": "What is unusual about the middle part of Fefu and Her Friends?",
+      "choices": [
+        "It is told backward",
+        "The audience moves in groups through several spaces where scenes play simultaneously and repeat",
+        "It's a song cycle",
+        "It has no dialogue"
+      ],
+      "answer": 1,
+      "explain": "Each group sees all four scenes, in different orders."
+    },
+    {
+      "q": "How did Fornés approach structure in her own writing?",
+      "choices": [
+        "Follow characters and images to discover what happens",
+        "Start from the obligatory scene",
+        "Use a fixed beat sheet",
+        "Outline first, then write scenes to fit"
+      ],
+      "answer": 0,
+      "explain": "Structure emerged from the work rather than being imposed."
+    },
+    {
+      "q": "What was the INTAR lab?",
+      "choices": [
+        "A screenwriting program",
+        "A Berlin theatre company",
+        "A Moscow acting studio",
+        "The Hispanic Playwrights-in-Residence Laboratory she led in New York from 1981"
+      ],
+      "answer": 3,
+      "explain": "It trained a generation of Latinx playwrights, including Nilo Cruz and Migdalia Cruz."
+    },
+    {
+      "q": "Her plays are often built of short scenes, each a sharply framed picture. What's the nearest comparison?",
+      "choices": [
+        "A domino chain of causes",
+        "A well-made machine around a secret",
+        "A sequence of paintings whose pressure accumulates",
+        "A five-act pyramid"
+      ],
+      "answer": 2,
+      "explain": "She began as a painter, and image is central to her dramaturgy."
+    },
+    {
+      "q": "Why be cautious about any fixed \"Fornés system\"?",
+      "choices": [
+        "She never taught",
+        "She taught in person and accounts vary; much is passed on by former students",
+        "It was invented by Brecht",
+        "She published a strict manual that's been lost"
+      ],
+      "answer": 1,
+      "explain": "Her method survives mostly through students' adaptations."
+    }
+  ],
+  "ideas": [
+    "Close your eyes and see the character in detail before you write a single word.",
+    "Begin a writing session with the body: a physical warm-up to quiet the critical mind.",
+    "Let the audience walk through the house and assemble the middle of the play in its own order."
+  ]
+}

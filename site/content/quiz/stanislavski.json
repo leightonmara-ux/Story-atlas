@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "An actor asks the playwright: \"What does she want from him in this scene?\" Which concept is the actor using?",
+      "choices": [
+        "The task (objective)",
+        "The heap",
+        "The scène à faire",
+        "Gestus"
+      ],
+      "answer": 0,
+      "explain": "A task (zadacha, Hapgood's \"objective\") is what the character is actively trying to do to a partner here and now."
+    },
+    {
+      "q": "Why do some translators prefer \"task\" over \"objective\"?",
+      "choices": [
+        "\"Objective\" is the Russian original",
+        "Stanislavski wrote in English",
+        "\"Task\" is shorter",
+        "The Russian zadacha suggests a problem or job to be done, not a fixed target"
+      ],
+      "answer": 3,
+      "explain": "Hapgood's \"objective\" fixed the American term; Benedetti's \"task\" is closer to the Russian."
+    },
+    {
+      "q": "A character's tasks in every scene serve one deep aim across the play. What is that aim called?",
+      "choices": [
+        "The spell",
+        "The complication",
+        "The super-objective (supertask)",
+        "The controlling idea"
+      ],
+      "answer": 2,
+      "explain": "The super-objective is the deepest want, which the through-line of action strings the tasks toward."
+    },
+    {
+      "q": "What are the given circumstances?",
+      "choices": [
+        "The director's notes",
+        "The facts of the play the actor must accept: who, where, when, what has happened",
+        "The theme",
+        "The audience's reactions"
+      ],
+      "answer": 1,
+      "explain": "Stanislavski borrowed the phrase from Pushkin; the playwright supplies them."
+    },
+    {
+      "q": "A playwright writes: \"I'm sad because you left me.\" Thinking like Stanislavski, what's the problem?",
+      "choices": [
+        "It states the feeling instead of giving the actor a playable task, leaving nothing underneath to play",
+        "It breaks the unity of time",
+        "It's too short",
+        "It lacks a projected title"
+      ],
+      "answer": 0,
+      "explain": "Playable tasks are active verbs aimed at a partner; stating the subtext flattens it."
+    },
+    {
+      "q": "What is the popular story that American \"beats\" came from Russian-accented \"bits\"?",
+      "choices": [
+        "Documented fact from Stanislavski's diary",
+        "Hapgood's official translation note",
+        "A Brecht joke",
+        "Charming but unproven theatre lore"
+      ],
+      "answer": 3,
+      "explain": "It's widely repeated but not established."
+    },
+    {
+      "q": "Which later emphasis did Stanislavski move toward in his last years?",
+      "choices": [
+        "Placards and songs",
+        "Writing plays backward",
+        "Physical actions: truthful actions in the given circumstances, with feeling following",
+        "Emotion memory above all"
+      ],
+      "answer": 2,
+      "explain": "The so-called method of physical actions; Strasberg's American Method leaned more on the earlier emotion-memory work."
+    }
+  ],
+  "ideas": [
+    "An actor should ask not \"who am I?\" but \"what would I do if I were in this situation?\"",
+    "Divide a role into bits, each with a task: an active verb aimed at a partner.",
+    "All of a character's smaller tasks serve one deepest aim, strung together by a through-line of action.",
+    "Find a sequence of truthful physical actions and feeling will follow."
+  ]
+}

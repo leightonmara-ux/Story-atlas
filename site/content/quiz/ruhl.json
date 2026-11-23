@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A workshop leader insists every character must learn something by the end. Who would most directly push back?",
+      "choices": [
+        "Ruhl",
+        "Scribe",
+        "Ball",
+        "Stanislavski"
+      ],
+      "answer": 0,
+      "explain": "Ruhl argues the arc is one option that has become compulsory, often with a moral expectation."
+    },
+    {
+      "q": "What does Ruhl mean by an Ovidian play?",
+      "choices": [
+        "One with a secret and an obligatory scene",
+        "One that tells you the ending first",
+        "One that hides events offstage",
+        "One that takes pleasure in sudden, complete transformation rather than gradual moral improvement"
+      ],
+      "answer": 3,
+      "explain": "In Ovid, Daphne becomes a laurel; the change isn't earned through lessons."
+    },
+    {
+      "q": "What does Ruhl suggest American dramaturgy often resembles more than Aristotle's Poetics?",
+      "choices": [
+        "The Short Organum",
+        "The Metamorphoses",
+        "The Pilgrim's Progress",
+        "The Book of Job"
+      ],
+      "answer": 2,
+      "explain": "A journey of moral improvement: what has she learned, how has she changed?"
+    },
+    {
+      "q": "How does Ruhl relate her Ovidian form to Paula Vogel's teaching?",
+      "choices": [
+        "She says Vogel invented it",
+        "She offers it as an addition to the plot forms Vogel taught",
+        "She says it replaces all others",
+        "She rejects Vogel's forms"
+      ],
+      "answer": 1,
+      "explain": "It's another option alongside the Aristotelian, circular, backward and repetitive forms."
+    },
+    {
+      "q": "In Ruhl's adaptation of Orlando, the hero wakes up as a woman. How does that fit her argument?",
+      "choices": [
+        "It's a total change the story simply accepts, without psychological justification",
+        "It's the payoff of a lesson learned",
+        "It's a reversal and recognition",
+        "It's an obligatory scene"
+      ],
+      "answer": 0,
+      "explain": "Transformation itself is the pleasure."
+    },
+    {
+      "q": "Ruhl asks whether the arc's rising-climax-release shape reflects a cultural bias. How should a reader take this?",
+      "choices": [
+        "As a rule for all plays",
+        "As a proven claim",
+        "As a joke with no point",
+        "As a provocation and open question"
+      ],
+      "answer": 3,
+      "explain": "Many of her essays end with questions rather than answers."
+    },
+    {
+      "q": "What does Ruhl say about conflict in drama?",
+      "choices": [
+        "Every scene needs a fight",
+        "Conflict belongs only in comedy",
+        "Fighting can be dramatic, but it isn't the only way to make drama",
+        "Conflict should always be offstage"
+      ],
+      "answer": 2,
+      "explain": "She treats conflict, like the arc, as a tool rather than a law."
+    }
+  ],
+  "ideas": [
+    "Characters don't have to learn and improve; they can simply transform, like Daphne into a tree.",
+    "The compulsory character arc owes more to The Pilgrim's Progress than to Aristotle.",
+    "A play can take pleasure in change itself rather than in moral improvement."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A play spends two acts promising that the wife will finally confront her husband with the letter, then has the confrontation happen offstage and reported. What would a critic like Sarcey say is missing?",
+      "choices": [
+        "A spell",
+        "The super-objective",
+        "The obligatory scene (scène à faire)",
+        "A Verfremdungseffekt"
+      ],
+      "answer": 2,
+      "explain": "The scène à faire is the confrontation the play has led the audience to expect; skipping it feels like a cheat."
+    },
+    {
+      "q": "What usually powers the suspense of a Scribe-style well-made play?",
+      "choices": [
+        "Scenes that each stand alone, introduced by titles",
+        "A secret known to the audience but hidden from a key character, moving toward exposure",
+        "A refrain that returns with variations each time",
+        "Major events kept offstage while characters talk around them"
+      ],
+      "answer": 1,
+      "explain": "The withheld secret, and the swings of fortune that bring its exposure closer, are the engine of the form."
+    },
+    {
+      "q": "How did Ibsen's *A Doll's House* depart from the well-made formula?",
+      "choices": [
+        "After the crisis passes, it replaces the tidy unravelling with a serious discussion and an unresolved departure",
+        "It split the audience among four rooms",
+        "It removed the secret and the letter entirely",
+        "It told the story backward"
+      ],
+      "answer": 0,
+      "explain": "Ibsen kept the machinery (secret, blackmail, letter) and then turned the ending into discussion, as Shaw pointed out."
+    },
+    {
+      "q": "Shaw's word \"Sardoodledom\" mocked which quality?",
+      "choices": [
+        "Actors who refuse to identify with their roles",
+        "Plays without any plot",
+        "Excessive use of offstage events",
+        "Ingenious, clockwork plotting with nothing to say about life"
+      ],
+      "answer": 3,
+      "explain": "Shaw attacked Sardou's mechanical cleverness, which he thought empty compared with Ibsen's drama of ideas."
+    },
+    {
+      "q": "According to Shaw, Ibsen's new structure ran exposition, situation and what?",
+      "choices": [
+        "Recognition",
+        "Catastrophe",
+        "Discussion",
+        "Transformation"
+      ],
+      "answer": 2,
+      "explain": "Shaw argued the old pattern of exposition, situation, unravelling became exposition, situation, discussion."
+    },
+    {
+      "q": "Where do the well-known \"rules\" of the well-made play come from?",
+      "choices": [
+        "The Moscow Art Theatre's rehearsal notes",
+        "Later critics, such as Stephen Stanton, reconstructing the pattern of his plays",
+        "Scribe's own published manual",
+        "Aristotle's Poetics, ch. 7"
+      ],
+      "answer": 1,
+      "explain": "Scribe didn't write a theory; critics described the recurring features afterward."
+    },
+    {
+      "q": "A thriller plants a key in act one that unlocks the climax. Which tradition is this most directly inherited from?",
+      "choices": [
+        "The well-made play's objects that carry the plot",
+        "Brecht's epic theatre",
+        "Jazz repetition and revision",
+        "Ovidian transformation"
+      ],
+      "answer": 0,
+      "explain": "Scribe and Sardou built plots around letters, fans and other planted objects, the ancestors of plant-and-payoff."
+    }
+  ],
+  "ideas": [
+    "A play should be driven by a secret the audience shares, moving steadily toward the scene where it is exposed.",
+    "Once a play has promised a confrontation, it must deliver it on stage, or the audience feels cheated.",
+    "Every act should repeat the whole play's pattern in miniature, rising to its own curtain hook."
+  ]
+}

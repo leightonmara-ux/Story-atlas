@@ -1,11 +1,11 @@
 // Offline support. Serves from cache right away, then refreshes the cache in the background,
 // so new content shows up on the next launch. Bump VERSION when the app shell changes.
-const VERSION = 'v2';
+const VERSION = 'v3';
 const CACHE = 'story-atlas-' + VERSION;
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'icon.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png',
-  'content/curriculum.json', 'content/concordance.json', 'content/sequences.json',
+  'content/curriculum.json', 'content/concordance.json', 'content/sequences.json', 'content/diagrams.json',
 ];
 
 self.addEventListener('install', event => {

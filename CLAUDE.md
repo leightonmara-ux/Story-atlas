@@ -4,6 +4,7 @@
 - Static site in `site/`, no build step, deployed to GitHub Pages by `.github/workflows/pages.yml`.
 - Lessons: follow the existing structure (Who and when, The big ideas, Use it with stage/screen/journalism, The pushback, Read next, Check yourself) and set `"ready": true` plus a one-sentence `summary` in `curriculum.json`.
 - Accuracy matters: explain ideas in your own words, keep quotes short and only use ones you're sure of, and attribute them. Don't invent page numbers or quotations.
-- When a new framework's lesson is written, add it to `content/concordance.json`.
+- Every lesson has a quiz in `content/quiz/<id>.json` (6–8 questions, exactly 4 choices, plus "ideas" for the Whose idea game).
+- When a new framework's lesson is written, add it to `content/concordance.json`, and to `content/sequences.json` if its stages have a fixed order.
 - Bump `VERSION` in `site/sw.js` whenever `app.js`, `style.css` or `index.html` change.
 - Check layout at phone width (no horizontal page scroll) in light and dark mode.

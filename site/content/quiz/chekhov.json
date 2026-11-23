@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer's big event, a suicide, takes place offstage; the audience hears a shot and watches people at a card table react. Which approach is this?",
+      "choices": [
+        "Stasis and intrusion",
+        "Rep & Rev",
+        "The obligatory scene",
+        "Indirect action"
+      ],
+      "answer": 3,
+      "explain": "Chekhov places decisive events offstage or between acts and shows the people living around them."
+    },
+    {
+      "q": "Which statement about Chekhov's \"gun on the wall\" is most accurate?",
+      "choices": [
+        "It was a rule about twist endings",
+        "Stanislavski invented it",
+        "It survives in several versions, from an 1889 letter and friends' recollections",
+        "He wrote it once, in exactly the familiar words, in a manifesto"
+      ],
+      "answer": 2,
+      "explain": "The 1889 letter and Gurlyand's later reminiscence give different wordings; the point is economy, not twists."
+    },
+    {
+      "q": "Someone says \"nothing happens in Chekhov.\" What's the best reply?",
+      "choices": [
+        "True: his plays have no events",
+        "Plenty happens (duels, suicides, an auction), but the events are placed offstage or reported",
+        "Only comic events happen",
+        "Events happen, but only in the final act"
+      ],
+      "answer": 1,
+      "explain": "The drama lies in how people respond to events that occur out of view."
+    },
+    {
+      "q": "Two characters chat about the weather while their marriage is ending. What is the scene's real action?",
+      "choices": [
+        "The subtext: what each is trying to do beneath the words",
+        "The dénouement",
+        "The weather report",
+        "The exposition"
+      ],
+      "answer": 0,
+      "explain": "Chekhov's characters rarely say what they mean; the action lives under the dialogue."
+    },
+    {
+      "q": "Why did Chekhov object to some of Stanislavski's productions?",
+      "choices": [
+        "They were too short",
+        "They cut the offstage gunshots",
+        "They used projected scene titles",
+        "He saw plays like The Cherry Orchard as comedies and found the productions too slow and tearful"
+      ],
+      "answer": 3,
+      "explain": "He subtitled The Seagull and The Cherry Orchard \"a comedy\"."
+    },
+    {
+      "q": "Which simple frame shapes several of Chekhov's plays?",
+      "choices": [
+        "Stasis, intrusion, new stasis through a domino chain of causes",
+        "Twelve self-contained episodes with titles",
+        "An arrival that disturbs a household and a departure that leaves it only a little changed",
+        "A secret building to an obligatory scene"
+      ],
+      "answer": 2,
+      "explain": "In Uncle Vanya, the professor and his wife arrive and leave, and Vanya and Sonya go back to the accounts."
+    },
+    {
+      "q": "Chekhov wrote that a writer should be which of these toward his characters?",
+      "choices": [
+        "Their advocate",
+        "An impartial witness",
+        "Their teacher",
+        "Their judge"
+      ],
+      "answer": 1,
+      "explain": "In an 1888 letter to Suvorin, he argued for being a witness rather than a judge."
+    }
+  ],
+  "ideas": [
+    "The decisive events can happen offstage while we watch people pour tea around them.",
+    "Don't put a loaded gun on stage if no one is going to fire it.",
+    "A writer should be an impartial witness to his characters, not their judge.",
+    "A play can begin with an arrival and end with a departure, leaving life to resume almost as before."
+  ]
+}

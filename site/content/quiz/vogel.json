@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A writer's play about a recurring family pattern keeps failing as a cause-and-effect arc. Which teacher would most directly suggest trying a repetitive or circular form instead?",
+      "choices": [
+        "Ball",
+        "Vogel",
+        "Scribe",
+        "Stanislavski"
+      ],
+      "answer": 1,
+      "explain": "Vogel teaches several plot forms beyond the Aristotelian arc, including circular, backward and repetitive."
+    },
+    {
+      "q": "Which pairing of plot form and example matches Vogel's teaching as Ruhl reports it?",
+      "choices": [
+        "Backward: Betrayal",
+        "Circular: Hamlet",
+        "Linear: Waiting for Godot",
+        "Repetitive: A Doll's House"
+      ],
+      "answer": 0,
+      "explain": "Pinter's Betrayal runs in reverse; La Ronde is circular; Godot is repetitive."
+    },
+    {
+      "q": "What does Vogel mean by saying form and content can't be separated?",
+      "choices": [
+        "Content must come before form",
+        "Plays should have no form",
+        "All plays share one form",
+        "The structure is part of the meaning, not a neutral container"
+      ],
+      "answer": 3,
+      "explain": "A memory play might be built like memory; a play about recurrence might repeat."
+    },
+    {
+      "q": "How does How I Learned to Drive's structure do its work?",
+      "choices": [
+        "It's split across four rooms",
+        "It's strictly chronological",
+        "Scenes jump between ages and the earliest, most painful memory is held back until near the end",
+        "Each scene is introduced by songs"
+      ],
+      "answer": 2,
+      "explain": "Time works backwards: the late revelation changes how the audience reads what came before."
+    },
+    {
+      "q": "Vogel draws on Shklovsky's idea of making the familiar strange. What is it called?",
+      "choices": [
+        "The magic if",
+        "Defamiliarization (ostranenie)",
+        "Rep & Rev",
+        "Catharsis"
+      ],
+      "answer": 1,
+      "explain": "Compare Brecht's Verfremdungseffekt; Vogel credits Shklovsky."
+    },
+    {
+      "q": "What is a bake-off?",
+      "choices": [
+        "A timed exercise, often 48 hours, to write a play including assigned ingredients",
+        "A visualization exercise",
+        "A rehearsal technique for finding objectives",
+        "Reading a play backward"
+      ],
+      "answer": 0,
+      "explain": "The constraints push writers past habit."
+    },
+    {
+      "q": "A student finds her play only makes sense once you've seen the ending. Which Vogel phrase fits?",
+      "choices": [
+        "Every scene must turn",
+        "Plot is the soul of tragedy",
+        "Each scene for itself",
+        "Time works backwards in the theatre"
+      ],
+      "answer": 3,
+      "explain": "The ending rewrites what came before."
+    }
+  ],
+  "ideas": [
+    "The Aristotelian arc is just one plot form among several: circular, backward and repetitive plays work differently.",
+    "Time works backwards in the theatre: the ending rewrites everything before it.",
+    "Give writers 48 hours and a list of odd ingredients, and they'll find structures they'd never plan."
+  ]
+}

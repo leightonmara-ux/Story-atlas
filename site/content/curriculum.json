@@ -19,14 +19,62 @@
           "summary": "The first surviving theory of story, and still the one everyone argues with: plot is the soul of drama, and events must follow from each other, not just after each other.",
           "ready": true
         },
-        { "id": "poe", "title": "Edgar Allan Poe", "subtitle": "The Philosophy of Composition, 1846" },
-        { "id": "freytag", "title": "Gustav Freytag", "subtitle": "The pyramid, 1863" },
-        { "id": "forster", "title": "E. M. Forster", "subtitle": "Aspects of the Novel, 1927" },
-        { "id": "egri", "title": "Lajos Egri", "subtitle": "The Art of Dramatic Writing, 1946" },
-        { "id": "propp", "title": "Vladimir Propp", "subtitle": "Morphology of the Folktale, 1928" },
-        { "id": "campbell-vogler", "title": "Joseph Campbell & Christopher Vogler", "subtitle": "The hero's journey, 1949 and 1992" },
-        { "id": "narrative-order", "title": "Story vs. telling", "subtitle": "Shklovsky, Genette and Chatman on the order of events" },
-        { "id": "burroway", "title": "Janet Burroway", "subtitle": "Writing Fiction, 1982" },
+        {
+          "id": "poe",
+          "title": "Edgar Allan Poe",
+          "subtitle": "The Philosophy of Composition, 1846",
+          "summary": "Decide the ending and the single effect you want first, then choose every incident, word and length to produce it, ideally in a piece read at one sitting.",
+          "ready": true
+        },
+        {
+          "id": "freytag",
+          "title": "Gustav Freytag",
+          "subtitle": "The pyramid, 1863",
+          "summary": "A five-act tragedy rises through an exciting force to a climax at its center, then falls through the tragic force and a last flicker of suspense to the catastrophe.",
+          "ready": true
+        },
+        {
+          "id": "forster",
+          "title": "E. M. Forster",
+          "subtitle": "Aspects of the Novel, 1927",
+          "summary": "Story asks \"and then?\", plot asks \"why?\"; and characters are flat, built round one quality, or round, able to surprise us convincingly.",
+          "ready": true
+        },
+        {
+          "id": "egri",
+          "title": "Lajos Egri",
+          "subtitle": "The Art of Dramatic Writing, 1946",
+          "summary": "Start from a premise and from fully dimensioned characters, and let conflict rise step by step between opponents who can't walk away from each other.",
+          "ready": true
+        },
+        {
+          "id": "propp",
+          "title": "Vladimir Propp",
+          "subtitle": "Morphology of the Folktale, 1928",
+          "summary": "Hundreds of Russian wonder tales are built from the same 31 acts, or functions, always in the same order, shared among seven roles.",
+          "ready": true
+        },
+        {
+          "id": "campbell-vogler",
+          "title": "Joseph Campbell & Christopher Vogler",
+          "subtitle": "The hero's journey, 1949 and 1992",
+          "summary": "Campbell found one pattern of departure, initiation and return beneath the world's hero myths; Vogler turned it into twelve stages and a set of character masks for screenwriters.",
+          "ready": true
+        },
+        {
+          "id": "narrative-order",
+          "title": "Story vs. telling",
+          "subtitle": "Shklovsky, Genette and Chatman on the order of events",
+          "summary": "Every story exists twice, as events in the order they happened and as a telling with its own order, speed and point of view, and much of the craft lives in the gap.",
+          "ready": true
+        },
+        {
+          "id": "burroway",
+          "title": "Janet Burroway",
+          "subtitle": "Writing Fiction, 1982",
+          "summary": "Only trouble is interesting: a story moves through conflict and crisis to a changed situation, told through significant detail and with its key moments in scene.",
+          "ready": true
+        },
         {
           "id": "three-media",
           "title": "Same skeleton, three media",
@@ -41,7 +89,13 @@
       "title": "Screen",
       "blurb": "Film and television, where structure is most codified, partly because the industry buys it that way.",
       "lessons": [
-        { "id": "field", "title": "Syd Field", "subtitle": "Screenplay, 1979" },
+        {
+          "id": "field",
+          "title": "Syd Field",
+          "subtitle": "Screenplay, 1979",
+          "summary": "A feature film is three acts, setup, confrontation and resolution, in roughly 30, 60 and 30 pages, joined by plot points that spin the story in a new direction.",
+          "ready": true
+        },
         {
           "id": "mckee",
           "title": "Robert McKee",
@@ -49,16 +103,76 @@
           "summary": "Every scene must turn a value from positive to negative or back, and the engine of every turn is the gap between what a character expects and what the world does.",
           "ready": true
         },
-        { "id": "truby", "title": "John Truby", "subtitle": "The Anatomy of Story, 2007" },
-        { "id": "snyder", "title": "Blake Snyder", "subtitle": "Save the Cat!, 2005" },
-        { "id": "harmon", "title": "Dan Harmon", "subtitle": "The story circle" },
-        { "id": "sequence", "title": "Frank Daniel & Paul Gulino", "subtitle": "The sequence approach" },
-        { "id": "thompson", "title": "Kristin Thompson", "subtitle": "Storytelling in the New Hollywood, 1999" },
-        { "id": "swain", "title": "Dwight Swain", "subtitle": "Scene and sequel, 1965" },
-        { "id": "yorke", "title": "John Yorke", "subtitle": "Into the Woods, 2013" },
-        { "id": "mamet", "title": "David Mamet", "subtitle": "On Directing Film, 1991" },
-        { "id": "pixar", "title": "Pixar's story rules", "subtitle": "Emma Coats, 2011" },
-        { "id": "tv", "title": "Television structure", "subtitle": "Acts, storylines and seasons" }
+        {
+          "id": "truby",
+          "title": "John Truby",
+          "subtitle": "The Anatomy of Story, 2007",
+          "summary": "Structure should grow organically from a hero's change, from weakness and need to self-revelation, with an opponent who fights for the same goal and a moral argument made through action.",
+          "ready": true
+        },
+        {
+          "id": "snyder",
+          "title": "Blake Snyder",
+          "subtitle": "Save the Cat!, 2005",
+          "summary": "Know what your movie is in a logline, give the audience a reason to root for the hero, and hit fifteen beats from Opening Image to its mirror, the Final Image.",
+          "ready": true
+        },
+        {
+          "id": "harmon",
+          "title": "Dan Harmon",
+          "subtitle": "The story circle",
+          "summary": "Every story is a circle: a character leaves comfort to chase a want, gets it in an unfamiliar world, pays a price, and comes home changed, at any scale from a scene to a season.",
+          "ready": true
+        },
+        {
+          "id": "sequence",
+          "title": "Frank Daniel & Paul Gulino",
+          "subtitle": "The sequence approach",
+          "summary": "Break a feature into about eight 10–15 minute sequences, each a little film with its own goal and tension, and the long second act becomes manageable.",
+          "ready": true
+        },
+        {
+          "id": "thompson",
+          "title": "Kristin Thompson",
+          "subtitle": "Storytelling in the New Hollywood, 1999",
+          "summary": "Time real Hollywood films and you find not three acts but four parts of roughly equal length, divided by turning points where the protagonist's goals change.",
+          "ready": true
+        },
+        {
+          "id": "swain",
+          "title": "Dwight Swain",
+          "subtitle": "Scene and sequel, 1965",
+          "summary": "Stories alternate scenes (goal, conflict, disaster) with sequels (reaction, dilemma, decision), and at the smallest scale every reaction should follow its cause in the order feeling, action, speech.",
+          "ready": true
+        },
+        {
+          "id": "yorke",
+          "title": "John Yorke",
+          "subtitle": "Into the Woods, 2013",
+          "summary": "Every story is a journey into the woods and back, and its five-act shape, hinged on a midpoint, repeats fractally in every act and scene to dramatize a character's change.",
+          "ready": true
+        },
+        {
+          "id": "mamet",
+          "title": "David Mamet",
+          "subtitle": "On Directing Film, 1991",
+          "summary": "Tell the story in the cut, cut the exposition, and ask of every scene: who wants what, what happens if they don't get it, and why now?",
+          "ready": true
+        },
+        {
+          "id": "pixar",
+          "title": "Pixar's story rules",
+          "subtitle": "Emma Coats, 2011",
+          "summary": "A story artist's tweeted notes and an improv teacher's story spine boil story down to cause and effect: one day, because of that, because of that, until finally.",
+          "ready": true
+        },
+        {
+          "id": "tv",
+          "title": "Television structure",
+          "subtitle": "Acts, storylines and seasons",
+          "summary": "Television structure grew from advertising and the need for stories that never end: act-outs before the breaks, interwoven A, B and C stories, and an engine that generates episodes for years.",
+          "ready": true
+        }
       ]
     },
     {
@@ -66,15 +180,69 @@
       "title": "Stage",
       "blurb": "Live bodies in one shared space, where words are the action and the audience decides where to look.",
       "lessons": [
-        { "id": "well-made-play", "title": "The well-made play", "subtitle": "Scribe, Sardou and Ibsen" },
-        { "id": "chekhov", "title": "Anton Chekhov", "subtitle": "Indirect action" },
-        { "id": "stanislavski", "title": "Konstantin Stanislavski", "subtitle": "Objectives and the through-line" },
-        { "id": "brecht", "title": "Bertolt Brecht", "subtitle": "Epic theatre, against Aristotle" },
-        { "id": "ball", "title": "David Ball", "subtitle": "Backwards and Forwards, 1983" },
-        { "id": "fornes", "title": "María Irene Fornés", "subtitle": "Playwright and teacher" },
-        { "id": "vogel", "title": "Paula Vogel", "subtitle": "Structure beyond the arc" },
-        { "id": "parks", "title": "Suzan-Lori Parks", "subtitle": "Elements of Style, 1995" },
-        { "id": "ruhl", "title": "Sarah Ruhl", "subtitle": "100 Essays I Don't Have Time to Write, 2014" }
+        {
+          "id": "well-made-play",
+          "title": "The well-made play",
+          "subtitle": "Scribe, Sardou and Ibsen",
+          "summary": "Scribe and Sardou built plays as suspense machines around a secret and an obligatory scene; Ibsen kept the machinery and turned the ending into discussion, and Shaw mocked the rest as \"Sardoodledom\".",
+          "ready": true
+        },
+        {
+          "id": "chekhov",
+          "title": "Anton Chekhov",
+          "subtitle": "Indirect action",
+          "summary": "Put the big events offstage and show people living around them: in Chekhov the drama is in the subtext, and the famous gun is about economy, not twists.",
+          "ready": true
+        },
+        {
+          "id": "stanislavski",
+          "title": "Konstantin Stanislavski",
+          "subtitle": "Objectives and the through-line",
+          "summary": "Every character is always trying to do something to someone: tasks build into a through-line toward a super-objective, and a playwright who writes that way gives actors something to play.",
+          "ready": true
+        },
+        {
+          "id": "brecht",
+          "title": "Bertolt Brecht",
+          "subtitle": "Epic theatre, against Aristotle",
+          "summary": "Instead of drawing the audience into a hero's fate, epic theatre makes the familiar strange, with episodes, songs and titles, so the audience asks why things happen and whether they could change.",
+          "ready": true
+        },
+        {
+          "id": "ball",
+          "title": "David Ball",
+          "subtitle": "Backwards and Forwards, 1983",
+          "summary": "A play is a chain of triggers and heaps from stasis to new stasis; read it backwards to check every link, and forwards to feel what keeps an audience hungry for next.",
+          "ready": true
+        },
+        {
+          "id": "fornes",
+          "title": "María Irene Fornés",
+          "subtitle": "Playwright and teacher",
+          "summary": "A playwright and legendary teacher who built plays from images and characters rather than outlines, and taught writers to begin with the body and the eyes closed.",
+          "ready": true
+        },
+        {
+          "id": "vogel",
+          "title": "Paula Vogel",
+          "subtitle": "Structure beyond the arc",
+          "summary": "The Aristotelian arc is one plot form among several: plays can circle, run backward or repeat, and the form you choose is part of what the play means.",
+          "ready": true
+        },
+        {
+          "id": "parks",
+          "title": "Suzan-Lori Parks",
+          "subtitle": "Elements of Style, 1995",
+          "summary": "Like a jazz phrase, a line can return again and again, revised each time: Rep & Rev builds meaning by accumulation, scored with rests and spells.",
+          "ready": true
+        },
+        {
+          "id": "ruhl",
+          "title": "Sarah Ruhl",
+          "subtitle": "100 Essays I Don't Have Time to Write, 2014",
+          "summary": "The character arc is one option that has become compulsory; plays can instead take Ovidian pleasure in sudden transformation rather than moral improvement.",
+          "ready": true
+        }
       ]
     },
     {
@@ -82,8 +250,20 @@
       "title": "Journalism",
       "blurb": "Stories made of facts. You can't invent a better ending, so structure becomes the art of finding and ordering.",
       "lessons": [
-        { "id": "inverted-pyramid", "title": "The inverted pyramid", "subtitle": "News, most important first" },
-        { "id": "wsj-formula", "title": "The feature formula", "subtitle": "Anecdote, nut graf, kicker" },
+        {
+          "id": "inverted-pyramid",
+          "title": "The inverted pyramid",
+          "subtitle": "News, most important first",
+          "summary": "Hard news orders facts by importance, not time or tension: the most important first, so a reader can stop anywhere and an editor can cut from the bottom.",
+          "ready": true
+        },
+        {
+          "id": "wsj-formula",
+          "title": "The feature formula",
+          "subtitle": "Anecdote, nut graf, kicker",
+          "summary": "Open with one person in a vivid moment, pull back in a nut graf to say why it matters, back it up, and end by circling back to where you began.",
+          "ready": true
+        },
         {
           "id": "franklin",
           "title": "Jon Franklin",
@@ -91,12 +271,48 @@
           "summary": "A true story is a complication and its resolution. Find the resolution first, then outline the whole piece in a few short, active statements.",
           "ready": true
         },
-        { "id": "hart", "title": "Jack Hart", "subtitle": "Storycraft, 2011" },
-        { "id": "new-journalism", "title": "Tom Wolfe & the New Journalism", "subtitle": "Fiction's tools for fact, 1973" },
-        { "id": "mcphee", "title": "John McPhee", "subtitle": "Draft No. 4, 2017" },
-        { "id": "gornick", "title": "Vivian Gornick", "subtitle": "The Situation and the Story, 2001" },
-        { "id": "glass", "title": "Ira Glass", "subtitle": "Anecdote and reflection" },
-        { "id": "ethics", "title": "Janet Malcolm & John Hersey", "subtitle": "The ethics of shaping fact" }
+        {
+          "id": "hart",
+          "title": "Jack Hart",
+          "subtitle": "Storycraft, 2011",
+          "summary": "Every story is a narrative, but not every narrative is a story: choose the form your material supports, from a full arc with a point of insight to an explanatory narrative with no resolution at all.",
+          "ready": true
+        },
+        {
+          "id": "new-journalism",
+          "title": "Tom Wolfe & the New Journalism",
+          "subtitle": "Fiction's tools for fact, 1973",
+          "summary": "Reporters can use the novelist's tools, scene, dialogue, point of view and status detail, but only if saturation reporting stands behind every one.",
+          "ready": true
+        },
+        {
+          "id": "mcphee",
+          "title": "John McPhee",
+          "subtitle": "Draft No. 4, 2017",
+          "summary": "Find the structure before you write the first sentence, and find it in the material rather than imposing a template on it.",
+          "ready": true
+        },
+        {
+          "id": "gornick",
+          "title": "Vivian Gornick",
+          "subtitle": "The Situation and the Story, 2001",
+          "summary": "Every piece has a situation, what happened, and a story, what the writer has come to understand, told by a narrator built to be trusted.",
+          "ready": true
+        },
+        {
+          "id": "glass",
+          "title": "Ira Glass",
+          "subtitle": "Anecdote and reflection",
+          "summary": "Alternate an anecdote, a sequence of actions that pulls the listener forward by raising questions, with a moment of reflection that says why it matters.",
+          "ready": true
+        },
+        {
+          "id": "ethics",
+          "title": "Janet Malcolm & John Hersey",
+          "subtitle": "The ethics of shaping fact",
+          "summary": "Shaping facts into story has limits: the writer must not invent, and must reckon with what the story does to the reader's trust and to the people in it.",
+          "ready": true
+        }
       ]
     },
     {
@@ -104,14 +320,62 @@
       "title": "Counterpoints",
       "blurb": "Thinkers who question the conflict-driven arc. Know the rules well enough to choose when to break them.",
       "lessons": [
-        { "id": "kishotenketsu", "title": "Kishōtenketsu", "subtitle": "Four parts, no conflict required" },
-        { "id": "natyashastra", "title": "The Nāṭyaśāstra", "subtitle": "Bharata on plot and rasa" },
-        { "id": "zeami", "title": "Zeami", "subtitle": "Jo-ha-kyū and the rhythm of Noh" },
-        { "id": "le-guin", "title": "Ursula K. Le Guin", "subtitle": "The Carrier Bag Theory of Fiction, 1986" },
-        { "id": "baxter", "title": "Charles Baxter", "subtitle": "Burning Down the House, 1997" },
-        { "id": "alison", "title": "Jane Alison", "subtitle": "Meander, Spiral, Explode, 2019" },
-        { "id": "saunders", "title": "George Saunders", "subtitle": "A Swim in a Pond in the Rain, 2021" },
-        { "id": "salesses", "title": "Matthew Salesses", "subtitle": "Craft in the Real World, 2021" }
+        {
+          "id": "kishotenketsu",
+          "title": "Kishōtenketsu",
+          "subtitle": "Four parts, no conflict required",
+          "summary": "A four-part pattern from Chinese poetry, Japanese and Korean writing and the four-panel comic: introduce, develop, twist, reconcile, so the turn can be a new perspective rather than a clash.",
+          "ready": true
+        },
+        {
+          "id": "natyashastra",
+          "title": "The Nāṭyaśāstra",
+          "subtitle": "Bharata on plot and rasa",
+          "summary": "India's founding treatise on drama centers on the audience's experience: rasa, the savored taste of emotion, and a plot that moves through five stages toward the hero's goal.",
+          "ready": true
+        },
+        {
+          "id": "zeami",
+          "title": "Zeami",
+          "subtitle": "Jo-ha-kyū and the rhythm of Noh",
+          "summary": "Noh's great theorist taught that everything on stage, from a gesture to a day of plays, should open slowly, deepen, and close swiftly: jo-ha-kyū.",
+          "ready": true
+        },
+        {
+          "id": "le-guin",
+          "title": "Ursula K. Le Guin",
+          "subtitle": "The Carrier Bag Theory of Fiction, 1986",
+          "summary": "Fiction needn't be a spear aimed at a climax; it can be a carrier bag that holds people, events and meanings together, with conflict as only one thing inside.",
+          "ready": true
+        },
+        {
+          "id": "baxter",
+          "title": "Charles Baxter",
+          "subtitle": "Burning Down the House, 1997",
+          "summary": "When stories, like public life, say 'mistakes were made', nobody acts; fiction comes alive when characters make choices, get them wrong and own them.",
+          "ready": true
+        },
+        {
+          "id": "alison",
+          "title": "Jane Alison",
+          "subtitle": "Meander, Spiral, Explode, 2019",
+          "summary": "The arc is one shape among many: stories can ripple, meander, spiral, radiate or explode, and pattern can pull a reader as strongly as suspense.",
+          "ready": true
+        },
+        {
+          "id": "saunders",
+          "title": "George Saunders",
+          "subtitle": "A Swim in a Pond in the Rain, 2021",
+          "summary": "Structure is what a story does to a reader page by page: each section should escalate, and patterns earn their meaning when they bend or break.",
+          "ready": true
+        },
+        {
+          "id": "salesses",
+          "title": "Matthew Salesses",
+          "subtitle": "Craft in the Real World, 2021",
+          "summary": "Craft isn't a set of universal rules but a set of cultural expectations, so writers should name their audience and workshops should make their assumptions explicit.",
+          "ready": true
+        }
       ]
     }
   ]

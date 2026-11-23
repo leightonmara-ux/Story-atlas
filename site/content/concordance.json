@@ -1,13 +1,41 @@
 {
   "intro": "The same moments appear in almost every theory, under different names. The alignment is approximate: each thinker slices the story a little differently, and some don't follow the arc at all.",
   "moments": [
-    { "id": "setup", "title": "The world before", "gloss": "Life before the story starts. Who these people are and what normal looks like." },
-    { "id": "disruption", "title": "Disruption", "gloss": "The event that knocks life off balance and gives someone something to want." },
-    { "id": "rising", "title": "Rising complications", "gloss": "Pursuit of the goal meets resistance, and each obstacle costs more than the last." },
-    { "id": "midpoint", "title": "Midpoint turn", "gloss": "A shift in the middle: a false victory, a false defeat, or a change of direction." },
-    { "id": "crisis", "title": "Lowest point", "gloss": "Everything seems lost, and the hardest choice has to be made." },
-    { "id": "climax", "title": "Climax", "gloss": "The decisive confrontation or action. The story's question is answered." },
-    { "id": "resolution", "title": "New normal", "gloss": "The aftermath. What has changed, and what it means." }
+    {
+      "id": "setup",
+      "title": "The world before",
+      "gloss": "Life before the story starts. Who these people are and what normal looks like."
+    },
+    {
+      "id": "disruption",
+      "title": "Disruption",
+      "gloss": "The event that knocks life off balance and gives someone something to want."
+    },
+    {
+      "id": "rising",
+      "title": "Rising complications",
+      "gloss": "Pursuit of the goal meets resistance, and each obstacle costs more than the last."
+    },
+    {
+      "id": "midpoint",
+      "title": "Midpoint turn",
+      "gloss": "A shift in the middle: a false victory, a false defeat, or a change of direction."
+    },
+    {
+      "id": "crisis",
+      "title": "Lowest point",
+      "gloss": "Everything seems lost, and the hardest choice has to be made."
+    },
+    {
+      "id": "climax",
+      "title": "Climax",
+      "gloss": "The decisive confrontation or action. The story's question is answered."
+    },
+    {
+      "id": "resolution",
+      "title": "New normal",
+      "gloss": "The aftermath. What has changed, and what it means."
+    }
   ],
   "frameworks": [
     {
@@ -16,11 +44,26 @@
       "medium": "Stage",
       "lesson": "aristotle",
       "cells": {
-        "setup": { "t": "Beginning", "g": "What needs nothing before it to make sense." },
-        "disruption": { "t": "Complication (desis) begins", "g": "The knot starts to tie." },
-        "rising": { "t": "Complication (desis)", "g": "Everything from the start up to the turn in fortune." },
-        "climax": { "t": "Reversal + recognition", "g": "Peripeteia and anagnorisis: fortune turns as ignorance becomes knowledge. Best when they coincide, as in Oedipus." },
-        "resolution": { "t": "Unraveling (lysis)", "g": "From the turn to the end. It should come from the plot itself, not a deus ex machina." }
+        "setup": {
+          "t": "Beginning",
+          "g": "What needs nothing before it to make sense."
+        },
+        "disruption": {
+          "t": "Complication (desis) begins",
+          "g": "The knot starts to tie."
+        },
+        "rising": {
+          "t": "Complication (desis)",
+          "g": "Everything from the start up to the turn in fortune."
+        },
+        "climax": {
+          "t": "Reversal + recognition",
+          "g": "Peripeteia and anagnorisis: fortune turns as ignorance becomes knowledge. Best when they coincide, as in Oedipus."
+        },
+        "resolution": {
+          "t": "Unraveling (lysis)",
+          "g": "From the turn to the end. It should come from the plot itself, not a deus ex machina."
+        }
       }
     },
     {
@@ -30,12 +73,30 @@
       "lesson": "freytag",
       "note": "Freytag's 'climax' sits in the middle of the play, not near the end. It's the hero's high point, after which fortune falls.",
       "cells": {
-        "setup": { "t": "Introduction", "g": "Exposition: setting, people, situation." },
-        "disruption": { "t": "Exciting force", "g": "The moment that sets the action going." },
-        "rising": { "t": "Rise", "g": "Complications build toward the high point." },
-        "midpoint": { "t": "Climax", "g": "The peak of the pyramid, at the center of a five-act play." },
-        "crisis": { "t": "Fall · Force of final suspense", "g": "The downward turn, with one last moment of hope that escape is possible." },
-        "climax": { "t": "Catastrophe", "g": "In tragedy, the hero's downfall. It also ends the play." }
+        "setup": {
+          "t": "Introduction",
+          "g": "Exposition: setting, people, situation."
+        },
+        "disruption": {
+          "t": "Exciting force",
+          "g": "The moment that sets the action going."
+        },
+        "rising": {
+          "t": "Rise",
+          "g": "Complications build toward the high point."
+        },
+        "midpoint": {
+          "t": "Climax",
+          "g": "The peak of the pyramid, at the center of a five-act play."
+        },
+        "crisis": {
+          "t": "Fall · Force of final suspense",
+          "g": "The downward turn, with one last moment of hope that escape is possible."
+        },
+        "climax": {
+          "t": "Catastrophe",
+          "g": "In tragedy, the hero's downfall. It also ends the play."
+        }
       }
     },
     {
@@ -44,13 +105,33 @@
       "medium": "Screen",
       "lesson": "campbell-vogler",
       "cells": {
-        "setup": { "t": "Ordinary World" },
-        "disruption": { "t": "Call to Adventure", "g": "Followed by Refusal of the Call and Meeting with the Mentor." },
-        "rising": { "t": "Crossing the Threshold · Tests, Allies, Enemies · Approach", "g": "Into the special world, learning its rules, nearing the inmost cave." },
-        "midpoint": { "t": "Ordeal · Reward", "g": "A central brush with death, and the prize it wins." },
-        "crisis": { "t": "The Road Back", "g": "Consequences pursue the hero; a recommitment to finishing the journey." },
-        "climax": { "t": "Resurrection", "g": "A final, most dangerous test where the hero proves what they've learned." },
-        "resolution": { "t": "Return with the Elixir", "g": "Home again, carrying something that changes the ordinary world." }
+        "setup": {
+          "t": "Ordinary World"
+        },
+        "disruption": {
+          "t": "Call to Adventure",
+          "g": "Followed by Refusal of the Call and Meeting with the Mentor."
+        },
+        "rising": {
+          "t": "Crossing the Threshold · Tests, Allies, Enemies · Approach",
+          "g": "Into the special world, learning its rules, nearing the inmost cave."
+        },
+        "midpoint": {
+          "t": "Ordeal · Reward",
+          "g": "A central brush with death, and the prize it wins."
+        },
+        "crisis": {
+          "t": "The Road Back",
+          "g": "Consequences pursue the hero; a recommitment to finishing the journey."
+        },
+        "climax": {
+          "t": "Resurrection",
+          "g": "A final, most dangerous test where the hero proves what they've learned."
+        },
+        "resolution": {
+          "t": "Return with the Elixir",
+          "g": "Home again, carrying something that changes the ordinary world."
+        }
       }
     },
     {
@@ -59,13 +140,32 @@
       "medium": "Screen",
       "lesson": "field",
       "cells": {
-        "setup": { "t": "Act I: Setup", "g": "Roughly the first quarter, pages 1–30 of a 120-page script." },
-        "disruption": { "t": "Inciting incident → Plot Point I", "g": "Plot Point I, around page 25–27, spins the story into Act II." },
-        "rising": { "t": "Act II: Confrontation", "g": "The long middle: obstacles to the dramatic need." },
-        "midpoint": { "t": "Midpoint", "g": "Added in his later books: a turn around page 60 that splits Act II." },
-        "crisis": { "t": "Plot Point II", "g": "Around page 85–90, spins the story into Act III." },
-        "climax": { "t": "Act III climax" },
-        "resolution": { "t": "Act III: Resolution" }
+        "setup": {
+          "t": "Act I: Setup",
+          "g": "Roughly the first quarter, pages 1–30 of a 120-page script."
+        },
+        "disruption": {
+          "t": "Inciting incident → Plot Point I",
+          "g": "Plot Point I, around page 25–27, spins the story into Act II."
+        },
+        "rising": {
+          "t": "Act II: Confrontation",
+          "g": "The long middle: obstacles to the dramatic need."
+        },
+        "midpoint": {
+          "t": "Midpoint",
+          "g": "Added in his later books: a turn around page 60 that splits Act II."
+        },
+        "crisis": {
+          "t": "Plot Point II",
+          "g": "Around page 85–90, spins the story into Act III."
+        },
+        "climax": {
+          "t": "Act III climax"
+        },
+        "resolution": {
+          "t": "Act III: Resolution"
+        }
       }
     },
     {
@@ -74,13 +174,33 @@
       "medium": "Screen",
       "lesson": "mckee",
       "cells": {
-        "setup": { "t": "Balance of forces", "g": "Life in relative balance before the story." },
-        "disruption": { "t": "Inciting incident", "g": "Radically upsets that balance and creates an object of desire." },
-        "rising": { "t": "Progressive complications", "g": "Widening gaps between expectation and result, to a point of no return." },
-        "midpoint": { "t": "Act climax", "g": "A major reversal. McKee counts acts by these, not by a fixed template." },
-        "crisis": { "t": "Crisis", "g": "A dilemma: irreconcilable goods or the lesser of two evils. Character is revealed in the choice." },
-        "climax": { "t": "Story climax", "g": "The action that results. Absolute, irreversible change." },
-        "resolution": { "t": "Resolution" }
+        "setup": {
+          "t": "Balance of forces",
+          "g": "Life in relative balance before the story."
+        },
+        "disruption": {
+          "t": "Inciting incident",
+          "g": "Radically upsets that balance and creates an object of desire."
+        },
+        "rising": {
+          "t": "Progressive complications",
+          "g": "Widening gaps between expectation and result, to a point of no return."
+        },
+        "midpoint": {
+          "t": "Act climax",
+          "g": "A major reversal. McKee counts acts by these, not by a fixed template."
+        },
+        "crisis": {
+          "t": "Crisis",
+          "g": "A dilemma: irreconcilable goods or the lesser of two evils. Character is revealed in the choice."
+        },
+        "climax": {
+          "t": "Story climax",
+          "g": "The action that results. Absolute, irreversible change."
+        },
+        "resolution": {
+          "t": "Resolution"
+        }
       }
     },
     {
@@ -89,13 +209,34 @@
       "medium": "Screen",
       "lesson": "snyder",
       "cells": {
-        "setup": { "t": "Opening Image · Theme Stated · Set-Up", "g": "Pages 1–10 of a 110-page script." },
-        "disruption": { "t": "Catalyst · Debate", "g": "Catalyst at page 12; the hero hesitates until page 25." },
-        "rising": { "t": "Break into Two · B Story · Fun and Games", "g": "Pages 25–55: 'the promise of the premise'." },
-        "midpoint": { "t": "Midpoint", "g": "Page 55: a false victory or false defeat, and the stakes go up." },
-        "crisis": { "t": "Bad Guys Close In · All Is Lost · Dark Night of the Soul", "g": "Pages 55–85, with a 'whiff of death' at All Is Lost." },
-        "climax": { "t": "Break into Three · Finale", "g": "Pages 85–110." },
-        "resolution": { "t": "Final Image", "g": "A mirror of the Opening Image, showing the change." }
+        "setup": {
+          "t": "Opening Image · Theme Stated · Set-Up",
+          "g": "Pages 1–10 of a 110-page script."
+        },
+        "disruption": {
+          "t": "Catalyst · Debate",
+          "g": "Catalyst at page 12; the hero hesitates until page 25."
+        },
+        "rising": {
+          "t": "Break into Two · B Story · Fun and Games",
+          "g": "Pages 25–55: 'the promise of the premise'."
+        },
+        "midpoint": {
+          "t": "Midpoint",
+          "g": "Page 55: a false victory or false defeat, and the stakes go up."
+        },
+        "crisis": {
+          "t": "Bad Guys Close In · All Is Lost · Dark Night of the Soul",
+          "g": "Pages 55–85, with a 'whiff of death' at All Is Lost."
+        },
+        "climax": {
+          "t": "Break into Three · Finale",
+          "g": "Pages 85–110."
+        },
+        "resolution": {
+          "t": "Final Image",
+          "g": "A mirror of the Opening Image, showing the change."
+        }
       }
     },
     {
@@ -104,13 +245,34 @@
       "medium": "Screen",
       "lesson": "harmon",
       "cells": {
-        "setup": { "t": "1. You", "g": "A character is in a zone of comfort…" },
-        "disruption": { "t": "2. Need", "g": "…but they want something." },
-        "rising": { "t": "3. Go · 4. Search", "g": "They enter an unfamiliar situation and adapt to it." },
-        "midpoint": { "t": "5. Find", "g": "They get what they wanted…" },
-        "crisis": { "t": "6. Take", "g": "…pay a heavy price for it…" },
-        "climax": { "t": "7. Return", "g": "…then return to their familiar situation…" },
-        "resolution": { "t": "8. Change", "g": "…having changed." }
+        "setup": {
+          "t": "1. You",
+          "g": "A character is in a zone of comfort…"
+        },
+        "disruption": {
+          "t": "2. Need",
+          "g": "…but they want something."
+        },
+        "rising": {
+          "t": "3. Go · 4. Search",
+          "g": "They enter an unfamiliar situation and adapt to it."
+        },
+        "midpoint": {
+          "t": "5. Find",
+          "g": "They get what they wanted…"
+        },
+        "crisis": {
+          "t": "6. Take",
+          "g": "…pay a heavy price for it…"
+        },
+        "climax": {
+          "t": "7. Return",
+          "g": "…then return to their familiar situation…"
+        },
+        "resolution": {
+          "t": "8. Change",
+          "g": "…having changed."
+        }
       }
     },
     {
@@ -120,10 +282,22 @@
       "lesson": "franklin",
       "note": "Franklin folds the climax and its aftermath into a single resolution.",
       "cells": {
-        "setup": { "t": "Sympathetic character", "g": "A real person the reader can follow." },
-        "disruption": { "t": "Complication", "g": "Something happens that complicates their life." },
-        "rising": { "t": "Developments", "g": "Often three, each a short active statement." },
-        "climax": { "t": "Resolution", "g": "The character's own action, often an insight, resolves the complication." }
+        "setup": {
+          "t": "Sympathetic character",
+          "g": "A real person the reader can follow."
+        },
+        "disruption": {
+          "t": "Complication",
+          "g": "Something happens that complicates their life."
+        },
+        "rising": {
+          "t": "Developments",
+          "g": "Often three, each a short active statement."
+        },
+        "climax": {
+          "t": "Resolution",
+          "g": "The character's own action, often an insight, resolves the complication."
+        }
       }
     },
     {
@@ -133,10 +307,21 @@
       "lesson": "kishotenketsu",
       "note": "Four parts, and no conflict required. The twist is a surprising new element or angle, not a confrontation.",
       "cells": {
-        "setup": { "t": "Ki: introduction" },
-        "rising": { "t": "Shō: development", "g": "The situation deepens, without opposition." },
-        "climax": { "t": "Ten: twist", "g": "Something unexpected, seemingly unrelated, enters." },
-        "resolution": { "t": "Ketsu: reconciliation", "g": "We see how the twist and what came before fit together." }
+        "setup": {
+          "t": "Ki: introduction"
+        },
+        "rising": {
+          "t": "Shō: development",
+          "g": "The situation deepens, without opposition."
+        },
+        "climax": {
+          "t": "Ten: twist",
+          "g": "Something unexpected, seemingly unrelated, enters."
+        },
+        "resolution": {
+          "t": "Ketsu: reconciliation",
+          "g": "We see how the twist and what came before fit together."
+        }
       }
     },
     {
@@ -146,6 +331,378 @@
       "lesson": "inverted-pyramid",
       "note": "Doesn't map onto the arc at all. Facts are ordered by importance, not time: who, what, when, where, why first, so a reader can stop anywhere and an editor can cut from the bottom.",
       "cells": {}
+    },
+    {
+      "lesson": "natyashastra",
+      "name": "The Nāṭyaśāstra",
+      "when": "c. 200 BCE–200 CE",
+      "medium": "Stage",
+      "note": "Five stages of the hero's action, each paired with a juncture of the plot. Built toward attaining a goal and a happy ending, not tragic catastrophe.",
+      "cells": {
+        "disruption": {
+          "t": "Ārambha · mukha",
+          "g": "Beginning: eagerness for the result. The seed (bīja) of the action is planted."
+        },
+        "rising": {
+          "t": "Prayatna · pratimukha",
+          "g": "Effort: striving toward the goal."
+        },
+        "midpoint": {
+          "t": "Prāptyāśā · garbha",
+          "g": "Possibility of attainment: success is in sight, obstacles remain."
+        },
+        "crisis": {
+          "t": "Niyatāpti · vimarśa",
+          "g": "A juncture of doubt and deliberation, after which success becomes certain."
+        },
+        "climax": {
+          "t": "Phalāgama",
+          "g": "Attainment of the result, the fruit of the action."
+        },
+        "resolution": {
+          "t": "Nirvahaṇa",
+          "g": "The conclusion: threads gathered, often closing with a benediction."
+        }
+      }
+    },
+    {
+      "lesson": "zeami",
+      "name": "Zeami's jo-ha-kyū",
+      "when": "c. 1400–1430",
+      "medium": "Stage",
+      "note": "A theory of tempo and intensity, not conflict. It applies at every scale, from a gesture to a day's program.",
+      "cells": {
+        "setup": {
+          "t": "Jo",
+          "g": "A slow, simple, calm opening that lets the audience settle."
+        },
+        "rising": {
+          "t": "Ha",
+          "g": "The longest part: the opening is broken open and things grow more complex and intense."
+        },
+        "climax": {
+          "t": "Kyū",
+          "g": "A rapid, concentrated close."
+        }
+      }
+    },
+    {
+      "lesson": "egri",
+      "name": "Lajos Egri",
+      "when": "1946",
+      "medium": "Stage",
+      "note": "Egri builds from a premise and from character; this is the shape his conflict takes once the characters are set going.",
+      "cells": {
+        "disruption": {
+          "t": "Point of attack",
+          "g": "Begin where something is at stake and a decision sets the conflict going."
+        },
+        "rising": {
+          "t": "Rising conflict",
+          "g": "Step-by-step transitions move characters from one pole toward its opposite."
+        },
+        "crisis": {
+          "t": "Crisis",
+          "g": "The conflict comes to a head between opponents bound by a unity of opposites."
+        },
+        "climax": {
+          "t": "Climax",
+          "g": "The outcome that proves the premise."
+        },
+        "resolution": {
+          "t": "Resolution",
+          "g": "The aftermath, with the characters changed."
+        }
+      }
+    },
+    {
+      "lesson": "propp",
+      "name": "Vladimir Propp",
+      "when": "1928",
+      "medium": "Folktale",
+      "note": "Drawn from Russian wonder tales. Not every tale has every function, and many have a second move, so the fit with the arc is loose.",
+      "cells": {
+        "setup": {
+          "t": "Initial situation",
+          "g": "Not a function: the family or the hero introduced. Then absentation, interdiction, violation."
+        },
+        "disruption": {
+          "t": "Villainy or lack",
+          "g": "Someone is harmed or something is missing, and the hero is sent out."
+        },
+        "rising": {
+          "t": "Departure · Donor · Magical agent",
+          "g": "The hero leaves home, is tested by a donor and receives a magical agent."
+        },
+        "midpoint": {
+          "t": "Struggle · Victory",
+          "g": "Hero and villain fight; the villain is defeated and the lack put right."
+        },
+        "crisis": {
+          "t": "Pursuit · False hero · Difficult task",
+          "g": "On the way home the hero is chased; an impostor claims the credit and a hard task is set."
+        },
+        "climax": {
+          "t": "Solution · Recognition · Exposure",
+          "g": "The task is done, the true hero recognized, the false hero unmasked."
+        },
+        "resolution": {
+          "t": "Punishment · Wedding",
+          "g": "The villain is punished; the hero marries and takes the throne."
+        }
+      }
+    },
+    {
+      "lesson": "hart",
+      "name": "Jack Hart",
+      "when": "2011",
+      "medium": "Journalism",
+      "note": "For story narratives only. Hart's explanatory narratives and vignettes don't need the full arc.",
+      "cells": {
+        "setup": {
+          "t": "Exposition",
+          "g": "Introduce the protagonist and their world."
+        },
+        "disruption": {
+          "t": "Complication",
+          "g": "The problem the protagonist must confront, as in Franklin."
+        },
+        "rising": {
+          "t": "Rising action",
+          "g": "A series of plot points, each turning the story in a new direction."
+        },
+        "crisis": {
+          "t": "Crisis · point of insight",
+          "g": "The struggle comes to a head; the protagonist sees the situation in a new way."
+        },
+        "climax": {
+          "t": "Climax",
+          "g": "The complication is resolved, often through that insight."
+        },
+        "resolution": {
+          "t": "Falling action",
+          "g": "The denouement: loose ends tied up."
+        }
+      }
+    },
+    {
+      "lesson": "truby",
+      "name": "John Truby",
+      "when": "2007",
+      "medium": "Screen",
+      "note": "Truby rejects three-act structure. His seven steps track the hero's inner change as much as the plot.",
+      "cells": {
+        "setup": {
+          "t": "Weakness and need",
+          "g": "The hero's flaw, and what they must fulfil to live better. Usually unknown to them."
+        },
+        "disruption": {
+          "t": "Desire",
+          "g": "A specific goal in the world. Desire drives the plot; need drives the change."
+        },
+        "rising": {
+          "t": "Opponent · Plan",
+          "g": "An opponent who wants the same goal, and the hero's strategy to beat them."
+        },
+        "crisis": {
+          "t": "Apparent defeat",
+          "g": "One of his 22 steps, not the seven: the hero seems beaten."
+        },
+        "climax": {
+          "t": "Battle · Self-revelation",
+          "g": "The final conflict decides who gets the goal, and through it the hero sees past their weakness."
+        },
+        "resolution": {
+          "t": "New equilibrium",
+          "g": "Back to normal, but the hero is at a higher, or in tragedy lower, level."
+        }
+      }
+    },
+    {
+      "lesson": "sequence",
+      "name": "Frank Daniel's sequences",
+      "when": "Gulino, 2004",
+      "medium": "Screen",
+      "note": "Each sequence is a little film with its own tension. Eight is typical for a two-hour feature; the count varies.",
+      "cells": {
+        "setup": {
+          "t": "Sequence 1",
+          "g": "The world and the protagonist."
+        },
+        "disruption": {
+          "t": "Sequence 2 · main tension",
+          "g": "By the end of Act I, the film's overarching dramatic question is set up."
+        },
+        "rising": {
+          "t": "Sequences 3–4",
+          "g": "The first half of Act II, each sequence with its own goal and question."
+        },
+        "midpoint": {
+          "t": "End of sequence 4",
+          "g": "The turn between Act II's two halves."
+        },
+        "crisis": {
+          "t": "Sequences 5–6",
+          "g": "The second half of Act II, building to the turn that ends the act."
+        },
+        "climax": {
+          "t": "Sequences 7–8",
+          "g": "Act III: the main tension is resolved."
+        }
+      }
+    },
+    {
+      "lesson": "thompson",
+      "name": "Kristin Thompson",
+      "when": "1999",
+      "medium": "Screen",
+      "note": "Found by timing real films: four parts of roughly equal length in a two-hour feature, divided by turning points where the protagonist's goals change.",
+      "cells": {
+        "setup": {
+          "t": "Setup",
+          "g": "Characters, world and the protagonist's goals, often more than one."
+        },
+        "disruption": {
+          "t": "Turning point",
+          "g": "About a quarter of the way in, it creates a new situation."
+        },
+        "rising": {
+          "t": "Complicating action",
+          "g": "Goals may be redefined. Almost a second setup."
+        },
+        "midpoint": {
+          "t": "Turning point",
+          "g": "Near the halfway mark: a full structural break, not an add-on."
+        },
+        "crisis": {
+          "t": "Development",
+          "g": "The struggle toward the goals, with delays, obstacles and subplots, ending in a turn toward the end."
+        },
+        "climax": {
+          "t": "Climax",
+          "g": "The goals are clearly achieved or clearly lost."
+        },
+        "resolution": {
+          "t": "Epilogue",
+          "g": "A brief coda."
+        }
+      }
+    },
+    {
+      "lesson": "yorke",
+      "name": "John Yorke",
+      "when": "2013",
+      "medium": "Screen",
+      "note": "Five acts, mirrored around the midpoint: Act Four echoes Act Two, Act Five echoes Act One. The same shape repeats inside each act and scene.",
+      "cells": {
+        "setup": {
+          "t": "Act One: the world and the flaw",
+          "g": "A protagonist with something lacking, in a familiar world."
+        },
+        "disruption": {
+          "t": "Call to action",
+          "g": "The inciting incident pushes them toward the woods."
+        },
+        "rising": {
+          "t": "Act Two: into the woods",
+          "g": "First steps into the unfamiliar; early progress, doubts overcome."
+        },
+        "midpoint": {
+          "t": "Act Three: the midpoint",
+          "g": "The heart of the woods: a crucial truth glimpsed, or a prize that isn't enough. The story turns."
+        },
+        "crisis": {
+          "t": "Act Four: things fall apart",
+          "g": "Opposition mounts and the old self fights back, ending in crisis."
+        },
+        "climax": {
+          "t": "Act Five: the final battle",
+          "g": "The protagonist must act on what they've learned."
+        },
+        "resolution": {
+          "t": "Out of the woods",
+          "g": "Return to the world, changed."
+        }
+      }
+    },
+    {
+      "lesson": "pixar",
+      "name": "The story spine",
+      "when": "Late 1980s (Kenn Adams); 2011 (Emma Coats)",
+      "medium": "Screen",
+      "note": "Born in improv theater and popularized by a Pixar story artist's tweets. Coats's version stops at 'Until finally'.",
+      "cells": {
+        "setup": {
+          "t": "Once upon a time… Every day…",
+          "g": "The world and its routine."
+        },
+        "disruption": {
+          "t": "One day…",
+          "g": "The routine breaks."
+        },
+        "rising": {
+          "t": "Because of that… Because of that…",
+          "g": "Each event must cause the next, not just follow it."
+        },
+        "climax": {
+          "t": "Until finally…",
+          "g": "The event the chain has been building toward."
+        },
+        "resolution": {
+          "t": "And ever since then…",
+          "g": "Kenn Adams's closing line: the new normal."
+        }
+      }
+    },
+    {
+      "lesson": "well-made-play",
+      "name": "The well-made play",
+      "when": "c. 1825–1890s",
+      "medium": "Stage",
+      "note": "Scribe wrote no manual; these features were reconstructed by later critics, notably Stephen Stanton (1957).",
+      "cells": {
+        "setup": {
+          "t": "Exposition",
+          "g": "The past laid out early, often by servants or old friends, with the secret planted."
+        },
+        "rising": {
+          "t": "Ups and downs",
+          "g": "The hero's fortunes swing back and forth, driven by letters, misunderstandings and arrivals."
+        },
+        "climax": {
+          "t": "Obligatory scene (scène à faire)",
+          "g": "The promised confrontation, where the secret comes out before the person who most needs to hear it."
+        },
+        "resolution": {
+          "t": "Dénouement",
+          "g": "Every thread tied off logically."
+        }
+      }
+    },
+    {
+      "lesson": "ball",
+      "name": "David Ball",
+      "when": "1983",
+      "medium": "Stage",
+      "note": "A method for reading plays: every event is a trigger for the next, and the chain should survive being read backwards.",
+      "cells": {
+        "setup": {
+          "t": "Stasis",
+          "g": "A state of balance, not necessarily a happy one."
+        },
+        "disruption": {
+          "t": "Intrusion",
+          "g": "Something upsets the stasis and releases forces that collide."
+        },
+        "rising": {
+          "t": "Trigger → heap",
+          "g": "Each event causes or permits the next, like falling dominoes, with forwards keeping the audience hungry for next."
+        },
+        "resolution": {
+          "t": "New stasis",
+          "g": "The forces are no longer in conflict, and the play ends."
+        }
+      }
     }
   ]
 }

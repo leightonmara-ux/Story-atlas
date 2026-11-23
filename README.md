@@ -28,9 +28,12 @@ Plain HTML, CSS and JavaScript, with no build step.
 
 - `site/content/curriculum.json`: tracks and lessons. A lesson with `"ready": true` appears as available.
 - `site/content/lessons/<id>.md`: each lesson's text, in Markdown. Supported extras:
-  `{{diagram:<id>}}` draws a diagram defined in `app.js` (`DIAGRAMS`); `Q:` / `A:` lines make
+  `{{diagram:<id>}}` draws a diagram from `diagrams.json`; `Q:` / `A:` lines make
   tap-to-reveal "Check yourself" questions; a blockquote whose last line starts with `—` gets a citation.
+- `site/content/quiz/<id>.json`: each lesson's quiz (multiple choice) and "ideas" for the Whose idea game.
 - `site/content/concordance.json`: the Compare chart.
+- `site/content/sequences.json`: frameworks for the Put it in order game.
+- `site/content/diagrams.json`: diagrams used by `{{diagram:<id>}}` (labels are placed automatically to avoid collisions).
 - `site/sw.js`: offline support. Bump `VERSION` when you change the app's code or styling.
 - `tools/make_icons.js`: renders the PNG icons from `site/icon.svg`.
 

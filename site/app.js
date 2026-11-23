@@ -40,7 +40,7 @@ function inline(s) {
     const ext = /^https?:/.test(url);
     return `<a href="${url}"${ext ? ' target="_blank" rel="noopener"' : ''}>${text}</a>`;
   });
-  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
   s = s.replace(/(^|[^*\w])\*([^*\s][^*]*?)\*(?!\w)/g, '$1<em>$2</em>');
   return s;
 }
@@ -139,7 +139,7 @@ const DIAGRAMS = {
 };
 
 function diagram(id) {
-  const d = DIAGRAMS[id];
+  const d = DIAGRAMS[id] || (data.diagrams || {})[id];
   if (!d) return '';
   const W = 400, H = 220, padX = 14, top = 30, bottom = 30;
   const px = x => padX + x * (W - 2 * padX);
@@ -157,10 +157,22 @@ function diagram(id) {
   }
   const baseY = H - bottom + 8;
   const area = `${path} L ${pts[pts.length - 1].x} ${baseY} L ${pts[0].x} ${baseY} Z`;
+  // Place labels without collisions: try the preferred side, then the other side, then step further out.
+  const placed = [];
   const labels = pts.filter(p => p.label).map(p => {
+    const w = p.label.length * 7.4 + 6;
     const anchor = p.x < 70 ? 'start' : p.x > W - 70 ? 'end' : 'middle';
     const dx = anchor === 'start' ? -4 : anchor === 'end' ? 4 : 0;
-    const ty = p.below ? p.y + 22 : p.y - 12;
+    const x0 = anchor === 'start' ? p.x + dx : anchor === 'end' ? p.x + dx - w : p.x - w / 2;
+    const tries = [];
+    for (let step = 0; step < 5; step++) {
+      tries.push(p.below ? p.y + 22 + step * 15 : p.y - 12 - step * 15);
+      tries.push(p.below ? p.y - 12 - step * 15 : p.y + 22 + step * 15);
+    }
+    const clear = ty => ty > 12 && ty < H + 6 &&
+      !placed.some(b => x0 < b.x1 && b.x0 < x0 + w && ty - 12 < b.y1 && b.y0 < ty + 4);
+    const ty = tries.find(clear) ?? tries[0];
+    placed.push({ x0, x1: x0 + w, y0: ty - 12, y1: ty + 4 });
     return `<text x="${p.x + dx}" y="${ty}" text-anchor="${anchor}">${esc(p.label)}</text>`;
   }).join('');
   return `<figure class="diagram"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(d.caption)}">
@@ -205,7 +217,7 @@ function renderHome() {
     <section class="hero">
       <h1>Story Atlas</h1>
       <p class="lede">What the great thinkers say about story structure, and how to use it on the stage, the screen and the page.</p>
-      <div class="progress">${doneCount} of ${ready.length} available lessons done · ${lessons.length} planned
+      <div class="progress">${doneCount} of ${ready.length} lessons done${ready.length < lessons.length ? ` · ${lessons.length - ready.length} more coming` : ''}
         <div class="bar"><span style="width:${pct}%"></span></div></div>
       ${nextCard}
     </section>
@@ -370,7 +382,10 @@ async function questionPool({ lessonId, onlyDone } = {}) {
 
 async function whoseIdeaPool() {
   const qs = await allQuizzes();
-  const people = qs.filter(z => z.ideas && z.ideas.length);
+  // Only lessons named after a thinker or text; topics like "Television structure" aren't "whose".
+  const topics = new Set(['shared-core', 'three-media', 'narrative-order', 'tv', 'well-made-play',
+    'inverted-pyramid', 'wsj-formula', 'kishotenketsu']);
+  const people = qs.filter(z => z.ideas && z.ideas.length && !topics.has(z.lesson.id));
   const out = [];
   for (const z of people) {
     z.ideas.forEach((idea, i) => {
@@ -622,6 +637,7 @@ async function start() {
       getJSON('content/concordance.json'),
       getJSON('content/sequences.json').catch(() => []),
     ]);
+    data.diagrams = await getJSON('content/diagrams.json').catch(() => ({}));
   } catch {
     app.innerHTML = '<p class="loading">Couldn’t load the course. Check your connection and reload.</p>';
     return;

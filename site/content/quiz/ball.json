@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A director reads a play starting from the final event and asks, at each step, \"what caused or allowed this?\" What is she doing?",
+      "choices": [
+        "Reading backwards",
+        "Finding the super-objective",
+        "Writing a bake-off",
+        "Defamiliarizing"
+      ],
+      "answer": 0,
+      "explain": "Reading backwards exposes the true chain of causes that a forwards reading glides over."
+    },
+    {
+      "q": "In Ball's terms, what is an action?",
+      "choices": [
+        "A complete act of the play",
+        "A character's objective",
+        "A song that comments",
+        "A trigger and the heap it causes or permits"
+      ],
+      "answer": 3,
+      "explain": "Two linked events; each heap then becomes the next trigger."
+    },
+    {
+      "q": "Someone says Hamlet kills Claudius because the Ghost told him to. What would Ball say?",
+      "choices": [
+        "Themes, not events, cause actions",
+        "Exactly right",
+        "It skips the chain: the immediate trigger is what happens just before, the revelation of the poisoned plot",
+        "The Ghost is the heap, not the trigger"
+      ],
+      "answer": 2,
+      "explain": "Specific immediate events cause events; big motives don't skip links."
+    },
+    {
+      "q": "A play's scenes keep resolving their questions and opening no new ones. Which of Ball's ideas is missing?",
+      "choices": [
+        "Rep & Rev",
+        "Forwards",
+        "Subtext",
+        "Gestus"
+      ],
+      "answer": 1,
+      "explain": "Forwards are devices (questions, threats, promises) that keep the audience hungry for next."
+    },
+    {
+      "q": "What are stasis and intrusion?",
+      "choices": [
+        "The opening balance and the event that upsets it, releasing the play's conflict",
+        "The super-objective and through-line",
+        "Two parts of a secret",
+        "Two kinds of rest in a script"
+      ],
+      "answer": 0,
+      "explain": "The play runs until a new stasis is reached."
+    },
+    {
+      "q": "Which kind of play does Ball's method fit least well?",
+      "choices": [
+        "A realist Ibsen drama",
+        "Hamlet",
+        "A courtroom drama",
+        "A play built on repetition and image rather than cause and effect"
+      ],
+      "answer": 3,
+      "explain": "Trigger-and-heap suits causal plays; Fornés or Parks call for other tools."
+    },
+    {
+      "q": "How does Ball treat exposition?",
+      "choices": [
+        "As the play's climax",
+        "As a lecture to deliver early",
+        "As information characters need and use because they want something",
+        "As something to cut entirely"
+      ],
+      "answer": 2,
+      "explain": "Exposition should be action, not a data dump."
+    }
+  ],
+  "ideas": [
+    "Read the play from its last event to its first, naming each immediate cause.",
+    "Every action is two events: a trigger and the heap it produces, which then triggers the next.",
+    "An audience should always be hungry for next.",
+    "A play starts in stasis, is upset by an intrusion, and ends when a new stasis is reached."
+  ]
+}

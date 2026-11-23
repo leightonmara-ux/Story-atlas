@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer puts a title before each scene announcing what will happen in it. What's the intended effect, in Brecht's terms?",
+      "choices": [
+        "To create an Ovidian transformation",
+        "To give the actor a super-objective",
+        "To shift attention from \"what happens next?\" to \"how and why does it happen?\"",
+        "To build suspense toward an obligatory scene"
+      ],
+      "answer": 2,
+      "explain": "Knowing the outcome frees the audience to examine causes, as in Mother Courage."
+    },
+    {
+      "q": "Why is \"alienation effect\" a misleading translation of Verfremdungseffekt?",
+      "choices": [
+        "It refers only to lighting",
+        "He wanted to make the familiar look strange so it could be seen freshly, not to push the audience away",
+        "It means identification",
+        "Brecht wanted to repel the audience"
+      ],
+      "answer": 1,
+      "explain": "\"Estrangement\" or \"defamiliarization\" is closer to his aim."
+    },
+    {
+      "q": "In Brecht's table, dramatic theatre links scenes so one makes the next. What does epic theatre do?",
+      "choices": [
+        "Treats each scene for itself, moving in curves and jumps",
+        "Hides events offstage",
+        "Builds one obligatory scene",
+        "Uses only one location"
+      ],
+      "answer": 0,
+      "explain": "Episodic structure is a deliberate challenge to Aristotle's causal unity."
+    },
+    {
+      "q": "What was Brecht's main objection to the Aristotelian model?",
+      "choices": [
+        "Its plots were too short",
+        "It ignored the actor's objectives",
+        "It lacked secrets",
+        "Identification and catharsis left audiences passive, feeling events were inevitable"
+      ],
+      "answer": 3,
+      "explain": "He wanted audiences to leave asking why things happened and whether they could change."
+    },
+    {
+      "q": "Which of these is a Brechtian technique?",
+      "choices": [
+        "A secret letter locked in a letterbox",
+        "Visualizing a character with eyes closed",
+        "A song that interrupts the action and comments on it",
+        "A spell of repeated names"
+      ],
+      "answer": 2,
+      "explain": "Songs, titles, visible machinery and actors who show the character all make the familiar strange."
+    },
+    {
+      "q": "What happened after Mother Courage's 1941 premiere in Zurich?",
+      "choices": [
+        "Audiences condemned Courage as a profiteer, as Brecht hoped",
+        "Many saw Courage as a tragic suffering mother, and Brecht revised the play to make her less sympathetic",
+        "Brecht abandoned epic theatre",
+        "The play was banned"
+      ],
+      "answer": 1,
+      "explain": "It's the classic case of audiences identifying despite the theory."
+    },
+    {
+      "q": "A documentary opens by telling you the outcome, then shows the system that produced it. Whose logic is this closest to?",
+      "choices": [
+        "Brecht's",
+        "Chekhov's",
+        "Scribe's",
+        "Ruhl's"
+      ],
+      "answer": 0,
+      "explain": "Telling the end first and examining causes is epic-theatre thinking."
+    }
+  ],
+  "ideas": [
+    "Theatre should make the familiar strange, so the audience sees it freshly and judges it.",
+    "Tell the audience what will happen before each scene, so they watch how and why instead of what next.",
+    "An actor should show the character, as if quoting them, rather than disappear into the role.",
+    "Each scene should stand for itself rather than one scene making the next."
+  ]
+}

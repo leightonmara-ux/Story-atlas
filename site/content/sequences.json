@@ -1,3 +1,210 @@
 [
-  { "lesson": "mckee", "title": "McKee's five-part design", "steps": ["Inciting incident", "Progressive complications", "Crisis", "Climax", "Resolution"] }
+  {
+    "lesson": "mckee",
+    "title": "McKee's five-part design",
+    "steps": [
+      "Inciting incident",
+      "Progressive complications",
+      "Crisis",
+      "Climax",
+      "Resolution"
+    ]
+  },
+  {
+    "lesson": "kishotenketsu",
+    "title": "Kishōtenketsu's four parts",
+    "steps": [
+      "Ki (introduction)",
+      "Shō (development)",
+      "Ten (twist)",
+      "Ketsu (conclusion)"
+    ]
+  },
+  {
+    "lesson": "natyashastra",
+    "title": "The five stages of action (avasthās)",
+    "steps": [
+      "Ārambha (beginning)",
+      "Prayatna (effort)",
+      "Prāptyāśā (possibility of attainment)",
+      "Niyatāpti (certainty of attainment)",
+      "Phalāgama (attainment of the result)"
+    ]
+  },
+  {
+    "lesson": "natyashastra",
+    "title": "The five junctures (sandhis)",
+    "steps": [
+      "Mukha (opening)",
+      "Pratimukha (progression)",
+      "Garbha (development)",
+      "Vimarśa (pause, deliberation)",
+      "Nirvahaṇa (conclusion)"
+    ]
+  },
+  {
+    "lesson": "freytag",
+    "title": "Freytag's pyramid",
+    "steps": [
+      "Introduction",
+      "Exciting force",
+      "Rise",
+      "Climax",
+      "Tragic force",
+      "Return or fall",
+      "Force of final suspense",
+      "Catastrophe"
+    ]
+  },
+  {
+    "lesson": "campbell-vogler",
+    "title": "Vogler's hero's journey",
+    "steps": [
+      "Ordinary World",
+      "Call to Adventure",
+      "Refusal of the Call",
+      "Meeting with the Mentor",
+      "Crossing the First Threshold",
+      "Tests, Allies, Enemies",
+      "Approach to the Inmost Cave",
+      "Ordeal",
+      "Reward",
+      "The Road Back",
+      "Resurrection",
+      "Return with the Elixir"
+    ]
+  },
+  {
+    "lesson": "propp",
+    "title": "Ten of Propp's functions",
+    "steps": [
+      "Absentation",
+      "Interdiction",
+      "Violation",
+      "Villainy",
+      "Departure",
+      "Struggle",
+      "Victory",
+      "Return",
+      "Recognition",
+      "Wedding"
+    ]
+  },
+  {
+    "lesson": "wsj-formula",
+    "title": "The feature formula",
+    "steps": [
+      "Anecdotal lede",
+      "Nut graf",
+      "Body",
+      "Kicker"
+    ]
+  },
+  {
+    "lesson": "hart",
+    "title": "Hart's narrative arc",
+    "steps": [
+      "Exposition",
+      "Rising action",
+      "Crisis",
+      "Climax",
+      "Falling action"
+    ]
+  },
+  {
+    "lesson": "field",
+    "title": "Field's paradigm",
+    "steps": [
+      "Act I: Setup",
+      "Plot Point I",
+      "Pinch I",
+      "Midpoint",
+      "Pinch II",
+      "Plot Point II",
+      "Act III: Resolution"
+    ]
+  },
+  {
+    "lesson": "truby",
+    "title": "Truby's seven key steps",
+    "steps": [
+      "Weakness and need",
+      "Desire",
+      "Opponent",
+      "Plan",
+      "Battle",
+      "Self-revelation",
+      "New equilibrium"
+    ]
+  },
+  {
+    "lesson": "snyder",
+    "title": "Snyder's beat sheet",
+    "steps": [
+      "Opening Image",
+      "Theme Stated",
+      "Set-Up",
+      "Catalyst",
+      "Debate",
+      "Break into Two",
+      "B Story",
+      "Fun and Games",
+      "Midpoint",
+      "Bad Guys Close In",
+      "All Is Lost",
+      "Dark Night of the Soul",
+      "Break into Three",
+      "Finale",
+      "Final Image"
+    ]
+  },
+  {
+    "lesson": "harmon",
+    "title": "Harmon's story circle",
+    "steps": [
+      "You",
+      "Need",
+      "Go",
+      "Search",
+      "Find",
+      "Take",
+      "Return",
+      "Change"
+    ]
+  },
+  {
+    "lesson": "thompson",
+    "title": "Thompson's large-scale parts",
+    "steps": [
+      "Setup",
+      "Complicating action",
+      "Development",
+      "Climax",
+      "Epilogue"
+    ]
+  },
+  {
+    "lesson": "swain",
+    "title": "Swain's scene and sequel",
+    "steps": [
+      "Goal",
+      "Conflict",
+      "Disaster",
+      "Reaction",
+      "Dilemma",
+      "Decision"
+    ]
+  },
+  {
+    "lesson": "pixar",
+    "title": "The story spine",
+    "steps": [
+      "Once upon a time…",
+      "Every day…",
+      "But one day…",
+      "Because of that…",
+      "Until finally…",
+      "And ever since then…"
+    ]
+  }
 ]

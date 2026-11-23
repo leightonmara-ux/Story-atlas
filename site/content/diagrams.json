@@ -1,0 +1,682 @@
+{
+  "kishotenketsu": {
+    "caption": "Kishōtenketsu: an introduction (ki) and development (shō) hold steady, a twist (ten) brings in something unexpected, and the conclusion (ketsu) reconciles it with what came before.",
+    "points": [
+      [
+        0,
+        0.25,
+        "Ki"
+      ],
+      [
+        0.33,
+        0.33,
+        "Shō",
+        "below"
+      ],
+      [
+        0.58,
+        0.38,
+        ""
+      ],
+      [
+        0.72,
+        0.85,
+        "Ten"
+      ],
+      [
+        1,
+        0.55,
+        "Ketsu",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "natyashastra": {
+    "caption": "The Nāṭyaśāstra's five stages of action: beginning, effort, possibility of attainment, certainty of attainment, and attainment of the result.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Ārambha"
+      ],
+      [
+        0.25,
+        0.32,
+        "Prayatna",
+        "below"
+      ],
+      [
+        0.5,
+        0.52,
+        "Prāptyāśā"
+      ],
+      [
+        0.75,
+        0.72,
+        "Niyatāpti",
+        "below"
+      ],
+      [
+        1,
+        0.95,
+        "Phalāgama"
+      ]
+    ],
+    "steps": true
+  },
+  "zeami": {
+    "caption": "Jo-ha-kyū: a slow, simple opening; a longer middle that breaks it open and intensifies; then a rapid, concentrated close that ends before the audience tires.",
+    "points": [
+      [
+        0,
+        0.1,
+        "Jo"
+      ],
+      [
+        0.32,
+        0.2,
+        "Ha",
+        "below"
+      ],
+      [
+        0.62,
+        0.48,
+        ""
+      ],
+      [
+        0.86,
+        0.92,
+        "Kyū"
+      ],
+      [
+        1,
+        0.15,
+        "End",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "freytag": {
+    "caption": "Freytag’s pyramid: the climax sits at the center of the play. The exciting force starts the rise, the tragic force starts the fall, and a last moment of suspense comes just before the catastrophe.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Introduction"
+      ],
+      [
+        0.18,
+        0.24,
+        "Exciting force",
+        "below"
+      ],
+      [
+        0.5,
+        0.94,
+        "Climax"
+      ],
+      [
+        0.62,
+        0.74,
+        "Tragic force",
+        "below"
+      ],
+      [
+        0.84,
+        0.4,
+        "Final suspense"
+      ],
+      [
+        1,
+        0.08,
+        "Catastrophe",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "propp": {
+    "caption": "The run of Propp’s functions in a two-move tale: a villainy or lack sends the hero out, the struggle is won, and a second move of pursuit, false claims and recognition ends in a wedding.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Villainy / lack"
+      ],
+      [
+        0.2,
+        0.32,
+        "Departure",
+        "below"
+      ],
+      [
+        0.44,
+        0.8,
+        "Victory"
+      ],
+      [
+        0.62,
+        0.42,
+        "Pursuit",
+        "below"
+      ],
+      [
+        0.82,
+        0.72,
+        "Recognition"
+      ],
+      [
+        1,
+        0.3,
+        "Wedding",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "campbell-vogler": {
+    "caption": "Vogler’s hero’s journey has two peaks: a central Ordeal in the special world, and a final Resurrection before the hero returns home with the elixir.",
+    "points": [
+      [
+        0,
+        0.14,
+        "Ordinary World"
+      ],
+      [
+        0.24,
+        0.36,
+        "Threshold",
+        "below"
+      ],
+      [
+        0.5,
+        0.76,
+        "Ordeal"
+      ],
+      [
+        0.68,
+        0.5,
+        "Road Back",
+        "below"
+      ],
+      [
+        0.85,
+        0.95,
+        "Resurrection"
+      ],
+      [
+        1,
+        0.3,
+        "Elixir",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "inverted-pyramid": {
+    "caption": "The inverted pyramid ranks facts by importance, not tension. The lede carries the most and each paragraph matters less than the one before, so the story can be cut from the bottom.",
+    "points": [
+      [
+        0,
+        0.95,
+        "Lede"
+      ],
+      [
+        0.25,
+        0.72,
+        "Key detail",
+        "below"
+      ],
+      [
+        0.5,
+        0.5,
+        "Quote"
+      ],
+      [
+        0.75,
+        0.3,
+        "Background",
+        "below"
+      ],
+      [
+        1,
+        0.1,
+        "Minor details"
+      ]
+    ],
+    "steps": true
+  },
+  "wsj-formula": {
+    "caption": "The feature formula moves from specific to general and back. Height shows how wide the view is: one person in the lede, the big picture in the nut graf and body, then back to the person for the kicker.",
+    "points": [
+      [
+        0,
+        0.2,
+        "Anecdotal lede"
+      ],
+      [
+        0.25,
+        0.72,
+        "Nut graf",
+        "below"
+      ],
+      [
+        0.55,
+        0.88,
+        "Body"
+      ],
+      [
+        0.82,
+        0.5,
+        "Circle back",
+        "below"
+      ],
+      [
+        1,
+        0.22,
+        "Kicker"
+      ]
+    ],
+    "steps": false
+  },
+  "hart": {
+    "caption": "Hart's narrative arc: exposition introduces the protagonist and complication, plot points drive the rising action to a crisis, a point of insight opens the way to the climax, and falling action ties up loose ends.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Exposition"
+      ],
+      [
+        0.38,
+        0.45,
+        "Rising action",
+        "below"
+      ],
+      [
+        0.66,
+        0.75,
+        "Crisis"
+      ],
+      [
+        0.8,
+        0.95,
+        "Climax"
+      ],
+      [
+        1,
+        0.3,
+        "Falling action",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "field": {
+    "caption": "Field’s paradigm: Setup, Confrontation and Resolution in roughly 30, 60 and 30 pages. Plot points turn the story into each new act; the midpoint, added later, splits Act II.",
+    "points": [
+      [
+        0,
+        0.1,
+        "Setup"
+      ],
+      [
+        0.23,
+        0.32,
+        "Plot Point I",
+        "below"
+      ],
+      [
+        0.5,
+        0.55,
+        "Midpoint"
+      ],
+      [
+        0.75,
+        0.74,
+        "Plot Point II",
+        "below"
+      ],
+      [
+        0.88,
+        0.95,
+        "Climax"
+      ],
+      [
+        1,
+        0.3,
+        "Resolution",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "truby": {
+    "caption": "Truby’s seven key steps trace the hero’s change: from weakness and need, through a desire pursued against an opponent, to a battle, a self-revelation and a new equilibrium.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Weakness & need"
+      ],
+      [
+        0.2,
+        0.3,
+        "Desire",
+        "below"
+      ],
+      [
+        0.42,
+        0.48,
+        "Plan"
+      ],
+      [
+        0.68,
+        0.78,
+        "Battle",
+        "below"
+      ],
+      [
+        0.84,
+        0.95,
+        "Self-revelation"
+      ],
+      [
+        1,
+        0.35,
+        "New equilibrium",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "snyder": {
+    "caption": "Key beats of Snyder’s fifteen, by page in a 110-page script: Opening Image (1), Break into Two (25), Midpoint (55), All Is Lost (75), Finale (85–110), Final Image (110).",
+    "points": [
+      [
+        0,
+        0.1,
+        "Opening Image"
+      ],
+      [
+        0.23,
+        0.3,
+        "Break into Two",
+        "below"
+      ],
+      [
+        0.5,
+        0.55,
+        "Midpoint"
+      ],
+      [
+        0.68,
+        0.75,
+        "All Is Lost",
+        "below"
+      ],
+      [
+        0.86,
+        0.95,
+        "Finale"
+      ],
+      [
+        1,
+        0.35,
+        "Final Image",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "sequence": {
+    "caption": "Eight sequences of about 10–15 minutes: two in Act I, four in Act II, two in Act III. Each has its own tension, and its resolution launches the next.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Sequences 1–2"
+      ],
+      [
+        0.25,
+        0.34,
+        "Sequences 3–4",
+        "below"
+      ],
+      [
+        0.5,
+        0.56,
+        "Sequences 5–6"
+      ],
+      [
+        0.75,
+        0.78,
+        "Sequence 7",
+        "below"
+      ],
+      [
+        1,
+        0.95,
+        "Sequence 8"
+      ]
+    ],
+    "steps": true
+  },
+  "thompson": {
+    "caption": "Thompson’s four large parts, often of roughly equal length: setup, complicating action, development and climax, divided by turning points and followed by a brief epilogue.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Setup"
+      ],
+      [
+        0.25,
+        0.32,
+        "Complicating",
+        "below"
+      ],
+      [
+        0.5,
+        0.52,
+        "Development"
+      ],
+      [
+        0.75,
+        0.74,
+        "Climax",
+        "below"
+      ],
+      [
+        0.92,
+        0.95,
+        ""
+      ],
+      [
+        1,
+        0.35,
+        "Epilogue"
+      ]
+    ],
+    "steps": false
+  },
+  "swain": {
+    "caption": "Swain's scene and sequel: tension climbs from goal through conflict to disaster, then eases through reaction and dilemma to a decision, which launches the next scene's goal.",
+    "points": [
+      [
+        0,
+        0.2,
+        "Goal"
+      ],
+      [
+        0.25,
+        0.55,
+        "Conflict",
+        "below"
+      ],
+      [
+        0.45,
+        0.92,
+        "Disaster"
+      ],
+      [
+        0.65,
+        0.62,
+        "Reaction",
+        "below"
+      ],
+      [
+        0.82,
+        0.45,
+        "Dilemma"
+      ],
+      [
+        1,
+        0.3,
+        "Decision",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "yorke": {
+    "caption": "Yorke's five acts: the call to action sends the protagonist into the woods; the midpoint at the heart of the story turns its direction; crisis and climax lead back out, changed.",
+    "points": [
+      [
+        0,
+        0.12,
+        "Call to action"
+      ],
+      [
+        0.25,
+        0.35,
+        "Into the woods",
+        "below"
+      ],
+      [
+        0.5,
+        0.6,
+        "Midpoint"
+      ],
+      [
+        0.72,
+        0.74,
+        "Crisis",
+        "below"
+      ],
+      [
+        0.86,
+        0.95,
+        "Climax"
+      ],
+      [
+        1,
+        0.3,
+        "Out of the woods",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "pixar": {
+    "caption": "The story spine climbs one causal step at a time: a routine, a break in it, consequences that each cause the next, and a final event. Kenn Adams adds 'And ever since then…' for the new normal.",
+    "points": [
+      [
+        0,
+        0.1,
+        "Once upon a time"
+      ],
+      [
+        0.25,
+        0.3,
+        "One day",
+        "below"
+      ],
+      [
+        0.5,
+        0.5,
+        "Because of that"
+      ],
+      [
+        0.75,
+        0.7,
+        "Because of that",
+        "below"
+      ],
+      [
+        1,
+        0.92,
+        "Until finally"
+      ]
+    ],
+    "steps": true
+  },
+  "well-made-play": {
+    "caption": "The well-made play: exposition, a planted secret, swings of fortune, the obligatory scene where the secret comes out, and a tidy dénouement.",
+    "points": [
+      [
+        0,
+        0.15,
+        "Exposition"
+      ],
+      [
+        0.25,
+        0.35,
+        "Secret planted",
+        "below"
+      ],
+      [
+        0.5,
+        0.55,
+        "Ups and downs"
+      ],
+      [
+        0.75,
+        0.9,
+        "Obligatory scene"
+      ],
+      [
+        1,
+        0.35,
+        "Dénouement",
+        "below"
+      ]
+    ],
+    "steps": false
+  },
+  "ball": {
+    "caption": "Ball's chain: an intrusion upsets the opening stasis, each heap triggers the next action, and the play ends at a new stasis.",
+    "points": [
+      [
+        0,
+        0.1,
+        "Stasis"
+      ],
+      [
+        0.25,
+        0.3,
+        "Intrusion",
+        "below"
+      ],
+      [
+        0.5,
+        0.5,
+        "Heap → trigger"
+      ],
+      [
+        0.75,
+        0.7,
+        "Heap → trigger",
+        "below"
+      ],
+      [
+        1,
+        0.9,
+        "New stasis"
+      ]
+    ],
+    "steps": true
+  }
+}

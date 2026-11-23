@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A line returns three times in a play, slightly changed, and means something new each time. Which idea is this?",
+      "choices": [
+        "The through-line",
+        "Rep & Rev",
+        "Trigger and heap",
+        "The obligatory scene"
+      ],
+      "answer": 1,
+      "explain": "Repetition and revision, from jazz: meaning accumulates in the variations."
+    },
+    {
+      "q": "In a Parks script, two characters' names appear stacked and repeated with no dialogue. What is it?",
+      "choices": [
+        "A spell",
+        "A cue for exit",
+        "A placard",
+        "A rest"
+      ],
+      "answer": 0,
+      "explain": "A spell is a heightened, extended rest where something passes between characters without words."
+    },
+    {
+      "q": "How does a Rep & Rev play feel different from a classic arc?",
+      "choices": [
+        "It always runs backward",
+        "It has no characters",
+        "It hides events offstage",
+        "Meaning builds by accumulation through returns, not by a straight line to a climax"
+      ],
+      "answer": 3,
+      "explain": "Parks contrasts it with drama marching from A to B to C."
+    },
+    {
+      "q": "What is (Rest) in Parks's notation?",
+      "choices": [
+        "A chorus entrance",
+        "A direction to stop acting",
+        "A pause, a little time or transition that the actor must fill",
+        "A cue for intermission"
+      ],
+      "answer": 2,
+      "explain": "It's part of a script treated like a musical score."
+    },
+    {
+      "q": "Topdog/Underdog's brothers are named Lincoln and Booth. What does this do structurally?",
+      "choices": [
+        "Nothing; the names are random",
+        "It sets up an ending the audience can't stop anticipating",
+        "It hides the ending completely",
+        "It turns the play into a well-made comedy"
+      ],
+      "answer": 1,
+      "explain": "The names announce the possible ending, and the play's repetitions tighten toward it."
+    },
+    {
+      "q": "Which tradition do scholars often connect with Rep & Rev?",
+      "choices": [
+        "Signifyin(g), repetition with a difference, as described by Henry Louis Gates Jr.",
+        "The French well-made play",
+        "Aristotle's unity of action",
+        "Russian formalism only"
+      ],
+      "answer": 0,
+      "explain": "Parks presents it as her own aesthetic, rooted in Black musical and literary traditions."
+    },
+    {
+      "q": "A screenwriter copies Parks's rests and odd spellings without any underlying pattern. What's the risk?",
+      "choices": [
+        "Too much subtext",
+        "None",
+        "An overlong second act",
+        "Mannerism: the surface without the music"
+      ],
+      "answer": 3,
+      "explain": "The notation serves the rhythm; without it, it's decoration."
+    }
+  ],
+  "ideas": [
+    "Like a jazz musician, state a phrase, then return to it again and again, revising it each time.",
+    "A script is a score: a pause written as (Rest), a wordless moment written as repeated names.",
+    "Theatre can make history, staging what the written record left out."
+  ]
+}
