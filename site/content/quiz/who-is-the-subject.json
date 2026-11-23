@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "In Mulvey's account of classic Hollywood, who is the 'bearer of the look'?",
+      "choices": [
+        "The female star",
+        "The director's camera alone",
+        "The male protagonist, with whom the audience is invited to identify",
+        "The critic"
+      ],
+      "answer": 2,
+      "explain": "The camera, male characters and audience look at the woman while identifying with the man who drives the plot."
+    },
+    {
+      "q": "A screenwriter notices the heroine only appears in close-ups as men watch her, and never gets a point-of-view shot of her own. Which idea names the problem?",
+      "choices": [
+        "The male gaze",
+        "The single story",
+        "Polyphony",
+        "The unreliable narrator"
+      ],
+      "answer": 0,
+      "explain": "Mulvey's analysis is about who looks and who is looked at in the grammar of shots."
+    },
+    {
+      "q": "What, according to Adichie, is the real problem with stereotypes?",
+      "choices": [
+        "They're always false",
+        "They're incomplete, making one story the only story",
+        "They're too complicated",
+        "They come from fiction"
+      ],
+      "answer": 1,
+      "explain": "Her point is incompleteness, not untruth."
+    },
+    {
+      "q": "A reporter covers a neighborhood only through crime stories, year after year. Which warning applies most directly?",
+      "choices": [
+        "Show, don't tell",
+        "Plot comes first",
+        "The danger of a single story",
+        "Something mechanical encrusted on the living"
+      ],
+      "answer": 2,
+      "explain": "Repeated single stories make one aspect stand for the whole."
+    },
+    {
+      "q": "Whom does Alison Bechdel credit for the idea behind the test named after her?",
+      "choices": [
+        "Laura Mulvey",
+        "Virginia Woolf directly",
+        "Her friend Liz Wallace",
+        "Manohla Dargis"
+      ],
+      "answer": 2,
+      "explain": "She prefers the name Bechdel-Wallace test, and has suggested Wallace drew on Woolf."
+    },
+    {
+      "q": "A film passes the Bechdel test. What can you conclude?",
+      "choices": [
+        "Its women are fully realized characters",
+        "It has at least two women who talk to each other about something besides a man",
+        "It isn't sexist",
+        "It was directed by a woman"
+      ],
+      "answer": 1,
+      "explain": "The test measures presence, not quality."
+    },
+    {
+      "q": "Why does Thomas King set a Native creation story beside Genesis?",
+      "choices": [
+        "To prove one is historically true",
+        "To show how the stories a culture tells shape what it takes as natural",
+        "To argue that only oral stories matter",
+        "To criticize the Massey Lectures"
+      ],
+      "answer": 1,
+      "explain": "A solitary creator and a fall versus cooperation and a shared world imply different values."
+    },
+    {
+      "q": "What was bell hooks's main objection to Mulvey's 1975 essay?",
+      "choices": [
+        "It ignored race, and Black women spectators who looked critically",
+        "It was too optimistic about Hollywood",
+        "It ignored the director",
+        "It relied too little on psychoanalysis"
+      ],
+      "answer": 0,
+      "explain": "hooks's 'oppositional gaze' describes resistant looking that Mulvey's model missed."
+    }
+  ],
+  "ideas": [
+    "Which approach argues that classic cinema positions women as spectacle to be looked at while the man who looks drives the story?",
+    "Which approach warns that the trouble with stereotypes isn't that they're false but that they're incomplete?",
+    "Which approach treats hearing a story as making you responsible for it?",
+    "Which approach asks whether a film has two women who talk to each other about something other than a man?"
+  ]
+}

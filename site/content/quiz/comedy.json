@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A bureaucrat keeps applying a form-filling rule while the building burns around him. Why is that funny, for Bergson?",
+      "choices": [
+        "Because we feel superior to him",
+        "Because the situation releases repressed energy",
+        "Because a living person is behaving mechanically, with rigidity where life needs adaptation",
+        "Because it's a benign violation"
+      ],
+      "answer": 2,
+      "explain": "Rigidity, something mechanical encrusted on the living, is Bergson's core."
+    },
+    {
+      "q": "Two characters have a whole conversation, one thinking it's about a job offer, the other about a marriage proposal. Which of Bergson's devices is this?",
+      "choices": [
+        "Reciprocal interference of series",
+        "Repetition",
+        "Inversion",
+        "Heightening"
+      ],
+      "answer": 0,
+      "explain": "One situation belongs to two independent series and can be read two ways."
+    },
+    {
+      "q": "In a sketch, the robber ends up being robbed by his victim. Which Bergsonian device?",
+      "choices": [
+        "Repetition",
+        "Inversion",
+        "The game of the scene",
+        "The status quo"
+      ],
+      "answer": 1,
+      "explain": "The roles flip, like a mechanism turned around."
+    },
+    {
+      "q": "In UCB terms, what is the 'game' of a scene?",
+      "choices": [
+        "The status quo restored at the end",
+        "The scene's central conflict",
+        "The first unusual thing, which is then heightened and explored as a pattern",
+        "The callback in the tag"
+      ],
+      "answer": 2,
+      "explain": "Base reality, then an unusual thing, then heightening and exploring."
+    },
+    {
+      "q": "An improviser announces, 'We're on a submarine,' and her partner says, 'No, this is a kitchen.' What principle has he broken?",
+      "choices": [
+        "The rule of three",
+        "No hugging, no learning",
+        "Unity of action",
+        "Yes, and"
+      ],
+      "answer": 3,
+      "explain": "Accept what's established and add to it."
+    },
+    {
+      "q": "A sitcom's lead learns her lesson and overcomes her vanity in episode 3. What's the structural risk?",
+      "choices": [
+        "It removes the flaw that generates next week's story",
+        "It breaks the act-out",
+        "It violates unity of place",
+        "None"
+      ],
+      "answer": 0,
+      "explain": "The flaw is the engine; the status quo returns each week."
+    },
+    {
+      "q": "What's a farce principle often attributed to Feydeau?",
+      "choices": [
+        "Never let the audience know more than the characters",
+        "When two characters must not meet, bring them together as soon as possible",
+        "Every scene needs a reversal",
+        "Comedy must punish vice"
+      ],
+      "answer": 1,
+      "explain": "Farce runs on near-collisions and escalating lies."
+    },
+    {
+      "q": "Which statement about Aristotle and comedy is accurate?",
+      "choices": [
+        "His book on comedy survives as the Tractatus Coislinianus",
+        "He never mentioned comedy",
+        "He promised to treat comedy, but that part of his work is lost",
+        "He invented the three unities for comedy"
+      ],
+      "answer": 2,
+      "explain": "The Tractatus is argued by some to summarize it, but that's disputed."
+    }
+  ],
+  "ideas": [
+    "Which approach says we laugh when a living person behaves like a machine?",
+    "Which approach builds a scene by finding the first unusual thing and heightening it?",
+    "Which approach ends each episode by restoring the situation it disturbed?",
+    "Which approach piles up lies, doors and near-meetings until the whole mechanism breaks?"
+  ]
+}

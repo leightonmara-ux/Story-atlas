@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "q": "A film uses a narrator to explain a historical argument over archival footage. Which mode is it mainly in?",
+      "choices": [
+        "Observational",
+        "Poetic",
+        "Expository",
+        "Performative"
+      ],
+      "answer": 2,
+      "explain": "Direct address making a case is expository."
+    },
+    {
+      "q": "A filmmaker follows a school for a year with no narration, no interviews and no music. Which mode?",
+      "choices": [
+        "Observational",
+        "Participatory",
+        "Reflexive",
+        "Expository"
+      ],
+      "answer": 0,
+      "explain": "Watching events unfold with the filmmaker unobtrusive."
+    },
+    {
+      "q": "A director puts herself on camera interviewing and arguing with her subjects. Which mode?",
+      "choices": [
+        "Poetic",
+        "Participatory",
+        "Observational",
+        "Expository"
+      ],
+      "answer": 1,
+      "explain": "The filmmaker's interaction becomes part of the film."
+    },
+    {
+      "q": "A film keeps showing the crew, the editing table and the audience watching. Which mode?",
+      "choices": [
+        "Performative",
+        "Observational",
+        "Expository",
+        "Reflexive"
+      ],
+      "answer": 3,
+      "explain": "Reflexive documentaries draw attention to how documentaries are made and read."
+    },
+    {
+      "q": "Are Nichols's modes a sequence, from early to advanced?",
+      "choices": [
+        "Yes: poetic came first and performative is the most developed",
+        "No: they overlap in time and films mix them",
+        "Yes, but only for American films",
+        "No: they're ranked by quality"
+      ],
+      "answer": 1,
+      "explain": "Vertov's reflexive film dates from 1929; the modes are lenses, not stages."
+    },
+    {
+      "q": "What does 'the creative treatment of actuality' highlight?",
+      "choices": [
+        "That documentary must not be edited",
+        "That fiction and documentary are identical",
+        "Real material is selected and shaped into an argument",
+        "That actuality footage is always objective"
+      ],
+      "answer": 2,
+      "explain": "The phrase, attributed to Grierson, names the form's central tension."
+    },
+    {
+      "q": "A documentary editor has 200 hours of footage and no script. What's the most useful first step?",
+      "choices": [
+        "Cut chronologically and see what happens",
+        "Write a narration first",
+        "Choose a mode at random",
+        "Build a paper edit: find the protagonist, question and turns from transcripts"
+      ],
+      "answer": 3,
+      "explain": "Documentary structure is usually found in the edit."
+    },
+    {
+      "q": "Why is staging a scene a bigger betrayal in an observational film than in a reflexive one?",
+      "choices": [
+        "Observational films promise you're seeing life as it happened",
+        "Reflexive films have no audience",
+        "Observational films are always shorter",
+        "It isn't; staging is equally fine in both"
+      ],
+      "answer": 0,
+      "explain": "Each mode makes a different promise; breaking it silently breaks trust."
+    }
+  ],
+  "ideas": [
+    "Documentary is best understood not as a window on reality but as a voice making an argument with real sounds and images.",
+    "Documentaries can be sorted into overlapping modes, such as observational, participatory and reflexive, according to how they address the viewer.",
+    "Each way of making a documentary makes a different promise to its audience about how the footage relates to reality."
+  ]
+}

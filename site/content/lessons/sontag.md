@@ -10,7 +10,7 @@ Susan Sontag (1933–2004) was an American essayist, novelist and critic, and fo
 
 Sontag's target isn't thinking about art. It's a particular habit: treating a work as a code whose real meaning lies somewhere behind it. The interpreter looks at the story and says "X is really Y": the tank is really a symbol, the hero's journey is really about the writer's father, the play is really about capitalism. Content becomes the essence, and form becomes mere packaging.
 
-She traces the modern version of this habit to Marx and Freud (what the philosopher Paul Ricoeur, in *Freud and Philosophy*, 1965, called the "hermeneutics of suspicion"; the phrase is his, not Sontag's), which taught readers that the surface always hides a truer, latent meaning. Applied to art, she argues, that habit becomes a way of taming it: once a work has been translated into a meaning, it can be filed away and no longer has to be felt.
+She traces the modern version of this habit to Marx and Freud, whose doctrines she describes as elaborate systems of interpretation, which taught readers that the surface always hides a truer, latent meaning. Applied to art, she argues, that habit becomes a way of taming it: once a work has been translated into a meaning, it can be filed away and no longer has to be felt.
 
 ### The examples she chose
 

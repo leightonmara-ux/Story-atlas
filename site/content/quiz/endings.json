@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "What does Kermode's tick-tock illustrate?",
+      "choices": [
+        "That plots should be short",
+        "That suspense requires showing the bomb",
+        "That scenes must turn on a value",
+        "That we impose a beginning and an end on mere sequence, so the interval means something"
+      ],
+      "answer": 3,
+      "explain": "A plot is an extended tick-tock: organized time between a humble genesis and a feeble apocalypse."
+    },
+    {
+      "q": "Which pair describes chronos and kairos?",
+      "choices": [
+        "Passing time, and time charged with meaning by its relation to an end",
+        "Story order, and telling order",
+        "Rising action, and falling action",
+        "Comedy, and tragedy"
+      ],
+      "answer": 0,
+      "explain": "Fiction converts chronos into kairos."
+    },
+    {
+      "q": "Test audiences say they saw the ending coming from the first act. What does Kermode's account of peripeteia suggest?",
+      "choices": [
+        "Cut the ending",
+        "Add a narrator",
+        "Keep the destination but reach it by a route that falsifies their simple expectations",
+        "Make the ending open"
+      ],
+      "answer": 2,
+      "explain": "We want the end, but by an unexpected road, still arriving at concord."
+    },
+    {
+      "q": "What does Brooks mean by the 'anticipation of retrospection'?",
+      "choices": [
+        "Characters remember earlier scenes",
+        "We read forward expecting the end to let us look back and understand",
+        "Writers plan endings first",
+        "Flashbacks should be foreshadowed"
+      ],
+      "answer": 1,
+      "explain": "For Brooks, the end gives meaning to the middle."
+    },
+    {
+      "q": "A thriller resolves its central conflict at the midpoint and coasts to the end. What would Brooks call this?",
+      "choices": [
+        "A short circuit: reaching the end before the middle has worked through the story's energy",
+        "A kishōtenketsu twist",
+        "A carrier bag",
+        "A peripeteia"
+      ],
+      "answer": 0,
+      "explain": "The middle is a necessary detour; resolving too early discharges energy cheaply."
+    },
+    {
+      "q": "Which work of Freud's does Brooks use as a model of plot?",
+      "choices": [
+        "The Interpretation of Dreams",
+        "Civilization and Its Discontents",
+        "Totem and Taboo",
+        "Beyond the Pleasure Principle"
+      ],
+      "answer": 3,
+      "explain": "He reads its account of organisms returning to rest by their own path as a masterplot."
+    },
+    {
+      "q": "What was Susan Winnett's objection to Brooks?",
+      "choices": [
+        "That he ignored Aristotle",
+        "That his model of arousal and discharge mirrors male experience and presents it as universal",
+        "That he relied on Russian formalism",
+        "That he wrote only about poetry"
+      ],
+      "answer": 1,
+      "explain": "In 'Coming Unstrung' (PMLA, 1990) she asked what a plot theory starting from women's experience would look like."
+    },
+    {
+      "q": "Why does Kermode warn about fictions becoming myths?",
+      "choices": [
+        "A fiction taken as literal truth about the world can become dangerous, as in apocalyptic politics",
+        "Myths are older and less sophisticated",
+        "Myths lack reversals",
+        "Fiction should never deal with history"
+      ],
+      "answer": 0,
+      "explain": "Good fictions are held knowingly, as tools for making sense of time."
+    }
+  ],
+  "ideas": [
+    "Tick is a humble genesis, tock a feeble apocalypse: plot turns mere duration into meaningful time.",
+    "We are born and die in the middle of things, so we make fictions that give the middle a beginning and end.",
+    "Reading is driven by the anticipation of retrospection: we read forward to the moment we can look back.",
+    "A story's middle is a detour that delays the end, and reaching the end too soon is a short circuit."
+  ]
+}

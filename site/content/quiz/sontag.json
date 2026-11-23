@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A director announces that a classic play is 'really about the collapse of Western civilization' and builds every design choice around that reading. What would Sontag object to?",
+      "choices": [
+        "The production lacks a clear premise to prove",
+        "The director has replaced the play with an interpretation of it",
+        "The play's inciting incident comes too late",
+        "The audience will identify too closely with the hero"
+      ],
+      "answer": 1,
+      "explain": "Sontag's example was Kazan's notes on Streetcar: staging the interpretation rather than the play."
+    },
+    {
+      "q": "What does Sontag propose in place of interpretation?",
+      "choices": [
+        "A criticism attentive to form and experience: an erotics of art",
+        "A search for the work's controlling idea",
+        "A list of the work's functions in order",
+        "A reading based on the author's biography"
+      ],
+      "answer": 0,
+      "explain": "She wants criticism to show how a work is what it is, not what it means."
+    },
+    {
+      "q": "A screenwriting teacher tells students to write their theme as a single sentence before drafting. Which tension does Sontag's essay highlight?",
+      "choices": [
+        "Between plot and character, as Aristotle ranked them",
+        "Between information and story",
+        "Between theme-first advice and a work's sensuous experience, which a theme statement can flatten",
+        "Between the readerly and the writerly text"
+      ],
+      "answer": 2,
+      "explain": "Egri's premise and McKee's controlling idea treat meaning as primary; Sontag warns against reducing a work to its meaning."
+    },
+    {
+      "q": "Which is the most accurate summary of 'Against Interpretation'?",
+      "choices": [
+        "Art has no meaning and shouldn't be analyzed",
+        "Critics should explain works by their authors' lives",
+        "Only popular art deserves attention",
+        "Interpretation that translates a work into a hidden meaning can stop us experiencing it"
+      ],
+      "answer": 3,
+      "explain": "The 'art has no meaning' version is a myth; she objected to interpretation that replaces the work."
+    },
+    {
+      "q": "How did Sontag's view of images of suffering change by Regarding the Pain of Others (2003)?",
+      "choices": [
+        "She questioned her earlier claim that repeated exposure simply numbs viewers",
+        "She decided photographs should never show suffering",
+        "She argued photographs explain events better than words",
+        "She abandoned writing about photography altogether"
+      ],
+      "answer": 0,
+      "explain": "She partly revised On Photography's argument, while insisting images need narrative and context."
+    },
+    {
+      "q": "A photo editor has a powerful image of a famine victim. What does Sontag's later work suggest?",
+      "choices": [
+        "Run it without a caption so it speaks for itself",
+        "Never run it",
+        "Run it with words that give context, cause and responsibility, or it risks becoming spectacle",
+        "Crop it until it looks like a painting"
+      ],
+      "answer": 2,
+      "explain": "An image can command attention, but understanding comes from narrative and argument around it."
+    },
+    {
+      "q": "A reviewer explains that the rumbling tank in a film is 'really' a phallic symbol. What is Sontag's complaint?",
+      "choices": [
+        "The reviewer ignored the author's biography",
+        "The reviewer missed the film's inciting incident",
+        "The reviewer translated an image into a hidden meaning instead of attending to what it does",
+        "The reviewer was too sensuous in their response"
+      ],
+      "answer": 2,
+      "explain": "'X is really Y' is exactly the interpretive habit the essay attacks."
+    }
+  ],
+  "ideas": [
+    "In place of a hermeneutics we need an erotics of art.",
+    "Interpreting a work as a code for a hidden meaning can be a way of taming it so it no longer has to be felt.",
+    "Images of suffering can haunt us, but understanding has to come from words, context and argument.",
+    "A critic's job is to show how a work is what it is, not to translate what it means."
+  ]
+}

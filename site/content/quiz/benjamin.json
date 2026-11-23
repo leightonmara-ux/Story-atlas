@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "What separates information from story, in this lesson's essay?",
+      "choices": [
+        "Information is true and stories are invented",
+        "Information comes explained and loses value once it's no longer new; a story keeps its force",
+        "Stories must be verified; information needn't be",
+        "Information follows a three-act structure"
+      ],
+      "answer": 1,
+      "explain": "Benjamin says a story doesn't expend itself and can release its force long after."
+    },
+    {
+      "q": "Herodotus tells how a captured king wept for an old servant but not for his own children, and doesn't say why. Why does Benjamin admire this?",
+      "choices": [
+        "Because it obeys the unity of action",
+        "Because the reversal coincides with a recognition",
+        "Because it shows the value of a clear nut graf",
+        "Because leaving it unexplained keeps readers thinking for millennia"
+      ],
+      "answer": 3,
+      "explain": "Keeping a story free from explanation is, for Benjamin, half the art of storytelling."
+    },
+    {
+      "q": "A features editor adds a final paragraph spelling out what a narrative story 'means'. What would Benjamin say?",
+      "choices": [
+        "Explanation turns a story back into information; trust the reader",
+        "Good: every story needs a controlling idea",
+        "Good: the reader needs a resolution that answers the lede",
+        "Move the explanation to the top as a nut graf"
+      ],
+      "answer": 0,
+      "explain": "The storyteller leaves the reader free to interpret."
+    },
+    {
+      "q": "Where does Benjamin say the storyteller's material comes from?",
+      "choices": [
+        "Archetypes shared by all cultures",
+        "Research in archives",
+        "Experience, his own or other people's, passed on to listeners",
+        "The author's unconscious desires"
+      ],
+      "answer": 2,
+      "explain": "He takes it from experience and makes it the experience of those who listen."
+    },
+    {
+      "q": "Why does Benjamin use returning First World War soldiers as an emblem?",
+      "choices": [
+        "They told the first modern war stories",
+        "They came home with less communicable experience, not more",
+        "They invented the newspaper report",
+        "They demanded realism in fiction"
+      ],
+      "answer": 1,
+      "explain": "For Benjamin, experience had fallen in value and could no longer easily be shared."
+    },
+    {
+      "q": "How does Benjamin characterize the novel compared with the story?",
+      "choices": [
+        "As born of the solitary individual, who can no longer give or receive counsel",
+        "As a carrier bag holding many things in relation",
+        "As a readerly text consumed passively",
+        "As the oldest form of storytelling"
+      ],
+      "answer": 0,
+      "explain": "The story is told in company; the novel is written and read alone."
+    },
+    {
+      "q": "What is 'counsel' in Benjamin's sense?",
+      "choices": [
+        "A legal warning attached to a news report",
+        "The theme stated early in a screenplay",
+        "An answer to the reader's problem",
+        "A suggestion about how a story might continue, woven into a tale"
+      ],
+      "answer": 3,
+      "explain": "Counsel isn't a solution; it's practical wisdom carried by the story."
+    }
+  ],
+  "ideas": [
+    "It is half the art of storytelling to keep a story free from explanation.",
+    "News is worth something only while it is new, but a story keeps its strength and can release it centuries later.",
+    "Soldiers came home from the Great War silent, poorer rather than richer in experience they could share.",
+    "The storyteller borrows his authority from death."
+  ]
+}

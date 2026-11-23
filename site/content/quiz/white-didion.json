@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A reporter says, 'I didn't shape it; I just found the story in the facts.' What would Hayden White reply?",
+      "choices": [
+        "Right: facts arrange themselves",
+        "The facts limit what you can say, but you chose the kind of story they became",
+        "Stories should begin with a nut graf",
+        "The story lies in the reporter's personal insight"
+      ],
+      "answer": 1,
+      "explain": "Emplotment is a choice the evidence doesn't dictate."
+    },
+    {
+      "q": "Which set are White's four modes of emplotment?",
+      "choices": [
+        "Exposition, rising action, climax, denouement",
+        "Ki, shō, ten, ketsu",
+        "Romance, tragedy, comedy, satire",
+        "Setup, confrontation, resolution, epilogue"
+      ],
+      "answer": 2,
+      "explain": "He borrowed them from Northrop Frye's Anatomy of Criticism (1957)."
+    },
+    {
+      "q": "Where do White's four plot types originally come from?",
+      "choices": [
+        "Aristotle's Poetics",
+        "Joseph Campbell's monomyth",
+        "Vladimir Propp's folktale functions",
+        "Northrop Frye's Anatomy of Criticism"
+      ],
+      "answer": 3,
+      "explain": "The types are Frye's; applying them to history-writing is White's move."
+    },
+    {
+      "q": "Why, according to 'The Value of Narrativity', do we prefer narrative history to annals?",
+      "choices": [
+        "Narrative closure gives events a moral meaning",
+        "Annals were written in Latin",
+        "Narratives contain more facts",
+        "Annals had no dates"
+      ],
+      "answer": 0,
+      "explain": "Ending a story is a way of judging it; narrative is bound up with the urge to moralize."
+    },
+    {
+      "q": "How does 'We tell ourselves stories in order to live' function in Didion's essay?",
+      "choices": [
+        "As the thesis of a celebration of storytelling",
+        "As advice to young writers",
+        "As a prelude to doubt about the stories she'd told herself",
+        "As a quote from one of the Manson trial witnesses"
+      ],
+      "answer": 2,
+      "explain": "The essay goes on to show events refusing to cohere into narrative."
+    },
+    {
+      "q": "A reporter covering a chaotic week of events finds no arc fits. What does Didion's 'The White Album' model?",
+      "choices": [
+        "Force the events into a hero's journey",
+        "A fragmented structure that admits the material resists narrative",
+        "Lead with the most important fact",
+        "Wait until there's a resolution"
+      ],
+      "answer": 1,
+      "explain": "Didion's form, fragments and lists, is part of her argument."
+    },
+    {
+      "q": "What criticism was raised against White at the 1990 conference published as Probing the Limits of Representation?",
+      "choices": [
+        "That some events, like the Holocaust, may not rightly be told in just any mode",
+        "That he relied too heavily on Freud",
+        "That he ignored historians' politics",
+        "That his modes were too numerous"
+      ],
+      "answer": 0,
+      "explain": "Scholars pressed him on whether choice of plot is limited by the events themselves."
+    }
+  ],
+  "ideas": [
+    "Historians don't find plots in the past; they give events the shape of romance, tragedy, comedy or satire.",
+    "Medieval annals that list hard winters and blank years show what records look like without narrative closure.",
+    "Narrative closure is a way of moralizing reality: to end a story is to judge it.",
+    "We tell ourselves stories in order to live, and some years those stories stop working."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "In a script, a phone rings; the heroine crosses the room, sets down a cup and turns on a lamp; then she decides not to answer. Which actions are the nuclei?",
+      "choices": [
+        "The phone ringing and her decision not to answer",
+        "Crossing the room and setting down the cup",
+        "Only turning on the lamp",
+        "All of them equally"
+      ],
+      "answer": 0,
+      "explain": "Nuclei are hinges where the story could go different ways; the rest are catalyzers."
+    },
+    {
+      "q": "Which code raises enigmas, delays their answers and finally discloses the truth?",
+      "choices": [
+        "The symbolic code",
+        "The proairetic code",
+        "The hermeneutic code",
+        "The cultural code"
+      ],
+      "answer": 2,
+      "explain": "The hermeneutic code is the theory behind 'a question held open'."
+    },
+    {
+      "q": "A reader sees a character pack a bag at night and instantly expects a departure. Which code is at work?",
+      "choices": [
+        "The semic code",
+        "The proairetic code",
+        "The hermeneutic code",
+        "The symbolic code"
+      ],
+      "answer": 1,
+      "explain": "The proairetic code is sequences of actions we recognize from the first step because we've read them before."
+    },
+    {
+      "q": "A mystery answers each question in the same scene it's asked, and audiences lose interest. What's missing?",
+      "choices": [
+        "A unified action",
+        "A premise to prove",
+        "A carrier bag",
+        "Delays: snares, partial answers and postponements in the hermeneutic code"
+      ],
+      "answer": 3,
+      "explain": "Barthes shows that narrative works hard to delay its answers; the middle is delay."
+    },
+    {
+      "q": "Where do the craft terms 'kernels and satellites' come from?",
+      "choices": [
+        "Seymour Chatman, adapting Barthes's nuclei and catalyzers",
+        "Gustav Freytag's pyramid",
+        "Vladimir Propp's functions",
+        "Aristotle's Poetics"
+      ],
+      "answer": 0,
+      "explain": "Chatman's Story and Discourse (1978) renamed Barthes's 1966 distinction."
+    },
+    {
+      "q": "What is a 'writerly' text?",
+      "choices": [
+        "A text with an obvious authorial voice",
+        "A text written for other writers",
+        "A text that makes the reader a producer of meaning, with no single way through",
+        "A text with heavy description"
+      ],
+      "answer": 2,
+      "explain": "The readerly text offers a finished meaning; the writerly one asks the reader to make it."
+    },
+    {
+      "q": "What is the main claim of 'The Death of the Author'?",
+      "choices": [
+        "Authors should write anonymously",
+        "A text's meaning isn't fixed by its author's life and intentions but made in its reader",
+        "Authorship ended with the printing press",
+        "Only living authors can be interpreted"
+      ],
+      "answer": 1,
+      "explain": "The essay ends by tying the birth of the reader to the death of the Author."
+    }
+  ],
+  "ideas": [
+    "Every stretch of a story is woven from five codes, only two of which drive the reader forward in time.",
+    "Narrative raises a question and then labors to delay its answer with snares, equivocations and partial answers.",
+    "Some actions are hinges where a story could branch; others merely fill the space between hinges.",
+    "The birth of the reader must be at the cost of the death of the author."
+  ]
+}

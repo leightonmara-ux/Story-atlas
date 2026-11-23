@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A narrator insists he was a loyal, contented servant, but the novel keeps showing us what he gave up. What is Booth's term for him?",
+      "choices": [
+        "A polyphonic narrator",
+        "An unreliable narrator",
+        "An implied author",
+        "An omniscient narrator"
+      ],
+      "answer": 1,
+      "explain": "His account conflicts with the norms of the work, so the reader sees past him."
+    },
+    {
+      "q": "What does Booth mean by the implied author?",
+      "choices": [
+        "The ghostwriter behind a celebrity memoir",
+        "The narrator of a first-person novel",
+        "The writer's real biography",
+        "The sensibility a reader infers from all the work's choices"
+      ],
+      "answer": 3,
+      "explain": "It's distinct from both the flesh-and-blood author and the narrator."
+    },
+    {
+      "q": "A workshop leader says, \"Never tell, always show.\" How would Booth respond?",
+      "choices": [
+        "Telling is a legitimate tool, and showing is also a set of authorial choices",
+        "He'd agree: commentary always weakens fiction",
+        "Showing belongs only to drama",
+        "Telling is fine only in the climax"
+      ],
+      "answer": 0,
+      "explain": "Booth argued against the rule; the question is the effect on the reader."
+    },
+    {
+      "q": "What makes a novel polyphonic in Bakhtin's sense?",
+      "choices": [
+        "It has many subplots",
+        "It's narrated by several people in turn",
+        "Its characters are independent voices the author doesn't overrule",
+        "It uses free indirect style throughout"
+      ],
+      "answer": 2,
+      "explain": "Polyphony is about unmerged, fully valid consciousnesses, not just multiple narrators."
+    },
+    {
+      "q": "\"Ted watched the orchestra through stupid tears.\" Why is this free indirect style?",
+      "choices": [
+        "The narrator is unreliable",
+        "The word 'stupid' is Ted's judgment, absorbed into third-person narration",
+        "It's in the first person",
+        "It quotes Ted directly"
+      ],
+      "answer": 1,
+      "explain": "Narration takes on the character's own words without quotation marks."
+    },
+    {
+      "q": "Which stage device most directly gives one character control of the audience's point of view?",
+      "choices": [
+        "A chorus of townspeople",
+        "A double plot",
+        "A well-made-play reversal",
+        "Direct address, as in Richard III's asides or Tom's narration in The Glass Menagerie"
+      ],
+      "answer": 3,
+      "explain": "Direct address and onstage narrators make one character our guide, reliable or not."
+    },
+    {
+      "q": "Bakhtin claimed drama is alien to genuine polyphony. What's a common reply from theatre scholars?",
+      "choices": [
+        "A stage of embodied, contending voices is dialogic by nature",
+        "Plays have no point of view at all",
+        "Only musicals are polyphonic",
+        "Drama has no implied author"
+      ],
+      "answer": 0,
+      "explain": "Many argue drama's competing live voices make it inherently dialogic."
+    },
+    {
+      "q": "A reporter writes a feature entirely from inside a subject's head. What does the point-of-view choice demand?",
+      "choices": [
+        "Nothing, since it's third person",
+        "Reporting that justifies knowing those thoughts",
+        "A first-person kicker",
+        "A single source"
+      ],
+      "answer": 1,
+      "explain": "Interior access in journalism has to be earned by interviews and evidence."
+    }
+  ],
+  "ideas": [
+    "Every novel implies an author, a sensibility behind its choices, against whom we measure the narrator.",
+    "Telling is as legitimate a fictional tool as showing; even the most dramatic scene is a rhetorical choice.",
+    "The greatest novels let characters' voices stand as independent, unmerged consciousnesses rather than subordinating them to the author's.",
+    "Every word we use already carries other people's intentions, so all speech is a reply in an ongoing dialogue."
+  ]
+}

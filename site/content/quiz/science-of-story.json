@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "q": "What did Green and Brock's research on narrative transportation find?",
+      "choices": [
+        "Absorbed readers held more story-consistent beliefs and spotted fewer false notes",
+        "Stories release oxytocin",
+        "Fiction readers are always more empathetic",
+        "Stories have no persuasive effect"
+      ],
+      "answer": 0,
+      "explain": "Transportation lowers counterarguing; later meta-analyses found modest but real effects."
+    },
+    {
+      "q": "A seminar promises a 'neuroscience-proven' 15-beat structure. What's the fairest response?",
+      "choices": [
+        "Accept it; brain scans settle craft questions",
+        "Reject all research on story",
+        "Be skeptical: research supports broad claims, not precise craft prescriptions",
+        "Only trust it if it mentions oxytocin"
+      ],
+      "answer": 2,
+      "explain": "Studies rarely test craft choices directly."
+    },
+    {
+      "q": "What happened to the 2013 study finding that reading literary fiction improves mind-reading?",
+      "choices": [
+        "It became the basis of the Bechdel test",
+        "Later replication attempts largely failed",
+        "It was proven by brain imaging",
+        "It was never published"
+      ],
+      "answer": 1,
+      "explain": "Correlational evidence about heavy readers is more stable but can't show cause."
+    },
+    {
+      "q": "Why is 'stories work by releasing oxytocin' a weak claim?",
+      "choices": [
+        "Oxytocin doesn't exist in humans",
+        "The oxytocin-trust findings haven't replicated well and blood measures are questioned",
+        "It was disproven by Aristotle",
+        "It applies only to film"
+      ],
+      "answer": 1,
+      "explain": "A 2015 critical review found the trust evidence wasn't robust."
+    },
+    {
+      "q": "Which statement about storytelling's evolution is most accurate?",
+      "choices": [
+        "It's proven that fiction evolved for social rehearsal",
+        "It's proven to be a by-product",
+        "Storytelling isn't universal",
+        "It's universal, but whether it's an adaptation or a by-product is debated"
+      ],
+      "answer": 3,
+      "explain": "Boyd and Gottschall argue adaptation; others favor by-product."
+    },
+    {
+      "q": "Why does narrative persuasion research matter especially to journalists?",
+      "choices": [
+        "Because stories always tell the truth",
+        "Because absorbed readers argue back less, so a story can carry a weak claim past their guard",
+        "Because it shows readers prefer statistics",
+        "Because it forbids anecdotal ledes"
+      ],
+      "answer": 1,
+      "explain": "Story is powerful, which is a responsibility."
+    },
+    {
+      "q": "What did Stephens, Silbert and Hasson's 2010 study report?",
+      "choices": [
+        "Listeners' brain activity coupled with the storyteller's, more so when they understood the story",
+        "Stories cause permanent brain change",
+        "Literary fiction boosts empathy",
+        "Oxytocin doubles during climaxes"
+      ],
+      "answer": 0,
+      "explain": "Fascinating, but it doesn't yet translate into structural advice."
+    },
+    {
+      "q": "Which is the most balanced verdict on the science of story?",
+      "choices": [
+        "It proves every craft rule",
+        "It shows nothing at all",
+        "Broad claims hold up; precise mechanisms and craft rules mostly don't yet",
+        "It only applies to children"
+      ],
+      "answer": 2,
+      "explain": "Don't overclaim in either direction."
+    }
+  ],
+  "ideas": [
+    "Which approach measures how absorbed readers are in a story and finds that absorption lowers counterarguing?",
+    "Which approach treats fiction as an evolved form of cognitive play that trains attention and social understanding?",
+    "Which approach likens stories to a flight simulator for social life?"
+  ]
+}
