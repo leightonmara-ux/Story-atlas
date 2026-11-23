@@ -1,0 +1,1321 @@
+[
+  {
+    "term": "Act",
+    "origin": "The five-act rule goes back to Horace's Ars Poetica (late 1st century BCE), was revived by Renaissance critics and analysed by Freytag (1863); the three-act screen model was popularized by Syd Field in Screenplay (1979).",
+    "myth": "Three-act structure is often credited to Aristotle, but he described a whole with a beginning, middle and end, not acts.",
+    "meaning": "A large movement of a story, usually ending on a turn that changes the situation. Theorists disagree about how many acts a story has; in television an act is also the stretch between commercial breaks.",
+    "use": "Write one sentence for each act that names the situation at its end; if two acts end in the same situation, they are really one. Then check that every act ends on a turn the audience can feel, not just on a page count.",
+    "lessons": [
+      "shared-core",
+      "field",
+      "freytag",
+      "yorke",
+      "tv",
+      "three-media"
+    ]
+  },
+  {
+    "term": "Against interpretation",
+    "origin": "Susan Sontag, in the essay \"Against Interpretation\" (1964), collected in Against Interpretation (1966).",
+    "meaning": "Sontag's argument that hunting for hidden meanings tames art, and that critics should attend to form and to what a work does to the senses. Her essay ends by calling for \"an erotics of art\" in place of a hermeneutics.",
+    "use": "When you workshop a piece, describe what you experienced moment by moment before anyone says what it means. If a scene only works once it's explained, the meaning is sitting on top of the form instead of inside it.",
+    "lessons": [
+      "sontag"
+    ]
+  },
+  {
+    "term": "Anagnorisis",
+    "aka": [
+      "Recognition",
+      "Discovery"
+    ],
+    "origin": "Aristotle, Poetics (c. 335 BCE), ch. 11.",
+    "meaning": "Recognition: a change from ignorance to knowledge, ideally about who someone really is, and best when it coincides with a reversal.",
+    "use": "Plan your biggest reveal so it reverses what the character (and audience) believed and forces a new action. In journalism, place the turning fact where it overturns the reader's assumption.",
+    "lessons": [
+      "aristotle",
+      "baxter"
+    ]
+  },
+  {
+    "term": "Analepsis and prolepsis",
+    "aka": [
+      "Flashback and flash-forward",
+      "Anachrony (Genette)"
+    ],
+    "origin": "Gérard Genette introduced these terms in Narrative Discourse (Discours du récit, 1972; English 1980), as part of his analysis of narrative order.",
+    "meaning": "Analepsis is a jump back in time (a flashback); prolepsis is a jump forward (a flash-forward). Genette calls any departure from chronological order an anachrony.",
+    "use": "Before using a flashback, ask what question in the present it answers; place it right after the audience has started to wonder. A prolepsis (showing the ending first) trades the question \"what happens?\" for \"how did it come to this?\", which is often stronger for true stories whose outcome is known.",
+    "lessons": [
+      "narrative-order",
+      "vogel",
+      "alison"
+    ]
+  },
+  {
+    "term": "Anecdote and reflection",
+    "origin": "Ira Glass, in the video series Ira Glass on Storytelling, which circulated online from the mid-2000s.",
+    "meaning": "Glass's two building blocks of a radio story: the anecdote, a sequence of actions that raises questions and pulls the listener forward, and the moment of reflection, where someone says what it means.",
+    "use": "Mark each paragraph or tape segment as A (action) or R (reflection) and check that they alternate; a long run of either one loses people. If you can't find a reflection, ask your subject \"Why does this matter to you?\" on tape.",
+    "lessons": [
+      "glass"
+    ]
+  },
+  {
+    "term": "Archplot",
+    "aka": [
+      "Miniplot",
+      "Antiplot"
+    ],
+    "origin": "Robert McKee, Story (1997), which sets archplot against miniplot and antiplot as the corners of his \"story triangle\".",
+    "meaning": "The classic design: an active protagonist pursues a goal through mostly external conflict, in continuous time and a causal chain, to a closed ending. Miniplot minimizes these features (internal conflict, open endings); antiplot breaks them (coincidence, fractured time).",
+    "use": "Decide which corner your story belongs to before judging it by archplot rules. If you choose miniplot, the audience still needs something to track, such as a slowly changing relationship or a question of understanding.",
+    "lessons": [
+      "mckee"
+    ]
+  },
+  {
+    "term": "B story",
+    "aka": [
+      "Subplot",
+      "A/B/C stories"
+    ],
+    "origin": "A long-standing television writers' term for the secondary storyline (with A, B and C stories); Blake Snyder made \"B Story\" a named beat in Save the Cat! (2005). No single originator is known.",
+    "meaning": "A second storyline, usually smaller and often a relationship, that runs alongside the main plot and comments on it.",
+    "use": "Make the B story carry the theme the A story can't say out loud: often it's where the protagonist learns what they need to win the A story. Test it by cutting it; if the climax loses nothing, the B story isn't connected yet.",
+    "lessons": [
+      "tv",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Beat",
+    "origin": "In acting, from Stanislavski's \"bits\" (units) of a role; in screenwriting, defined by Robert McKee in Story (1997) as an exchange of action and reaction. The word's origin is uncertain.",
+    "myth": "The story that American actors got \"beat\" from Russian teachers pronouncing \"bit\" with an accent is charming but unproven.",
+    "meaning": "The smallest unit of change in a scene: a shift in what a character is doing to get what they want. In outlines, \"beat\" also loosely means any story event.",
+    "use": "Go through a scene and mark every place a character changes tactic; each mark starts a new beat. If a page has no new beat, the characters are repeating themselves and you can cut or compress.",
+    "lessons": [
+      "stanislavski",
+      "mckee",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Beat sheet",
+    "origin": "Popularized by Blake Snyder's \"Blake Snyder Beat Sheet\" in Save the Cat! (2005); the general industry term for a list of story beats is older and of unclear origin.",
+    "meaning": "A one- or two-page list of a story's main events in order, used to plan or pitch before writing pages. Snyder's version names fifteen beats with page targets.",
+    "use": "Write a beat sheet before your next draft, one line per beat, and read only the verbs: if they don't build, the draft won't either. Treat page targets as a diagnostic after drafting, not a mould.",
+    "lessons": [
+      "snyder",
+      "field"
+    ]
+  },
+  {
+    "term": "Bechdel test",
+    "aka": [
+      "Bechdel-Wallace test"
+    ],
+    "origin": "From Alison Bechdel's comic strip Dykes to Watch Out For, in the 1985 strip \"The Rule\"; Bechdel credits the idea to her friend Liz Wallace and prefers the name Bechdel-Wallace test.",
+    "meaning": "A quick check for whether a film has at least two women who talk to each other about something other than a man. It measures a pattern across many films, not the quality of one.",
+    "use": "Run it on your own script and on the ensemble around your protagonist: if your secondary characters only exist in relation to the lead, give two of them a scene with a want of their own. Use it as a prompt to look, not as a pass/fail grade.",
+    "lessons": [
+      "who-is-the-subject"
+    ]
+  },
+  {
+    "term": "Carrier bag theory",
+    "origin": "Ursula K. Le Guin, \"The Carrier Bag Theory of Fiction\" (written 1986, published in Dancing at the Edge of the World, 1989), drawing on Elizabeth Fisher's Women's Creation.",
+    "meaning": "Le Guin's proposal that a story can be a container that holds many things in relation, rather than a spear-shaped arc of conflict and triumph.",
+    "use": "Try organizing a piece around a gathering place or an object that collects lives (a kitchen, a ward, a bag) and let relationships, not a single conflict, carry the reader. Give the reader a reason to keep going anyway: curiosity, accumulation, a question.",
+    "lessons": [
+      "le-guin",
+      "alison"
+    ]
+  },
+  {
+    "term": "Catharsis",
+    "origin": "Aristotle, Poetics (c. 335 BCE), ch. 6, where tragedy brings about the catharsis of pity and fear.",
+    "meaning": "The release or transformation of emotion an audience experiences through tragedy. Aristotle never explains it fully, and scholars still debate whether it means purging, purifying or clarifying.",
+    "use": "Ask what your audience should feel at the end and whether the story has earned it: pity requires that we understand the character, fear that we see ourselves in them. If the ending feels manipulative, you've asked for emotion the earlier scenes didn't build.",
+    "lessons": [
+      "aristotle",
+      "natyashastra"
+    ]
+  },
+  {
+    "term": "Chekhov's gun",
+    "origin": "Based on Anton Chekhov's remarks in letters and conversation, including an 1889 letter to Alexander Lazarev (Gruzinsky) and a reminiscence by Ilia Gurlyand published in 1904.",
+    "myth": "Chekhov stated the rule several ways and didn't always follow it; the popular version, \"every detail must pay off\", is a simplification.",
+    "meaning": "The principle of economy: don't plant an element the audience will notice unless it is going to matter.",
+    "use": "Underline every object, skill or fact you draw attention to in Act One and check that each is used later; cut or quiet the ones that aren't. In nonfiction, the same test applies to details in the lede.",
+    "lessons": [
+      "chekhov"
+    ]
+  },
+  {
+    "term": "Cliffhanger",
+    "origin": "The word is recorded from the early 1930s in film-serial slang; it is often traced to Thomas Hardy's A Pair of Blue Eyes (serialized 1872–73), where a character literally hangs from a cliff, but no link to the word has been shown.",
+    "meaning": "An episode or chapter ending that leaves a character in danger or a question open, to make the audience come back.",
+    "use": "End an episode on a new question, not just on a moment of peril: a revelation that changes what the audience thought the story was about lasts longer than a threat. Then pay it off promptly next time, or audiences learn to distrust your endings.",
+    "lessons": [
+      "tv"
+    ]
+  },
+  {
+    "term": "Climax",
+    "origin": "From the Greek klimax (\"ladder\"), a rhetorical figure of rising intensity; Freytag's Höhepunkt (1863) was rendered \"climax\" in English, and the word is now used by nearly every structural theory.",
+    "meaning": "The decisive confrontation or action where the story's central question is answered. Freytag put it at the centre of the play; modern screen models put it near the end.",
+    "use": "State your story's central question in one line, then check that the climax answers it through the protagonist's own choice or action. If someone else solves the problem, move the decisive act back to your protagonist.",
+    "lessons": [
+      "freytag",
+      "mckee",
+      "field",
+      "hart",
+      "thompson",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Cold open",
+    "aka": [
+      "Teaser"
+    ],
+    "origin": "A television term for a scene before the opening titles; its first use is unknown.",
+    "meaning": "A short opening scene that plays before the credits, designed to hook the viewer immediately. Also called a teaser.",
+    "use": "Open with the most intriguing moment you can show without explanation, then cut to titles before answering it. A good test: could someone who switched on mid-scene still be curious?",
+    "lessons": [
+      "tv"
+    ]
+  },
+  {
+    "term": "Complication and resolution",
+    "origin": "Jon Franklin, Writing for Story (1986).",
+    "meaning": "Franklin's core of a true story: a complication, a problem that matters to a sympathetic person, and a resolution, a change that person brings about, ideally through insight.",
+    "use": "Before reporting a narrative, try to state your story as one complication and one resolution in a few words each, in Franklin's spirit. If you can't, you may have a subject rather than a story, and an explanatory piece may serve it better.",
+    "lessons": [
+      "franklin",
+      "hart"
+    ]
+  },
+  {
+    "term": "Composite character",
+    "origin": "A long-standing practice in fiction, drama and some journalism; no originator. It became a central ethics issue in the debates over the New Journalism in the 1970s and 1980s.",
+    "meaning": "A single character built from several real people. Common and accepted in fiction and dramatization; in journalism, unacknowledged composites are generally considered a breach of the reader's trust.",
+    "use": "In journalism, don't use them; if you must for privacy, say so plainly in the text. In a fact-based play or film, disclose it in a note and keep each composite's key actions true to something that really happened.",
+    "lessons": [
+      "ethics",
+      "new-journalism"
+    ]
+  },
+  {
+    "term": "Controlling idea",
+    "aka": [
+      "Theme (in McKee's sense)"
+    ],
+    "origin": "Robert McKee, Story (1997).",
+    "meaning": "The story's meaning in a single sentence, naming a value and the cause of its final state, as shown by the climax.",
+    "use": "Write one sentence: \"[Value] wins/loses because [cause].\" Then check that your climax demonstrates exactly that, and that the opposing idea gets its strongest case somewhere earlier.",
+    "lessons": [
+      "mckee",
+      "egri"
+    ]
+  },
+  {
+    "term": "Crisis",
+    "origin": "From the Greek krisis (\"decision\"); used by many theorists, and defined by Robert McKee in Story (1997) as the protagonist's dilemma before the climax; Janet Burroway's Writing Fiction (1982) uses conflict, crisis and resolution.",
+    "meaning": "The point of maximum pressure, where the protagonist must make a hard choice and the outcome is still open.",
+    "use": "Make the crisis a genuine dilemma, two goods or two evils, so the choice reveals character. If your protagonist's choice is obvious, raise the cost of the right option.",
+    "lessons": [
+      "mckee",
+      "burroway",
+      "hart",
+      "swain",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Dark night of the soul",
+    "aka": [
+      "All Is Lost (Snyder)",
+      "Ordeal (Vogler, roughly)"
+    ],
+    "origin": "As a story beat, Blake Snyder, Save the Cat! (2005), paired with \"All Is Lost\"; the phrase itself comes from the 16th-century Spanish poet St John of the Cross.",
+    "meaning": "The low point after the protagonist's biggest defeat, when they sit with the loss before finding the way forward.",
+    "use": "Give the protagonist a moment to absorb the defeat, ideally with an image of what they've lost, before the solution arrives. Keep it short on screen; on stage or in prose it can be where the real change happens.",
+    "lessons": [
+      "snyder",
+      "campbell-vogler"
+    ]
+  },
+  {
+    "term": "Death of the author",
+    "origin": "Roland Barthes, \"The Death of the Author\", first published in English in Aspen magazine (1967), then in French (1968).",
+    "meaning": "Barthes's argument that a text's meaning is made by the reader, not settled by the author's intentions or biography.",
+    "use": "When you get workshop feedback, listen to what readers actually took from the page rather than defending what you meant. If several readers miss your intention, change the text, not the reader.",
+    "lessons": [
+      "barthes"
+    ]
+  },
+  {
+    "term": "Defamiliarization",
+    "aka": [
+      "Ostranenie",
+      "Estrangement"
+    ],
+    "origin": "Viktor Shklovsky, \"Art as Device\" (1917); the Russian word ostranenie is his coinage.",
+    "meaning": "Making the familiar strange, so that the reader sees it freshly instead of recognizing it automatically.",
+    "use": "Describe a familiar thing as if seeing it for the first time, through a child, a foreigner or an animal, as Tolstoy does. In journalism, open on the routine detail an insider has stopped noticing.",
+    "lessons": [
+      "narrative-order",
+      "brecht"
+    ]
+  },
+  {
+    "term": "Dénouement",
+    "aka": [
+      "Lysis (Aristotle)"
+    ],
+    "origin": "French for \"untying\", a term from French neoclassical dramatic criticism that echoes Aristotle's lysis (unraveling) in the Poetics.",
+    "meaning": "The final unravelling after the climax, where the consequences are shown and loose ends are tied up.",
+    "use": "Keep it as short as the audience allows: show the one image or exchange that proves how things have changed, then stop. If you need several scenes to explain the ending, the climax hasn't done its job.",
+    "lessons": [
+      "well-made-play",
+      "aristotle",
+      "freytag",
+      "endings"
+    ]
+  },
+  {
+    "term": "Deus ex machina",
+    "origin": "Latin for \"god from the machine\", after the crane that lowered gods onto the Greek stage; Aristotle criticized such endings in the Poetics (ch. 15) and Horace warned against them in the Ars Poetica.",
+    "meaning": "An ending in which an outside force suddenly solves the problem, rather than the plot's own logic.",
+    "use": "Check that whatever resolves your climax was set up earlier and is driven by the protagonist's choice. If luck must play a role, Pixar's version of the rule applies: coincidence can get characters into trouble, not out of it.",
+    "lessons": [
+      "aristotle",
+      "pixar"
+    ]
+  },
+  {
+    "term": "Dramatic irony",
+    "origin": "An ancient technique; the concept was influentially discussed by Connop Thirlwall in \"On the Irony of Sophocles\" (1833), and \"dramatic irony\" became a standard term later in the 19th century.",
+    "meaning": "When the audience knows something a character doesn't, so every action carries a second meaning.",
+    "use": "Tell the audience the secret early and let the character walk toward it; then write the scene in which they find out. In nonfiction, the reader knowing the outcome turns a subject's confident statements into suspense.",
+    "lessons": [
+      "sequence",
+      "aristotle",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Dramatic question",
+    "aka": [
+      "Central dramatic question",
+      "Main tension (Daniel)"
+    ],
+    "origin": "A widely used teaching term (also \"central dramatic question\"); no single originator. Frank Daniel's related \"main tension\" is taught in Paul Gulino's Screenwriting: The Sequence Approach (2004).",
+    "meaning": "The yes-or-no question that holds the audience's attention: will she get out? Who did it? The climax answers it.",
+    "use": "Write your story's question in one line ending in a question mark; if you can't, the audience won't know what to watch for. Then check each sequence against it: does it make the answer more uncertain?",
+    "lessons": [
+      "sequence",
+      "shared-core",
+      "mamet"
+    ]
+  },
+  {
+    "term": "Dysfunctional narratives",
+    "origin": "Charles Baxter, \"Dysfunctional Narratives: or, 'Mistakes Were Made'\", in Burning Down the House (1997).",
+    "meaning": "Baxter's term for stories in which nobody takes responsibility: things happen to a passive protagonist, and the climax is a recognition of grievance rather than a choice.",
+    "use": "Look for the moment where your protagonist could have acted and check whether they do. If your story is about something done to someone, give them at least one decision that matters, even if it fails.",
+    "lessons": [
+      "baxter"
+    ]
+  },
+  {
+    "term": "Emplotment",
+    "origin": "Hayden White, Metahistory (1973); Paul Ricœur developed a related idea (mise en intrigue) in Time and Narrative (1983–85).",
+    "meaning": "The process of turning a sequence of events into a story of a particular kind, such as tragedy, comedy, romance or satire. White argued historians do this too, so the shape is chosen, not found.",
+    "use": "Before writing up a true story, ask what genre you're casting it in (tragedy? redemption?) and try drafting the lede in a different one. If the facts fit both equally well, the shape is your choice and you owe the reader awareness of it.",
+    "lessons": [
+      "white-didion",
+      "ethics"
+    ]
+  },
+  {
+    "term": "Epic theatre",
+    "origin": "Developed in 1920s Germany by Erwin Piscator and Bertolt Brecht; Brecht set out its contrast with \"dramatic\" theatre in his notes to Rise and Fall of the City of Mahagonny (1930).",
+    "meaning": "A theatre that narrates rather than immerses, interrupting the action with songs, titles and direct address so the audience thinks about the social causes of what they see.",
+    "use": "Interrupt your own story at the moment of highest emotion with a title, a song or a direct address that asks the audience a question. Use it where you want judgment, not empathy.",
+    "lessons": [
+      "brecht"
+    ]
+  },
+  {
+    "term": "Epiphany",
+    "origin": "In its literary sense, from James Joyce, in Stephen Hero (written c. 1904–06, published 1944), borrowing a religious term.",
+    "meaning": "A sudden moment of insight in which a character, or the reader, sees the truth of a situation.",
+    "use": "Earn the epiphany with a concrete trigger: an object, a line, a gesture, not a summary of what the character realizes. End close to it, before the character explains it.",
+    "lessons": [
+      "baxter",
+      "franklin"
+    ]
+  },
+  {
+    "term": "Exposition",
+    "origin": "An old term of rhetoric and dramatic criticism with no single originator; it is the first part of Freytag's five-part scheme (1863), which he called the introduction.",
+    "meaning": "The background information the audience needs: who these people are, what happened before, what the rules are.",
+    "use": "Deliver it when the audience wants it, ideally in a scene where someone has a reason to say or hide it. Test each line of backstory: if the audience isn't asking yet, delay it.",
+    "lessons": [
+      "freytag",
+      "well-made-play",
+      "hart",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Fabula and syuzhet",
+    "aka": [
+      "Story and discourse (Chatman)"
+    ],
+    "origin": "Russian Formalists in the 1920s, especially Viktor Shklovsky and Boris Tomashevsky.",
+    "meaning": "The fabula is the events in their chronological order; the syuzhet is the order and manner in which they are told.",
+    "use": "Write your events in chronological order on one list and in telling order on another; every difference is a choice you should be able to justify. Try one experiment: start with the event that raises the biggest question.",
+    "lessons": [
+      "narrative-order",
+      "forster"
+    ]
+  },
+  {
+    "term": "Falling action",
+    "origin": "An English textbook label for the downward slope of Freytag's pyramid, which Freytag (1863) called the \"return or fall\".",
+    "meaning": "The events after the climax, leading to the ending. In Freytag's tragedy it is half the play; in modern films it is short.",
+    "use": "Keep the falling action proportionate: on screen, show consequences quickly; on stage, use it for a last flicker of suspense, as Freytag recommended. If it drags, cut until only the change is shown.",
+    "lessons": [
+      "freytag",
+      "hart"
+    ]
+  },
+  {
+    "term": "Five Ws",
+    "aka": [
+      "Five Ws and an H"
+    ],
+    "origin": "The list goes back to the \"circumstances\" of classical rhetoric; it became newsroom doctrine in American journalism teaching in the early 20th century. Kipling's \"six honest serving-men\" (Just So Stories, 1902) is often quoted.",
+    "meaning": "Who, what, when, where, why (and how): the questions a basic news report must answer.",
+    "use": "Check your first two paragraphs against the list; anything missing should be there unless you've chosen to delay it. Then ask which W is the news, and lead with that one.",
+    "lessons": [
+      "inverted-pyramid"
+    ]
+  },
+  {
+    "term": "Flat and round characters",
+    "origin": "E. M. Forster, Aspects of the Novel (1927).",
+    "meaning": "Flat characters are built around a single idea or quality; round characters are complex. Forster's test of a round character is whether it is \"capable of surprising in a convincing way\".",
+    "use": "Pick your three main characters and write one thing each does that would surprise the reader but makes sense in hindsight. Keep minor characters flat on purpose: they are efficient and often funny.",
+    "lessons": [
+      "forster",
+      "egri"
+    ]
+  },
+  {
+    "term": "Focalization",
+    "origin": "Gérard Genette, Narrative Discourse (1972), separating \"who sees?\" from \"who speaks?\".",
+    "meaning": "The perspective through which events are perceived, as distinct from the voice telling them.",
+    "use": "Identify whose perceptions shape each scene; if it shifts mid-scene without purpose, choose one. For suspense, focalize through someone who knows less than the reader.",
+    "lessons": [
+      "narrative-order",
+      "point-of-view"
+    ]
+  },
+  {
+    "term": "Foreshadowing",
+    "origin": "A general literary term with no single originator; Egri lists foreshadowing among his tools in The Art of Dramatic Writing (1946).",
+    "meaning": "A hint early in a story of what will come later.",
+    "use": "Plant the hint where the audience is looking at something else, so it registers without announcing itself. Test on a reader: they should not predict the ending, but should recognize it once it arrives.",
+    "lessons": [
+      "egri",
+      "chekhov"
+    ]
+  },
+  {
+    "term": "Fourth wall",
+    "origin": "The idea is usually traced to Denis Diderot, Discourse on Dramatic Poetry (1758), who advised actors to imagine a wall separating them from the audience; the phrase spread with 19th-century realist theatre.",
+    "meaning": "The imaginary wall between the stage and the audience. \"Breaking the fourth wall\" means addressing the audience directly.",
+    "use": "Decide your contract early: if you break the wall, do it in the first ten minutes so the audience accepts it. Use direct address to share information the characters can't, or to make the audience complicit.",
+    "lessons": [
+      "brecht",
+      "three-media"
+    ]
+  },
+  {
+    "term": "Free indirect style",
+    "aka": [
+      "Free indirect discourse"
+    ],
+    "origin": "Practised by Jane Austen and Gustave Flaubert; the French term style (or discours) indirect libre was named by the linguist Charles Bally in 1912.",
+    "meaning": "Third-person narration that takes on a character's thoughts and voice without quotation marks or \"she thought\".",
+    "use": "Take a passage of reported thought and remove the tags, letting the narration use the character's own words and judgments. In nonfiction, only do this with thoughts your source told you, and say so somewhere in the piece.",
+    "lessons": [
+      "point-of-view",
+      "new-journalism"
+    ]
+  },
+  {
+    "term": "Freytag's pyramid",
+    "aka": [
+      "Dramatic arc",
+      "Freytag's triangle"
+    ],
+    "origin": "Gustav Freytag, Die Technik des Dramas (1863), with a diagram of the five-act tragedy; the five textbook labels (exposition, rising action, climax, falling action, dénouement) are later simplifications.",
+    "myth": "The school version, with a late climax, describes a different shape; Freytag's own pyramid is symmetrical with the climax at the centre.",
+    "meaning": "A model of tragedy rising through an exciting force to a climax at the centre, then falling through a tragic force to the catastrophe.",
+    "use": "Draw the shape of your own story and see where its peak actually falls; most modern stories peak late, not in the middle. Use Freytag's \"force of final suspense\" to lift a sagging ending.",
+    "lessons": [
+      "freytag",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Functions (Propp)",
+    "aka": [
+      "Spheres of action"
+    ],
+    "origin": "Vladimir Propp, Morphology of the Folktale (1928).",
+    "meaning": "The 31 basic actions that recur, always in the same order, across a corpus of Russian wonder tales, distributed among seven roles (spheres of action) such as villain, donor and false hero.",
+    "use": "List your plot's main actions as functions (lack, departure, test, gift, struggle, return) and see which roles your characters play; one character can play several. Useful for spotting a missing donor or test.",
+    "lessons": [
+      "propp"
+    ]
+  },
+  {
+    "term": "Gap",
+    "origin": "Robert McKee, Story (1997).",
+    "meaning": "The difference between what a character expects to happen when they act and what actually happens.",
+    "use": "At each turning point, write what the character expected and what they got; if those match, there's no gap and the scene may not turn. Widen the gap to raise surprise and the cost of the next action.",
+    "lessons": [
+      "mckee"
+    ]
+  },
+  {
+    "term": "Gestus",
+    "origin": "Bertolt Brecht, from the late 1920s, adapting an older German word.",
+    "meaning": "A gesture or attitude that reveals the social relations between characters, not just individual feeling.",
+    "use": "For a key scene, find one physical action that shows the power relation (who pays, who waits, who stands). Make it visible and repeatable so the audience can read it.",
+    "lessons": [
+      "brecht"
+    ]
+  },
+  {
+    "term": "Ghost",
+    "aka": [
+      "Wound",
+      "Backstory"
+    ],
+    "origin": "John Truby, The Anatomy of Story (2007).",
+    "meaning": "An event from the past that still haunts the protagonist and helps explain their weakness.",
+    "use": "Give your protagonist one specific past event that causes their present weakness, and reveal it late rather than up front. If your story is driven entirely by the ghost, check that present choices still matter.",
+    "lessons": [
+      "truby"
+    ]
+  },
+  {
+    "term": "Given circumstances",
+    "origin": "Konstantin Stanislavski, who took the phrase from Pushkin's writing on drama; it became central to his system in An Actor Prepares (English, 1936).",
+    "meaning": "Everything the actor and the character must take as true: time, place, history, relationships and the events of the play.",
+    "use": "Write down the given circumstances of a scene before you write it: what happened in the hour before? What do they want next? The scene will carry the pressure even if none of it is mentioned.",
+    "lessons": [
+      "stanislavski"
+    ]
+  },
+  {
+    "term": "Hamartia",
+    "origin": "Aristotle, Poetics (c. 335 BCE), ch. 13.",
+    "myth": "\"Tragic flaw\" is a later moralizing gloss; Aristotle means a mistake of judgment or knowledge, not necessarily a defect of character.",
+    "meaning": "The error or mistake that brings about a tragic hero's fall. Better translated as \"error\" than \"tragic flaw\".",
+    "use": "Build your catastrophe out of a mistake your character makes in good faith, from ignorance or misjudgment. It hits harder than one caused by villainy.",
+    "lessons": [
+      "aristotle"
+    ]
+  },
+  {
+    "term": "Hermeneutic code",
+    "aka": [
+      "Enigma code"
+    ],
+    "origin": "Roland Barthes, S/Z (1970), one of his five codes alongside the proairetic (actions), semic, symbolic and cultural codes.",
+    "meaning": "Everything in a text that raises, delays and finally answers a question or enigma: the code of mystery.",
+    "use": "List the questions your opening raises, then mark where each is answered; Barthes's lesson is that the delays (snares, partial answers, red herrings) are where suspense lives. Never leave the reader with no open question.",
+    "lessons": [
+      "barthes",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Hero's journey",
+    "aka": [
+      "Monomyth (Campbell)",
+      "The Writer's Journey (Vogler)"
+    ],
+    "origin": "Joseph Campbell described the monomyth in The Hero with a Thousand Faces (1949), taking the word from James Joyce's Finnegans Wake; Christopher Vogler's Hollywood memo (1985) and The Writer's Journey (1992) turned it into twelve stages for screenwriters.",
+    "myth": "Campbell was describing myths, not prescribing screenplays; the twelve-stage version writers use is Vogler's.",
+    "meaning": "A pattern of departure, initiation and return in which a hero leaves the ordinary world, faces trials, and comes back changed with something to share.",
+    "use": "Use it as a checklist for what your middle may be missing (a mentor, a threshold, an ordeal) rather than a template to fill. Ask what your hero brings back to the ordinary world; if nothing, the return has no point.",
+    "lessons": [
+      "campbell-vogler",
+      "harmon",
+      "yorke"
+    ]
+  },
+  {
+    "term": "Iceberg theory",
+    "aka": [
+      "Theory of omission"
+    ],
+    "origin": "Ernest Hemingway, Death in the Afternoon (1932), comparing good prose to an iceberg with most of its mass below the surface.",
+    "meaning": "The idea that what a writer knows and leaves out can strengthen a story, if the omission is deliberate.",
+    "use": "Write the backstory or the feeling in full in your notes, then cut it from the draft and see what the scene implies on its own. Omit only what you know well; leaving out what you haven't worked out just leaves a hole.",
+    "lessons": [
+      "chekhov",
+      "baxter"
+    ]
+  },
+  {
+    "term": "In late, out early",
+    "aka": [
+      "Enter late, leave early"
+    ],
+    "origin": "A screenwriting maxim of uncertain origin; it is often linked to William Goldman's advice to enter scenes as late as possible, in Adventures in the Screen Trade (1983), but no source has been found for the exact phrase.",
+    "meaning": "Start each scene as late as you can and leave as soon as its point has landed.",
+    "use": "Cover the first and last few lines of every scene; if the scene still works, cut them. Arrive after the greetings and leave before the goodbyes.",
+    "lessons": [
+      "field",
+      "mamet",
+      "three-media"
+    ]
+  },
+  {
+    "term": "In medias res",
+    "origin": "Horace, Ars Poetica (late 1st century BCE), praising Homer for hurrying the reader \"into the middle of things\".",
+    "meaning": "Starting a story in the middle of the action, filling in earlier events later.",
+    "use": "Open at the first moment of real pressure, then ask what backstory the audience actually needs and when. Don't start mid-action just for energy: the reader has to care about who is in danger.",
+    "lessons": [
+      "narrative-order",
+      "aristotle"
+    ]
+  },
+  {
+    "term": "Inciting incident",
+    "aka": [
+      "Exciting force (Freytag)",
+      "Catalyst (Snyder)",
+      "Call to Adventure (Vogler)"
+    ],
+    "origin": "Popularized for screenwriters by Robert McKee in Story (1997); the idea corresponds to Freytag's \"exciting force\" (das erregende Moment, 1863). The exact phrase's first use is uncertain.",
+    "meaning": "The event that upsets the balance of the protagonist's life and launches the story's central conflict.",
+    "use": "Find the moment your protagonist's normal can't continue and check it's an event, not a mood; then make sure the protagonist reacts to it on the page. If it happens too late, the audience may lose patience before the story starts.",
+    "lessons": [
+      "mckee",
+      "freytag",
+      "shared-core",
+      "snyder",
+      "campbell-vogler"
+    ]
+  },
+  {
+    "term": "Indirect action",
+    "origin": "The distinction between direct and indirect action in Chekhov's plays was drawn by David Magarshack in Chekhov the Dramatist (1952).",
+    "meaning": "Major events happen offstage or between acts, while the onstage scenes show people talking around them.",
+    "use": "Try moving a big event offstage and writing the scene before or after it; the audience reads it in the characters' behaviour. Works especially well for grief, money and love.",
+    "lessons": [
+      "chekhov"
+    ]
+  },
+  {
+    "term": "Information vs. story",
+    "origin": "Walter Benjamin, \"The Storyteller\" (1936).",
+    "meaning": "Benjamin's contrast between information, which is only valuable while new and comes already explained, and story, which keeps its power because it leaves the reader free to interpret.",
+    "use": "Remove one explanation from your piece and let the facts stand; the reader's own interpretation will stay with them longer. Useful in features where the urge is to tell the reader what to think.",
+    "lessons": [
+      "benjamin"
+    ]
+  },
+  {
+    "term": "Inverted pyramid",
+    "origin": "Developed in American newspapers in the second half of the 19th century; the familiar story that Civil War telegraph lines forced it is not well supported.",
+    "myth": "The telegraph origin story is popular but historians, including David T. Z. Mindich (1998), find the form spread later and for other reasons.",
+    "meaning": "A news structure that puts the most important facts first and the rest in descending order of importance.",
+    "use": "Write your lede to stand alone, then rank every remaining paragraph by importance; editors should be able to cut from the bottom. Before filing, check what got ranked last: it's often context or people who were affected.",
+    "lessons": [
+      "inverted-pyramid",
+      "three-media"
+    ]
+  },
+  {
+    "term": "Jo-ha-kyū",
+    "origin": "A rhythmic principle from Japanese court music (gagaku), developed for Noh by Zeami Motokiyo in his treatises of the early 1400s.",
+    "meaning": "Three phases, a slow beginning (jo), a breaking or development (ha) and a rapid conclusion (kyū), applying to a whole programme, a play, a scene or a gesture.",
+    "use": "Shape a scene, an episode or a feature so it accelerates: let the opening breathe and let the end come fast. Check the rhythm at several scales, not just the whole piece.",
+    "lessons": [
+      "zeami"
+    ]
+  },
+  {
+    "term": "Kernels and satellites",
+    "origin": "Seymour Chatman, Story and Discourse (1978), adapting Roland Barthes's \"nuclei\" and \"catalysers\" (1966).",
+    "meaning": "Kernels are the events that open choices and can't be removed without changing the story; satellites fill out, elaborate or delay.",
+    "use": "Mark every scene K or S; you can cut satellites for length, but not kernels. If a draft has too many kernels it races; too many satellites, it drifts.",
+    "lessons": [
+      "narrative-order"
+    ]
+  },
+  {
+    "term": "Kicker",
+    "origin": "Newsroom jargon of uncertain origin.",
+    "meaning": "The ending of a feature story, often a quotation, image or detail that circles back to the opening or leaves a final note.",
+    "use": "Save your best quote or image for the kicker, not the middle. Test it: if it would work at the end of any story on the subject, find something more specific.",
+    "lessons": [
+      "wsj-formula"
+    ]
+  },
+  {
+    "term": "Kishōtenketsu",
+    "origin": "A four-part structure from Chinese poetic composition (qǐ chéng zhuǎn hé), long used in Japanese and Korean writing; it became famous in English as \"plot without conflict\" in the 2010s.",
+    "myth": "It is often presented as a conflict-free Eastern alternative to Western drama, but conflict often appears within it and it is mostly taught as a composition pattern.",
+    "meaning": "Introduction, development, a twist that brings in something apparently unrelated, and a conclusion that reconciles them.",
+    "use": "Take two unrelated situations and write a piece where the meaning comes from their juxtaposition rather than a struggle. Put most of your effort into the ending, which has to make the twist resonate.",
+    "lessons": [
+      "kishotenketsu"
+    ]
+  },
+  {
+    "term": "Lede",
+    "aka": [
+      "Lead"
+    ],
+    "origin": "A newsroom respelling of \"lead\", recorded from the mid-20th century; the usual explanation, that it avoided confusion with the metal strips used in typesetting, is plausible but unproven.",
+    "meaning": "The opening of a news story, usually its first sentence or paragraph.",
+    "use": "Write the lede last, and ask what a reader needs to know if they read only that sentence. For a feature, an anecdotal lede must point toward the nut graf; otherwise it's a detour.",
+    "lessons": [
+      "inverted-pyramid",
+      "wsj-formula"
+    ]
+  },
+  {
+    "term": "MacGuffin",
+    "origin": "Popularized by Alfred Hitchcock, whose 1939 Columbia University lecture is the earliest recorded use; Hitchcock's collaborators credit the screenwriter Angus MacPhail with the term.",
+    "meaning": "The object or goal the characters chase that matters to them but barely matters to the audience.",
+    "use": "If your plot revolves around a secret object, keep the focus on what the chase does to the people. Spend as little time explaining the MacGuffin as the audience will tolerate.",
+    "lessons": []
+  },
+  {
+    "term": "Male gaze",
+    "origin": "Laura Mulvey, \"Visual Pleasure and Narrative Cinema\", Screen (1975).",
+    "meaning": "The way classical cinema positions the viewer to look at women through a heterosexual male perspective, making them objects of looking rather than subjects of the story.",
+    "use": "In each scene, ask whose eyes the camera or the prose is using and who is being looked at. If a female character exists to be seen, give her a want and a point of view of her own.",
+    "lessons": [
+      "who-is-the-subject"
+    ]
+  },
+  {
+    "term": "Mechanical encrusted on the living",
+    "origin": "Henri Bergson, Laughter (Le Rire, 1900).",
+    "meaning": "Bergson's theory that we laugh when a person behaves like a machine, repeating, rigid or inattentive when life requires flexibility.",
+    "use": "Give a comic character a rigid habit and then put them in a situation that demands they adapt. The more serious the situation, the funnier the rigidity.",
+    "lessons": [
+      "comedy"
+    ]
+  },
+  {
+    "term": "Midpoint",
+    "origin": "Syd Field, The Screenwriter's Workbook (1984), as a revision to his paradigm; Kristin Thompson and others find a similar central turning point in Hollywood films.",
+    "meaning": "A turn halfway through that splits the second act and changes the direction of the story: a false victory, a false defeat or a new goal.",
+    "use": "Find the halfway mark and ask what changes there; if nothing, write an event that raises the stakes or reverses what the protagonist believes. In a long feature, use a key discovery as the midpoint.",
+    "lessons": [
+      "field",
+      "thompson",
+      "snyder",
+      "yorke"
+    ]
+  },
+  {
+    "term": "Modes of documentary",
+    "origin": "Bill Nichols, Representing Reality (1991), extended in Introduction to Documentary (2001).",
+    "meaning": "Six ways documentaries address their audience: poetic, expository, observational, participatory, reflexive and performative.",
+    "use": "Name the mode of your film or podcast, then decide whether to use another for one section, for instance switching from observational to reflexive when you face an ethical choice. Make the shift on purpose.",
+    "lessons": [
+      "documentary"
+    ]
+  },
+  {
+    "term": "Murder your darlings",
+    "aka": [
+      "Kill your darlings"
+    ],
+    "origin": "Arthur Quiller-Couch, in a 1914 Cambridge lecture \"On Style\", published in On the Art of Writing (1916).",
+    "myth": "It is often credited to William Faulkner, Oscar Wilde or Stephen King, but it is Quiller-Couch's.",
+    "meaning": "Cut the passages you love most if they serve your pleasure more than the piece.",
+    "use": "In revision, mark the line you're proudest of and ask whether it serves the story or shows off; if the second, cut it and save it in a file. Quiller-Couch was warning against ornament, not every good sentence.",
+    "lessons": []
+  },
+  {
+    "term": "Narrative transportation",
+    "origin": "Melanie Green and Timothy Brock (2000), building on Richard Gerrig's Experiencing Narrative Worlds (1993).",
+    "meaning": "The experience of being absorbed into a story's world, which research associates with changes in readers' beliefs and attitudes.",
+    "use": "Remove anything that pulls the reader out (an error, a jarring explanation) at the moment you most need them absorbed. Use concrete scene and a character to follow; abstract argument transports less.",
+    "lessons": [
+      "science-of-story"
+    ]
+  },
+  {
+    "term": "Nut graf",
+    "aka": [
+      "Nut graph",
+      "Nutshell paragraph"
+    ],
+    "origin": "Newsroom jargon associated with The Wall Street Journal's feature style from the 1970s; it was taught by William E. Blundell in The Art and Craft of Feature Writing (1988).",
+    "meaning": "The paragraph near the top of a feature that tells the reader what the story is about and why it matters.",
+    "use": "After your anecdotal lede, write a paragraph beginning \"This matters because…\" and then delete those words. If you can't write it, you haven't found the story yet.",
+    "lessons": [
+      "wsj-formula"
+    ]
+  },
+  {
+    "term": "Objective",
+    "aka": [
+      "Task",
+      "Intention"
+    ],
+    "origin": "Konstantin Stanislavski's zadacha (\"task\"), translated as \"objective\" by Elizabeth Hapgood in An Actor Prepares (1936).",
+    "meaning": "What a character is trying to do to another person in a given moment, best expressed as an active verb.",
+    "use": "For each character in a scene, write \"I want to [verb] you\"; if the verbs don't clash, there's no conflict. Replace weak verbs like \"talk to\" with playable ones like \"seduce\" or \"shame\".",
+    "lessons": [
+      "stanislavski",
+      "mamet"
+    ]
+  },
+  {
+    "term": "Obligatory scene",
+    "aka": [
+      "Scène à faire"
+    ],
+    "origin": "Francisque Sarcey's scène à faire in 19th-century French theatre criticism; William Archer rendered it \"obligatory scene\" in Play-Making (1912).",
+    "meaning": "The scene the audience has been led to expect and would feel cheated without.",
+    "use": "List the scene your setup has promised (the confrontation, the discovery) and check you've written it, on stage, not reported. Surprise the audience with how it happens, not whether.",
+    "lessons": [
+      "well-made-play",
+      "mckee"
+    ]
+  },
+  {
+    "term": "On the nose",
+    "origin": "Hollywood slang for overly direct dialogue; origin unknown.",
+    "meaning": "Dialogue in which characters say exactly what they think and feel, with no subtext.",
+    "use": "Find lines where a character states their emotion and rewrite them so they talk about something else while the feeling leaks through. If a character explains the theme, cut the line.",
+    "lessons": [
+      "chekhov",
+      "mamet"
+    ]
+  },
+  {
+    "term": "Peripeteia",
+    "aka": [
+      "Reversal"
+    ],
+    "origin": "Aristotle, Poetics (c. 335 BCE), ch. 11.",
+    "meaning": "A reversal: an action produces the opposite of what was intended, turning the situation around.",
+    "use": "Find a moment where a character's action backfires and make it the turn of your act. The strongest reversals come from the character's own effort, as in Oedipus.",
+    "lessons": [
+      "aristotle",
+      "mckee"
+    ]
+  },
+  {
+    "term": "Pinch",
+    "origin": "Syd Field, in work after Screenplay (1979), as part of his second-act scaffolding.",
+    "meaning": "A smaller event in each half of the second act, reminding the audience of the central conflict.",
+    "use": "Halfway between plot point I and the midpoint, put a scene that shows the antagonist's force; do the same after the midpoint. Use it to fight the second-act sag.",
+    "lessons": [
+      "field"
+    ]
+  },
+  {
+    "term": "Plot point",
+    "origin": "Syd Field, Screenplay (1979).",
+    "meaning": "An event that hooks into the action and spins it in a new direction, ending Act I and Act II in Field's paradigm.",
+    "use": "Find your two plot points and check each forces the protagonist into a new kind of action. If an act ends without one, the story is drifting.",
+    "lessons": [
+      "field",
+      "hart"
+    ]
+  },
+  {
+    "term": "Polyphony",
+    "origin": "Mikhail Bakhtin, Problems of Dostoevsky's Art (1929; revised 1963).",
+    "meaning": "A novel in which many independent voices and worldviews are given equal weight, without the author's voice settling the argument.",
+    "use": "Give your antagonist's worldview its strongest possible speech. If the reader can tell which side you're on from the dialogue alone, try writing the other side better.",
+    "lessons": [
+      "point-of-view"
+    ]
+  },
+  {
+    "term": "Pope in the Pool",
+    "origin": "Blake Snyder, Save the Cat! (2005).",
+    "meaning": "Snyder's name for hiding exposition inside something entertaining, so the audience absorbs it while watching something else.",
+    "use": "Find your most explanatory scene and stage it during an activity with its own tension or comedy: a chase, a meal going wrong, a job being done badly. If the scene would still be fun with the exposition muted, it works.",
+    "lessons": [
+      "snyder"
+    ]
+  },
+  {
+    "term": "Premise",
+    "origin": "Lajos Egri, The Art of Dramatic Writing (1946), which borrowed the word from logic and argument.",
+    "meaning": "The proposition a play proves through its conflict and outcome, in the form \"X leads to Y\".",
+    "use": "State your premise in three parts (character, conflict, conclusion) and check the ending actually proves it. Then ask if a stronger opponent would make the proof more convincing.",
+    "lessons": [
+      "egri",
+      "truby"
+    ]
+  },
+  {
+    "term": "Progressive complications",
+    "origin": "Robert McKee, Story (1997).",
+    "meaning": "Conflicts that build in force, each one costing the character more than the last, so the story can't go back.",
+    "use": "List your obstacles in order and rate each one's cost; the numbers should rise. If one doesn't, move it earlier or raise the stakes.",
+    "lessons": [
+      "mckee",
+      "egri",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Protagonist and antagonist",
+    "aka": [
+      "Opponent (Truby)"
+    ],
+    "origin": "From the Greek theatre, where the protagonistes was the first actor; in modern usage the terms are general.",
+    "meaning": "The protagonist drives the story; the antagonist opposes them, and can be a person, a force or an aspect of the protagonist.",
+    "use": "Make your antagonist want something that rules out what the protagonist wants. If the antagonist could step aside without losing anything, raise their stake.",
+    "lessons": [
+      "truby",
+      "egri",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Rasa",
+    "origin": "The Nāṭyaśāstra, attributed to Bharata Muni and variously dated between about 200 BCE and 200 CE; developed by later commentators, above all Abhinavagupta (c. 1000 CE).",
+    "meaning": "The aesthetic flavour or emotional state a work produces in its audience, created by combining causes, expressions and passing emotions.",
+    "use": "Decide the one dominant feeling the whole piece should leave, then pick secondary feelings that deepen it. Check scenes that work against it.",
+    "lessons": [
+      "natyashastra"
+    ]
+  },
+  {
+    "term": "Red herring",
+    "origin": "The figurative sense of a false trail is traced by the OED and etymologist Michael Quinion to an 1807 story by the journalist William Cobbett about distracting hounds with a smoked herring.",
+    "myth": "The often-repeated claim that hunters trained hounds with red herrings is not supported; Cobbett's story is probably the source of the idea.",
+    "meaning": "A misleading clue that leads the audience toward a wrong conclusion.",
+    "use": "Make a red herring fair: it should be a real possibility given what the audience knows, and it should reveal something true once explained. Cheap red herrings that lead nowhere make audiences distrust real clues.",
+    "lessons": [
+      "barthes"
+    ]
+  },
+  {
+    "term": "Rep & Rev",
+    "aka": [
+      "Repetition and revision"
+    ],
+    "origin": "Suzan-Lori Parks, \"Elements of Style\", in The America Play and Other Works (1995).",
+    "meaning": "Repetition and revision: a structure borrowed from jazz, in which phrases and events return with changes, building meaning through accumulation rather than a linear arc.",
+    "use": "Repeat a key line or scene three times in your piece, changing one element each time. Make the audience feel the difference grow.",
+    "lessons": [
+      "parks",
+      "vogel"
+    ]
+  },
+  {
+    "term": "Resolution",
+    "origin": "A general term with no single originator; Janet Burroway's Writing Fiction (1982) and Jon Franklin's Writing for Story (1986) both use it as the final stage of their models.",
+    "meaning": "The final state after the climax, showing how things have changed.",
+    "use": "Make the resolution show what the climax cost or won with an image or action rather than a summary. Mirror the opening if possible, so the change is visible.",
+    "lessons": [
+      "burroway",
+      "franklin",
+      "mckee",
+      "field",
+      "endings"
+    ]
+  },
+  {
+    "term": "Rising action",
+    "origin": "An English textbook label for the upward slope of Freytag's pyramid, which Freytag (1863) called the \"rise\".",
+    "meaning": "The sequence of complications that builds tension from the inciting incident toward the climax.",
+    "use": "Write your middle events as a numbered list and check each is harder or costlier than the last; if two are interchangeable, cut one. Each should follow from the last by \"therefore\" or \"but\".",
+    "lessons": [
+      "freytag",
+      "hart",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Save the cat",
+    "aka": [
+      "Pet the dog",
+      "Kick the dog (the villain's version)"
+    ],
+    "origin": "Blake Snyder, Save the Cat! (2005); the related phrases \"pet the dog\" (for softening an unlikeable character) and \"kick the dog\" (for marking a villain) are informal variants of unknown origin.",
+    "meaning": "An early moment where the hero does something kind that makes the audience like them.",
+    "use": "If your protagonist is hard to like, give them one act of decency or competence in the first ten pages that costs them something. You don't need likeability if you have fascination.",
+    "lessons": [
+      "snyder"
+    ]
+  },
+  {
+    "term": "Scene",
+    "origin": "An ancient theatrical term; defined in screenwriting by Robert McKee in Story (1997) as action that turns a value.",
+    "meaning": "A unit of continuous action in one place and time; in McKee's sense, one in which something changes.",
+    "use": "Write the value at the start and end of each scene (+ or −); if they match, the scene doesn't turn. Cut it, merge it, or add a turn.",
+    "lessons": [
+      "mckee",
+      "swain",
+      "burroway",
+      "new-journalism"
+    ]
+  },
+  {
+    "term": "Scene and sequel",
+    "origin": "Dwight V. Swain, Techniques of the Selling Writer (1965).",
+    "meaning": "Alternating units: a scene (goal, conflict, disaster) followed by a sequel (reaction, dilemma, decision) that leads to the next goal.",
+    "use": "After each disaster, write a short sequel where the character feels, weighs options and decides; this sets up the next scene's goal. Vary sequel length to control pace.",
+    "lessons": [
+      "swain"
+    ]
+  },
+  {
+    "term": "Scene and summary",
+    "origin": "A long-standing distinction; Percy Lubbock framed it as scenic versus panoramic in The Craft of Fiction (1921), and Gérard Genette analysed scene and summary as speeds of narration in Narrative Discourse (1972).",
+    "meaning": "Scene shows events moment by moment; summary compresses time and tells.",
+    "use": "Put your most important moments in scene and use summary for transitions and background. If a key moment is summarized, try rewriting it as a scene.",
+    "lessons": [
+      "burroway",
+      "narrative-order",
+      "hart"
+    ]
+  },
+  {
+    "term": "Sense of an ending",
+    "origin": "Frank Kermode, The Sense of an Ending (1967).",
+    "meaning": "Kermode's argument that people give their lives meaning by imagining an end that makes sense of the middle, and that fiction satisfies this need.",
+    "use": "Write your ending first, or at least know it before revising, and check that the middle points toward it. A surprise ending should make the earlier events mean more.",
+    "lessons": [
+      "endings",
+      "poe"
+    ]
+  },
+  {
+    "term": "Sequence",
+    "origin": "Frank Daniel, who taught it at Columbia and USC; set out in Paul Gulino's Screenwriting: The Sequence Approach (2004).",
+    "meaning": "A group of scenes, roughly 10 to 15 minutes, built around a single tension; a feature is often eight sequences.",
+    "use": "Divide your script into chunks of about 10 to 15 pages and write one sentence for each: what tension does it raise and resolve? If you can't, the chunk needs a goal.",
+    "lessons": [
+      "sequence"
+    ]
+  },
+  {
+    "term": "Setup and payoff",
+    "aka": [
+      "Plant and payoff"
+    ],
+    "origin": "A general screenwriting term with no single originator; it echoes Chekhov's gun.",
+    "meaning": "A setup is an element planted early; the payoff is where it returns with significance.",
+    "use": "For each payoff, check it was set up clearly but unobtrusively; for each setup, make sure it pays off. Pay off in a way that adds meaning, not only plot.",
+    "lessons": [
+      "chekhov",
+      "snyder",
+      "pixar"
+    ]
+  },
+  {
+    "term": "Show, don't tell",
+    "origin": "The showing/telling distinction was popularized by Percy Lubbock, The Craft of Fiction (1921); the slogan seems to come from early-20th-century American playwriting teaching, and it became a creative-writing staple later in the century.",
+    "myth": "It is often credited to Chekhov via a line about moonlight and broken glass; that line is a later paraphrase of an 1886 letter, not his words.",
+    "meaning": "Let readers experience events and infer feelings through action, detail and dialogue rather than being told.",
+    "use": "Find a sentence that names an emotion and replace it with an action or detail that implies it. Then keep some telling: summary and reflection are for moving fast and for meaning.",
+    "lessons": [
+      "burroway",
+      "three-media"
+    ]
+  },
+  {
+    "term": "Single effect",
+    "origin": "Edgar Allan Poe, in his 1842 review of Hawthorne's Twice-Told Tales and \"The Philosophy of Composition\" (1846).",
+    "meaning": "Poe's principle that a story should be built to produce one unified effect, decided before writing.",
+    "use": "Name the one feeling the reader should be left with and cut every element that doesn't contribute. Keep the piece short enough to read in one sitting.",
+    "lessons": [
+      "poe"
+    ]
+  },
+  {
+    "term": "Single story",
+    "origin": "Chimamanda Ngozi Adichie, in her TED talk \"The Danger of a Single Story\" (2009).",
+    "meaning": "The danger of reducing a people or place to one narrative, which creates stereotypes not because they are false but because they are incomplete.",
+    "use": "Before writing about a community not your own, list three stories about it that contradict the obvious one. Give at least one character from that community a story that doesn't serve the main plot's theme.",
+    "lessons": [
+      "who-is-the-subject",
+      "salesses"
+    ]
+  },
+  {
+    "term": "Situation and the story",
+    "origin": "Vivian Gornick, The Situation and the Story (2001).",
+    "meaning": "The situation is the circumstance or plot; the story is the emotional experience or insight the writer has to convey.",
+    "use": "Write one sentence for your situation and one for your story. If you can only write the first, you haven't found what the piece is about yet; keep drafting until the second appears.",
+    "lessons": [
+      "gornick"
+    ]
+  },
+  {
+    "term": "Stakes",
+    "origin": "A general term borrowed from gambling; no single originator.",
+    "meaning": "What the character stands to win or lose, and why it matters to them and to the audience.",
+    "use": "Write what happens if your protagonist fails; if the answer is \"nothing much\", raise the cost. Make stakes personal as well as external.",
+    "lessons": [
+      "shared-core",
+      "mamet",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Status details",
+    "origin": "Tom Wolfe, introduction to The New Journalism (1973), as one of four devices nonfiction borrowed from realist fiction (with scene-by-scene construction, full dialogue and third-person point of view).",
+    "meaning": "Everyday details of behaviour, furnishings, dress and manners that reveal people's social position.",
+    "use": "When reporting, note what people wear, carry, display and buy, and how they treat others; use one well-chosen detail instead of an adjective. Make sure it's accurate and fair, not a sneer.",
+    "lessons": [
+      "new-journalism"
+    ]
+  },
+  {
+    "term": "Story and plot",
+    "origin": "E. M. Forster, Aspects of the Novel (1927).",
+    "meaning": "Story is events in time sequence (\"and then?\"); plot is events connected by causality (\"why?\").",
+    "use": "Take your outline and add a \"because\" between every two events; where you can't, find the cause or cut the event.",
+    "lessons": [
+      "forster",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Story circle",
+    "origin": "Dan Harmon, who worked it out by boiling down Campbell's hero's journey and spread it from the early 2000s through online tutorials for Channel 101 filmmakers, interviews and his podcast.",
+    "meaning": "An eight-step circle: a character in a zone of comfort wants something, enters an unfamiliar situation, adapts, gets what they wanted, pays a heavy price, returns, and has changed.",
+    "use": "Draw the circle and put your episode or scene on it; if a step is missing, that's often your problem. It works at the scale of a whole season or a single scene.",
+    "lessons": [
+      "harmon",
+      "tv"
+    ]
+  },
+  {
+    "term": "Story spine",
+    "origin": "Kenn Adams, an improv teacher, developed it in the late 1980s and wrote it up in How to Improvise a Full-Length Play (2007); Emma Coats's Pixar story rules (2011) spread it widely.",
+    "meaning": "A sequence of sentence starters: Once upon a time… Every day… But one day… Because of that… Until finally… And ever since then…",
+    "use": "Fill in the spine for your story in five minutes; if \"because of that\" doesn't connect events causally, rethink. Use it to pitch or check a draft.",
+    "lessons": [
+      "pixar"
+    ]
+  },
+  {
+    "term": "Subtext",
+    "origin": "Associated with Stanislavski's work on Chekhov at the Moscow Art Theatre; the term came into wide English use in the mid-20th century.",
+    "meaning": "What characters mean or feel beneath what they say.",
+    "use": "Write a scene where two characters argue about something trivial while the real conflict is never named. Then read it to someone: if they can name the real conflict, the subtext works.",
+    "lessons": [
+      "chekhov",
+      "stanislavski",
+      "baxter"
+    ]
+  },
+  {
+    "term": "Super-objective",
+    "aka": [
+      "Through-line",
+      "Supertask"
+    ],
+    "origin": "Konstantin Stanislavski's sverkhzadacha (\"supertask\"), translated as \"super-objective\" by Elizabeth Hapgood in An Actor Prepares (1936); the through-line of action is also his.",
+    "meaning": "A character's overarching goal across the whole play, which all their smaller objectives serve; the through-line is the path connecting them.",
+    "use": "For each main character, write one sentence that names what they want over the whole story. Check that each scene's objective serves or contradicts it.",
+    "lessons": [
+      "stanislavski",
+      "mamet"
+    ]
+  },
+  {
+    "term": "Suspense vs. surprise",
+    "aka": [
+      "Show the bomb",
+      "The bomb under the table"
+    ],
+    "origin": "Alfred Hitchcock, best known from his interviews with François Truffaut, published as Hitchcock/Truffaut (1966).",
+    "meaning": "Surprise is a sudden shock that lasts seconds; suspense comes from letting the audience know about a danger in advance, for minutes of tension.",
+    "use": "Show the bomb: tell the audience about the danger before the characters know, then make them wait. Use surprise sparingly, as a punctuation mark.",
+    "lessons": [
+      "shared-core",
+      "sequence"
+    ]
+  },
+  {
+    "term": "Taste gap",
+    "origin": "Ira Glass, in the third segment of Ira Glass on Storytelling (mid-2000s).",
+    "meaning": "The gap between a beginner's taste and their ability to produce work that meets it.",
+    "use": "Set yourself a volume deadline, such as a short piece every week, and finish each one even if it's bad. The gap closes through quantity.",
+    "lessons": [
+      "glass"
+    ]
+  },
+  {
+    "term": "Therefore/but rule",
+    "origin": "Trey Parker and Matt Stone, in a 2011 guest appearance at an NYU class filmed for mtvU's Stand In.",
+    "meaning": "Beats should connect by \"therefore\" or \"but\", not by \"and then\".",
+    "use": "Read your outline aloud, inserting \"therefore\" or \"but\" between beats; where only \"and then\" fits, change the event. It's the quickest causality test there is.",
+    "lessons": [
+      "shared-core",
+      "aristotle",
+      "forster"
+    ]
+  },
+  {
+    "term": "Three unities",
+    "origin": "Formulated by Italian Renaissance critics, notably Lodovico Castelvetro (1570), and codified by French neoclassical writers such as Boileau (1674).",
+    "myth": "Often credited to Aristotle, who insisted only on unity of action, noted a tendency toward a single day, and said nothing about place.",
+    "meaning": "The rule that a play should have one action, take place in one day and in one place.",
+    "use": "Use them as a pressure tool, not a law: setting a story in one night and one house forces conflict to the surface. Break them knowingly.",
+    "lessons": [
+      "aristotle",
+      "well-made-play"
+    ]
+  },
+  {
+    "term": "Three-act structure",
+    "aka": [
+      "The paradigm (Field)"
+    ],
+    "origin": "Popularized by Syd Field's paradigm in Screenplay (1979): setup, confrontation and resolution, split by two plot points.",
+    "myth": "It's often traced to Aristotle, whose beginning, middle and end are not acts.",
+    "meaning": "A model of a story in three parts, with the middle act the longest.",
+    "use": "Find your two plot points and your midpoint; if Act Two is shapeless, divide it into two halves with distinct goals. Use it as a diagnostic, not a recipe.",
+    "lessons": [
+      "field",
+      "thompson",
+      "truby",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Trigger and heap",
+    "aka": [
+      "Stasis and intrusion"
+    ],
+    "origin": "David Ball, Backwards and Forwards (1983).",
+    "meaning": "Ball's way of reading a play as a chain: each event (a trigger) causes the next (a heap), back from the end to the start. Stasis is the balance the first trigger upsets.",
+    "use": "Start from your last event and ask \"what caused this?\" back to the start; every break in the chain is a weak point. Use it to read your own script before rehearsal.",
+    "lessons": [
+      "ball"
+    ]
+  },
+  {
+    "term": "Uninflected image",
+    "origin": "David Mamet, On Directing Film (1991).",
+    "meaning": "A shot that shows a plain action without commentary, letting meaning come from how shots are juxtaposed.",
+    "use": "Describe each shot in your script as a simple action, without adjectives that tell the audience how to feel. Let the cut make the meaning.",
+    "lessons": [
+      "mamet"
+    ]
+  },
+  {
+    "term": "Unity of action",
+    "origin": "Aristotle, Poetics (c. 335 BCE), ch. 8.",
+    "meaning": "A story should imitate one complete action, so that removing or moving any part would disturb the whole.",
+    "use": "For each scene ask: if I removed it, would the whole change? If not, cut it or connect it. One protagonist doesn't make one action.",
+    "lessons": [
+      "aristotle",
+      "shared-core"
+    ]
+  },
+  {
+    "term": "Unreliable narrator",
+    "origin": "Wayne C. Booth, The Rhetoric of Fiction (1961).",
+    "meaning": "A narrator whose account the reader learns not to trust, because their judgment or knowledge differs from the work's implied norms.",
+    "use": "Plant small contradictions between what the narrator says and what the reader can see. In nonfiction, unreliability belongs to sources, so show the reader how you checked.",
+    "lessons": [
+      "point-of-view"
+    ]
+  },
+  {
+    "term": "Value",
+    "aka": [
+      "Value charge",
+      "+/− (Snyder)"
+    ],
+    "origin": "Robert McKee, Story (1997), where story values can be charged positive or negative.",
+    "meaning": "A quality of human experience (love/hate, freedom/slavery) that can shift from positive to negative within a scene.",
+    "use": "Name the value at stake in each scene and its charge at the start and end; a scene that doesn't change charge is a non-event. Track charges across the act to avoid monotony.",
+    "lessons": [
+      "mckee",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Verfremdungseffekt",
+    "aka": [
+      "Alienation effect",
+      "Estrangement effect",
+      "V-effect"
+    ],
+    "origin": "Bertolt Brecht, in the essay \"Alienation Effects in Chinese Acting\" (1936), drawing on Shklovsky's ostranenie.",
+    "meaning": "Techniques that make the familiar strange so audiences watch critically rather than identify.",
+    "use": "Interrupt a moment of identification with a device that makes the audience look at it as a choice: a song, a title, a character stepping out. Do it where you want judgment, not tears.",
+    "lessons": [
+      "brecht"
+    ]
+  },
+  {
+    "term": "Want and need",
+    "origin": "Widely used in screenwriting teaching; Syd Field writes of dramatic need (1979), and John Truby's The Anatomy of Story (2007) sets the hero's desire against their moral and psychological need. No single originator.",
+    "meaning": "The want is the conscious goal; the need is the deeper change the character must make, often unknown to them.",
+    "use": "Write your protagonist's want and need in one line each; at the climax, they should conflict. If they don't, the ending may be too easy.",
+    "lessons": [
+      "truby",
+      "field",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Well-made play",
+    "aka": [
+      "Pièce bien faite"
+    ],
+    "origin": "The pièce bien faite of Eugène Scribe and Victorien Sardou in 19th-century France; George Bernard Shaw mocked it as \"Sardoodledom\" (1895).",
+    "meaning": "A tightly plotted play built on a secret, exposition up front, rising ups and downs, an obligatory scene and a logical dénouement.",
+    "use": "Use its machinery for tension, a secret the audience knows and characters don't, but ask what truth the plot reveals. Ibsen kept the mechanics and gave them moral weight.",
+    "lessons": [
+      "well-made-play"
+    ]
+  },
+  {
+    "term": "Write what you know",
+    "origin": "A common piece of writing advice of unknown origin; it's often attributed to Mark Twain or Ernest Hemingway, but no source has been found.",
+    "myth": "The Twain and Hemingway attributions are unsourced.",
+    "meaning": "The advice that writers should draw on their own experience.",
+    "use": "Read it as \"write what you know emotionally\": a story about a world you've never seen can be grounded in a feeling you have. If you're writing outside your experience, research and consult.",
+    "lessons": [
+      "salesses"
+    ]
+  },
+  {
+    "term": "Yes, and",
+    "origin": "A core principle of improvisational theatre, associated with the Chicago improv tradition from the 1950s onward; no single originator is known. Keith Johnstone's Impro (1979) describes the related idea of accepting offers and not blocking.",
+    "meaning": "The improviser accepts what a partner establishes (\"yes\") and adds to it (\"and\").",
+    "use": "In a writers' room or a draft, accept a strange idea and build on it before judging. In a scene, have characters say yes to a premise and escalate instead of shutting it down.",
+    "lessons": [
+      "comedy"
+    ]
+  }
+]

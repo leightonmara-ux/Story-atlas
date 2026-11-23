@@ -644,6 +644,7 @@ async function renderTerms(openSlug) {
   document.title = 'Terms · Story Atlas';
   const terms = await getGlossary();
   const lessonsById = Object.fromEntries(allLessons().map(l => [l.id, l]));
+  if (openSlug) store.set('sa.termFilter', 'all'); // a link to one term must be able to show it
   const filter = store.get('sa.termFilter', 'all');
 
   app.innerHTML = `

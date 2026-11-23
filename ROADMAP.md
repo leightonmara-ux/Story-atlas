@@ -29,6 +29,10 @@
 - Thompson: her own names for the four parts.
 - Vogel: her terms for alternative play structures.
 - Natyashastra: where its stages sit on the arc in Compare.
+- Glossary origins marked uncertain: dramatic irony (Thirlwall, 1833), "indirect action" (Magarshack, 1952),
+  "given circumstances" via Pushkin, the 5 Ws, "lede", "in late, out early", "inciting incident" before McKee.
+- Lenses quotes recalled rather than checked: Bakhtin on polyphony, Adichie on stereotypes, Thomas King's
+  "that's all we are", Benjamin's "half the art of storytelling" (Zohn translation), Kermode's tick-tock.
 
 ## Further voices (for "Read next" lists, not full lessons)
 Weave these into the relevant lessons' reading lists:
