@@ -73,6 +73,20 @@ One person can fill several roles (a witch might test the hero and then help him
 - *Campbell & Vogler*, a very different attempt to find one pattern beneath many myths.
 - *Story vs. telling*, for the Russian Formalists who were Propp's contemporaries.
 
+## Try it
+
+Look at your story the way Propp looked at a tale: by what each character does, not who they are.
+
+1. List the main acts in your story and give each one a role: villain, donor, helper, sought-for person, dispatcher, hero or false hero. One person may play several roles, and one role may be shared.
+2. Look for gaps. Is there a donor's test before the hero gets what they need? Would a false hero add tension late on?
+3. Then take one function, such as the donor's test, and write it with completely new surface: a setting, a tester and a gift Propp never saw. Same job, new clothes.
+
+- **Stage:** check your cast list by role. Two characters doing the same job may be one character.
+- **Screen:** in a fantasy or adventure script, make sure the hero earns the magical agent by passing a test, rather than simply being handed it.
+- **Journalism:** don't cast real people. Instead, list how your sources are casting each other: who is called the villain, who the rescuer, who the false hero claiming credit?
+
+**Check:** For each character, can you name the job they do for the action?
+
 ## Check yourself
 
 Q: What is a function, in Propp's sense?

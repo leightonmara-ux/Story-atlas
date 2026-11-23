@@ -68,6 +68,21 @@ In later work he added two **pinches**, smaller events roughly halfway between P
 - William Goldman, *Adventures in the Screen Trade* (1983), a working screenwriter's view of the same industry, famous for "Nobody knows anything."
 - *Kristin Thompson*, the lesson that tests Field's three acts against real films.
 
+## Try it
+
+Find Field's paradigm in a film you know well, with a stopwatch, and then in your own script, with page numbers.
+
+1. Mark Plot Point I, the midpoint and Plot Point II, and note where each falls.
+2. For each one, write a line: how does it spin the action in a new direction, and what task does it give the act that follows?
+3. Check your first ten pages. By page 10, do we know the main character, what the story is about, and the situation they're in?
+4. Write your hero's dramatic need in one sentence, then list the obstacles in Act II that stand in its way.
+
+- **Stage:** ignore the page counts. Find the event before your interval that turns the action and gives the second act its job.
+- **Screen:** if a plot point lands far from Field's pages, ask whether that's a choice or a symptom.
+- **Journalism:** in a long feature, find the discovery that could serve as your midpoint, and build the middle around reaching it and moving on from it.
+
+**Check:** For each plot point, can you say what the next act is now trying to do?
+
 ## Check yourself
 
 Q: What is Field's "paradigm"?

@@ -78,6 +78,21 @@ He also distinguished **kernels** from **satellites**, adapting Roland Barthes. 
 - Seymour Chatman, *Story and Discourse: Narrative Structure in Fiction and Film* (1978).
 - H. Porter Abbott, *The Cambridge Introduction to Narrative*, the friendliest overview.
 
+## Try it
+
+Separate the events from the telling in your own draft.
+
+1. List the events of your story in the order they happened, and number them. That's your fabula.
+2. Now list your scenes or sections in the order you tell them, using those numbers. Every jump back is an analepsis, every jump ahead a prolepsis. Beside each, note what it buys you.
+3. Mark the speed of each section: scene, summary, ellipsis or pause. Is your most important moment in scene?
+4. Try one different order, opening on a later event, and write just the first page of that version.
+
+- **Stage:** borrow the trick of *Betrayal* on paper: swap two scenes and ask what the audience now knows going in.
+- **Screen:** mark each ellipsis in your outline. Could a scene start later, cutting more?
+- **Journalism:** compare your draft against the fabula, and check that no rearrangement implies a false sequence. Then look for one pattern you can tell iteratively ("every morning...").
+
+**Check:** For each departure from chronology, can you say what it does: suspense, irony or new meaning?
+
 ## Check yourself
 
 Q: What's the difference between fabula and syuzhet?

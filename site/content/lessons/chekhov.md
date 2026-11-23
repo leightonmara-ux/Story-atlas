@@ -62,6 +62,20 @@ In an 1888 letter to his publisher Alexei Suvorin, Chekhov argued that a writer 
 - Donald Rayfield, *Anton Chekhov: A Life* (1997).
 - Then read *Konstantin Stanislavski*, the director who brought the plays to the stage.
 
+## Try it
+
+Choose the biggest event in your draft: a death, a sale, a confession.
+
+1. Write a new scene set just beside it: the room where people wait, or the moment the news arrives. Keep the event itself offstage.
+2. Let the characters talk about something else: the tea, the weather, a book. In the margin, write what each one is actually trying to do with their words.
+3. Make sure no one is simply the villain. Give the person who brings the bad news one generous moment.
+
+- **Stage:** frame the scene with an arrival or a departure, and let life resume, a little changed, when they go.
+- **Screen:** keep the camera on the people in the next room. Cut away from the event, not to it.
+- **Journalism:** write the aftermath you were able to report, using only what your sources saw and said, and let it carry the weight of the event you didn't witness.
+
+**Check:** Could an actor play what your characters want without their ever saying it?
+
 ## Check yourself
 
 Q: What is "indirect action"?

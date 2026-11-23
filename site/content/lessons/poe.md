@@ -69,6 +69,20 @@ Underneath it all is a provocation. Poe says most writers would rather the publi
 - "The Raven" itself, read alongside the essay, to judge whether you believe him.
 - T. S. Eliot, "From Poe to Valéry" (1948), for the skeptical view.
 
+## Try it
+
+Work backward, Poe-style, on a short piece you're writing or about to start.
+
+1. Write the single effect you want to leave in a few words: dread, tenderness, cold anger.
+2. Write your last line, final image or final beat before anything else. If the draft exists, find it.
+3. Go through the draft from the opening sentence on, marking each scene or paragraph: does it push toward that effect? Cut or bend the ones that don't, starting with the first sentence.
+
+- **Stage:** for a one-act, test the setting too. Does your room concentrate the effect, the way Poe's closed chamber does?
+- **Screen:** for a short film or a thriller, list every clue the ending needs and check that each one is planted, and planted early enough.
+- **Journalism:** write your kicker first, then test your lede against it. Then ask the editor's question: would a reader finish this at one sitting?
+
+**Check:** Does your opening sentence already point toward your last one?
+
 ## Check yourself
 
 Q: What does Poe say a writer must work out before writing a single word?

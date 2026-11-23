@@ -73,6 +73,20 @@ This sounds fussy, but it's the source of the "page-turning" quality in a great 
 - Jack M. Bickham, *Scene & Structure* (1993). Bickham also taught in Oklahoma's writing program, and his book is the most popular restatement of scene and sequel.
 - Compare *Robert McKee*: his scene must turn a value; Swain's scene must end in disaster. They're close cousins.
 
+## Try it
+
+Take one scene from your draft.
+
+1. Label its goal, conflict and disaster. If it ends in plain success, rewrite the last beat so the success makes things worse or opens a new problem.
+2. Write the sequel that follows: reaction, dilemma, decision. Make the decision the goal of the next scene. Write it twice, once as a single line and once as a paragraph, and choose the length that gives the pace you want.
+3. Find a moment of sudden action and check the motivation-reaction order: the stimulus first, in its own sentence, then feeling, reflex, deliberate action and speech. Fix any reversals.
+
+- **Stage:** find the dilemma in your scene and give the actor a moment to weigh the options on stage.
+- **Screen:** in an action sequence, find where the characters regroup and decide. Then check your cuts: cause first, then the face.
+- **Journalism:** turn the sequel into interview questions: what did you feel, what options did you see, what did you decide? Write the sequel only from the answers.
+
+**Check:** Does each decision launch the next goal?
+
 ## Check yourself
 
 Q: What are the three parts of a Swain scene?

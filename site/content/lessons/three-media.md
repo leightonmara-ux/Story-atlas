@@ -59,6 +59,20 @@ Take a single real situation, for example a family fighting an eviction from a r
 
 You'll find the same skeleton under all three, dressed differently each time.
 
+## Try it
+
+Take one short scene or passage of your own and rewrite about a page of it for the medium furthest from yours.
+
+1. Before you start, answer the two questions in writing: in the new form, who controls attention? Are the events invented, or must they be found?
+2. Rewrite the page. Note everything you had to cut, add, or turn into visible behavior.
+3. Bring one discovery back to the original and revise it.
+
+- **Stage:** if you write plays, turn a scene into a screenplay page. What single image replaces your opening speech, and where can you cut in late?
+- **Screen:** if you write scripts, put your scene in one room with no cuts. Who is trapped there together, and what does each person want right now?
+- **Journalism:** if you report, try a stage version of a scene you witnessed, using only what you saw or confirmed. Then list what a playwright would be tempted to invent.
+
+**Check:** What did the other medium force you to show, cut or prove that your original was getting away without?
+
 ## Check yourself
 
 Q: What two differences between the media explain most of the differences in their theories?

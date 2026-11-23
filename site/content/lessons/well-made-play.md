@@ -66,6 +66,21 @@ In a chapter added to *The Quintessence of Ibsenism* in 1913, Shaw put his case 
 - Stephen S. Stanton, ed., *Camille and Other Plays* (1957), whose introduction sets out the form's features.
 - Eric Bentley, *The Life of the Drama* (1964), for a sympathetic defense of melodrama and plot.
 
+## Try it
+
+Read *A Doll's House*, or take your own draft, and lay out its machinery.
+
+1. Name the secret. Who knows it, who doesn't, and how much does the audience know?
+2. List the swings of fortune in order. Does each one bring the exposure closer?
+3. Name the obligatory scene: the confrontation the story has promised. Is it written in scene, in front of the person who most needs to hear it, or does it happen offstage or in summary?
+4. Then ask Ibsen's question. After the exposure, what does it mean? Write the first few lines of the discussion that could follow.
+
+- **Stage:** add one object, like a letter or a key, planted early and used decisively later.
+- **Screen:** for a thriller or courtroom script, check that the showdown is on screen and not cut away from.
+- **Journalism:** name the confrontation in your investigation, such as the official finally asked on the record, and check that the suspense you build comes from the facts, not from withholding.
+
+**Check:** Does your obligatory scene change something beyond revealing the secret?
+
 ## Check yourself
 
 Q: What drives the suspense in a well-made play?

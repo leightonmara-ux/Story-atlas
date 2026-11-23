@@ -68,6 +68,20 @@ Throughout his writing on drama and acting, Mamet is skeptical of "character" as
 - David Mamet, *Three Uses of the Knife: On the Nature and Purpose of Drama* (1998), his broader theory of drama.
 - The *Unit* memo is easy to find online. Read it whole, and note how little of it is about television specifically.
 
+## Try it
+
+Take your talkiest scene.
+
+1. Answer Mamet's three questions in a line each: who wants what? What happens if they don't get it? Why now? If "why now?" has no answer, add a deadline or an event that makes today the day.
+2. Rewrite the scene as a silent film: a numbered list of plain, uninflected images, each doing one thing. Does the story survive without words?
+3. Find every line of exposition. Move each one to a moment where a character uses it to get what they want, or cut it.
+
+- **Stage:** keep the words but check that each line is an action. Note in the margin what each speech does to the other person: sells, bullies, pleads, lies.
+- **Screen:** turn your step 2 list into a shot list, and write beside each shot what it's for.
+- **Journalism:** answer "why now?" in your top few paragraphs, and break up any block of background so it arrives when the reader needs it.
+
+**Check:** Could someone watching with the sound off tell who wants what?
+
 ## Check yourself
 
 Q: What does Mamet mean by telling the story through "uninflected images"?

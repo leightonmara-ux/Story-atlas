@@ -76,6 +76,20 @@ That adapted shape is fine to use. Just don't attribute it to Freytag, and don't
 - *Aristotle*, whose complication and unraveling Freytag built on.
 - *Robert McKee*, for a modern design where the crisis and climax come near the end.
 
+## Try it
+
+Take your draft, or *Macbeth*, and draw the hero's fortunes as a line across a page, scene by scene: higher when things are going their way, lower when they aren't.
+
+1. Mark the exciting force, the climax (the highest point) and the tragic force just after it.
+2. Is your peak near the middle, Freytag's shape, or near the end, the modern one? Either can work, but know which you're writing.
+3. Look at the stretch after the peak. Find, or add, a force of final suspense: one late moment where escape seems possible.
+
+- **Stage:** in a full-length play, check that the fall has momentum of its own, not just a wait for the catastrophe.
+- **Screen:** mark your midpoint and ask whether it reverses the direction of the story, as Freytag's climax does.
+- **Journalism:** for a rise-and-fall profile, chart the subject's fortunes and see where the peak falls in your piece. Would moving it toward the middle balance the story?
+
+**Check:** After the peak, is there a moment when the audience genuinely doubts how it will end?
+
 ## Check yourself
 
 Q: Where does Freytag's climax fall in a five-act tragedy?

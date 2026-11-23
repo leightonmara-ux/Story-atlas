@@ -71,6 +71,20 @@ If Truby had a single rule it might be this: the opponent is the most important 
 - John Truby, *The Anatomy of Genres* (2022), which applies the approach to individual genres.
 - *Robert McKee* and *Syd Field*, to compare with the models Truby argues against.
 
+## Try it
+
+Work out Truby's nucleus for your own story before touching the outline.
+
+1. Write the seven key steps in a line each: weakness and need, desire, opponent, plan, battle, self-revelation, new equilibrium.
+2. Put desire and need side by side. If they say the same thing, find the inner weakness the outer goal is hiding. Is the need psychological, moral, or both?
+3. Test your opponent. Do they want the same goal as the hero? Are they the person best able to attack the hero's weakness? If not, rewrite them until they are.
+
+- **Stage:** for an ensemble play, try four-corner opposition. Name the hero, the main opponent and two secondary opponents, and write the value each one stands for.
+- **Screen:** find the scene of self-revelation and check that the battle causes it, rather than a speech announcing it.
+- **Journalism:** don't invent a revelation. Ask your subject what they wanted at the start, what they learned, and who stood in their way, and see how the answers line up with desire, need and opponent.
+
+**Check:** Does your hero learn their need through what happens in the battle, not by being told?
+
 ## Check yourself
 
 Q: Name Truby's seven key steps in order.

@@ -87,6 +87,19 @@ A finished story expresses one **controlling idea** that can be stated in a sent
 - Robert McKee, *Dialogue* (2016) and *Character* (2021) apply the same ideas to stage and page.
 - Watch *Adaptation* (2002), a film that dramatizes a writer's fight with exactly these rules.
 
+## Try it
+
+Take the last five scenes you wrote, or five scenes of a film you love. For each one, write the value at stake and its charge at the start and end, like *+ trust → − trust*.
+
+1. Mark any scene whose charge doesn't change. That's a non-event.
+2. For each non-event, find the moment a character could expect one thing and get another (the gap), and rewrite the scene's last beat so it turns.
+
+- **Stage:** do this for one long scene, marking every beat where the value shifts.
+- **Screen:** do it from a sequence of the film with the sound off: can you see the turns?
+- **Journalism:** for a feature draft, mark the paragraph where each source's expectation met reality.
+
+**Check:** Could a reader say in one word what changed in each scene?
+
 ## Check yourself
 
 Q: What makes a scene a "non-event" in McKee's terms?

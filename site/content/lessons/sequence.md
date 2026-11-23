@@ -67,6 +67,21 @@ These books also discuss **dramatic irony**, when the audience knows something a
 - David Howard and Edward Mabley, *The Tools of Screenwriting* (1993), another book shaped by Daniel's teaching.
 - *Kristin Thompson*, whose study of real films divides them into larger parts that sit comfortably alongside sequences.
 
+## Try it
+
+Break your script, or a two-hour film you know well, into sequences of roughly 10 to 15 minutes.
+
+1. Give each sequence a short title, the protagonist's goal within it, and its own question: *will she get into the building?*
+2. Write how each question is answered, and the new question that answer raises.
+3. Write the film's main tension as one dramatic question, and note where it's set up.
+4. For any sequence without a question of its own, write what the audience hopes will happen and what it fears. If it only hopes, or only fears, add the missing half.
+
+- **Stage:** divide a long act into its movements or French scenes and give each one a question, answered before the next begins.
+- **Screen:** for television, treat each act between breaks as a sequence with its own tension.
+- **Journalism:** plan a long feature or podcast episode as four or five sequences, each with its own question, instead of one long middle.
+
+**Check:** At every point in the story, is the audience waiting on a small question as well as the big one?
+
 ## Check yourself
 
 Q: Roughly how long is a sequence, and how many are in a typical two-hour feature?

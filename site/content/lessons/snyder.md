@@ -79,6 +79,21 @@ Snyder liked naming things. A few of his rules are now part of industry slang:
 - Jessica Brody, *Save the Cat! Writes a Novel* (2018), the method adapted for fiction.
 - *Syd Field*, for the three-act model Snyder built on.
 
+## Try it
+
+Run four of Snyder's quick tests on a script you're writing, or on a film you know well.
+
+1. Write a logline in one or two sentences and say it aloud to someone. Do they want to see the movie?
+2. Write your Opening Image and Final Image side by side. Are they opposites that show the whole change?
+3. Find your Break into Two and your Midpoint. Is the break the hero's own choice? Is the midpoint a false victory or false defeat that raises the stakes?
+4. Pick five scene cards and mark each with its emotional change (+/−) and its conflict (><). Rework any card that has neither.
+
+- **Stage:** forget the page numbers and keep the mirrored images. Write the first and last stage pictures of your play as a pair.
+- **Screen:** compare your pages with the beat sheet as a pacing check, not a rule, especially for television.
+- **Journalism:** pitch your story to an editor in two sentences. If you can't, keep reporting until you can.
+
+**Check:** If someone saw only your opening and final images, would they know what changed?
+
 ## Check yourself
 
 Q: What is a "save the cat" moment?

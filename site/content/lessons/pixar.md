@@ -87,6 +87,20 @@ The last rule asks what the essence of your story is and what its most economica
 - Ed Catmull with Amy Wallace, *Creativity, Inc.* (2014), on how Pixar develops and repairs its stories.
 - Andrew Stanton, "The Clues to a Great Story", a TED talk (2012) by the writer-director of *Finding Nemo* and *WALL-E*.
 
+## Try it
+
+Write your own story as a story spine, with at least three "Because of that" lines.
+
+1. Read it aloud. Circle any line that only works if you say "and then". Fix it by changing the event before it so it truly causes the next one.
+2. List every coincidence in your story. Does each get a character into trouble, or out of it? Rewrite any rescue-by-luck so the character earns the escape by trying.
+3. If you're stuck at a weak link, list five things that *wouldn't* happen next, and see if the right one appears.
+
+- **Stage:** use it as a devising game. Give actors your first two lines and let them improvise the rest, then compare their chain with yours.
+- **Screen:** warm up on a Pixar film, as the lesson does with *Toy Story*, before doing your own feature or short.
+- **Journalism:** fill in "Every day", "One day" and "And ever since then" from your reporting. If you can't write "Until finally", the story may still be open.
+
+**Check:** Does every "Because of that" really cause the line after it?
+
 ## Check yourself
 
 Q: Who wrote the "22 rules", and were they official Pixar doctrine?

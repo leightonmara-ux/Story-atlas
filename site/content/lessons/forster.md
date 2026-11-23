@@ -69,6 +69,19 @@ In his final lecture Forster reaches past plot toward something more like music.
 - *Story vs. telling*, the lesson on Shklovsky, Genette and Chatman, for the more rigorous theory of how event order differs from telling order.
 - James Wood, *How Fiction Works* (2008), which argues with Forster's flat and round characters at length.
 
+## Try it
+
+Two short drills on your own work-in-progress.
+
+1. Pick one important event and write it three ways in a sentence each, as Forster does with the king and queen: as story ("and then"), as plot (with its cause), and as plot with a mystery (the cause held back, then found). Decide which version the reader should get, and where.
+2. List your main characters and try to sum up each in one sentence. Those who fit are flat, which is fine for minor parts. For each character who should be round, write one moment where they surprise in a convincing way: unexpected, yet clearly theirs.
+
+- **Stage:** in a small-cast play, check which characters came out flat, and whether that's the play you mean. In farce, it might be.
+- **Screen:** try the mystery version on your opening: withhold one cause and pay it off later.
+- **Journalism:** ask whether your lede makes the reader ask "and then?" or "why?". In a profile, find the moment your subject surprised you convincingly.
+
+**Check:** Is every surprise in your draft explained by something you've already shown?
+
 ## Check yourself
 
 Q: What question does a story make the audience ask, and what question does a plot make them ask?

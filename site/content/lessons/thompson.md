@@ -64,6 +64,21 @@ Her method is part of the lesson. Thompson works from the films, timing scenes a
 - David Bordwell, *The Way Hollywood Tells It* (2006), which extends the argument.
 - *Syd Field* and *Frank Daniel & Paul Gulino*, to compare her four parts with three acts and eight sequences.
 
+## Try it
+
+Do what Thompson did: time a film you love, ideally one of about two hours, with a stopwatch and a notepad.
+
+1. Write down the protagonist's goals in the opening minutes. Then note the time whenever a goal changes or a new situation forces a new plan.
+2. Group your notes into setup, complicating action, development and climax, plus any epilogue. How close are the parts in length?
+3. Note whether there are two goals, such as work and love, and where each is resolved.
+4. Then chart your own outline the same way. If the middle sags, look for the turning point near the halfway mark that changes the plan.
+
+- **Stage:** time a recorded production and mark where the characters' goals change. Does the biggest change fall at the interval?
+- **Screen:** compare your timings with *Syd Field*'s three acts. Is his long second act really two parts?
+- **Journalism:** time an episode of a documentary or audio series you admire and see whether it falls into balanced parts with clear turns.
+
+**Check:** Does each part of your story begin with a change in what the protagonist is trying to do?
+
 ## Check yourself
 
 Q: Name Thompson's four large parts, plus the coda that usually follows.

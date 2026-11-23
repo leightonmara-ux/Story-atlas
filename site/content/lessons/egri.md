@@ -82,6 +82,20 @@ Where should a play begin? Egri's answer: at the point where something is at sta
 - Lajos Egri, *The Art of Creative Writing*, a later book that applies the same ideas to fiction.
 - *Robert McKee*, for the controlling idea and the claim that character is revealed by choice under pressure.
 
+## Try it
+
+Put your own play or script through Egri's tests.
+
+1. Write your premise in his three parts: a character or trait, a conflict, a resolution, like *ruthless ambition leads to its own destruction*. Then mark each scene: does it push toward proving it?
+2. Label the conflict in each scene static, jumping or rising. For any jump, list the transitions the character skips between one pole and the other, and write the missing step into the draft.
+3. Name the bond that stops your two central opponents simply walking away. If you can't, strengthen it.
+
+- **Stage:** apply step 2 to your slowest act, scene by scene. Static conflict usually hides there.
+- **Screen:** give two secondary characters a quick bone structure (physiology, sociology, psychology) and see whether their behavior changes.
+- **Journalism:** skip the premise, since reporting must not set out to prove one. Use the bone structure as a checklist for a profile instead, marking what you know and what you still need to ask.
+
+**Check:** Could you point to the scene where each step of your main character's change happens?
+
 ## Check yourself
 
 Q: What are the three parts of an Egri premise? Use "ruthless ambition leads to its own destruction".

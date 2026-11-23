@@ -80,6 +80,20 @@ You'll often read that Aristotle demanded unity of action, time and place. He in
 - *Poetics*, trans. Malcolm Heath (Penguin Classics). Modern, readable, with a good introduction.
 - Michael Tierno, *Aristotle's Poetics for Screenwriters* (2002), if you want it applied to film.
 
+## Try it
+
+Take your work-in-progress, or *Oedipus the King*, and list its scenes, one line each.
+
+1. For each scene, apply Aristotle's test: if I cut it or moved it, would the whole be disturbed? Mark every scene that could go without anyone noticing.
+2. Find your main turn. Write what the key character intends to happen there, and what their action actually produces. If it isn't the opposite, look for a way it could be.
+3. Ask who learns what at that moment. Could the reversal and the recognition land at the same instant?
+
+- **Stage:** check your opening too. Does your first scene need nothing before it to make sense, or are you leaning on a long explanation?
+- **Screen:** test your twist against *The Sixth Sense*: does one discovery reverse the meaning of what came before?
+- **Journalism:** you can't invent a reversal, but you can find the fact in your notes that overturns the reader's assumption, and place it where it will do that.
+
+**Check:** Does your turning point grow out of earlier events, or arrive like a god lowered on a crane?
+
 ## Check yourself
 
 Q: Which of tragedy's six parts does Aristotle rank first, and why?

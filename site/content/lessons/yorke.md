@@ -69,6 +69,20 @@ The book ends where most manuals don't start: with the question of why the shape
 - Compare *Gustav Freytag* (five acts, rising and falling) and *Joseph Campbell & Christopher Vogler* (the journey out and back).
 - For television practice, see *Television structure* in this track.
 
+## Try it
+
+Map your story, or a film you know well, onto Yorke's five acts.
+
+1. Write one line for each act and name the midpoint. What does the protagonist lack at the start, and what do they find at the heart of the woods?
+2. Test the symmetry. Put Act Two beside Act Four and Act One beside Act Five. Is something learned on the way in tested on the way out? Does the ending answer the opening?
+3. Then go fractal. Take the scene that feels deadest and check it for the shape in miniature: a want, a push into difficulty, a turn. Rewrite it until it has all three.
+
+- **Stage:** in a two-act play, check whether the interval falls at or near your midpoint, and what changes direction there.
+- **Screen:** for a series, run steps 1 and 2 on one episode and then on the season.
+- **Journalism:** write down what world your subject left, what they found there and what they brought back. If the last answer is blank, the story may not have resolved.
+
+**Check:** Does your ending answer your opening?
+
 ## Check yourself
 
 Q: What is Yorke's "journey into the woods"?

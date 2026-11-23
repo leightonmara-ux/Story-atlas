@@ -70,6 +70,21 @@ Step 7, **Return**, matters for television in particular. Sitcom characters usua
 - Joseph Campbell, *The Hero with a Thousand Faces* (1949), the source he boiled down. See *Joseph Campbell & Christopher Vogler*.
 - Watch a few episodes of *Community* with the circle in mind and try to find steps 5 and 6 for each storyline.
 
+## Try it
+
+Draw a circle, divide it into eight, and draw a line across the middle. Then take one storyline: a whole project, an episode, or a single scene.
+
+1. Write one short sentence for each of the eight steps, from You to Change.
+2. Mark where the character crosses the line at step 3. Where does the unfamiliar situation really begin?
+3. Look hard at steps 5 and 6. What do they get, and what does it cost them? If there's no price, write one.
+4. Draw a smaller circle for a B story or a single scene.
+
+- **Stage:** many plays take a character through one night of upheaval and back to morning. Mark the moment your play goes below the line.
+- **Screen:** run a circle over every storyline in an episode of a show you know, such as *Community*, then do the same for your own outline.
+- **Journalism:** for a profile, ask what the subject left, what they adapted to, what they got and what it cost. If you can't fill step 6 or 8, you may have a situation, not a story.
+
+**Check:** Does the price paid at step 6 cause the change at step 8?
+
 ## Check yourself
 
 Q: List the eight steps of the story circle using Harmon's one-word labels.

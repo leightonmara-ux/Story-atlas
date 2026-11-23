@@ -68,6 +68,20 @@ Burroway sets out the ways a writer can reveal character, broadly: what people l
 - Janet Burroway, *Imaginative Writing*, her companion textbook covering fiction, poetry, drama and creative nonfiction.
 - Matthew Salesses, *Craft in the Real World* (2021), for a critique of the workshop tradition.
 
+## Try it
+
+Take a story or scene you're working on.
+
+1. Name the trouble in one sentence: what is at stake, and in doubt? If you can't, the draft may not be a story yet.
+2. Find your crisis, the moment one force prevails. Is it written in scene or in summary? If it's summarized, rewrite it as a scene, moment by moment, so the reader lives through the turn.
+3. In that scene, find a line that tells a judgment ("she was furious", "he was a cruel man") and replace it with a significant detail: concrete, specific, and carrying the judgment without stating it.
+
+- **Stage:** your crisis is already in scene, so check the dialogue instead. Make one line do two jobs at once.
+- **Screen:** replace one line of dialogue with a prop or gesture that tells us who someone is.
+- **Journalism:** go through your notes for the significant details. Decide what goes in scene and what in summary, and put in scene only what you witnessed or can reconstruct reliably.
+
+**Check:** Would a reader reach your judgment of a character without your stating it?
+
 ## Check yourself
 
 Q: What does Burroway mean by "only trouble is interesting"?

@@ -75,6 +75,21 @@ Writers often distinguish two approaches. A **premise pilot** shows the situatio
 - Jason Mittell, *Complex TV: The Poetics of Contemporary Television Storytelling* (2015), a scholar's account of how serialized storytelling changed.
 - Compare *John Yorke*, whose fractal model came from running long-running British drama.
 
+## Try it
+
+Watch one episode of a network drama or comedy you like, with a notepad, then outline one of your own the same way.
+
+1. Note the teaser or cold open. What problem or joke does it set up?
+2. Mark each act-out and say what kind of turn it is: a reveal, a reversal or a question.
+3. Tag every scene A, B or C. How does the B story echo or complicate the A story's theme?
+4. Now outline one episode of your own series in the same grid, with an act-out ending every act.
+
+- **Stage:** treat your interval curtain line as an act-out: what will bring people back? Then check whether your subplot rhymes with the main plot.
+- **Screen:** if you're writing for streaming, keep the act-outs in your outline anyway, and see where the episode loses pulse without them.
+- **Journalism:** for a serialized podcast or newspaper series, plan the reveal that ends each part and the season-long question above them.
+
+**Check:** Would a viewer come back after every act-out, and does the B story make the A story mean more?
+
 ## Check yourself
 
 Q: What is an act-out, and why does it exist?

@@ -63,6 +63,21 @@ Run any draft, whether play, script or feature, through six questions:
 5. What is different at the end, and for whom?
 6. Is everything you pay off planted, and does everything you plant pay off?
 
+## Try it
+
+Write your story as a single paragraph of six sentences, one for each shared idea. Warm up on a film you know well, then do it for your own work-in-progress.
+
+1. Sentence one: who wants what, and what stands in the way. Sentence two must begin with "But" or "Therefore".
+2. Sentence three: a complication that costs more than the last one. Sentence four: the question the audience is holding at that point.
+3. Sentence five: what is different at the end, and for whom. Sentence six: one thing planted early, and where it pays off.
+4. Notice which sentence was hardest to write. That's the part of the draft that needs work.
+
+- **Stage:** let sentence four name the question the audience carries out into the interval.
+- **Screen:** write it for a feature or a pilot, then check that sentence one is clear by the end of your first ten pages.
+- **Journalism:** sentence four is your nut graf. Sentence five is what the reader understands at the end that they didn't at the start.
+
+**Check:** Could a stranger read your six sentences and tell you why the story ends where it does?
+
 ## Check yourself
 
 Q: What is Forster's difference between a story and a plot?

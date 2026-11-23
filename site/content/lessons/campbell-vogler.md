@@ -84,6 +84,21 @@ Vogler repeatedly warns against using the stages as a checklist. The order can b
 - Maureen Murdock, *The Heroine's Journey* (1990).
 - Joseph Campbell with Bill Moyers, *The Power of Myth* (1988), the book of the television series.
 
+## Try it
+
+Lay your work-in-progress, or a quest film you know well such as *Star Wars*, against Vogler's twelve stages.
+
+1. For each stage, write the scene that fills it, or "missing". Don't force a fit.
+2. For each gap, ask whether it was a choice. A missing Refusal can mean a hero with no doubt to overcome. A missing Elixir can mean an ending that changes nothing back home.
+3. Write one line saying what the outer journey means inwardly: what does the dragon stand for, and what does the boon change?
+4. Find one character who wears two masks, such as an ally who turns shapeshifter.
+
+- **Stage:** use the inner version. Where does your character cross the threshold into a strange world, even if they never leave the room?
+- **Screen:** check that the Ordeal falls near the middle and the Resurrection near the end: two peaks, not one.
+- **Journalism:** map a profile only against what your reporting supports. Leave a stage blank rather than invent a mentor or a resurrection.
+
+**Check:** Can you say what the hero brings home, and who in the ordinary world it changes?
+
 ## Check yourself
 
 Q: What are the three phases of Campbell's monomyth?
