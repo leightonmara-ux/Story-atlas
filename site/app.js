@@ -256,6 +256,16 @@ async function renderLesson(id) {
       ${next ? `<a class="btn solid" href="#/lesson/${next.id}">Next: ${esc(next.title)} →</a>` : `<a class="btn solid" href="#/compare">Compare the frameworks →</a>`}
     </div>`;
 
+  // Box the "Try it" exercise so the practical part stands out.
+  const tryH = [...app.querySelectorAll('.lesson-body h2')].find(h => h.textContent.trim() === 'Try it');
+  if (tryH) {
+    const box = document.createElement('section');
+    box.className = 'tryit';
+    tryH.before(box);
+    let n = tryH;
+    while (n && !(n !== tryH && n.tagName === 'H2')) { const next = n.nextElementSibling; box.appendChild(n); n = next; }
+  }
+
   document.getElementById('doneBtn').addEventListener('click', e => {
     const now = !doneMap()[id];
     setDone(id, now);
@@ -583,6 +593,14 @@ async function renderPlay(mode, arg) {
     return seqs.length ? go() : renderPlay();
   }
   if (mode === 'lightning') return runLightning();
+  if (mode === 'terms') {
+    const go = async () => runQuiz({
+      title: 'Name the term',
+      questions: weightedPick(await nameTermPool(), 10, weight),
+      back: { href: '#/play', label: 'Play' }, again: go,
+    });
+    return go();
+  }
 
   const st = store.get('sa.stats', { answered: 0, correct: 0, streak: 0, lastDay: '' });
   const today = new Date().toDateString(), yesterday = new Date(Date.now() - 864e5).toDateString();
@@ -602,6 +620,7 @@ async function renderPlay(mode, arg) {
     <div class="games">
       <a class="game" href="#/play/mixed"><b>Mixed quiz</b><span>10 questions from the lessons you've finished, favoring the ones you've missed.</span></a>
       <a class="game" href="#/play/whose"><b>Whose idea is this?</b><span>Match each idea to the thinker behind it.</span></a>
+      <a class="game" href="#/play/terms"><b>Name the term</b><span>Read a definition, pick the term. Each answer shows who originated it.</span></a>
       <a class="game" href="#/play/order"><b>Put it in order</b><span>Tap a framework's stages in sequence: Snyder's beats, the hero's journey and more.</span></a>
       <a class="game" href="#/play/lightning"><b>Lightning round</b><span>As many as you can in 60 seconds. Best: ${store.get('sa.bestLightning', 0)}</span></a>
     </div>
@@ -613,19 +632,98 @@ async function renderPlay(mode, arg) {
     }).join('')}</ul>`;
 }
 
+// ---------- Terms: who originated each idea, and how to use it ----------
+const slug = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+async function getGlossary() {
+  if (!data.glossary) data.glossary = await getJSON('content/glossary.json').catch(() => []);
+  return data.glossary;
+}
+
+async function renderTerms(openSlug) {
+  document.title = 'Terms · Story Atlas';
+  const terms = await getGlossary();
+  const lessonsById = Object.fromEntries(allLessons().map(l => [l.id, l]));
+  const filter = store.get('sa.termFilter', 'all');
+
+  app.innerHTML = `
+    <h1>Terms</h1>
+    <p class="lede">Who originated each idea, and how to use it.</p>
+    <input class="search" type="search" id="termSearch" placeholder="Search ${terms.length} terms" autocomplete="off" aria-label="Search terms">
+    <div class="seg" role="group" aria-label="Show">
+      <button data-f="all" aria-pressed="${filter === 'all'}">All</button>
+      <button data-f="myth" aria-pressed="${filter === 'myth'}">Common myths</button>
+    </div>
+    <div id="termList"></div>`;
+
+  const card = t => {
+    const id = slug(t.term);
+    const links = (t.lessons || []).filter(l => lessonsById[l] && lessonsById[l].ready)
+      .map(l => `<a href="#/lesson/${l}">${esc(lessonsById[l].title)}</a>`).join(' · ');
+    return `<details class="term" id="t-${id}" ${id === openSlug ? 'open' : ''}>
+      <summary><b>${esc(t.term)}</b>${t.aka && t.aka.length ? `<i>Also: ${esc(t.aka.join(', '))}</i>` : ''}${t.myth ? '<span class="tag myth">Myth</span>' : ''}</summary>
+      <div class="term-body">
+        <p>${inline(t.meaning || '')}</p>
+        <p class="origin"><span>Origin</span>${inline(t.origin || 'Unknown.')}</p>
+        ${t.myth ? `<p class="origin myth"><span>Common myth</span>${inline(t.myth)}</p>` : ''}
+        <div class="use"><span>How to use it</span>${inline(t.use || '')}</div>
+        ${links ? `<p class="term-links">Lessons: ${links}</p>` : ''}
+      </div></details>`;
+  };
+
+  const draw = () => {
+    const q = (document.getElementById('termSearch').value || '').trim().toLowerCase();
+    const f = store.get('sa.termFilter', 'all');
+    const list = terms.filter(t => (f === 'all' || t.myth) &&
+      (!q || [t.term, ...(t.aka || []), t.origin, t.meaning].join(' ').toLowerCase().includes(q)));
+    let letter = '';
+    document.getElementById('termList').innerHTML = list.length ? list.map(t => {
+      const L = t.term.normalize('NFD')[0].toUpperCase().replace(/[^A-Z]/, '#');
+      const head = L !== letter ? `<h2 class="letter">${(letter = L)}</h2>` : '';
+      return head + card(t);
+    }).join('') : `<p class="muted">${terms.length ? 'No terms match.' : 'The glossary is on its way.'}</p>`;
+  };
+  draw();
+  document.getElementById('termSearch').addEventListener('input', draw);
+  app.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+    store.set('sa.termFilter', b.dataset.f);
+    app.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    draw();
+  }));
+  if (openSlug) {
+    const el = document.getElementById('t-' + openSlug);
+    if (el) setTimeout(() => el.scrollIntoView({ block: 'start' }), 50);
+  }
+}
+
+// "Name the term": a definition, four terms.
+async function nameTermPool() {
+  const terms = (await getGlossary()).filter(t => t.meaning);
+  return terms.map(t => {
+    const others = shuffle(terms.filter(o => o !== t)).slice(0, 3).map(o => o.term);
+    const firstLesson = allLessons().find(l => (t.lessons || []).includes(l.id) && l.ready);
+    return {
+      key: 'term:' + slug(t.term), q: t.meaning, choices: [t.term, ...others], answer: 0,
+      explain: `${t.origin || ''} [See the term →](#/terms/${slug(t.term)})`.trim(),
+      lesson: firstLesson,
+    };
+  });
+}
+
 // ---------- routing ----------
 let lastView = '';
 async function route() {
   const [view = '', arg, arg2] = location.hash.replace(/^#\/?/, '').split('/');
-  const tab = view === 'compare' || view === 'play' ? view : 'learn';
+  const tab = ['compare', 'play', 'terms'].includes(view) ? view : 'learn';
   stopTimers();
   document.querySelectorAll('.tabbar a').forEach(a => {
     if (a.dataset.tab === tab) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
-  const keepScroll = view === 'compare' && lastView === 'compare';
+  const keepScroll = (view === 'compare' && lastView === 'compare') || (view === 'terms' && arg);
   if (view === 'lesson') await renderLesson(arg);
   else if (view === 'compare') renderCompare(arg);
   else if (view === 'play') await renderPlay(arg, arg2);
+  else if (view === 'terms') await renderTerms(arg);
   else renderHome();
   if (!keepScroll) window.scrollTo(0, 0);
   lastView = view;
