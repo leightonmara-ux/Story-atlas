@@ -70,6 +70,19 @@ The mechanics are precise: every lie creates the need for another; every entranc
 - Michael Frayn, *Noises Off* (1982): a farce about a farce, and a lesson in how the machine works.
 - Compare *Aristotle* for what survives of his view of comedy.
 
+## Try it
+Write a one-page comic scene from scratch, or take a scene from your draft that's meant to be funny.
+1. Start in base reality: an ordinary place and task, two people.
+2. Introduce one unusual thing, ideally a rigidity: a character who can only respond one way, or who applies a rule where it doesn't fit.
+3. Name the game in one sentence. Then heighten it three times, each bigger than the last, and once ask "if this is true, what else is true?"
+4. End with a repetition or an inversion: the rigid habit returns, or turns on its owner.
+
+- **Stage:** Turn it into farce: add a door, a secret and a person who must not walk in. Bring them in.
+- **Screen:** Write it as a sitcom cold open, and make sure the flaw is still intact at the end.
+- **Journalism:** In a humor column or light feature, find the official or habit behaving like a machine, and let repetition do the work without commenting on it.
+
+**Check:** Does each beat escalate one named pattern, and is someone rigid where life asks them to bend?
+
 ## Check yourself
 
 Q: What makes something comic, for Bergson?

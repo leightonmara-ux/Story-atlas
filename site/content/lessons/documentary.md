@@ -69,6 +69,18 @@ Two famous cases show the stakes. Errol Morris's *The Thin Blue Line* (1988) use
 - Errol Morris, *The Thin Blue Line* (1988), and Frederick Wiseman, *Titicut Follies* (1967), to see two very different modes at work.
 - Compare *Ira Glass* for the audio documentary's anecdote-and-reflection rhythm.
 
+## Try it
+Choose a real subject you could film or record in an afternoon: a market stall, a rehearsal, a family meal. Or use footage you already have.
+1. Plan the same five-minute piece in three modes: expository (what does the narration argue?), observational (which unscripted moments would carry it with no narration?) and participatory (what would you ask on camera, and how would your presence change things?).
+2. For each, write one sentence stating the promise it makes the audience.
+3. Pick one, then make a paper edit: a list of your best moments in order, with a protagonist, a question and a turn.
+
+- **Stage:** Plan a five-minute verbatim scene from an interview transcript. Decide whether the interviewer appears onstage.
+- **Screen:** Watch ten minutes of a documentary you like and name the mode of each sequence. Where does it switch?
+- **Journalism:** Plan an audio piece the same way. Would your voice explain, stay silent, or ask questions on tape?
+
+**Check:** Does anything in your edit break the promise your chosen mode makes?
+
 ## Check yourself
 
 Q: What does "the creative treatment of actuality" capture about documentary?

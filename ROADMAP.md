@@ -13,9 +13,12 @@
 - Play tab: a quiz for every lesson, a mixed quiz that brings back missed questions (spaced repetition),
   "Whose idea is this?", "Put it in order" (16 frameworks) and a 60-second lightning round. Streaks and mastery tracked on the device.
 - Compare now has 22 frameworks.
+- Lenses & Critiques track (10 lessons): Sontag, Benjamin, Barthes, White & Didion, endings, point of view,
+  who gets to be the subject, comedy, documentary, the science of story.
+- Every lesson has a boxed "Try it" exercise with Stage, Screen and Journalism versions.
+- Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 
 ## Phase 3: Deepen
-- Glossary of terms (inciting incident, nut graf, peripeteia…) linking each to its lessons.
 - "Diagnose this" exercises: map a known work (*Casablanca*, *Death of a Salesman*, a Pulitzer feature) onto two frameworks and compare.
 - Verify the points the lesson writers flagged as uncertain (kept in the commit history and listed below), against the books.
 

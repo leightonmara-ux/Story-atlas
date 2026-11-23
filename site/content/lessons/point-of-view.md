@@ -61,6 +61,19 @@ The technique was developed by novelists such as Jane Austen and Gustave Flauber
 - James Wood, *How Fiction Works* (2008), especially the chapters on narrating and free indirect style.
 - Kazuo Ishiguro, *The Remains of the Day* (1989), a masterclass in an unreliable, self-deceiving narrator.
 
+## Try it
+Take a scene from your work-in-progress written in third person, about a page long.
+1. Underline every word of judgment or feeling in the narration, such as *stupid*, *finally*, *of course*.
+2. For each, ask whose word it is: the narrator's, or the character's? Mark it N or C.
+3. Rewrite the page twice: once pulling the narration close, so most judgments are the character's (free indirect style); once pulling it back, so the narrator judges openly, Booth-style telling.
+4. Note one thing the reader knows in the distant version that the character doesn't.
+
+- **Stage:** Give the same scene a narrator or a soliloquy. What can the audience now see that the speaker can't?
+- **Screen:** List the scene's shots and mark whose eyes each one takes. Recut on paper so one character owns every point-of-view shot.
+- **Journalism:** Draft one paragraph of a feature in first person and in third. Which reveals how you know what you know?
+
+**Check:** Can you say, for every judgment on the page, whose it is?
+
 ## Check yourself
 
 Q: What does Booth mean by the implied author?

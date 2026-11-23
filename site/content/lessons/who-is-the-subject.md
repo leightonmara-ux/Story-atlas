@@ -76,6 +76,19 @@ Each medium gives you a particular place to look.
 - bell hooks, "The Oppositional Gaze", in *Black Looks: Race and Representation* (1992).
 - Compare *Matthew Salesses*, who asks the same question of workshop craft rules.
 
+## Try it
+Take your work-in-progress, or a film you know well, and make a quick census.
+1. List the five most important characters (or sources).
+2. For each, note: Do they want something that drives the plot? Do we get their thoughts or point of view? Are they described mainly by how they look? Do they talk to anyone about something other than the lead?
+3. Find the character with the fewest yeses. Write one short scene, or a paragraph, from their point of view, with a desire of their own.
+4. Ask whether the story would start somewhere else if it were theirs.
+
+- **Stage:** Count lines and private moments (soliloquies, direct address). Who never gets one?
+- **Screen:** Mark every point-of-view shot and every close-up that shows someone being looked at. Whose eyes do we borrow?
+- **Journalism:** Sort your sources into "expert" and "affected". Who is named and quoted as an authority, and who appears only as an example or a number?
+
+**Check:** Could the least-seen person in your story recognize themselves as more than one story?
+
 ## Check yourself
 
 Q: What does Mulvey mean by the male gaze?

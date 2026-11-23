@@ -383,16 +383,76 @@
       "title": "Lenses & Critiques",
       "blurb": "How stories are received, who they leave out, and the case against narrative itself. Plus comedy and documentary.",
       "lessons": [
-        { "id": "sontag", "title": "Susan Sontag", "subtitle": "Against Interpretation, 1964" },
-        { "id": "benjamin", "title": "Walter Benjamin", "subtitle": "The Storyteller, 1936" },
-        { "id": "barthes", "title": "Roland Barthes", "subtitle": "Codes, and the death of the author" },
-        { "id": "white-didion", "title": "Hayden White & Joan Didion", "subtitle": "The shape we impose on facts" },
-        { "id": "endings", "title": "Frank Kermode & Peter Brooks", "subtitle": "Why endings matter" },
-        { "id": "point-of-view", "title": "Point of view and voice", "subtitle": "Booth, Bakhtin and free indirect style" },
-        { "id": "who-is-the-subject", "title": "Who gets to be the subject", "subtitle": "Mulvey, Adichie and King" },
-        { "id": "comedy", "title": "Comedy structure", "subtitle": "Bergson, improv and the sitcom" },
-        { "id": "documentary", "title": "Bill Nichols", "subtitle": "The modes of documentary" },
-        { "id": "science-of-story", "title": "The science of story", "subtitle": "What the research does and doesn't show" }
+        {
+          "id": "sontag",
+          "title": "Susan Sontag",
+          "subtitle": "Against Interpretation, 1964",
+          "summary": "Interpretation that translates a work into a hidden meaning can stop us experiencing it; Sontag asked critics, and writers, to attend to form and sensation, and later asked how images of suffering should be framed.",
+          "ready": true
+        },
+        {
+          "id": "benjamin",
+          "title": "Walter Benjamin",
+          "subtitle": "The Storyteller, 1936",
+          "summary": "Information is explained and expires once it's no longer new, but a story passes on experience and keeps its force for centuries, precisely because the teller leaves it unexplained.",
+          "ready": true
+        },
+        {
+          "id": "barthes",
+          "title": "Roland Barthes",
+          "subtitle": "Codes, and the death of the author",
+          "summary": "Stories are woven from codes, above all enigmas raised and deliberately delayed and actions we recognize from their first step, and their meaning is made by the reader, not fixed by the author.",
+          "ready": true
+        },
+        {
+          "id": "white-didion",
+          "title": "Hayden White & Joan Didion",
+          "subtitle": "The shape we impose on facts",
+          "summary": "Facts don't come with plots: historians and reporters choose whether events become romance, tragedy, comedy or satire, and Didion shows what happens when the stories we live by stop working.",
+          "ready": true
+        },
+        {
+          "id": "endings",
+          "title": "Frank Kermode & Peter Brooks",
+          "subtitle": "Why endings matter",
+          "summary": "Endings give the middle its meaning: Kermode shows how plot turns mere time into meaningful time between tick and tock, and Brooks how readers are driven forward by desire for the end.",
+          "ready": true
+        },
+        {
+          "id": "point-of-view",
+          "title": "Point of view and voice",
+          "subtitle": "Booth, Bakhtin and free indirect style",
+          "summary": "Who sees and who speaks shapes everything: a narrator can be trusted or seen through, voices can argue without the author settling it, and third person can slip inside a character's mind.",
+          "ready": true
+        },
+        {
+          "id": "who-is-the-subject",
+          "title": "Who gets to be the subject",
+          "subtitle": "Mulvey, Adichie and King",
+          "summary": "Every story decides whose desires drive it, whose eyes we share and who is only looked at, so writers should check whose perspective structures the story and whose is missing.",
+          "ready": true
+        },
+        {
+          "id": "comedy",
+          "title": "Comedy structure",
+          "subtitle": "Bergson, improv and the sitcom",
+          "summary": "Comedy runs on machinery: rigid characters, repetition, inversion and crossed wires, a pattern found and heightened, and a status quo that snaps back so the flaws can strike again.",
+          "ready": true
+        },
+        {
+          "id": "documentary",
+          "title": "Bill Nichols",
+          "subtitle": "The modes of documentary",
+          "summary": "A documentary is shaped reality, a voice made from real material, and its mode, from observational to participatory to reflexive, sets the promise it makes to the audience.",
+          "ready": true
+        },
+        {
+          "id": "science-of-story",
+          "title": "The science of story",
+          "subtitle": "What the research does and doesn't show",
+          "summary": "Research shows that stories are universal and that absorbing ones persuade, but claims about brain chemistry and science-proven story formulas go well beyond the evidence.",
+          "ready": true
+        }
       ]
     }
   ]

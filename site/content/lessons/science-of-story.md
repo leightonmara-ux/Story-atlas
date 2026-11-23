@@ -66,6 +66,19 @@ Craft books like *Wired for Story* translate research into confident advice: the
 - Jonathan Gottschall, *The Storytelling Animal* (2012), the most readable.
 - Gideon Nave, Colin Camerer and Michael McCullough, "Does Oxytocin Increase Trust in Humans? A Critical Review of Research", *Perspectives on Psychological Science* (2015).
 
+## Try it
+Find one claim about "how the brain responds to stories" in a craft book, talk, pitch or article you've used.
+1. Trace it to its source: a named study, a review, or nothing.
+2. Sort it: well supported (universality, narrative transportation and persuasion), early (brain coupling), contested (fiction and empathy), or overstated (oxytocin).
+3. Rewrite the claim in one honest sentence that says only what the evidence shows.
+4. Then look at your own draft: where does a story carry a claim a reader would question if it were stated flatly?
+
+- **Stage:** Mark where your play deliberately breaks absorption, and where it should hold it unbroken.
+- **Screen:** Test one "scientifically proven" beat-sheet rule against a film you love that breaks it.
+- **Journalism:** For a narrative piece, list every factual claim the story carries and check each has a source as strong as the anecdote is moving.
+
+**Check:** Could you defend every "science says" in your notes to a skeptical researcher?
+
 ## Check yourself
 
 Q: What is narrative transportation, and what did Green and Brock find?

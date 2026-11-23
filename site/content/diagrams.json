@@ -678,5 +678,36 @@
       ]
     ],
     "steps": true
+  },
+  "endings": {
+    "caption": "A sketch of Peter Brooks's model of plot, after Freud: the beginning arouses tension, the middle's detours and repetitions delay and bind it, and the end discharges it. Resolving too early is a short circuit.",
+    "points": [
+      [
+        0,
+        0.15,
+        "Arousal"
+      ],
+      [
+        0.3,
+        0.55,
+        "Detour"
+      ],
+      [
+        0.45,
+        0.45,
+        "Repetition"
+      ],
+      [
+        0.75,
+        0.9,
+        "Tension bound"
+      ],
+      [
+        1,
+        0.1,
+        "Discharge"
+      ]
+    ],
+    "steps": false
   }
 }
