@@ -1,0 +1,151 @@
+{
+  "intro": "The same moments appear in almost every theory, under different names. The alignment is approximate: each thinker slices the story a little differently, and some don't follow the arc at all.",
+  "moments": [
+    { "id": "setup", "title": "The world before", "gloss": "Life before the story starts. Who these people are and what normal looks like." },
+    { "id": "disruption", "title": "Disruption", "gloss": "The event that knocks life off balance and gives someone something to want." },
+    { "id": "rising", "title": "Rising complications", "gloss": "Pursuit of the goal meets resistance, and each obstacle costs more than the last." },
+    { "id": "midpoint", "title": "Midpoint turn", "gloss": "A shift in the middle: a false victory, a false defeat, or a change of direction." },
+    { "id": "crisis", "title": "Lowest point", "gloss": "Everything seems lost, and the hardest choice has to be made." },
+    { "id": "climax", "title": "Climax", "gloss": "The decisive confrontation or action. The story's question is answered." },
+    { "id": "resolution", "title": "New normal", "gloss": "The aftermath. What has changed, and what it means." }
+  ],
+  "frameworks": [
+    {
+      "name": "Aristotle",
+      "when": "c. 335 BCE",
+      "medium": "Stage",
+      "lesson": "aristotle",
+      "cells": {
+        "setup": { "t": "Beginning", "g": "What needs nothing before it to make sense." },
+        "disruption": { "t": "Complication (desis) begins", "g": "The knot starts to tie." },
+        "rising": { "t": "Complication (desis)", "g": "Everything from the start up to the turn in fortune." },
+        "climax": { "t": "Reversal + recognition", "g": "Peripeteia and anagnorisis: fortune turns as ignorance becomes knowledge. Best when they coincide, as in Oedipus." },
+        "resolution": { "t": "Unraveling (lysis)", "g": "From the turn to the end. It should come from the plot itself, not a deus ex machina." }
+      }
+    },
+    {
+      "name": "Freytag",
+      "when": "1863",
+      "medium": "Stage",
+      "lesson": "freytag",
+      "note": "Freytag's 'climax' sits in the middle of the play, not near the end. It's the hero's high point, after which fortune falls.",
+      "cells": {
+        "setup": { "t": "Introduction", "g": "Exposition: setting, people, situation." },
+        "disruption": { "t": "Exciting force", "g": "The moment that sets the action going." },
+        "rising": { "t": "Rise", "g": "Complications build toward the high point." },
+        "midpoint": { "t": "Climax", "g": "The peak of the pyramid, at the center of a five-act play." },
+        "crisis": { "t": "Fall · Force of final suspense", "g": "The downward turn, with one last moment of hope that escape is possible." },
+        "climax": { "t": "Catastrophe", "g": "In tragedy, the hero's downfall. It also ends the play." }
+      }
+    },
+    {
+      "name": "Vogler's hero's journey",
+      "when": "1992, from Campbell 1949",
+      "medium": "Screen",
+      "lesson": "campbell-vogler",
+      "cells": {
+        "setup": { "t": "Ordinary World" },
+        "disruption": { "t": "Call to Adventure", "g": "Followed by Refusal of the Call and Meeting with the Mentor." },
+        "rising": { "t": "Crossing the Threshold · Tests, Allies, Enemies · Approach", "g": "Into the special world, learning its rules, nearing the inmost cave." },
+        "midpoint": { "t": "Ordeal · Reward", "g": "A central brush with death, and the prize it wins." },
+        "crisis": { "t": "The Road Back", "g": "Consequences pursue the hero; a recommitment to finishing the journey." },
+        "climax": { "t": "Resurrection", "g": "A final, most dangerous test where the hero proves what they've learned." },
+        "resolution": { "t": "Return with the Elixir", "g": "Home again, carrying something that changes the ordinary world." }
+      }
+    },
+    {
+      "name": "Syd Field",
+      "when": "1979",
+      "medium": "Screen",
+      "lesson": "field",
+      "cells": {
+        "setup": { "t": "Act I: Setup", "g": "Roughly the first quarter, pages 1–30 of a 120-page script." },
+        "disruption": { "t": "Inciting incident → Plot Point I", "g": "Plot Point I, around page 25–27, spins the story into Act II." },
+        "rising": { "t": "Act II: Confrontation", "g": "The long middle: obstacles to the dramatic need." },
+        "midpoint": { "t": "Midpoint", "g": "Added in his later books: a turn around page 60 that splits Act II." },
+        "crisis": { "t": "Plot Point II", "g": "Around page 85–90, spins the story into Act III." },
+        "climax": { "t": "Act III climax" },
+        "resolution": { "t": "Act III: Resolution" }
+      }
+    },
+    {
+      "name": "Robert McKee",
+      "when": "1997",
+      "medium": "Screen",
+      "lesson": "mckee",
+      "cells": {
+        "setup": { "t": "Balance of forces", "g": "Life in relative balance before the story." },
+        "disruption": { "t": "Inciting incident", "g": "Radically upsets that balance and creates an object of desire." },
+        "rising": { "t": "Progressive complications", "g": "Widening gaps between expectation and result, to a point of no return." },
+        "midpoint": { "t": "Act climax", "g": "A major reversal. McKee counts acts by these, not by a fixed template." },
+        "crisis": { "t": "Crisis", "g": "A dilemma: irreconcilable goods or the lesser of two evils. Character is revealed in the choice." },
+        "climax": { "t": "Story climax", "g": "The action that results. Absolute, irreversible change." },
+        "resolution": { "t": "Resolution" }
+      }
+    },
+    {
+      "name": "Blake Snyder",
+      "when": "2005",
+      "medium": "Screen",
+      "lesson": "snyder",
+      "cells": {
+        "setup": { "t": "Opening Image · Theme Stated · Set-Up", "g": "Pages 1–10 of a 110-page script." },
+        "disruption": { "t": "Catalyst · Debate", "g": "Catalyst at page 12; the hero hesitates until page 25." },
+        "rising": { "t": "Break into Two · B Story · Fun and Games", "g": "Pages 25–55: 'the promise of the premise'." },
+        "midpoint": { "t": "Midpoint", "g": "Page 55: a false victory or false defeat, and the stakes go up." },
+        "crisis": { "t": "Bad Guys Close In · All Is Lost · Dark Night of the Soul", "g": "Pages 55–85, with a 'whiff of death' at All Is Lost." },
+        "climax": { "t": "Break into Three · Finale", "g": "Pages 85–110." },
+        "resolution": { "t": "Final Image", "g": "A mirror of the Opening Image, showing the change." }
+      }
+    },
+    {
+      "name": "Dan Harmon's story circle",
+      "when": "2000s",
+      "medium": "Screen",
+      "lesson": "harmon",
+      "cells": {
+        "setup": { "t": "1. You", "g": "A character is in a zone of comfort…" },
+        "disruption": { "t": "2. Need", "g": "…but they want something." },
+        "rising": { "t": "3. Go · 4. Search", "g": "They enter an unfamiliar situation and adapt to it." },
+        "midpoint": { "t": "5. Find", "g": "They get what they wanted…" },
+        "crisis": { "t": "6. Take", "g": "…pay a heavy price for it…" },
+        "climax": { "t": "7. Return", "g": "…then return to their familiar situation…" },
+        "resolution": { "t": "8. Change", "g": "…having changed." }
+      }
+    },
+    {
+      "name": "Jon Franklin",
+      "when": "1986",
+      "medium": "Journalism",
+      "lesson": "franklin",
+      "note": "Franklin folds the climax and its aftermath into a single resolution.",
+      "cells": {
+        "setup": { "t": "Sympathetic character", "g": "A real person the reader can follow." },
+        "disruption": { "t": "Complication", "g": "Something happens that complicates their life." },
+        "rising": { "t": "Developments", "g": "Often three, each a short active statement." },
+        "climax": { "t": "Resolution", "g": "The character's own action, often an insight, resolves the complication." }
+      }
+    },
+    {
+      "name": "Kishōtenketsu",
+      "when": "Classical Chinese and Japanese",
+      "medium": "Counterpoint",
+      "lesson": "kishotenketsu",
+      "note": "Four parts, and no conflict required. The twist is a surprising new element or angle, not a confrontation.",
+      "cells": {
+        "setup": { "t": "Ki: introduction" },
+        "rising": { "t": "Shō: development", "g": "The situation deepens, without opposition." },
+        "climax": { "t": "Ten: twist", "g": "Something unexpected, seemingly unrelated, enters." },
+        "resolution": { "t": "Ketsu: reconciliation", "g": "We see how the twist and what came before fit together." }
+      }
+    },
+    {
+      "name": "The inverted pyramid",
+      "when": "19th century to now",
+      "medium": "Journalism",
+      "lesson": "inverted-pyramid",
+      "note": "Doesn't map onto the arc at all. Facts are ordered by importance, not time: who, what, when, where, why first, so a reader can stop anywhere and an editor can cut from the bottom.",
+      "cells": {}
+    }
+  ]
+}

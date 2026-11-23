@@ -1,0 +1,104 @@
+{
+  "tracks": [
+    {
+      "id": "core",
+      "title": "Foundations",
+      "blurb": "The ideas every other track builds on. Start here whatever you write.",
+      "lessons": [
+        {
+          "id": "shared-core",
+          "title": "The shared core",
+          "subtitle": "What nearly every theory agrees on",
+          "summary": "Across 2,400 years of argument, almost every theorist agrees that a story is change under pressure: someone wants something, meets resistance, and comes out different.",
+          "ready": true
+        },
+        {
+          "id": "aristotle",
+          "title": "Aristotle",
+          "subtitle": "Poetics, c. 335 BCE",
+          "summary": "The first surviving theory of story, and still the one everyone argues with: plot is the soul of drama, and events must follow from each other, not just after each other.",
+          "ready": true
+        },
+        { "id": "freytag", "title": "Gustav Freytag", "subtitle": "The pyramid, 1863" },
+        { "id": "egri", "title": "Lajos Egri", "subtitle": "The Art of Dramatic Writing, 1946" },
+        { "id": "propp", "title": "Vladimir Propp", "subtitle": "Morphology of the Folktale, 1928" },
+        { "id": "campbell-vogler", "title": "Joseph Campbell & Christopher Vogler", "subtitle": "The hero's journey, 1949 and 1992" },
+        {
+          "id": "three-media",
+          "title": "Same skeleton, three media",
+          "subtitle": "How screen, stage and page bend the core",
+          "summary": "The deep rules are shared. What differs is who controls the audience's attention, and whether you invent the events or have to find them.",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "Screen",
+      "blurb": "Film and television, where structure is most codified, partly because the industry buys it that way.",
+      "lessons": [
+        { "id": "field", "title": "Syd Field", "subtitle": "Screenplay, 1979" },
+        {
+          "id": "mckee",
+          "title": "Robert McKee",
+          "subtitle": "Story, 1997",
+          "summary": "Every scene must turn a value from positive to negative or back, and the engine of every turn is the gap between what a character expects and what the world does.",
+          "ready": true
+        },
+        { "id": "truby", "title": "John Truby", "subtitle": "The Anatomy of Story, 2007" },
+        { "id": "snyder", "title": "Blake Snyder", "subtitle": "Save the Cat!, 2005" },
+        { "id": "harmon", "title": "Dan Harmon", "subtitle": "The story circle" },
+        { "id": "sequence", "title": "Frank Daniel & Paul Gulino", "subtitle": "The sequence approach" },
+        { "id": "yorke", "title": "John Yorke", "subtitle": "Into the Woods, 2013" },
+        { "id": "mamet", "title": "David Mamet", "subtitle": "On Directing Film, 1991" },
+        { "id": "pixar", "title": "Pixar's story rules", "subtitle": "Emma Coats, 2011" }
+      ]
+    },
+    {
+      "id": "stage",
+      "title": "Stage",
+      "blurb": "Live bodies in one shared space, where words are the action and the audience decides where to look.",
+      "lessons": [
+        { "id": "well-made-play", "title": "The well-made play", "subtitle": "Scribe, Sardou and Ibsen" },
+        { "id": "chekhov", "title": "Anton Chekhov", "subtitle": "Indirect action" },
+        { "id": "stanislavski", "title": "Konstantin Stanislavski", "subtitle": "Objectives and the through-line" },
+        { "id": "brecht", "title": "Bertolt Brecht", "subtitle": "Epic theatre, against Aristotle" },
+        { "id": "ball", "title": "David Ball", "subtitle": "Backwards and Forwards, 1983" },
+        { "id": "vogel", "title": "Paula Vogel", "subtitle": "Structure beyond the arc" },
+        { "id": "ruhl", "title": "Sarah Ruhl", "subtitle": "100 Essays I Don't Have Time to Write, 2014" }
+      ]
+    },
+    {
+      "id": "journalism",
+      "title": "Journalism",
+      "blurb": "Stories made of facts. You can't invent a better ending, so structure becomes the art of finding and ordering.",
+      "lessons": [
+        { "id": "inverted-pyramid", "title": "The inverted pyramid", "subtitle": "News, most important first" },
+        { "id": "wsj-formula", "title": "The feature formula", "subtitle": "Anecdote, nut graf, kicker" },
+        {
+          "id": "franklin",
+          "title": "Jon Franklin",
+          "subtitle": "Writing for Story, 1986",
+          "summary": "A true story is a complication and its resolution. Find the resolution first, then outline the whole piece in a few short, active statements.",
+          "ready": true
+        },
+        { "id": "hart", "title": "Jack Hart", "subtitle": "Storycraft, 2011" },
+        { "id": "new-journalism", "title": "Tom Wolfe & the New Journalism", "subtitle": "Fiction's tools for fact, 1973" },
+        { "id": "mcphee", "title": "John McPhee", "subtitle": "Draft No. 4, 2017" },
+        { "id": "glass", "title": "Ira Glass", "subtitle": "Anecdote and reflection" }
+      ]
+    },
+    {
+      "id": "counter",
+      "title": "Counterpoints",
+      "blurb": "Thinkers who question the conflict-driven arc. Know the rules well enough to choose when to break them.",
+      "lessons": [
+        { "id": "kishotenketsu", "title": "Kishōtenketsu", "subtitle": "Four parts, no conflict required" },
+        { "id": "le-guin", "title": "Ursula K. Le Guin", "subtitle": "The Carrier Bag Theory of Fiction, 1986" },
+        { "id": "baxter", "title": "Charles Baxter", "subtitle": "Burning Down the House, 1997" },
+        { "id": "alison", "title": "Jane Alison", "subtitle": "Meander, Spiral, Explode, 2019" },
+        { "id": "salesses", "title": "Matthew Salesses", "subtitle": "Craft in the Real World, 2021" }
+      ]
+    }
+  ]
+}
