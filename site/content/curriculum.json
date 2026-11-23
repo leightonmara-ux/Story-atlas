@@ -377,6 +377,23 @@
           "ready": true
         }
       ]
+    },
+    {
+      "id": "lenses",
+      "title": "Lenses & Critiques",
+      "blurb": "How stories are received, who they leave out, and the case against narrative itself. Plus comedy and documentary.",
+      "lessons": [
+        { "id": "sontag", "title": "Susan Sontag", "subtitle": "Against Interpretation, 1964" },
+        { "id": "benjamin", "title": "Walter Benjamin", "subtitle": "The Storyteller, 1936" },
+        { "id": "barthes", "title": "Roland Barthes", "subtitle": "Codes, and the death of the author" },
+        { "id": "white-didion", "title": "Hayden White & Joan Didion", "subtitle": "The shape we impose on facts" },
+        { "id": "endings", "title": "Frank Kermode & Peter Brooks", "subtitle": "Why endings matter" },
+        { "id": "point-of-view", "title": "Point of view and voice", "subtitle": "Booth, Bakhtin and free indirect style" },
+        { "id": "who-is-the-subject", "title": "Who gets to be the subject", "subtitle": "Mulvey, Adichie and King" },
+        { "id": "comedy", "title": "Comedy structure", "subtitle": "Bergson, improv and the sitcom" },
+        { "id": "documentary", "title": "Bill Nichols", "subtitle": "The modes of documentary" },
+        { "id": "science-of-story", "title": "The science of story", "subtitle": "What the research does and doesn't show" }
+      ]
     }
   ]
 }

@@ -384,7 +384,8 @@ async function whoseIdeaPool() {
   const qs = await allQuizzes();
   // Only lessons named after a thinker or text; topics like "Television structure" aren't "whose".
   const topics = new Set(['shared-core', 'three-media', 'narrative-order', 'tv', 'well-made-play',
-    'inverted-pyramid', 'wsj-formula', 'kishotenketsu']);
+    'inverted-pyramid', 'wsj-formula', 'kishotenketsu', 'point-of-view', 'who-is-the-subject', 'comedy',
+    'science-of-story']);
   const people = qs.filter(z => z.ideas && z.ideas.length && !topics.has(z.lesson.id));
   const out = [];
   for (const z of people) {
