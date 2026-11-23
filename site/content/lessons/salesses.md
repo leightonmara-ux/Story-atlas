@@ -61,6 +61,21 @@ His alternatives include:
 - Felicia Rose Chavez, *The Anti-Racist Writing Workshop: How to Decolonize the Creative Classroom* (2021).
 - Charles Baxter, "Dysfunctional Narratives", to read the case for agency alongside Salesses's critique of it.
 
+## Try it
+
+Take a story or script you're drafting, and a craft note you've had on it, such as "the protagonist needs to be more active" or "this ending isn't believable".
+
+1. Write who the piece is for: the readers whose knowledge, values and sense of normal it assumes.
+2. Write which convention the note comes from, and whose expectations it reflects.
+3. Rewrite one scene twice: once following the note, and once deliberately going the other way, for example letting fate, community or obligation shape events instead of one character's choices.
+4. Write three specific questions you'd ask a workshop about the two versions, starting from your goals.
+
+- **Stage:** name the theatre tradition your play belongs to, and test the note against that tradition's expectations.
+- **Screen:** sort your development notes into those that help the film reach its intended audience and those that would make it like every other film.
+- **Journalism:** write who the story is for and whose idea of a "real story" is shaping it, then reread your lede with that in mind.
+
+**Check:** Can you say which choices you made knowingly, and for whom?
+
 ## Check yourself
 
 Q: What does Salesses mean when he says craft is a set of expectations?

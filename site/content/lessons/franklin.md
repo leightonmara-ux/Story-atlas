@@ -60,6 +60,21 @@ Franklin's structure is really Aristotle's tying and untying, or McKee's incitin
 - Jon Franklin, *Writing for Story: Craft Secrets of Dramatic Nonfiction* (1986). The book reprints "Mrs. Kelly's Monster" with commentary.
 - Jack Hart, *Storycraft: The Complete Guide to Writing Narrative Nonfiction* (2011; 2nd ed. 2021).
 
+## Try it
+
+Take a true story you're reporting, or any story idea you're developing.
+
+1. First ask: has it resolved? Write the resolution in a few words: subject, active verb, object.
+2. Write the complication the same way, and check that the two are a pair: does the resolution answer this complication?
+3. Fill in three developments between them, each also a short active statement.
+4. Check that the resolution comes from the character's own action, or from an insight that changes how they act, not from luck or outside forces.
+
+- **Stage:** write your play as Franklin's five lines ("Daughter defies father…"), and replace any passive or vague verbs.
+- **Screen:** for a fact-based script, start from the real resolution and work backwards to the complication it answers.
+- **Journalism:** if you can't write step 1, consider another form, such as an inverted pyramid or explanatory feature, before pitching it as a narrative.
+
+**Check:** Does your resolution resolve the same problem your complication posed?
+
 ## Check yourself
 
 Q: What are the essential parts of Franklin's definition of a story?

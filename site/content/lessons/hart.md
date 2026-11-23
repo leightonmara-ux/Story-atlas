@@ -77,6 +77,21 @@ Hart insists you can't write a scene you didn't report. Narrative reporting mean
 - Jack Hart, *A Writer's Coach* (2006), his earlier book on clear, lively prose.
 - Jon Franklin, *Writing for Story* (1986), the foundation Hart builds on.
 
+## Try it
+
+Take a narrative piece you're reporting or drafting.
+
+1. Decide which kind you have. A resolution? Then it's a story narrative. No resolution, but a strong line of action? An explanatory narrative. Neither? Perhaps a vignette or a profile.
+2. Write a plot-point list: the developments, in order, that turn the story in a new direction. For a story narrative, mark the crisis and the point of insight.
+3. Mark which plot points will be full scenes, and which stretches between them will be summary.
+4. For each scene, check that you've reported enough to reconstruct it honestly.
+
+- **Stage:** write a plot-point list for your play, and see whether its climax turns on a recognition.
+- **Screen:** for a documentary, choose between a character-driven arc and an explanatory structure, and mark where you want the panoramic view and where the close one.
+- **Journalism:** in an explanatory narrative, mark each digression and check that the line of action resumes before the reader loses it.
+
+**Check:** Are your full scenes reserved for the moments that turn the story?
+
 ## Check yourself
 
 Q: How does Hart distinguish a story from a narrative?

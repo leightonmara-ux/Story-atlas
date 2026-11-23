@@ -68,6 +68,21 @@ That's why it's so flexible. It works when nothing has resolved, which is exactl
 - William E. Blundell, *The Art and Craft of Feature Writing: Based on The Wall Street Journal Guide* (1988).
 - *The inverted pyramid* and *Jon Franklin*, in this app, for the two shapes on either side of this one: pure information and full narrative.
 
+## Try it
+
+Take a feature you're working on, or a trend story you'd like to write.
+
+1. Write the nut graf first, in one or two sentences: what's happening, how big it is, and why it matters now. If you can't, list which of Blundell's dimensions (history, scope, reasons, impact, countermoves, future) you still need to report.
+2. Choose a lede anecdote and test it: is it vivid, and does this person's experience really stand for the larger trend?
+3. Outline the body by ideas, not in the order you learned things.
+4. Write a kicker that returns to the person from the lede, seen in the light of everything since.
+
+- **Stage:** for an issue play or verbatim piece, choose the one human case that makes the abstract subject bearable.
+- **Screen:** sketch a documentary as a cold open on one person, a pull-back to the issue, and a return to that person at the end.
+- **Journalism:** also try a hybrid with the nut graf as the second paragraph, and see whether the lede still earns its place.
+
+**Check:** After the first four paragraphs, could a reader say what the story is about and why it matters now?
+
 ## Check yourself
 
 Q: What are the four parts of the feature formula?

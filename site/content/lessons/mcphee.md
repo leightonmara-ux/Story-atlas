@@ -65,6 +65,21 @@ McPhee credits a high-school English teacher, Mrs. McKee, who made her students 
 - John McPhee, *Draft No. 4: On the Writing Process* (2017), especially "Structure".
 - John McPhee, *The Pine Barrens* (1968) and *Encounters with the Archdruid* (1971), to see the structures he describes in action.
 
+## Try it
+
+Take a piece you've reported but not yet written, or a long draft that isn't working.
+
+1. List your material on a single page, one topic or scene per line.
+2. Look for an organizing element in the material itself, a person, a journey or a place, the way Fred Brown held *The Pine Barrens* together.
+3. Draw the structure as a simple shape: a line for chronology, a loop where you start in the middle and catch up, branches for digressions.
+4. Sort your notes into the sections of the drawing, then write only the first section, with only its material in front of you.
+
+- **Stage:** for a play built from interviews or real events, draw the shape the material suggests before reaching for acts.
+- **Screen:** draw a sequence as "start in the middle, loop back, catch up", as in "Travels in Georgia", and mark where the loop rejoins the opening.
+- **Journalism:** choose chronological, thematic, or a chronological spine with thematic sections hung on it, and write one sentence on why.
+
+**Check:** Can you draw the whole piece on one page, and does the shape come from your material rather than a template?
+
 ## Check yourself
 
 Q: What does McPhee say should come before writing?

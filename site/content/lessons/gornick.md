@@ -62,6 +62,21 @@ Building that persona requires **detachment**: enough distance from the experien
 - Vivian Gornick, *The Situation and the Story: The Art of Personal Narrative* (2001).
 - Vivian Gornick, *Fierce Attachments* (1987), to see the ideas at work.
 
+## Try it
+
+Take a personal essay, memoir piece or first-person draft you're working on.
+
+1. Write one sentence for the situation: what happened.
+2. Write one sentence for the story: what you have come to understand that you didn't before. If you can't, freewrite for ten minutes on why this matters to you now, and look for that sentence in what you wrote.
+3. Reread the draft and mark what serves the story. Cut or compress what only recounts the situation.
+4. Find a passage where the narrator is only ever wronged, and rewrite it so they see their own part.
+
+- **Stage:** for a solo show or memory play, write both sentences for the "I" on stage, and treat that "I" as a character.
+- **Screen:** for a personal documentary, write the story sentence before you write any narration.
+- **Journalism:** for a profile, the assignment is the situation; write a sentence for what you came to understand about this person.
+
+**Check:** Could a stranger read your story sentence and know why the piece is worth their time?
+
 ## Check yourself
 
 Q: What is the difference between the situation and the story?

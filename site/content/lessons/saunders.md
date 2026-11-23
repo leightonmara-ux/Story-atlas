@@ -59,6 +59,21 @@ Saunders describes his own revision method as a matter of tiny, intuitive choice
 - Anton Chekhov, *Selected Stories*, in any good modern translation, to read the stories alongside Saunders's commentary.
 - George Saunders, *Tenth of December* (2013), to see the principles at work in his own fiction.
 
+## Try it
+
+Take a story or script you're drafting and read it a page at a time, the way Saunders reads "In the Cart".
+
+1. After each page, write three short lines: what we now know, what we expect, what we're curious about.
+2. Mark any page where none of the three changed. That's where the story stalls.
+3. Revise one stalled page so it escalates: it should raise, complicate or intensify what the page before reached.
+4. Find something your story does twice. Write the third time as a variation that bends or breaks the pattern.
+
+- **Stage:** do the page-by-page read aloud with a friend, stopping after each page to ask the three questions.
+- **Screen:** apply the escalation test to each sequence of your second act: is it raising the level, or repeating it?
+- **Journalism:** at each section break of a long feature, write down the question in the reader's mind, and check that the next section answers or sharpens it.
+
+**Check:** Does every page make things *more*?
+
 ## Check yourself
 
 Q: Why does Saunders present "In the Cart" one page at a time?

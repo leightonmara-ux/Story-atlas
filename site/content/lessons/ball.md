@@ -69,6 +69,21 @@ Ball deliberately starts with the mechanics. Character, he argues, is revealed t
 - William Shakespeare, *Hamlet*, the book's running example.
 - Eric Bentley, *The Life of the Drama* (1964), a richer, more literary companion on how plays work.
 
+## Try it
+
+Take your own play or screenplay, or *Hamlet* if you'd like to practise on Ball's example first.
+
+1. List its events as a numbered chain, one line each, from first to last.
+2. Starting from the last event, work backwards. For each one, name the immediate trigger in the line above: a specific event, not a theme or a mood.
+3. Circle any link where you can't name a trigger. That's a weak spot: write the missing event, or connect the two you have.
+4. Then go forwards and note the forward each scene leaves open: a question, threat, promise, plan or secret.
+
+- **Stage:** also name the stasis at the start, the intrusion that breaks it, and the new stasis at the end.
+- **Screen:** mark any scene that only resolves and opens nothing, and give it a hook into the next.
+- **Journalism:** start from the outcome of a story you're reporting and trace each immediate cause back, replacing any vague cause ("a culture of neglect") with the specific decision.
+
+**Check:** Reading backwards, does every event have a specific event just before it that caused or allowed it?
+
 ## Check yourself
 
 Q: What, for Ball, is an action?

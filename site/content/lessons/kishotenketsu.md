@@ -69,6 +69,21 @@ The fair summary: kishōtenketsu is a real, widely used pattern that shows how a
 - Senko K. Maynard, *Principles of Japanese Discourse: A Handbook* (1998), for the wider context of how Japanese texts are organized.
 - Ursula K. Le Guin's "The Carrier Bag Theory of Fiction", for another argument against conflict as the only engine of story (see the *Ursula K. Le Guin* lesson).
 
+## Try it
+
+Write a short piece in four parts, without a central conflict, using a small situation from your work-in-progress or your own week.
+
+1. **Ki:** introduce an ordinary situation in a few lines.
+2. **Shō:** develop it. Deepen what's already there, and add nothing radically new.
+3. **Ten:** turn to something that seems unrelated: a different place, person or angle. Nobody has to oppose anybody.
+4. **Ketsu:** write the ending that lets the reader see how the turn and the first two parts belong together.
+
+- **Stage:** write it as four very short scenes or a sketch, with the ten as a sudden change of scene.
+- **Screen:** write it as four shots or a short sequence, with the ten as a cut to an unexpected image.
+- **Journalism:** draft a column or the opening of a profile in four paragraphs: ordinary life, deepened, a seemingly unrelated fact or scene from your reporting, then the connection.
+
+**Check:** Does the ending make the turn feel inevitable in hindsight, rather than random?
+
 ## Check yourself
 
 Q: Name the four parts of kishōtenketsu and what each does.

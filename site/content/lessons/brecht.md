@@ -77,6 +77,20 @@ Brecht is sometimes caricatured as joyless. He wasn't. The *Short Organum* insis
 - Bertolt Brecht, *A Short Organum for the Theatre* (1948), in the same collection.
 - Augusto Boal, *Theatre of the Oppressed* (1974), which takes Brecht's critique further (see *Aristotle*).
 
+## Try it
+
+Take a scene from your own play or script where you want the audience to judge a situation, not just feel it.
+
+1. Write a title for the scene, as *Mother Courage* does, that tells the audience in advance what will happen.
+2. Put the title at the top and rewrite the scene, cutting the suspense the title has made pointless. Spend that space on *how* and *why* it happens.
+3. Add one more distancing device: a direct address, a song or speech that comments, or a gestus that shows a character's social relationships.
+
+- **Stage:** try the title as a projection or a spoken announcement, and read the scene to friends both ways.
+- **Screen:** try a chapter card or a narrator who gives away the outcome before the sequence plays.
+- **Journalism:** take a narrative draft that saves its outcome for the end, state the outcome in the first paragraph, and spend the piece on how and why.
+
+**Check:** Now that the audience knows what happens, are they asking why it happened, and whether it could have gone otherwise?
+
 ## Check yourself
 
 Q: Why did Brecht reject the Aristotelian model?

@@ -74,6 +74,21 @@ Many playwriting teachers adapt the system into questions for the writer:
 - Jean Benedetti, *Stanislavski: An Introduction* (1982), short and clear.
 - Bella Merlin, *The Complete Stanislavsky Toolkit* (2007), a practical guide.
 
+## Try it
+
+Take a two-person scene from your work-in-progress, or a short scene from a play you know well.
+
+1. For each character, write their task in this scene as an active verb aimed at the other person: *to win her back*, *to get him out of the room*. "To be upset" doesn't count.
+2. Mark every line where a character switches tactic, say from charm to threat to pleading.
+3. Name each character's super-objective in one line, and check that this scene's task serves it.
+4. Rewrite any line that states the subtext outright so the task sits underneath it instead.
+
+- **Stage:** read the scene aloud with a partner, each playing only your task, and listen for where it goes slack.
+- **Screen:** do it for a scene with little dialogue, and write the physical actions that carry each task.
+- **Journalism:** for a scene you reported, write what each source was trying to do at each moment, using only what you saw or were told.
+
+**Check:** Could an actor play every line as something done to the other person?
+
 ## Check yourself
 
 Q: What are the given circumstances?

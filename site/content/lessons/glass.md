@@ -68,6 +68,21 @@ Glass also warns against the stilted, formal "broadcaster" voice. On *This Ameri
 - *This American Life*, any episode, listening for the alternation of anecdote and reflection.
 - Jessica Abel, *Out on the Wire* (2015), a graphic-novel guide to how *This American Life* and other narrative radio shows are made.
 
+## Try it
+
+Take a draft feature, script or audio piece. (As a warm-up, listen to one *This American Life* story and notice where it switches.)
+
+1. Mark each paragraph or passage A for anecdote (a sequence of actions) or R for reflection (someone saying what it means).
+2. Find any long run of A or of R. Break it up: add a moment of reflection to a long anecdote, or turn some reflection back into action.
+3. In each anecdote, underline the questions it raises. Where the sequence goes flat, add one.
+4. If there's no R anywhere, write one, or ask honestly whether this material is a story at all.
+
+- **Stage:** in a monologue, mark where the character steps back to say what it means. One or two such moments, not a sermon.
+- **Screen:** in a documentary cut, alternate scenes of action with interview moments of reflection.
+- **Journalism:** read the revised draft aloud as if for radio, and note where your own attention drops.
+
+**Check:** Does the listener always have a question pulling them forward, and do they know why they're hearing this?
+
 ## Check yourself
 
 Q: What are Glass's two building blocks of a story?

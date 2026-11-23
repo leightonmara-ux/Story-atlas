@@ -63,6 +63,20 @@ From the moment you hear the names, you know how it might end, and the play uses
 - Henry Louis Gates Jr., *The Signifying Monkey* (1988), for the tradition of repetition with a difference.
 - Then read *Paula Vogel* and *Sarah Ruhl* for other writers questioning the arc.
 
+## Try it
+
+Choose a line from your work-in-progress that matters to a character.
+
+1. Write three short moments in which that line comes back, in different circumstances, said by the same character or by someone else.
+2. Change the wording as little as you can. Let the circumstances revise the meaning; if you change words, change only one or two.
+3. Find the point where two characters most need to say something and can't, and write a spell there: their names stacked and repeated, with no dialogue.
+
+- **Stage:** read it aloud with actors, and ask them what was different each time the line came back.
+- **Screen:** bring an image or phrase back three times, the last time in a new light. Write the variation, not just the echo.
+- **Journalism:** in a long feature or audio piece, take a phrase a source actually said and return to it three times, each time with new information.
+
+**Check:** Does the line mean something different the third time, and can you say what changed it?
+
 ## Check yourself
 
 Q: What does Rep & Rev stand for, and where does Parks take it from?

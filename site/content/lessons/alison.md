@@ -58,6 +58,21 @@ Much of the book is Alison taking a passage and showing how it's built, how sent
 - Ursula K. Le Guin, "The Carrier Bag Theory of Fiction" (1986), the essay many readers pair with Alison (see *Ursula K. Le Guin*).
 - Kurt Vonnegut's lecture on the shapes of stories, for a playful counterpoint: he graphs stories as curves, while Alison asks for shapes that aren't curves at all.
 
+## Try it
+
+Take a story or script you're drafting and try it in a shape other than the arc.
+
+1. Draw the draft as it stands: not a plot graph, but a picture of how its parts relate.
+2. Choose one of Alison's patterns: a spiral (return to the same moment three times, each at a deeper level), a radial (show one event from three different sides), or wavelets (several small rises and falls instead of one peak).
+3. Write a one-page sketch of the piece in that shape, using material you already have.
+4. Draw the new version and compare. Which parts fit the pattern, and which fight it?
+
+- **Stage:** try a spiral play that keeps returning to the same moment, or a radial one that circles an event through three characters.
+- **Screen:** outline an episode as wavelets, with several small tensions and releases.
+- **Journalism:** restructure a feature to spiral back to its central scene, with new information each time.
+
+**Check:** Does the pattern itself pull the reader on, making them want to see it complete or break?
+
 ## Check yourself
 
 Q: What is Alison's basic complaint about the dramatic arc?

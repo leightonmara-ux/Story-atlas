@@ -73,6 +73,21 @@ When invention is exposed, the damage spreads. In 1981 Janet Cooke of *The Washi
 - John Hersey, *Hiroshima* (1946), and "The Legend on the License", *The Yale Review* (1980).
 - John D'Agata and Jim Fingal, *The Lifespan of a Fact* (2012).
 
+## Try it
+
+Take a narrative piece you're about to publish, or one you've already published.
+
+1. Go through it sentence by sentence and mark everything you didn't directly witness or document.
+2. For each marked sentence, write how you know: an interview, a document, a recording. If the answer is "I imagined it", cut it.
+3. Check the techniques in the table. Did you reconstruct scenes, describe thoughts, compress, or rearrange chronology? Draft a short author's note disclosing what you did.
+4. Then think about Malcolm: write one sentence on what you led your main subject to expect, and whether the piece honors it.
+
+- **Stage:** for verbatim or documentary theater, list every edit or combination of testimony, and decide how the audience will know.
+- **Screen:** for a fact-based script, list each invention, composite and compression, and ask whether it changes the meaning of what happened.
+- **Journalism:** ask a colleague to read your author's note and say whether it changes how far they trust the piece.
+
+**Check:** Would the piece still keep the reader's contract if readers could see your notes?
+
 ## Check yourself
 
 Q: What was Hersey's rule for journalism?

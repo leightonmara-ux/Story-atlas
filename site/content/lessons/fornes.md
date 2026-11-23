@@ -63,6 +63,21 @@ Fornés described her own practice as discovery: she followed characters to see 
 - Scott T. Cummings, *Maria Irene Fornes* (2013), a study in the Routledge Modern and Contemporary Dramatists series.
 - Watch *The Rest I Make Up* (2018), Michelle Memran's documentary.
 
+## Try it
+
+Try a session in the shape her students describe. Set aside half an hour and don't plan anything.
+
+1. Spend a few minutes in stillness, or doing simple stretches.
+2. Close your eyes and picture one character from your work-in-progress in a specific room. Notice the colors, the clothes, what's on the table, what their hands are doing.
+3. Write for fifteen minutes without stopping, starting from what you saw.
+4. Only then read it back and ask what the scene is about, and which single image you'd hold at its end.
+
+- **Stage:** shape the result into one short, framed scene that ends on a held picture rather than a resolved line.
+- **Screen:** write it first as a sequence of held images, and only then ask how they connect.
+- **Journalism:** visualize a room from your reporting notes, write only what you observed or verified, then check every detail against the notes.
+
+**Check:** Is there something on the page you couldn't have put in an outline, because you didn't know it until you wrote it?
+
 ## Check yourself
 
 Q: What is structurally unusual about the middle part of *Fefu and Her Friends*?

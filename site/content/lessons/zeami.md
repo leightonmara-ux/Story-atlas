@@ -65,6 +65,21 @@ Many of Zeami's best plays follow a form now called *mugen* Noh, or "dream" Noh.
 - *Zeami: Performance Notes*, trans. Tom Hare (2008), a complete modern translation.
 - Watch a recorded Noh play, ideally a *mugen* piece, with a good synopsis in hand, and time its jo, ha and kyū.
 
+## Try it
+
+Take a scene or long speech from your work-in-progress and rewrite it in jo-ha-kyū.
+
+1. **Jo:** make the opening slow and simple, so the audience can settle into the mood.
+2. **Ha:** let the middle, the longest part, break that opening open and grow more detailed and intense.
+3. **Kyū:** cut the ending down to a swift, concentrated close, and stop before the audience has had enough.
+4. Then go one scale down: inside the ha, give a single speech or moment its own jo, ha and kyū.
+
+- **Stage:** rehearse an entrance or monologue with an actor using tempo alone: calm, then richer, then quick.
+- **Screen:** recut a sequence so it opens quietly, builds, and makes its last cut just before the viewer expects it.
+- **Journalism:** restructure a feature so the top lets the reader settle, the middle deepens, and the end moves briskly, instead of trailing off in a long, slackening tail.
+
+**Check:** Does the energy rise and quicken through the piece, and does it end before the audience tires?
+
 ## Check yourself
 
 Q: What are jo, ha and kyū?

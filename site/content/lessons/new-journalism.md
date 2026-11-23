@@ -56,6 +56,21 @@ The debate these criticisms started is the subject of *Janet Malcolm & John Hers
 - Joan Didion, *Slouching Towards Bethlehem* (1968).
 - Truman Capote, *In Cold Blood* (1966).
 
+## Try it
+
+Take a narrative draft of your own. (Reading the opening of Gay Talese's "Frank Sinatra Has a Cold" first is a good warm-up.)
+
+1. Go through the draft with four colored pens, one for each of Wolfe's devices: scene, dialogue, point of view (whose eyes are we seeing through?) and status details.
+2. Find a stretch of summary that covers an important moment, and rewrite it as a scene, using the words people actually said.
+3. Add two status details: what someone wears or owns, or how they treat a waiter or a boss.
+4. For every device you used, ask how you know. Cut anything you didn't witness, reconstruct from reporting, or hear from the person.
+
+- **Stage:** take an interview transcript and arrange the real speech scene by scene, as verbatim theater does.
+- **Screen:** introduce a character using only status details, with no exposition.
+- **Journalism:** wherever you describe a character's thoughts, note which interview they told you in.
+
+**Check:** Could you show your notes for every scene, line of dialogue and thought in the piece?
+
 ## Check yourself
 
 Q: What are Wolfe's four devices?

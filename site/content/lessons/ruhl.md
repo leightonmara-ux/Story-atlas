@@ -58,6 +58,21 @@ Ruhl's plays are known for their lightness: quick shifts of tone, sudden jokes i
 - Ted Hughes, *Tales from Ovid* (1997), a vivid retelling of selected stories.
 - Then read *Paula Vogel* for the plot forms Ruhl builds on.
 
+## Try it
+
+Take a character from your work-in-progress who you've been told needs to "learn something".
+
+1. Write one sentence for the arc they're supposed to have: what they learn, how they improve.
+2. Now write a short scene in which, instead, they change suddenly and completely, the Ovidian way. They become something else, in body or in nature, and the play doesn't explain it.
+3. Write the next scene, in which the world simply carries on with the change as a fact. Let the tone shift as quickly as the character did.
+4. Compare the two versions. Which gives the play more wonder, and which does it really need?
+
+- **Stage:** let the transformation happen in view, through a costume, an object or a change of light.
+- **Screen:** try it in a fairy-tale or comic register, and notice whether the film still wants a lesson.
+- **Journalism:** look for a profile draft where you've given someone a neat arc, and rewrite the change as it actually happened, even if it was sudden, partial or unexplained.
+
+**Check:** Does the change give pleasure in itself, without asking the character to have learned anything?
+
 ## Check yourself
 
 Q: What is Ruhl's objection to the character arc?

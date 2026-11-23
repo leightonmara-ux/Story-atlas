@@ -65,6 +65,21 @@ Vogel is known for a teaching exercise called the **bake-off**: writers have a s
 - Sarah Ruhl, *100 Essays I Don't Have Time to Write* (2014), which describes Vogel's plot forms (see *Sarah Ruhl*).
 - Viktor Shklovsky, "Art as Technique" (1917), the essay on defamiliarization.
 
+## Try it
+
+Take a play or script of yours that's stuck, or whose climax feels forced.
+
+1. List its main events in chronological order, one line each.
+2. Reorder the list in three of the forms Vogel teaches: circular (it ends where it began), backward (as in *Betrayal*), and repetitive (a pattern that plays again, with variations).
+3. Under each version, write one sentence on what that order reveals that the straight one doesn't.
+4. Choose the form that matches what the play is about, and draft its first scene that way.
+
+- **Stage:** decide which moment to hold back until near the end, as *How I Learned to Drive* holds back its earliest memory, so that it changes how the audience reads everything before it.
+- **Screen:** outline the backward or looped version scene by scene and see which reveal gains most from coming last.
+- **Journalism:** try a backward or braided order for a feature, and make sure the reader can always tell what happened when.
+
+**Check:** Does the form you chose say something about your subject, or is it only a trick?
+
 ## Check yourself
 
 Q: What does Vogel mean by saying form and content are inseparable?

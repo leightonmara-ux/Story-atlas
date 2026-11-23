@@ -63,6 +63,23 @@ The book itself is a practical companion, organized around short exercises on so
 - Elizabeth Fisher, *Women's Creation: Sexual Evolution and the Shaping of Society* (1975).
 - Ursula K. Le Guin, *The Dispossessed* (1974), a novel that moves between two worlds and two timelines rather than along one arrow.
 
+## Try it
+
+Write a page built as a carrier bag rather than a spear.
+
+1. Choose a place or gathering from your work-in-progress: a kitchen, a waiting room, a market, a family meal.
+2. Put at least four people in it, none of them the hero, and give each a small action of the kind Le Guin lists: relating, finding, losing, enduring, parting.
+3. Let three or four objects or memories pass among them.
+4. End with a gathering-in, not a victory: a moment where the things you've collected sit together and mean something.
+
+Conflict can be one of the things in the bag. Just don't let it be the shape of the bag.
+
+- **Stage:** write it as an ensemble scene in which several small threads run at once, as in Chekhov's households.
+- **Screen:** write a braided sequence that moves among several characters with no single climax.
+- **Journalism:** draft a section of a feature as a gathering of short, reported scenes from one place on one day.
+
+**Check:** If someone asked "who wins?", would the question feel beside the point, and could you say what the piece holds?
+
 ## Check yourself
 
 Q: What does Le Guin mean by "the killer story"?

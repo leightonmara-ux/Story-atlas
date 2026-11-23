@@ -63,6 +63,21 @@ The collection is also full of practical craft. "Rhyming Action", for example, l
 - Parul Sehgal, "The Case Against the Trauma Plot", *The New Yorker* (2021).
 - James Joyce, *Dubliners* (1914), the stories that made the epiphany a model, to read alongside Baxter's critique.
 
+## Try it
+
+Take a scene from your work-in-progress where things happen *to* your protagonist, or where the climax is a confession or the recognition of an old harm.
+
+1. Write one sentence naming who is responsible for the situation. If it's someone else, or the past, you may have a dysfunctional narrative.
+2. Rewrite the scene so the protagonist makes a choice in the present, one that turns out to be a mistake.
+3. Write a short next scene in which they have to live with it and own it.
+4. If the piece ends on an epiphany, replace the final paragraph with an action or a consequence, and let the reader find the meaning.
+
+- **Stage:** replace a speech that reports an old injury with a choice made in front of us.
+- **Screen:** turn a climax that's a confession into a decision.
+- **Journalism:** find each passive construction that hides who acted ("mistakes were made") and, where your reporting supports it, name the person who decided.
+
+**Check:** Does your protagonist now do something they have to answer for?
+
 ## Check yourself
 
 Q: What does Baxter mean by a "dysfunctional narrative"?

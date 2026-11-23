@@ -78,6 +78,21 @@ Many news stories today are hybrids: a summary lede, then a short anecdote, then
 - Any current newswriting textbook, or a wire-service stylebook, for worked examples of ledes.
 - *The feature formula*, in this app, for the shape journalism uses when it wants to be read to the end.
 
+## Try it
+
+Take a news story you're working on, or a recent event you know the facts of.
+
+1. Go through the five Ws and H, and decide which two matter most for *this* event.
+2. Write a summary lede of under about 35 words that leads with them: concrete, self-contained, with an active verb.
+3. Rank the rest of your facts by importance and write a short paragraph for each, most important first.
+4. Cut the last two paragraphs. If anything essential went with them, it was in the wrong place; move it up.
+
+- **Stage:** write a one-sentence lede for each scene of your play, saying plainly what happens in it. Any scene you can't summarize needs work.
+- **Screen:** write your logline as a summary lede, in under 35 words.
+- **Journalism:** read your lede alone, as if it were a notification, and see whether it tells the reader what happened.
+
+**Check:** If a reader stopped after any paragraph, would they already have the most important facts?
+
 ## Check yourself
 
 Q: How does the inverted pyramid order information?

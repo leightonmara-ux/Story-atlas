@@ -84,6 +84,22 @@ Classical Sanskrit drama doesn't do tragedy in the Greek sense. Plays move towar
 - Adya Rangacharya, *The Natyasastra: English Translation with Critical Notes* (1986), a more accessible version.
 - Richard Schechner, "Rasaesthetics" (2001), on what rasa offers Western theatre makers.
 
+## Try it
+
+Plan and write a short scene from your work-in-progress for a taste rather than a conflict.
+
+1. Choose the dominant rasa you want the audience to savor, such as karuṇa (pathos) or adbhuta (the marvelous), and one rasa to support it.
+2. List the vibhāva (determinants): the people, place and causes that call it up.
+3. List the anubhāva (consequents): the visible signs, such as a glance, a tremble, tears.
+4. Add two vyabhicāribhāva (transitory states) that pass through and color it.
+5. Write the scene, and plant one small bīja (seed) that the rest of the play could grow from.
+
+- **Stage:** check that movement, costume and light feed the same rasa as the words.
+- **Screen:** blend two rasas in one sequence, say comedy inside pathos, the way Indian popular cinema mixes them on purpose.
+- **Journalism:** plant a small detail early in a feature as the seed, and return to it, as the bindu (drop), after each digression.
+
+**Check:** Could someone in the audience name the taste the scene left, not just what happened in it?
+
 ## Check yourself
 
 Q: What does rasa mean, and what is the food analogy?
