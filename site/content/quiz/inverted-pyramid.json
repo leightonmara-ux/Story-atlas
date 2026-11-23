@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A reporter's story opens: \"The school board met Thursday night in the high-school library.\" What's wrong with it as an inverted-pyramid lede?",
+      "choices": [
+        "It leads with background, not with what happened",
+        "It saves the scene for later instead of opening with an anecdote",
+        "It answers too many of the five Ws at once",
+        "It should end with a kicker that circles back"
+      ],
+      "answer": 0,
+      "explain": "A summary lede leads with the news. A meeting happening isn't news; what the board decided is."
+    },
+    {
+      "q": "How does the inverted pyramid order its material?",
+      "choices": [
+        "By rising tension, toward a climax",
+        "In the order events happened",
+        "From a specific person to the general issue and back",
+        "By importance, most important first"
+      ],
+      "answer": 3,
+      "explain": "It orders facts by importance, which is why it doesn't map onto the dramatic arc."
+    },
+    {
+      "q": "Why can an editor cut an inverted-pyramid story from the bottom without rewriting?",
+      "choices": [
+        "The ending always repeats the lede",
+        "The nut graf carries all the meaning",
+        "Each paragraph is less essential than the one before",
+        "The last paragraph is reserved for quotes, which are optional"
+      ],
+      "answer": 2,
+      "explain": "Because importance falls as the story goes on, the end holds the least essential material."
+    },
+    {
+      "q": "What's the most accurate thing to say about the popular telegraph explanation of the form's origin?",
+      "choices": [
+        "It is proven by Civil War dispatches",
+        "Historians doubt it caused the form: chronological stories persisted long after the telegraph",
+        "It was invented by Tom Wolfe as a joke",
+        "It is accurate, but only for British newspapers"
+      ],
+      "answer": 1,
+      "explain": "The telegraph may have helped, but historians point to other causes, such as official dispatches, wire services and the ideal of objectivity."
+    },
+    {
+      "q": "A magazine wants a long piece that readers will finish, about a family's year-long fight with an insurer that has just ended. Is the inverted pyramid the best choice?",
+      "choices": [
+        "No: a story that has resolved, meant to be read to the end, suits a narrative or feature structure",
+        "Yes, because the most important fact should always come first",
+        "Yes, because readers can stop anywhere",
+        "No: the inverted pyramid is only for sports"
+      ],
+      "answer": 0,
+      "explain": "The inverted pyramid informs fast but gives readers no reason to keep going. A resolved story can carry a full narrative."
+    },
+    {
+      "q": "What are the five Ws and H for?",
+      "choices": [
+        "A fixed order in which every news story must present its facts",
+        "The six acts of a feature story",
+        "A method for writing kickers",
+        "A checklist so nothing essential is missing; the lede uses the ones that matter most for this event"
+      ],
+      "answer": 3,
+      "explain": "They're a checklist, not a template. Which ones lead depends on the event."
+    },
+    {
+      "q": "A critic says the inverted pyramid 'hides judgment'. What do they mean?",
+      "choices": [
+        "Reporters hide their opinions in the kicker",
+        "The form forbids quotations",
+        "Deciding what's 'most important' is a choice, and what gets put at the bottom is what gets cut",
+        "Editors never read past the lede"
+      ],
+      "answer": 2,
+      "explain": "The form looks neutral, but ranking facts is an editorial decision, and context at the bottom is often lost."
+    }
+  ],
+  "ideas": [
+    "Put the outcome in the first sentence, so a reader who stops anywhere still has the essentials.",
+    "Order facts by importance rather than by time, so an editor can cut from the end without rewriting.",
+    "A news story's first sentence should summarize the whole event in one self-contained line."
+  ]
+}

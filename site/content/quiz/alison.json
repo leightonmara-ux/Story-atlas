@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What is Alison's basic claim about the dramatic arc?",
+      "choices": [
+        "It is always wrong",
+        "It should have five acts",
+        "It is one pattern among many, treated as the only one",
+        "It only works on screen"
+      ],
+      "answer": 2,
+      "explain": "She doesn't reject the arc, only its monopoly."
+    },
+    {
+      "q": "Where does Alison look for alternative shapes?",
+      "choices": [
+        "Folktale functions",
+        "Patterns in nature",
+        "Greek tragedy",
+        "Television schedules"
+      ],
+      "answer": 1,
+      "explain": "Meanders, spirals, wavelets, cells, networks, explosions."
+    },
+    {
+      "q": "A memoir keeps returning to the night of a fire, each time with more understanding. Which pattern is it?",
+      "choices": [
+        "Spiral",
+        "Meander",
+        "Explosion",
+        "Wavelets"
+      ],
+      "answer": 0,
+      "explain": "A spiral circles the same center at deepening levels."
+    },
+    {
+      "q": "A novel is told through eight characters, each section showing the same wedding from a different side. Which pattern fits best?",
+      "choices": [
+        "Meander",
+        "Wavelets",
+        "Three-act structure",
+        "Radial"
+      ],
+      "answer": 3,
+      "explain": "Pieces arranged around a central point, like spokes around a hub."
+    },
+    {
+      "q": "What does Alison mean by shifting attention from plot to design?",
+      "choices": [
+        "Choosing a better font",
+        "Outlining before drafting",
+        "Noticing the felt shape of a text, its repetitions, motifs and arrangement, as a source of momentum",
+        "Adding more plot twists"
+      ],
+      "answer": 2,
+      "explain": "Pattern can pull readers along as strongly as 'what happens next?'"
+    },
+    {
+      "q": "A long-running series ripples along through many small rises and falls rather than building to one peak. Which of Alison's patterns describes it?",
+      "choices": [
+        "Explosion",
+        "Wavelets",
+        "Radial",
+        "Spiral"
+      ],
+      "answer": 1,
+      "explain": "Wavelets are many small tensions and releases instead of one great wave."
+    },
+    {
+      "q": "What's a common criticism of Meander, Spiral, Explode?",
+      "choices": [
+        "Its natural images are evocative but don't always show how to sustain a long work",
+        "It ignores literary fiction",
+        "It is a strict formula",
+        "It only discusses film"
+      ],
+      "answer": 0,
+      "explain": "Critics note that metaphors aren't mechanics, especially over the length of a novel or film."
+    }
+  ],
+  "ideas": [
+    "Narratives can borrow their shapes from nature: rivers that meander, shells that spiral, cells that divide.",
+    "A story can ripple through many small rises and falls instead of building one great wave.",
+    "Readers are pattern-seekers, and design can pull them through a text as strongly as suspense."
+  ]
+}

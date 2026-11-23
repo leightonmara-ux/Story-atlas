@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "What's the difference between fabula and syuzhet?",
+      "choices": [
+        "Fabula is fiction, syuzhet is fact",
+        "Fabula is the events in chronological order; syuzhet is how they're presented",
+        "Fabula is the hero, syuzhet the villain",
+        "They're two names for plot"
+      ],
+      "answer": 1,
+      "explain": "The Russian Formalists' distinction between what happened and how it's told."
+    },
+    {
+      "q": "A film opens on a man lying dead, then cuts to 'Two weeks earlier'. What is this in Genette's terms?",
+      "choices": [
+        "Prolepsis",
+        "Ellipsis",
+        "Analepsis",
+        "Iterative frequency"
+      ],
+      "answer": 2,
+      "explain": "After the opening, the telling jumps back: an analepsis, or flashback."
+    },
+    {
+      "q": "'Every Sunday the family walked to the river.' What kind of frequency is this?",
+      "choices": [
+        "Iterative",
+        "Singulative",
+        "Repetitive",
+        "Pause"
+      ],
+      "answer": 0,
+      "explain": "Told once, happened many times. It lets a writer describe a pattern without inventing one day."
+    },
+    {
+      "q": "A film tells the same crime from four witnesses' perspectives. Which frequency is this?",
+      "choices": [
+        "Repetitive",
+        "Iterative",
+        "Singulative",
+        "Summary"
+      ],
+      "answer": 0,
+      "explain": "One event, told several times, as in Rashomon."
+    },
+    {
+      "q": "A novel's narrator speaks in the third person but shows only what one character perceives. What has been separated?",
+      "choices": [
+        "Story and plot",
+        "Kernels and satellites",
+        "Scene and summary",
+        "Who speaks and who sees: narration and focalization"
+      ],
+      "answer": 3,
+      "explain": "Genette distinguished the narrator's voice from the focalizer whose perception the telling follows."
+    },
+    {
+      "q": "In Chatman's terms, what happens if you cut a kernel?",
+      "choices": [
+        "Nothing important; it was decoration",
+        "The logic of the story breaks, because kernels are its branching points",
+        "The story becomes iterative",
+        "The point of view changes"
+      ],
+      "answer": 1,
+      "explain": "Satellites can be cut and the story survives; kernels can't."
+    },
+    {
+      "q": "Why does this lesson matter so much to journalists?",
+      "choices": [
+        "They can invent events to fit the order",
+        "News must always be chronological",
+        "Genette wrote for newspapers",
+        "They can't change the events, only the telling: order, speed and perspective"
+      ],
+      "answer": 3,
+      "explain": "Reporters find the fabula and write the syuzhet; arranging it honestly is part of the ethics."
+    },
+    {
+      "q": "What's the main criticism Culler and Herrnstein Smith made of the story/discourse split?",
+      "choices": [
+        "It ignores film",
+        "It's too simple to teach",
+        "There may be no fixed set of events underneath the tellings; sometimes the telling seems to produce the event",
+        "It puts the climax in the middle"
+      ],
+      "answer": 2,
+      "explain": "They questioned whether a stable story always exists prior to, and independent of, its versions."
+    }
+  ],
+  "ideas": [
+    "The events in the order they happened and the order in which they're told are two different things, and the art lies in the gap.",
+    "Telling once something that happened many times lets a writer describe a pattern instead of a single day.",
+    "Who tells a story and whose eyes we see it through are separate questions.",
+    "Some events are branching points that can't be cut; others only fill in and can go."
+  ]
+}

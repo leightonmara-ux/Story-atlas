@@ -40,7 +40,7 @@ Characters want things, and a play needs things in the way. Ball asks readers to
 
 ### Forwards
 
-The second half of the title is about the audience. Ball calls an audience hungry for "next": a good play constantly makes you want to know what happens, or how, or when. **Forwards** are the devices that create that appetite: questions raised and not yet answered, promises, threats, plans announced, hints of a secret. A scene that only resolves and opens nothing new stalls the play.
+The second half of the title is about the audience. Ball's phrase for a gripped audience is "hungry for next": a good play constantly makes you want to know what happens, or how, or when. **Forwards** are the devices that create that appetite: questions raised and not yet answered, promises, threats, plans announced, hints of a secret. A scene that only resolves and opens nothing new stalls the play.
 
 ### Exposition as action
 

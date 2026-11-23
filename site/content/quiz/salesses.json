@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What is Salesses's central claim about craft?",
+      "choices": [
+        "Craft is a set of culturally specific expectations",
+        "Craft is a set of universal rules",
+        "Craft doesn't matter",
+        "Craft can only be learned by reading the classics"
+      ],
+      "answer": 0,
+      "explain": "Conventions are built up in particular communities of readers, not laws of nature."
+    },
+    {
+      "q": "Who is the 'default reader' Salesses criticizes?",
+      "choices": [
+        "The editor",
+        "A child",
+        "The author",
+        "A supposedly neutral reader who in practice reflects the dominant tradition of American literary fiction"
+      ],
+      "answer": 3,
+      "explain": "Workshops often judge by this reader's expectations without naming them."
+    },
+    {
+      "q": "A workshop note says, 'Your protagonist is too passive; things just happen to her.' How might Salesses respond?",
+      "choices": [
+        "Agree: agency is universal",
+        "Suggest a midpoint reversal",
+        "Ask whose expectations the note reflects; stories shaped by fate or community aren't failures of craft",
+        "Recommend a beat sheet"
+      ],
+      "answer": 2,
+      "explain": "He sees the demand for individual agency as a cultural value. Compare Baxter, who defends agency."
+    },
+    {
+      "q": "Which is one of his workshop reforms?",
+      "choices": [
+        "The writer stays silent throughout",
+        "The writer can say who the story is for and lead the discussion",
+        "Only the teacher speaks",
+        "Stories are read anonymously and never discussed"
+      ],
+      "answer": 1,
+      "explain": "He wants feedback to start from the writer's goals."
+    },
+    {
+      "q": "What does Salesses suggest a reader should ask when they think something 'doesn't work'?",
+      "choices": [
+        "For whom, and according to what convention",
+        "Whether it follows Freytag",
+        "Whether the sentences are short enough",
+        "Whether it has a villain"
+      ],
+      "answer": 0,
+      "explain": "Making expectations explicit is central to his approach."
+    },
+    {
+      "q": "Which is a fair criticism of Craft in the Real World?",
+      "choices": [
+        "It rejects all writing instruction",
+        "It is only about poetry",
+        "It ignores the workshop",
+        "Its picture of 'Western craft' can be a generalization, and some found its reforms modest"
+      ],
+      "answer": 3,
+      "explain": "Reviewers raised both points, while many still praised the book."
+    },
+    {
+      "q": "Why do some teachers defend the traditional silent workshop?",
+      "choices": [
+        "It saves time",
+        "It's required by publishers",
+        "It mimics a real reader meeting the text without the author present to explain",
+        "It guarantees kindness"
+      ],
+      "answer": 2,
+      "explain": "That is the main defense of the 'gag rule'."
+    }
+  ],
+  "ideas": [
+    "Craft is not a set of universal laws but a set of expectations built up by particular communities of readers.",
+    "Every story has an audience, and a workshop that pretends to a neutral reader is really judging by a dominant one.",
+    "The writer whose work is being discussed should speak, say who the story is for, and steer the conversation."
+  ]
+}

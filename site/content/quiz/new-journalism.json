@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "Which of these is NOT one of Wolfe's four devices?",
+      "choices": [
+        "The nut graf",
+        "Scene-by-scene construction",
+        "Status details",
+        "Full dialogue"
+      ],
+      "answer": 0,
+      "explain": "The nut graf belongs to the feature formula. Wolfe's four were scene-by-scene construction, full dialogue, third-person point of view and status details."
+    },
+    {
+      "q": "A writer describes a senator's scuffed loafers, his secretary's nervous laugh and how he treats the waiter. Which device is this?",
+      "choices": [
+        "Third-person point of view",
+        "Saturation reporting",
+        "Compression",
+        "Status details"
+      ],
+      "answer": 3,
+      "explain": "Status details are everyday signs of a person's place in society, or the place they want."
+    },
+    {
+      "q": "Why did Wolfe say these techniques depended on 'saturation reporting'?",
+      "choices": [
+        "Because readers like long articles",
+        "Because editors paid by the word",
+        "Because only long, close reporting lets you write scenes, dialogue and thoughts honestly",
+        "Because it saturates the story with statistics"
+      ],
+      "answer": 2,
+      "explain": "To write a scene, you have to have seen it or reconstructed it in detail."
+    },
+    {
+      "q": "Why is the third-person point of view the most controversial device in journalism?",
+      "choices": [
+        "It makes stories too long",
+        "It means stating what a real person was thinking, which is hard to verify",
+        "It forbids quotation",
+        "It requires a first-person narrator"
+      ],
+      "answer": 1,
+      "explain": "Even when based on interviews, reconstructed thoughts blur reporting and imagination."
+    },
+    {
+      "q": "What was the problem with composite characters such as Gail Sheehy's 'Redpants'?",
+      "choices": [
+        "Several real people were combined into one figure, which readers took to be a single real person",
+        "The character was too sympathetic",
+        "The piece used too much dialogue",
+        "It was written in the first person"
+      ],
+      "answer": 0,
+      "explain": "Undisclosed composites mislead readers; today mainstream journalism treats them as unacceptable."
+    },
+    {
+      "q": "A critic says New Journalism 'wasn't really new'. What's the best support for that claim?",
+      "choices": [
+        "It used the inverted pyramid",
+        "It was only practiced in Britain",
+        "Wolfe never wrote nonfiction",
+        "Earlier writers, from Defoe and Dickens to Hersey and Lillian Ross, had used scene and dialogue in nonfiction"
+      ],
+      "answer": 3,
+      "explain": "The techniques had precedents; what was new was the scale, the style and Wolfe's argument."
+    },
+    {
+      "q": "Which writer is usually grouped with the New Journalists but writes in a first person that Wolfe's four devices don't really describe?",
+      "choices": [
+        "Jon Franklin",
+        "William Blundell",
+        "Joan Didion",
+        "Jack Hart"
+      ],
+      "answer": 2,
+      "explain": "Didion's cool, personal essays, like Thompson's gonzo pieces, put the writer's own perspective at the center."
+    }
+  ],
+  "ideas": [
+    "Readers' absorption in realist fiction comes from four devices, and a reporter can use every one of them.",
+    "The everyday signs of social status, such as clothes, furniture and manners, are the heart of realism.",
+    "Journalism had taken over the job the novel abandoned: showing how society actually lives."
+  ]
+}

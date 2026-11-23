@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What does jo-ha-kyū describe?",
+      "choices": [
+        "A hero's three trials",
+        "A rhythm of a slow opening, a developing middle and a rapid close",
+        "Three types of character",
+        "The three unities"
+      ],
+      "answer": 1,
+      "explain": "It's a principle of tempo and intensity: jo, ha, kyū."
+    },
+    {
+      "q": "An actor's single entrance, a scene and a whole evening's program are all shaped slow, building, fast. Which of Zeami's ideas is at work?",
+      "choices": [
+        "That jo-ha-kyū applies at every scale",
+        "Yūgen",
+        "The flower's secrecy",
+        "The dream play"
+      ],
+      "answer": 0,
+      "explain": "Zeami treated jo-ha-kyū as nested: each part of the whole has its own jo, ha and kyū."
+    },
+    {
+      "q": "Which part of jo-ha-kyū is the longest?",
+      "choices": [
+        "Jo",
+        "Kyū",
+        "They are equal",
+        "Ha"
+      ],
+      "answer": 3,
+      "explain": "In Zeami's ideal five-section play, ha takes three of the five sections."
+    },
+    {
+      "q": "For Zeami, what is the 'flower' (hana)?",
+      "choices": [
+        "The hero's object of desire",
+        "The closing benediction",
+        "The living effect on the audience: freshness and the unexpected",
+        "The play's central conflict"
+      ],
+      "answer": 2,
+      "explain": "The flower is the effect a performance produces, tied closely to novelty."
+    },
+    {
+      "q": "A feature writer opens with a burst of drama and then lets the piece slacken over a long ending. What would jo-ha-kyū suggest?",
+      "choices": [
+        "Keep the energetic top and cut the ending",
+        "Open more calmly, deepen through the middle, and quicken toward a brisk close",
+        "Add a midpoint reversal",
+        "Put the most important facts first"
+      ],
+      "answer": 1,
+      "explain": "Jo-ha-kyū gives the audience time to settle, then builds and accelerates, ending before they tire."
+    },
+    {
+      "q": "What does yūgen mean in Zeami's usage?",
+      "choices": [
+        "Refined, graceful beauty with a sense of hidden depth",
+        "Comic relief",
+        "The moment of greatest conflict",
+        "A rapid close"
+      ],
+      "answer": 0,
+      "explain": "Originally 'dark' or 'deep', it came to mean elegant beauty that suggests more than it shows."
+    },
+    {
+      "q": "How is jo-ha-kyū fundamentally different from McKee's five-part design?",
+      "choices": [
+        "It has more stages",
+        "It was invented for film",
+        "It requires a tragic ending",
+        "It concerns tempo and intensity, not a protagonist's struggle toward a goal"
+      ],
+      "answer": 3,
+      "explain": "Zeami's principle is about how energy moves through a performance, not about conflict."
+    }
+  ],
+  "ideas": [
+    "Every unit of a performance, from a single gesture to a full day's program, should open slowly, deepen, and close quickly.",
+    "Success on stage is a flower: fresh, admired because it fades, and stronger when the audience can't see how it's done.",
+    "The highest quality of performance is a graceful beauty that hints at depths it never shows."
+  ]
+}

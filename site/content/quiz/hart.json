@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A reporter has a strong line of action, a scientist tracking a rare bird for a season, but no dramatic resolution. What would Hart suggest?",
+      "choices": [
+        "Give up on narrative and write an inverted pyramid",
+        "Invent a resolution",
+        "Turn it into a five-act tragedy",
+        "Write an explanatory narrative: let the line of action carry the reader through digressions"
+      ],
+      "answer": 3,
+      "explain": "Hart's explanatory narrative uses a narrative line to carry an explanation and doesn't need a resolution."
+    },
+    {
+      "q": "How does Hart distinguish 'story' from 'narrative'?",
+      "choices": [
+        "They are the same thing",
+        "Narrative is fiction; story is fact",
+        "A story has a full arc with complication and resolution; narrative is any writing that moves through time with scenes and characters",
+        "Story is what happened; narrative is the emotional insight"
+      ],
+      "answer": 2,
+      "explain": "Every story is a narrative, but not every narrative is a story."
+    },
+    {
+      "q": "In Hart's arc, what is the 'point of insight'?",
+      "choices": [
+        "The paragraph that explains why the story matters now",
+        "The moment the protagonist sees the situation in a new way, allowing the complication to be resolved",
+        "The reporter's first-person reflection",
+        "The opening scene"
+      ],
+      "answer": 1,
+      "explain": "Hart, following Franklin, stresses that change in true stories is often a change of understanding."
+    },
+    {
+      "q": "What is a plot-point list?",
+      "choices": [
+        "A list, in order, of the developments that turn a story in a new direction, made before writing",
+        "A list of every quotation in the notebook",
+        "A list of the six dimensions of a trend story",
+        "The legal checklist for publication"
+      ],
+      "answer": 0,
+      "explain": "It does for a long narrative what Franklin's short outline does for a shorter one."
+    },
+    {
+      "q": "Which thinker's definition of story does Hart build on directly?",
+      "choices": [
+        "Vivian Gornick's",
+        "Tom Wolfe's",
+        "Blake Snyder's",
+        "Jon Franklin's"
+      ],
+      "answer": 3,
+      "explain": "Hart keeps Franklin's protagonist–complication–resolution definition and expands it."
+    },
+    {
+      "q": "A draft summarizes a dramatic hospital night in two sentences, then spends a full scene on a routine staff meeting. What's the problem in Hart's terms?",
+      "choices": [
+        "The point of view keeps shifting",
+        "It needs a nut graf",
+        "Scene and summary are used the wrong way round: save full scenes for the moments that matter most",
+        "There are too many plot points"
+      ],
+      "answer": 2,
+      "explain": "Scenes slow time for important moments; summary moves quickly through the rest."
+    },
+    {
+      "q": "Which critique applies to Hart's approach?",
+      "choices": [
+        "It forbids scenes in nonfiction",
+        "Its techniques can turn every subject into a human-interest story with a protagonist and an epiphany",
+        "It ignores reporting entirely",
+        "It rejects the narrative arc"
+      ],
+      "answer": 1,
+      "explain": "Critics argue narrative techniques can push stories about systems toward individual arcs."
+    }
+  ],
+  "ideas": [
+    "Every story is a narrative, but not every narrative is a story: some forms carry a reader without a full arc.",
+    "A true story often turns on a point of insight, when the protagonist finally sees the situation in a new way.",
+    "When a story has no resolution, let a line of action carry the reader through an explanation instead.",
+    "Before drafting, list the plot points: each development that turns the story in a new direction."
+  ]
+}

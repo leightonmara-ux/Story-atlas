@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "What are the three phases of the monomyth?",
+      "choices": [
+        "Setup, confrontation, resolution",
+        "Separation, initiation, return",
+        "Conflict, crisis, resolution",
+        "Introduction, climax, catastrophe"
+      ],
+      "answer": 1,
+      "explain": "The hero leaves the everyday world, is tested in a strange one, and comes back transformed."
+    },
+    {
+      "q": "In Vogler's twelve stages, where does the Ordeal fall?",
+      "choices": [
+        "At the very end",
+        "In the first act",
+        "In the middle of the story",
+        "It replaces the climax"
+      ],
+      "answer": 2,
+      "explain": "The Ordeal is a central brush with death; the Resurrection is the final test."
+    },
+    {
+      "q": "A trusted ally betrays the hero halfway through. How would Vogler describe this?",
+      "choices": [
+        "The character has switched masks, becoming a shapeshifter",
+        "A jumping conflict",
+        "A violation of an interdiction",
+        "A flat character turning round"
+      ],
+      "answer": 0,
+      "explain": "Vogler's archetypes are functions, not fixed identities, so one character can wear several masks."
+    },
+    {
+      "q": "A hero hesitates and makes excuses after being asked to leave home. Which stage is this?",
+      "choices": [
+        "Approach to the Inmost Cave",
+        "The Road Back",
+        "Tests, Allies, Enemies",
+        "Refusal of the Call"
+      ],
+      "answer": 3,
+      "explain": "Fear or doubt makes the hero hesitate before committing."
+    },
+    {
+      "q": "How did Vogler's version first reach Hollywood?",
+      "choices": [
+        "Through a television series",
+        "As a seven-page memo written while he was a story analyst at Disney",
+        "As a lecture at Cambridge",
+        "Through George Lucas's screenplays"
+      ],
+      "answer": 1,
+      "explain": "The 1985 memo circulated widely and became The Writer's Journey (1992)."
+    },
+    {
+      "q": "What does Campbell think the outward adventure stands for?",
+      "choices": [
+        "Nothing; it's only entertainment",
+        "A political allegory",
+        "An inward, psychological journey of growth and transformation",
+        "The writer's career"
+      ],
+      "answer": 2,
+      "explain": "Drawing on Jung, Campbell read the myth as a picture of inner change."
+    },
+    {
+      "q": "Which is a fair criticism of the monomyth?",
+      "choices": [
+        "It puts the climax in the middle",
+        "Campbell selected myths that fit and the pattern centers a lone, usually male, hero",
+        "It has only three characters",
+        "It ignores the ending"
+      ],
+      "answer": 1,
+      "explain": "Folklorists questioned its universality, and Maureen Murdock wrote The Heroine's Journey in response."
+    },
+    {
+      "q": "What does the hero bring home in the final stage?",
+      "choices": [
+        "The elixir, something that changes the ordinary world",
+        "A wedding, as in folktales",
+        "The premise",
+        "Nothing; the journey is circular"
+      ],
+      "answer": 0,
+      "explain": "Return with the Elixir: the hero carries back a boon, a lesson or a treasure for the community."
+    }
+  ],
+  "ideas": [
+    "The hero ventures from the everyday world into a region of wonder, wins a victory, and returns with a boon for others.",
+    "Behind the world's myths lies a single pattern of departure, initiation and return.",
+    "Character types are masks a character can put on and take off as the story needs.",
+    "In the middle of the journey comes an ordeal, a brush with death, followed later by a final resurrection."
+  ]
+}

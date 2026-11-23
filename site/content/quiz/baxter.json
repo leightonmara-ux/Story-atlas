@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What does Baxter mean by a 'dysfunctional narrative'?",
+      "choices": [
+        "A story about an unhappy family",
+        "A story told out of chronological order",
+        "A story whose protagonist is acted upon, with responsibility always located elsewhere",
+        "A story without a climax"
+      ],
+      "answer": 2,
+      "explain": "The term describes how a story is built, not its subject matter."
+    },
+    {
+      "q": "Why does Baxter begin with the phrase 'mistakes were made'?",
+      "choices": [
+        "As an example of good dialogue",
+        "Because it admits error while hiding who made it",
+        "Because it's a famous first line",
+        "To illustrate the inverted pyramid"
+      ],
+      "answer": 1,
+      "explain": "He sees the same evasion of agency spreading from public life into fiction."
+    },
+    {
+      "q": "A workshop story's climax is a character finally telling her mother everything that was done to her years ago. What would Baxter ask?",
+      "choices": [
+        "Where is her present-tense choice, and what does she get wrong and own?",
+        "Is the reversal also a recognition?",
+        "Is the inciting incident on page 12?",
+        "Does the scene turn a value?"
+      ],
+      "answer": 0,
+      "explain": "Baxter worries when climaxes become accusations or recognitions of grievance rather than choices."
+    },
+    {
+      "q": "What is Baxter's objection in 'Against Epiphanies'?",
+      "choices": [
+        "That stories should end in death",
+        "That Joyce was a poor writer",
+        "That stories need a moral",
+        "That the sudden-insight ending has become a reflex, as if understanding were the same as change"
+      ],
+      "answer": 3,
+      "explain": "He questions the unearned epiphany laid on in a final paragraph."
+    },
+    {
+      "q": "Which statement best represents Baxter's position?",
+      "choices": [
+        "Stories shouldn't be about victims",
+        "All protagonists should be heroic",
+        "Stories can be about terrible harm but should still give their people agency",
+        "Plot matters less than style"
+      ],
+      "answer": 2,
+      "explain": "His target is a narrative habit that erases agency, not the subject of harm."
+    },
+    {
+      "q": "Which later essay revived a related debate about stories built on past injury?",
+      "choices": [
+        "'The Carrier Bag Theory of Fiction'",
+        "Parul Sehgal's 'The Case Against the Trauma Plot'",
+        "Poe's 'The Philosophy of Composition'",
+        "'Rhyming Action'"
+      ],
+      "answer": 1,
+      "explain": "Sehgal's 2021 New Yorker essay made a related argument about trauma as an all-explaining backstory."
+    },
+    {
+      "q": "What does Baxter value in characters instead of passivity?",
+      "choices": [
+        "The interesting mistake: a choice they get wrong and then own",
+        "Unshakable virtue",
+        "Hidden supernatural powers",
+        "A single dominant emotion"
+      ],
+      "answer": 0,
+      "explain": "Owning a mistake is how a character becomes someone."
+    }
+  ],
+  "ideas": [
+    "A culture that says 'mistakes were made' produces stories in which nobody makes them.",
+    "Fiction comes alive when characters make mistakes and then have to own them.",
+    "The sudden flash of insight at a story's end has become a reflex that substitutes understanding for change."
+  ]
+}

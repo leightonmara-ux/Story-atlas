@@ -1,0 +1,18 @@
+{
+  "questions": [
+    { "q": "What are the three parts of a premise in Egri's sense?", "choices": ["Beginning, middle and end", "Character, conflict and resolution", "Setup, confrontation and resolution", "Separation, initiation and return"], "answer": 1, "explain": "In 'ruthless ambition leads to its own destruction', ambition is the character, 'leads to' the conflict, destruction the resolution." },
+    { "q": "In a draft, two characters argue in circles for ten pages and nothing changes. Which of Egri's terms fits?", "choices": ["Static conflict", "Jumping conflict", "A non-event", "Rising conflict"], "answer": 0, "explain": "Static conflict doesn't move. 'Non-event' is McKee's term for a scene that doesn't turn." },
+    { "q": "A shy clerk abruptly turns into a fearless rebel with no steps in between. What would Egri call this?", "choices": ["A reversal", "Static conflict", "Jumping conflict, missing the transitions", "A round character"], "answer": 2, "explain": "Egri insists change move pole to pole through traceable transitions." },
+    { "q": "What are the three dimensions of Egri's bone structure?", "choices": ["Want, need and wound", "Physiology, sociology and psychology", "Plot, character and thought", "Appearance, speech and action"], "answer": 1, "explain": "Body, social world and the psychology that grows from both." },
+    { "q": "Why can't the protagonist and antagonist just walk away from each other in a strong play?", "choices": ["Because of the unity of opposites, a bond that locks them together", "Because of the three unities", "Because the mentor forbids it", "Because the climax is in the middle"], "answer": 0, "explain": "Egri's unity of opposites is the tie (love, family, money, duty) that keeps the conflict alive." },
+    { "q": "How does Egri's view of plot and character differ from Aristotle's?", "choices": ["He agrees plot comes first", "He thinks both are irrelevant beside the premise", "He puts character first: plot grows out of who the people are", "He ranks spectacle highest"], "answer": 2, "explain": "Egri reverses Aristotle's ranking, arguing characters generate the plot." },
+    { "q": "Where should a play begin, according to Egri?", "choices": ["In the ordinary world, before anything is at stake", "At the point of attack, where something is at stake and a decision forces conflict", "At the climax, then flash back", "With the premise stated aloud"], "answer": 1, "explain": "Egri's point of attack starts the play as close to the conflict as possible." },
+    { "q": "Which modern idea is closest to Egri's premise?", "choices": ["Snyder's Catalyst", "Vogler's elixir", "Propp's lack", "McKee's controlling idea"], "answer": 3, "explain": "Both are a one-sentence statement of a value or trait and what it leads to." }
+  ],
+  "ideas": [
+    "Every good play proves a premise in which a trait leads, through conflict, to a resolution.",
+    "Know each character's physiology, sociology and psychology, and their behavior will follow.",
+    "Conflict that leaps from one extreme to another without transitions is as fatal as conflict that never moves.",
+    "Protagonist and antagonist must be bound so tightly that neither can simply walk away."
+  ]
+}

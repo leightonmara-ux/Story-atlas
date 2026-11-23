@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What does 'only trouble is interesting' mean for a writer?",
+      "choices": [
+        "Every story needs violence",
+        "Something must be at stake and in doubt, even if the trouble is quiet",
+        "Only tragedies are worth writing",
+        "The villain should be introduced first"
+      ],
+      "answer": 1,
+      "explain": "Smooth, untroubled events aren't yet a story, but the trouble can be as small as a dinner-table misunderstanding."
+    },
+    {
+      "q": "A story builds to its decisive moment and then sums it up in one line of narration. What would Burroway advise?",
+      "choices": [
+        "Cut the moment entirely",
+        "Move it to the start",
+        "Dramatize the crisis as a scene so the reader experiences the turn",
+        "Add a flat character"
+      ],
+      "answer": 2,
+      "explain": "She stresses that the crisis is usually best shown, not reported."
+    },
+    {
+      "q": "What makes a detail 'significant'?",
+      "choices": [
+        "It's long and lyrical",
+        "It's repeated three times",
+        "It's historically accurate",
+        "It's concrete and specific, and it also suggests an idea or judgment"
+      ],
+      "answer": 3,
+      "explain": "Significant detail appeals to the senses and carries meaning without stating it."
+    },
+    {
+      "q": "Which three terms make up the basic story shape Burroway teaches?",
+      "choices": [
+        "Conflict, crisis, resolution",
+        "Separation, initiation, return",
+        "Introduction, climax, catastrophe",
+        "Anecdote, nut graf, kicker"
+      ],
+      "answer": 0,
+      "explain": "Two forces struggle, the struggle comes to a head, and a changed situation follows."
+    },
+    {
+      "q": "A quiet story about two sisters has no obvious fight. Which lens from later editions of Writing Fiction might help?",
+      "choices": [
+        "The unity of opposites",
+        "A pattern of connection and disconnection between characters",
+        "The force of final suspense",
+        "Unity of effect"
+      ],
+      "answer": 1,
+      "explain": "Later editions offer connection and disconnection as an alternative to the strict conflict model."
+    },
+    {
+      "q": "How does Burroway treat 'show, don't tell'?",
+      "choices": [
+        "As an absolute rule",
+        "As irrelevant to fiction",
+        "As a strong default, while recognizing that summary and direct statement have real uses",
+        "As only for screenwriters"
+      ],
+      "answer": 2,
+      "explain": "Summary moves through time and gives background; the key moments belong in scene."
+    },
+    {
+      "q": "What kind of book is Writing Fiction?",
+      "choices": [
+        "A patented twelve-step system",
+        "A study of Russian folktales",
+        "A memoir",
+        "A workshop textbook synthesizing craft ideas, with stories and exercises"
+      ],
+      "answer": 3,
+      "explain": "Its strength is a clear, balanced survey of shared craft vocabulary, revised through many editions."
+    }
+  ],
+  "ideas": [
+    "In literature, only trouble is interesting.",
+    "A story's crisis should be dramatized as a scene, not summarized after the fact.",
+    "A detail earns its place by being concrete and specific while also implying a judgment."
+  ]
+}

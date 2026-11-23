@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "What is a 'function' in Propp's sense?",
+      "choices": [
+        "A character's psychological need",
+        "An act of a character, defined by its significance for the course of the action",
+        "A recurring image that gathers meaning",
+        "A scene that turns a value"
+      ],
+      "answer": 1,
+      "explain": "Propp defines tales by what acts do in the action, not by who performs them."
+    },
+    {
+      "q": "In one tale a king gives the hero an eagle; in another an old man gives him a horse. What would Propp say?",
+      "choices": [
+        "They're different tales with nothing in common",
+        "They're two different archetypes",
+        "They show a jumping conflict",
+        "They're the same function: the hero receives a magical means of reaching his goal"
+      ],
+      "answer": 3,
+      "explain": "The names and objects change; the function stays the same."
+    },
+    {
+      "q": "Which of Propp's claims about the wonder tales is most surprising?",
+      "choices": [
+        "That every tale contains all 31 functions",
+        "That tales are best sorted by subject",
+        "That the functions that do appear always come in the same order",
+        "That the hero always dies"
+      ],
+      "answer": 2,
+      "explain": "Not every tale has every function, but the sequence of those present is constant."
+    },
+    {
+      "q": "A stranger tests the hero's kindness and, when he passes, gives him a magic sword. Which role is the stranger playing?",
+      "choices": [
+        "The donor",
+        "The dispatcher",
+        "The false hero",
+        "The threshold guardian"
+      ],
+      "answer": 0,
+      "explain": "The donor tests the hero and supplies a magical agent. Threshold guardian is Vogler's term."
+    },
+    {
+      "q": "Late in a tale, someone claims credit for the hero's deed and is later exposed. Which of Propp's roles is this?",
+      "choices": [
+        "The villain",
+        "The helper",
+        "The shapeshifter",
+        "The false hero"
+      ],
+      "answer": 3,
+      "explain": "The false hero makes unfounded claims and is exposed when the true hero is recognized."
+    },
+    {
+      "q": "What did Propp study to reach his conclusions?",
+      "choices": [
+        "Myths of heroes from around the world",
+        "One hundred Russian wonder tales from Afanasyev's collection",
+        "Greek tragedies",
+        "Hollywood films of the 1920s"
+      ],
+      "answer": 1,
+      "explain": "His corpus was deliberately narrow: Russian fairy tales. World myths were Campbell's territory."
+    },
+    {
+      "q": "What was Lévi-Strauss's main objection to Propp?",
+      "choices": [
+        "That the order was wrong",
+        "That he included too few functions",
+        "That he separated form from content and ignored what the tales mean",
+        "That he ignored the hero"
+      ],
+      "answer": 2,
+      "explain": "Lévi-Strauss admired the work but argued structure can't be cut off from meaning and culture."
+    }
+  ],
+  "ideas": [
+    "Classify tales by what characters do for the action, not by who they are or what the tales are about.",
+    "In the wonder tale, the acts that appear always come in the same fixed order.",
+    "A tale's cast reduces to seven spheres of action, and one person can fill several of them.",
+    "A villainy or a lack sets each move of the tale in motion, and its liquidation closes it."
+  ]
+}

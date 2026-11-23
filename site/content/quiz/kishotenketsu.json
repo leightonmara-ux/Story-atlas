@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "In kishōtenketsu, what is the job of the ten?",
+      "choices": [
+        "To resolve the central conflict",
+        "To introduce something unexpected, often seemingly unrelated",
+        "To restate the opening situation",
+        "To mark the hero's lowest point"
+      ],
+      "answer": 1,
+      "explain": "The ten is a turn or twist: a new element or angle. It needn't be a collision between opposing wills."
+    },
+    {
+      "q": "Where did the four-part pattern originate?",
+      "choices": [
+        "Classical Chinese poetry, as qǐ chéng zhuǎn hé",
+        "Japanese Noh theatre",
+        "Korean court music",
+        "Sanskrit drama"
+      ],
+      "answer": 0,
+      "explain": "It began as a description of the four movements of a Chinese quatrain and spread to Japan and Korea."
+    },
+    {
+      "q": "A four-panel comic: a cat stalks a bird; it creeps closer; cut to a vacuum cleaner switching on; the cat is now on top of the fridge. Which panel is the ketsu?",
+      "choices": [
+        "The vacuum cleaner",
+        "The cat stalking",
+        "The cat creeping closer",
+        "The cat on the fridge"
+      ],
+      "answer": 3,
+      "explain": "The last panel brings the unrelated twist and the setup together. That reconciliation is the ketsu."
+    },
+    {
+      "q": "What's the most careful way to describe kishōtenketsu's relation to conflict?",
+      "choices": [
+        "It forbids conflict entirely",
+        "It is built around two opposing forces",
+        "Conflict can appear, but the structure doesn't need a central confrontation to drive it",
+        "It requires a villain in the third part"
+      ],
+      "answer": 2,
+      "explain": "Stories using the pattern often contain conflict. What it doesn't require is a confrontation that everything revolves around."
+    },
+    {
+      "q": "A columnist describes her garden, lingers on its routines, then turns to a war report, and closes by showing what links them. What structure is she using?",
+      "choices": [
+        "The inverted pyramid",
+        "Kishōtenketsu",
+        "Freytag's pyramid",
+        "The feature formula's nut graf"
+      ],
+      "answer": 1,
+      "explain": "Introduction, development, an apparently unrelated turn, and a closing reconciliation."
+    },
+    {
+      "q": "Which Western device is the closest cousin of the ten?",
+      "choices": [
+        "The sonnet's volta",
+        "The deus ex machina",
+        "The inciting incident",
+        "The midpoint false victory"
+      ],
+      "answer": 0,
+      "explain": "The volta is a turn in thought or perspective within a poem, much like the ten."
+    },
+    {
+      "q": "Why do many writers find kishōtenketsu harder to use than it looks?",
+      "choices": [
+        "It needs at least five acts",
+        "It only works in verse",
+        "It forbids dialogue",
+        "The ending must make the twist feel inevitable, or the piece reads as random"
+      ],
+      "answer": 3,
+      "explain": "Everything rides on the ketsu connecting the twist to what came before."
+    }
+  ],
+  "ideas": [
+    "A story can turn on a new perspective or an unrelated element rather than on a clash of wills.",
+    "The third of four movements introduces something that seems not to belong, and the fourth shows why it does.",
+    "The same four-part shape organizes a Chinese quatrain, a school essay and a newspaper comic strip."
+  ]
+}

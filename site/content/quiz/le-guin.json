@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What does Le Guin call the hero's story of conquest and triumph?",
+      "choices": [
+        "The archplot",
+        "The monomyth",
+        "The well-made play",
+        "The killer story"
+      ],
+      "answer": 3,
+      "explain": "She contrasts the linear, spear-like 'killer story' with the carrier bag."
+    },
+    {
+      "q": "What is the carrier bag, as a model for fiction?",
+      "choices": [
+        "A plot with three acts",
+        "A device for withholding information",
+        "A container that holds many things in relation to each other",
+        "A hero's magical object"
+      ],
+      "answer": 2,
+      "explain": "The novel holds people, events and meanings together; its meaning comes from how they sit together."
+    },
+    {
+      "q": "Whose work did Le Guin draw on for the carrier bag theory?",
+      "choices": [
+        "Joseph Campbell",
+        "Elizabeth Fisher",
+        "Vladimir Propp",
+        "Jane Alison"
+      ],
+      "answer": 1,
+      "explain": "Fisher's Women's Creation argued the first cultural invention was likely a container for gathering."
+    },
+    {
+      "q": "A producer asks of an ensemble script about a village over one summer, 'But where's the conflict?' What would Le Guin say?",
+      "choices": [
+        "Conflict can be one thing in the bag, but the story's shape can be a gathering rather than a fight",
+        "Add a villain",
+        "Restructure it as a hero's journey",
+        "Turn every scene on a value"
+      ],
+      "answer": 0,
+      "explain": "She objects to conflict as the only engine, not to tension itself."
+    },
+    {
+      "q": "In Steering the Craft, what does Le Guin object to in many writing manuals?",
+      "choices": [
+        "Their attention to sentence sound",
+        "Their use of exercises",
+        "Their focus on point of view",
+        "Their treatment of story as synonymous with conflict"
+      ],
+      "answer": 3,
+      "explain": "She argues conflict is one kind of behavior among many, such as relating, finding, losing and changing."
+    },
+    {
+      "q": "Which is a fair criticism of the essay?",
+      "choices": [
+        "It insists every story have a climax",
+        "It is too long and technical",
+        "It rests on a gendered hunter/gatherer split and debated prehistory",
+        "It was never published"
+      ],
+      "answer": 2,
+      "explain": "Its anthropology is a metaphor more than settled science, and the binary is neat."
+    },
+    {
+      "q": "Why does Le Guin think the choice of story shape matters beyond literature?",
+      "choices": [
+        "Because short stories sell better",
+        "Because a culture that imagines only conquest stories may imagine its future only as conquest",
+        "Because readers prefer happy endings",
+        "Because film requires three acts"
+      ],
+      "answer": 1,
+      "explain": "She suggests the killer story shapes how we imagine progress and history."
+    }
+  ],
+  "ideas": [
+    "The first human tool may have been a container, not a weapon, and fiction might be modelled on it.",
+    "A novel is better imagined as a bag that holds things together than as an arrow aimed at a target.",
+    "Treating story as synonymous with conflict reflects a culture that overvalues aggression."
+  ]
+}

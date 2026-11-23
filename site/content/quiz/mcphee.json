@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A writer has months of notes on a river town and keeps starting drafts that go nowhere. What would McPhee advise first?",
+      "choices": [
+        "Write a summary lede",
+        "Work out the structure, ideally by finding an organizing element in the material, before writing the first sentence",
+        "Start with an anecdote and see where it goes",
+        "Find a resolution, or abandon the story"
+      ],
+      "answer": 1,
+      "explain": "McPhee wants the shape settled before drafting, and he finds it in the material."
+    },
+    {
+      "q": "Where should structure come from, in McPhee's view?",
+      "choices": [
+        "From the material itself",
+        "From a standard template such as three acts",
+        "From the editor",
+        "From the reader's expectations"
+      ],
+      "answer": 0,
+      "explain": "He believes each subject suggests its own structure, which is the opposite of template thinking."
+    },
+    {
+      "q": "What solved the structure of The Pine Barrens?",
+      "choices": [
+        "Starting with a summary lede",
+        "Writing it in strict chronological order",
+        "Cutting it to a short news piece",
+        "Realizing that one resident, Fred Brown, connected most of the topics"
+      ],
+      "answer": 3,
+      "explain": "After about two weeks stuck on a picnic table, McPhee saw that Brown could be the piece's thread."
+    },
+    {
+      "q": "How does 'Travels in Georgia' handle time?",
+      "choices": [
+        "Strictly in order from first day to last",
+        "It's organized entirely by theme",
+        "It opens partway through with a strong scene, loops back to the beginning, catches up, and continues",
+        "It runs in reverse"
+      ],
+      "answer": 2,
+      "explain": "The structure lets him open strongly without abandoning chronology."
+    },
+    {
+      "q": "What's the main trade-off between chronological and thematic structure?",
+      "choices": [
+        "Chronology is always better",
+        "Chronology gives momentum but can bury the best material; theme is clearer but loses forward motion",
+        "Thematic order is only for news",
+        "There is no trade-off; they are the same"
+      ],
+      "answer": 1,
+      "explain": "Many of McPhee's pieces combine a chronological spine with thematic sections."
+    },
+    {
+      "q": "Why does McPhee code and sort his notes into sections before writing?",
+      "choices": [
+        "So he can write one section at a time with only its material in front of him",
+        "So he can publish the notes as an appendix",
+        "So an editor can cut from the bottom",
+        "So each section has a kicker"
+      ],
+      "answer": 0,
+      "explain": "Once structure is fixed and material sorted, each day's writing becomes manageable."
+    },
+    {
+      "q": "Which is a fair criticism of McPhee's approach?",
+      "choices": [
+        "He invents composite characters",
+        "He ignores structure",
+        "He writes only short news stories",
+        "He has more to say about arrangement than about drama: complication, resolution and the people who drive them"
+      ],
+      "answer": 3,
+      "explain": "Compared with Franklin or Hart, McPhee focuses on arrangement rather than dramatic conflict."
+    }
+  ],
+  "ideas": [
+    "Know the shape of the whole piece before writing the first sentence, and draw it.",
+    "Structure should grow out of the material, not be imposed on it from a template.",
+    "Code every note by topic and sort them into the sections of your plan before you draft."
+  ]
+}

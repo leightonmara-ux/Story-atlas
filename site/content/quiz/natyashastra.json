@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What does rasa refer to?",
+      "choices": [
+        "The aesthetic experience the audience savors, like a flavor",
+        "The hero's goal",
+        "The plot's turning point",
+        "The actor's costume"
+      ],
+      "answer": 0,
+      "explain": "Rasa means taste or flavor: the distilled emotion an audience enjoys through performance."
+    },
+    {
+      "q": "According to the rasa sūtra, rasa arises from the combination of…",
+      "choices": [
+        "Plot, character and thought",
+        "Reversal, recognition and suffering",
+        "Jo, ha and kyū",
+        "Determinants, consequents and transitory states (vibhāva, anubhāva, vyabhicāribhāva)"
+      ],
+      "answer": 3,
+      "explain": "Causes, visible signs and passing feelings combine, like ingredients making a flavor."
+    },
+    {
+      "q": "Which is the correct order of the five stages of action?",
+      "choices": [
+        "Prayatna, ārambha, niyatāpti, prāptyāśā, phalāgama",
+        "Ārambha, prāptyāśā, prayatna, phalāgama, niyatāpti",
+        "Ārambha, prayatna, prāptyāśā, niyatāpti, phalāgama",
+        "Phalāgama, ārambha, prayatna, prāptyāśā, niyatāpti"
+      ],
+      "answer": 2,
+      "explain": "Beginning, effort, possibility of attainment, certainty of attainment, attainment of the result."
+    },
+    {
+      "q": "A playwright plants a small, almost unnoticed detail in the first scene from which the whole action later grows. In the Nāṭyaśāstra's terms, this is the…",
+      "choices": [
+        "Bindu",
+        "Bīja",
+        "Patākā",
+        "Kārya"
+      ],
+      "answer": 1,
+      "explain": "The bīja, or seed, is the small beginning from which the whole plot develops."
+    },
+    {
+      "q": "How does classical Sanskrit drama typically end, compared with Greek tragedy?",
+      "choices": [
+        "With the hero's goal attained, and a closing benediction",
+        "In catastrophe and catharsis",
+        "With a chorus announcing the moral",
+        "Unresolved, by design"
+      ],
+      "answer": 0,
+      "explain": "Plays move toward the attainment of the goal. They don't end in tragic catastrophe."
+    },
+    {
+      "q": "Which statement about the Nāṭyaśāstra's authorship is most accurate?",
+      "choices": [
+        "It was written by Aristotle's student",
+        "It was composed by Zeami",
+        "It was written in the 11th century by Abhinavagupta",
+        "It is attributed to Bharata Muni, but its date and authorship are uncertain"
+      ],
+      "answer": 3,
+      "explain": "Tradition credits Bharata; dates around 200 BCE–200 CE are commonly given, and it may have several layers. Abhinavagupta was a later commentator."
+    },
+    {
+      "q": "A film blends romance, comedy, heroism and pathos, with one feeling dominant and the others supporting it. Which idea best describes that design?",
+      "choices": [
+        "Unity of action",
+        "Kishōtenketsu",
+        "A dominant rasa supported by others",
+        "The carrier bag"
+      ],
+      "answer": 2,
+      "explain": "A play is expected to have one dominant rasa with others in support."
+    }
+  ],
+  "ideas": [
+    "An audience doesn't just feel a character's sorrow; it savors a distilled version of it, as a diner tastes a dish.",
+    "A plot's whole action should grow from a small seed planted at the beginning.",
+    "The hero passes through five stages: beginning, effort, hope of success, certainty of success, and attainment."
+  ]
+}

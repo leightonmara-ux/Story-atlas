@@ -1,0 +1,17 @@
+{
+  "questions": [
+    { "q": "In Freytag's scheme for a five-act tragedy, where does the climax fall?", "choices": ["In the final scene", "In the middle of the play, around the third act", "At the very start", "Wherever the hero dies"], "answer": 1, "explain": "Freytag's climax is the high point at the center of the play; the fall and catastrophe follow." },
+    { "q": "What does Freytag call the moment that sets the action going after the introduction?", "choices": ["The call to adventure", "The point of attack", "The exciting force", "Villainy"], "answer": 2, "explain": "The exciting force is Freytag's term. The others belong to Vogler, Egri and Propp." },
+    { "q": "A tragedy's last act drags because the audience can see the ending coming. Which Freytag device addresses this?", "choices": ["The force of final suspense, a last moment of hope before the catastrophe", "A deus ex machina", "A flash-forward", "A flat character"], "answer": 0, "explain": "Freytag knew the fall is hard to sustain and valued a late moment of uncertainty to renew suspense." },
+    { "q": "Which sequence matches Freytag's five parts?", "choices": ["Exposition, rising action, climax, falling action, denouement", "Introduction, rise, climax, return or fall, catastrophe", "Conflict, crisis, resolution, change, return", "Inciting incident, complications, crisis, climax, resolution"], "answer": 1, "explain": "The first is the simplified school version; the last is McKee's five-part design." },
+    { "q": "What starts the downward movement just after Freytag's climax?", "choices": ["The ordeal", "The tragic force", "The difficult task", "The refusal of the call"], "answer": 1, "explain": "The tragic force tips the action from the climax into the fall." },
+    { "q": "How does the classroom 'plot pyramid' usually differ from Freytag's own?", "choices": ["It adds a midpoint", "It has seven acts", "It drops his three moments and often moves the climax toward the end", "It puts the catastrophe first"], "answer": 2, "explain": "The school version simplifies Freytag and borrows his name for a different shape." },
+    { "q": "A profile follows a CEO's climb, peak and long decline, with the peak halfway through. Whose shape is it closest to?", "choices": ["McKee's late climax", "Kishōtenketsu", "Franklin's outline", "Freytag's symmetrical pyramid"], "answer": 3, "explain": "Freytag's pyramid rises to a central peak and falls for the second half." }
+  ],
+  "ideas": [
+    "A drama rises to its high point at the very center and spends its second half falling toward catastrophe.",
+    "Just before the end of a tragedy, a final flicker of hope should renew suspense.",
+    "A play is built from five parts joined by three decisive moments.",
+    "The first half shows the hero's will driving the action; the second shows the counter-forces driving the hero."
+  ]
+}

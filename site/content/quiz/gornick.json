@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A student's essay recounts her parents' divorce in vivid detail but never arrives at anything. In Gornick's terms, what's missing?",
+      "choices": [
+        "The situation",
+        "The story: the insight or emotional experience the writer makes of the events",
+        "A nut graf",
+        "A summary lede"
+      ],
+      "answer": 1,
+      "explain": "The essay has a situation, what happened, but no story, what it means to the writer."
+    },
+    {
+      "q": "What is the 'situation'?",
+      "choices": [
+        "The context or circumstance: what happened, the plot",
+        "The writer's final insight",
+        "The narrator's persona",
+        "The point of view"
+      ],
+      "answer": 0,
+      "explain": "The situation is the surface of the piece; the story is what it's really about."
+    },
+    {
+      "q": "Why does Gornick call the narrator of a memoir a 'persona'?",
+      "choices": [
+        "Because the narrator is always a fictional character",
+        "Because memoirs should be written in the third person",
+        "Because the narrator must be anonymous",
+        "Because it's a constructed version of the writer, clear-sighted enough to tell the truth, including about their own part"
+      ],
+      "answer": 3,
+      "explain": "The everyday self is defensive; the narrator readers can trust is a craft achievement."
+    },
+    {
+      "q": "A narrator who is always wronged and never sees their own part in events usually loses the reader. Why, for Gornick?",
+      "choices": [
+        "The piece is too short",
+        "There's no status detail",
+        "The reader can't trust a narrator who can't tell the whole truth",
+        "It lacks a circle-back ending"
+      ],
+      "answer": 2,
+      "explain": "Gornick's truth-speaking narrator must be able to see their own role."
+    },
+    {
+      "q": "Why does much writing about very recent events fail, on Gornick's view?",
+      "choices": [
+        "It lacks statistics",
+        "The writer hasn't yet got the detachment to see the story in the situation",
+        "It's written in the present tense",
+        "It has too many scenes"
+      ],
+      "answer": 1,
+      "explain": "Distance, from time or revision, lets the writer find the story."
+    },
+    {
+      "q": "Which pair best captures the parallel between Gornick and Franklin?",
+      "choices": [
+        "Both say you need to know where a piece arrives: for Franklin a resolution in the world, for Gornick an insight in the writer",
+        "Both insist on the inverted pyramid",
+        "Both reject structure entirely",
+        "Both require composite characters"
+      ],
+      "answer": 0,
+      "explain": "Each says the piece only works once you know its destination."
+    },
+    {
+      "q": "What did the 2003 debate around Gornick concern?",
+      "choices": [
+        "Whether memoirs may use present tense",
+        "Whether radio is journalism",
+        "Whether essays need nut grafs",
+        "Whether combining real incidents or people into composites is acceptable in memoir and reporting"
+      ],
+      "answer": 3,
+      "explain": "It raised the question of how far a constructed persona and narrative can go before breaking readers' trust."
+    }
+  ],
+  "ideas": [
+    "Every piece of personal writing has two layers: what happened, and what the writer has come to understand by it.",
+    "The 'I' of a memoir is a constructed narrator, wiser and more truthful than the writer's everyday self.",
+    "Much weak personal writing recounts events vividly and never discovers what they mean."
+  ]
+}

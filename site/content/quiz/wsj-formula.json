@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A feature opens with three lovely paragraphs about a beekeeper, then moves on to statistics about colony collapse with no transition. What's missing?",
+      "choices": [
+        "A kicker",
+        "A summary lede",
+        "A nut graf that says what the story is about and why it matters now",
+        "A point of insight"
+      ],
+      "answer": 2,
+      "explain": "The nut graf connects the anecdote to the larger subject and makes the promise the rest of the story keeps."
+    },
+    {
+      "q": "Put the feature formula in order.",
+      "choices": [
+        "Nut graf, anecdotal lede, kicker, body",
+        "Anecdotal lede, nut graf, body, kicker",
+        "Anecdotal lede, body, nut graf, kicker",
+        "Summary lede, body, nut graf, kicker"
+      ],
+      "answer": 1,
+      "explain": "Anecdote first to draw readers in, the nut graf to say why, the body for evidence, and a kicker to end."
+    },
+    {
+      "q": "Why must the lede anecdote be representative as well as vivid?",
+      "choices": [
+        "Otherwise it may mislead readers about the larger subject",
+        "Because editors cut it first",
+        "Because it must contain all five Ws",
+        "Because the kicker must quote the same person"
+      ],
+      "answer": 0,
+      "explain": "An extreme case presented as typical can exaggerate a trend or misdescribe it."
+    },
+    {
+      "q": "Blundell argued that most bad features fail where?",
+      "choices": [
+        "In the kicker",
+        "In copy editing",
+        "In the choice of headline",
+        "Before the writing: in the reporting and thinking"
+      ],
+      "answer": 3,
+      "explain": "He offered dimensions to report, such as history, scope, reasons, impact, countermoves and future, so writers know what the story is."
+    },
+    {
+      "q": "A reporter is covering a housing trend that is still unfolding, with no resolution in sight. Which structure fits best?",
+      "choices": [
+        "Franklin's complication-and-resolution outline, which needs a real ending",
+        "A five-act tragedy",
+        "The feature formula, whose question is 'what's going on here?'",
+        "None: stories without endings shouldn't be written"
+      ],
+      "answer": 2,
+      "explain": "The feature formula doesn't need a resolution, which makes it useful exactly when a narrative can't be told."
+    },
+    {
+      "q": "What does a 'circle-back' kicker do?",
+      "choices": [
+        "Restates the nut graf word for word",
+        "Returns to the person from the opening, seen in light of everything learned",
+        "Summarizes the five Ws",
+        "Introduces a new character for the next story"
+      ],
+      "answer": 1,
+      "explain": "Returning to the lede's person gives a sense of closure and lets the reader see them anew."
+    },
+    {
+      "q": "What's a common criticism of the formula today?",
+      "choices": [
+        "The reflexive 'Jane Doe, 47' lede has become a cliché, and the anecdote can personalize a structural problem",
+        "It's too short for newspapers",
+        "It gives away the ending in the first line",
+        "It forbids statistics"
+      ],
+      "answer": 0,
+      "explain": "Readers recognize the formula, and a single human case can misrepresent a systemic issue."
+    }
+  ],
+  "ideas": [
+    "Open with one person in a vivid moment, then pull back to say why that moment stands for something bigger.",
+    "Move from the specific to the general and back again, ending where you began.",
+    "Before writing about a trend, report its history, scope, causes, impact, countermoves and future."
+  ]
+}

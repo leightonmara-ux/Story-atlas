@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "Which question does a plot, as opposed to a story, make the audience ask?",
+      "choices": [
+        "And then?",
+        "Why?",
+        "Who is the donor?",
+        "What is the premise?"
+      ],
+      "answer": 1,
+      "explain": "A story makes us ask 'and then?'; a plot, with its emphasis on causality, makes us ask 'why?'"
+    },
+    {
+      "q": "A character in a draft does something unexpected that, on reflection, fits perfectly. What would Forster say?",
+      "choices": [
+        "It's a jumping conflict",
+        "It breaks unity of effect",
+        "It's a sign of a round character: surprising in a convincing way",
+        "It's a satellite and can be cut"
+      ],
+      "answer": 2,
+      "explain": "Forster's test of roundness is the capacity to surprise convincingly."
+    },
+    {
+      "q": "What is Forster's attitude to flat characters?",
+      "choices": [
+        "They're always a failure",
+        "They should be given a bone structure",
+        "They only belong in folktales",
+        "They're useful: easy to recognize and remember, and Dickens is full of them"
+      ],
+      "answer": 3,
+      "explain": "Forster defends flat characters, citing Dickens and Mrs Micawber."
+    },
+    {
+      "q": "'The queen died, no one knew why, until it was discovered that it was through grief.' What does this add to the basic plot?",
+      "choices": [
+        "A mystery: the cause is withheld, then revealed",
+        "An inciting incident",
+        "A false hero",
+        "Iterative frequency"
+      ],
+      "answer": 0,
+      "explain": "Forster says mystery, holding the reason back, is essential to plot at a higher level."
+    },
+    {
+      "q": "What does Forster mean by 'bouncing' the reader?",
+      "choices": [
+        "Using cliffhangers at chapter ends",
+        "Switching media",
+        "The novelist's power to carry the reader into accepting what's said, which matters more than consistent point of view",
+        "Cutting between parallel plots"
+      ],
+      "answer": 2,
+      "explain": "Forster thought shifts of viewpoint don't matter if the writer can carry the reader along."
+    },
+    {
+      "q": "Which figure does Forster use to show the power of pure story?",
+      "choices": [
+        "Oedipus",
+        "Scheherazade",
+        "Tristram Shandy",
+        "Heracles"
+      ],
+      "answer": 1,
+      "explain": "Scheherazade survives by making the Sultan want to know what happens next."
+    },
+    {
+      "q": "What does Forster mean by 'rhythm' in a novel?",
+      "choices": [
+        "The pace of the sentences",
+        "The alternation of scene and summary",
+        "The five-act structure",
+        "A recurring image or phrase that returns with variations and gathers meaning"
+      ],
+      "answer": 3,
+      "explain": "His model is the little phrase that recurs in Proust: repetition plus variation."
+    }
+  ],
+  "ideas": [
+    "The test of a fully realized character is whether it can surprise us in a convincing way.",
+    "Some characters are built around a single idea or quality, and that makes them easy to remember, not worse.",
+    "Telling a story is a low, primitive pleasure, but no novel can do without it.",
+    "A novelist's power to carry the reader along matters more than keeping a consistent point of view."
+  ]
+}

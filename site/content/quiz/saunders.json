@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "Why does Saunders present a Chekhov story one page at a time?",
+      "choices": [
+        "To make readers notice what each page does to their knowledge, expectations and curiosity",
+        "To test memory",
+        "To show how to cut a story",
+        "Because the translation was serialized"
+      ],
+      "answer": 0,
+      "explain": "For Saunders, structure is the sequence of a reader's expectations being raised and redirected."
+    },
+    {
+      "q": "A second act repeats the same kind of argument three times at the same intensity. What would Saunders say is missing?",
+      "choices": [
+        "A carrier bag",
+        "Jo-ha-kyū",
+        "A sympathetic character",
+        "Escalation: each section should move things up a notch"
+      ],
+      "answer": 3,
+      "explain": "A story stalls when a scene repeats a level it has already reached."
+    },
+    {
+      "q": "How does pattern work in a story, for Saunders?",
+      "choices": [
+        "It should be avoided as predictable",
+        "It only matters in poetry",
+        "Repetition teaches the reader to expect something, and meaning often lands when the pattern varies or breaks",
+        "It belongs in the climax"
+      ],
+      "answer": 2,
+      "explain": "In 'The Darling', the repeated pattern sets up its variation."
+    },
+    {
+      "q": "How does Saunders's approach to structure differ from McKee's?",
+      "choices": [
+        "He has more stages",
+        "He works from the reader's moment-by-moment experience rather than the protagonist's pursuit of a goal",
+        "He rejects escalation",
+        "He focuses on page counts"
+      ],
+      "answer": 1,
+      "explain": "Saunders asks what each page does to the reader."
+    },
+    {
+      "q": "What does 'Gooseberries' illustrate for Saunders?",
+      "choices": [
+        "A story that refuses to endorse or refute its character's moral speech, trusting the reader",
+        "That every story needs a clear moral",
+        "The inverted pyramid",
+        "A five-act structure"
+      ],
+      "answer": 0,
+      "explain": "The listeners remain unmoved; the story leaves the reader to weigh it."
+    },
+    {
+      "q": "How does Saunders describe his revision process?",
+      "choices": [
+        "Writing a full outline first",
+        "Following a beat sheet",
+        "Starting from the theme",
+        "Countless small, intuitive choices guided by where his attention rises or flags"
+      ],
+      "answer": 3,
+      "explain": "He has written about imagining a positive/negative meter as he rereads."
+    },
+    {
+      "q": "What's one limitation reviewers have noted?",
+      "choices": [
+        "He only discusses screenplays",
+        "He ignores the reader",
+        "He reads the stories in translation and with little historical context",
+        "He covers only one author"
+      ],
+      "answer": 2,
+      "explain": "His close readings rest on translators' choices."
+    }
+  ],
+  "ideas": [
+    "Read a story a page at a time and ask, after each one, what it has just done to you.",
+    "A story stalls the moment a scene repeats a level of intensity it has already reached.",
+    "Revision is thousands of tiny intuitive choices, guided by a meter in the head that swings between positive and negative."
+  ]
+}

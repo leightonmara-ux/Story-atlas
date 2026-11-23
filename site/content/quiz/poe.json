@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "According to Poe, what should a writer settle before writing a word?",
+      "choices": [
+        "The premise the work will prove",
+        "The ending, so every incident can lead toward it",
+        "The hero's ordinary world",
+        "The three dimensions of each character"
+      ],
+      "answer": 1,
+      "explain": "Poe says every plot worth the name must be worked out to its dénouement before anything is attempted with the pen."
+    },
+    {
+      "q": "A writer has a striking plot but no idea what feeling the piece should leave. What would Poe tell them to decide first?",
+      "choices": [
+        "The single effect, the one impression the work should produce",
+        "Which value the climax should turn",
+        "Which archetypes their characters wear",
+        "The order of the 31 functions"
+      ],
+      "answer": 0,
+      "explain": "Poe starts from the intended effect and chooses incidents and tone to produce it."
+    },
+    {
+      "q": "Why does Poe insist a work be short enough to read at one sitting?",
+      "choices": [
+        "Magazines paid by the line",
+        "Aristotle required it",
+        "Long works can't have reversals",
+        "Once the reader stops, the world intrudes and the single impression is broken"
+      ],
+      "answer": 3,
+      "explain": "For Poe, unity of impression depends on reading without interruption."
+    },
+    {
+      "q": "How does Poe's idea of unity differ from Aristotle's?",
+      "choices": [
+        "Poe wants unity of time and place",
+        "Poe wants one hero, Aristotle one action",
+        "Aristotle wants one unified action; Poe wants one unified effect on the reader",
+        "They mean exactly the same thing"
+      ],
+      "answer": 2,
+      "explain": "Aristotle's unity is in the plot; Poe's is in the impression the work makes."
+    },
+    {
+      "q": "A feature writer finds her last line before drafting, then shapes everything toward it. Whose method is this closest to?",
+      "choices": [
+        "Forster's 'and then?'",
+        "Egri's bone structure",
+        "Propp's functions",
+        "Poe's working back from the end"
+      ],
+      "answer": 3,
+      "explain": "Knowing the kicker first and writing toward it is Poe's ending-first method applied to journalism."
+    },
+    {
+      "q": "Why did Poe say he chose 'Nevermore' as the refrain?",
+      "choices": [
+        "It was the raven's real name",
+        "He wanted a single word with sonorous sounds whose meaning could shift each time",
+        "It was the poem's premise",
+        "It was borrowed from Hawthorne"
+      ],
+      "answer": 1,
+      "explain": "He wanted a long o and an r, and one word that could be repeated with changing meaning."
+    },
+    {
+      "q": "What is the main doubt critics raise about 'The Philosophy of Composition'?",
+      "choices": [
+        "That it may be a performance or after-the-fact rationalization, not a true account",
+        "That Poe never wrote 'The Raven'",
+        "That it was translated badly",
+        "That it recommends long poems"
+      ],
+      "answer": 0,
+      "explain": "Many readers, including T. S. Eliot, doubted the poem was really composed so coolly."
+    }
+  ],
+  "ideas": [
+    "Decide the single effect you want to leave on the reader before you choose a single incident.",
+    "A work too long to be read at one sitting loses the unity of impression that gives it power.",
+    "A long poem is really a string of short poems joined by flat stretches.",
+    "Writers like to pretend they compose in a frenzy of inspiration, but a great poem can be built as deliberately as a solution to a mathematical problem."
+  ]
+}

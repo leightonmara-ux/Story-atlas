@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A writer reconstructs a scene she didn't witness from careful interviews with everyone present. Does this break Hersey's rule?",
+      "choices": [
+        "Yes: any scene not witnessed is invention",
+        "Only if it's in the present tense",
+        "Only if it's in a newspaper",
+        "No: reconstruction from evidence is reporting; invention is what's forbidden"
+      ],
+      "answer": 3,
+      "explain": "Hersey's own Hiroshima reconstructs scenes from interviews."
+    },
+    {
+      "q": "What is Malcolm's central charge against journalists?",
+      "choices": [
+        "They write too slowly",
+        "They use too many statistics",
+        "They win subjects' trust to get material, then write the story they see, which the subject never agreed to",
+        "They refuse to use scenes"
+      ],
+      "answer": 2,
+      "explain": "She treats this betrayal as built into the job, using the McGinniss–MacDonald case."
+    },
+    {
+      "q": "Which practice does mainstream journalism treat as unacceptable without disclosure, and often outright?",
+      "choices": [
+        "Rearranging chronology",
+        "Composite characters",
+        "Reconstructed scenes from interviews",
+        "Quoting documents"
+      ],
+      "answer": 1,
+      "explain": "Combining several people into one figure misleads readers about who exists."
+    },
+    {
+      "q": "What is the 'reader's contract'?",
+      "choices": [
+        "The unstated agreement about what a form promises about accuracy",
+        "The legal agreement between writer and publisher",
+        "A subject's consent form",
+        "The nut graf's promise of what the story is about"
+      ],
+      "answer": 0,
+      "explain": "News, memoir and 'based on a true story' each promise different things. Ethical failures breach the promise."
+    },
+    {
+      "q": "A writer merges three conversations held over a week into one scene. What's the minimum ethical step?",
+      "choices": [
+        "Nothing; compression is always fine",
+        "Turn it into fiction",
+        "Delete all quotations",
+        "Disclose it, for example in an author's note"
+      ],
+      "answer": 3,
+      "explain": "Compression is contested; disclosure lets readers adjust their trust."
+    },
+    {
+      "q": "Which criticism is commonly made of Malcolm's argument?",
+      "choices": [
+        "She defends composite characters",
+        "She ignores the subject's perspective",
+        "Her opening generalizes too sweepingly; reporters can be honest with subjects about what they're doing",
+        "She writes only fiction"
+      ],
+      "answer": 2,
+      "explain": "Many journalists accept her point about the relationship but reject its absolute verdict."
+    },
+    {
+      "q": "Why do fabrication scandals, such as Janet Cooke's in 1981, damage more than one story?",
+      "choices": [
+        "They change copyright law",
+        "They make readers suspicious of every vivid true story",
+        "They end the inverted pyramid",
+        "They only affect the writer involved"
+      ],
+      "answer": 1,
+      "explain": "Narrative journalism depends on trust that nothing was invented."
+    }
+  ],
+  "ideas": [
+    "A novelist may borrow from reality, but a journalist may not borrow from imagination.",
+    "The relationship between a journalist and a subject is built on a trust the finished story usually betrays.",
+    "Readers of each form carry an unstated contract about accuracy, and changes they aren't told about breach it."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "q": "A radio piece is a gripping sequence of events, but listeners finish it asking 'So what?' What would Glass say it lacks?",
+      "choices": [
+        "A moment of reflection",
+        "A nut graf",
+        "A summary lede",
+        "Status details"
+      ],
+      "answer": 0,
+      "explain": "The moment of reflection is where someone says what the events mean."
+    },
+    {
+      "q": "Why does a plain sequence of actions hold attention, according to Glass?",
+      "choices": [
+        "It's always surprising",
+        "It contains the five Ws",
+        "It follows the inverted pyramid",
+        "It has momentum in itself: 'this happened, then this' feels like it's heading somewhere"
+      ],
+      "answer": 3,
+      "explain": "Sequence creates a sense of motion even before meaning arrives."
+    },
+    {
+      "q": "What role do questions play in Glass's model?",
+      "choices": [
+        "They belong only in interviews",
+        "They replace the moment of reflection",
+        "They're bait: good anecdotes keep raising questions, answering some and raising more",
+        "They should all be answered in the first minute"
+      ],
+      "answer": 2,
+      "explain": "Raising and answering questions keeps listeners with the story."
+    },
+    {
+      "q": "What is 'the gap'?",
+      "choices": [
+        "The space between the nut graf and the kicker",
+        "The distance between a beginner's taste and their ability",
+        "The difference between what a character expects and what happens",
+        "The pause between anecdote and reflection"
+      ],
+      "answer": 1,
+      "explain": "The expectation–result gap is McKee's idea. Glass's gap is about beginners, and his cure is a large volume of work."
+    },
+    {
+      "q": "A story is mostly reflection, with very little happening. What's the risk?",
+      "choices": [
+        "It becomes a lecture",
+        "It becomes an inverted pyramid",
+        "It needs a composite character",
+        "Nothing: reflection is always better"
+      ],
+      "answer": 0,
+      "explain": "All anecdote is a ride with no point; all reflection is a lecture. Glass alternates them."
+    },
+    {
+      "q": "What does Glass advise about the narrator's voice?",
+      "choices": [
+        "Use a formal broadcaster's voice to sound objective",
+        "Never appear in the story",
+        "Write in the third person",
+        "Talk like yourself, and don't imitate others"
+      ],
+      "answer": 3,
+      "explain": "He warns against stilted announcer-speak and imitation."
+    }
+  ],
+  "ideas": [
+    "A story alternates between a sequence of actions and a moment where someone stops to say what it means.",
+    "A plain 'this happened, then this happened' has momentum of its own, like a train leaving a station.",
+    "Beginners quit because their taste is better than their work; the cure is to make a great volume of work."
+  ]
+}
