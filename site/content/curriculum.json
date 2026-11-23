@@ -19,10 +19,14 @@
           "summary": "The first surviving theory of story, and still the one everyone argues with: plot is the soul of drama, and events must follow from each other, not just after each other.",
           "ready": true
         },
+        { "id": "poe", "title": "Edgar Allan Poe", "subtitle": "The Philosophy of Composition, 1846" },
         { "id": "freytag", "title": "Gustav Freytag", "subtitle": "The pyramid, 1863" },
+        { "id": "forster", "title": "E. M. Forster", "subtitle": "Aspects of the Novel, 1927" },
         { "id": "egri", "title": "Lajos Egri", "subtitle": "The Art of Dramatic Writing, 1946" },
         { "id": "propp", "title": "Vladimir Propp", "subtitle": "Morphology of the Folktale, 1928" },
         { "id": "campbell-vogler", "title": "Joseph Campbell & Christopher Vogler", "subtitle": "The hero's journey, 1949 and 1992" },
+        { "id": "narrative-order", "title": "Story vs. telling", "subtitle": "Shklovsky, Genette and Chatman on the order of events" },
+        { "id": "burroway", "title": "Janet Burroway", "subtitle": "Writing Fiction, 1982" },
         {
           "id": "three-media",
           "title": "Same skeleton, three media",
@@ -49,9 +53,12 @@
         { "id": "snyder", "title": "Blake Snyder", "subtitle": "Save the Cat!, 2005" },
         { "id": "harmon", "title": "Dan Harmon", "subtitle": "The story circle" },
         { "id": "sequence", "title": "Frank Daniel & Paul Gulino", "subtitle": "The sequence approach" },
+        { "id": "thompson", "title": "Kristin Thompson", "subtitle": "Storytelling in the New Hollywood, 1999" },
+        { "id": "swain", "title": "Dwight Swain", "subtitle": "Scene and sequel, 1965" },
         { "id": "yorke", "title": "John Yorke", "subtitle": "Into the Woods, 2013" },
         { "id": "mamet", "title": "David Mamet", "subtitle": "On Directing Film, 1991" },
-        { "id": "pixar", "title": "Pixar's story rules", "subtitle": "Emma Coats, 2011" }
+        { "id": "pixar", "title": "Pixar's story rules", "subtitle": "Emma Coats, 2011" },
+        { "id": "tv", "title": "Television structure", "subtitle": "Acts, storylines and seasons" }
       ]
     },
     {
@@ -64,7 +71,9 @@
         { "id": "stanislavski", "title": "Konstantin Stanislavski", "subtitle": "Objectives and the through-line" },
         { "id": "brecht", "title": "Bertolt Brecht", "subtitle": "Epic theatre, against Aristotle" },
         { "id": "ball", "title": "David Ball", "subtitle": "Backwards and Forwards, 1983" },
+        { "id": "fornes", "title": "María Irene Fornés", "subtitle": "Playwright and teacher" },
         { "id": "vogel", "title": "Paula Vogel", "subtitle": "Structure beyond the arc" },
+        { "id": "parks", "title": "Suzan-Lori Parks", "subtitle": "Elements of Style, 1995" },
         { "id": "ruhl", "title": "Sarah Ruhl", "subtitle": "100 Essays I Don't Have Time to Write, 2014" }
       ]
     },
@@ -85,7 +94,9 @@
         { "id": "hart", "title": "Jack Hart", "subtitle": "Storycraft, 2011" },
         { "id": "new-journalism", "title": "Tom Wolfe & the New Journalism", "subtitle": "Fiction's tools for fact, 1973" },
         { "id": "mcphee", "title": "John McPhee", "subtitle": "Draft No. 4, 2017" },
-        { "id": "glass", "title": "Ira Glass", "subtitle": "Anecdote and reflection" }
+        { "id": "gornick", "title": "Vivian Gornick", "subtitle": "The Situation and the Story, 2001" },
+        { "id": "glass", "title": "Ira Glass", "subtitle": "Anecdote and reflection" },
+        { "id": "ethics", "title": "Janet Malcolm & John Hersey", "subtitle": "The ethics of shaping fact" }
       ]
     },
     {
@@ -94,9 +105,12 @@
       "blurb": "Thinkers who question the conflict-driven arc. Know the rules well enough to choose when to break them.",
       "lessons": [
         { "id": "kishotenketsu", "title": "Kishōtenketsu", "subtitle": "Four parts, no conflict required" },
+        { "id": "natyashastra", "title": "The Nāṭyaśāstra", "subtitle": "Bharata on plot and rasa" },
+        { "id": "zeami", "title": "Zeami", "subtitle": "Jo-ha-kyū and the rhythm of Noh" },
         { "id": "le-guin", "title": "Ursula K. Le Guin", "subtitle": "The Carrier Bag Theory of Fiction, 1986" },
         { "id": "baxter", "title": "Charles Baxter", "subtitle": "Burning Down the House, 1997" },
         { "id": "alison", "title": "Jane Alison", "subtitle": "Meander, Spiral, Explode, 2019" },
+        { "id": "saunders", "title": "George Saunders", "subtitle": "A Swim in a Pond in the Rain, 2021" },
         { "id": "salesses", "title": "Matthew Salesses", "subtitle": "Craft in the Real World, 2021" }
       ]
     }
