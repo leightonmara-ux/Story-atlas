@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "In Swain's terms, how should a scene end?",
+      "choices": [
+        "With the character getting what they wanted",
+        "In disaster: failure, a costly success or a new problem",
+        "With a value turned from positive to negative",
+        "With a summary of what was learned"
+      ],
+      "answer": 1,
+      "explain": "The disaster leaves a question open and forces a response, which pulls the reader on."
+    },
+    {
+      "q": "Put the parts of a sequel in order:",
+      "choices": [
+        "Decision, dilemma, reaction",
+        "Dilemma, reaction, decision",
+        "Reaction, dilemma, decision",
+        "Goal, conflict, disaster"
+      ],
+      "answer": 2,
+      "explain": "First the emotional response, then the weighing of bad options, then a choice."
+    },
+    {
+      "q": "Where does the goal of the next scene come from?",
+      "choices": [
+        "The decision at the end of the sequel",
+        "The inciting incident",
+        "The controlling idea",
+        "The previous scene's goal, restated"
+      ],
+      "answer": 0,
+      "explain": "Each decision launches a new goal, so scene and sequel chain together by cause and effect."
+    },
+    {
+      "q": "A thriller's middle is chase after chase and readers feel exhausted and confused. Swain would most likely suggest…",
+      "choices": [
+        "Moving the midpoint earlier",
+        "Opening with a cold open",
+        "Cutting the B story",
+        "Adding or lengthening sequels so characters react, weigh options and decide"
+      ],
+      "answer": 3,
+      "explain": "Sequels let the reader feel the disaster, motivate the next goal and control pace."
+    },
+    {
+      "q": "Which sentence follows Swain's motivation-reaction order?",
+      "choices": [
+        "She dove for the door, startled, when a shot rang out.",
+        "\"Get down!\" she shouted, diving for the door as a shot rang out.",
+        "A shot rang out. She flinched. Then she dove for the door and shouted.",
+        "Diving and shouting, she heard the shot."
+      ],
+      "answer": 2,
+      "explain": "Stimulus first; then feeling and reflex, then deliberate action and speech."
+    },
+    {
+      "q": "What does a motivating stimulus have to be, in a motivation-reaction unit?",
+      "choices": [
+        "Something external, presented before the character's response",
+        "A memory the character recalls",
+        "The character's inner monologue",
+        "A line of dialogue from the narrator"
+      ],
+      "answer": 0,
+      "explain": "The stimulus happens outside the character and comes first, so cause precedes effect on the page."
+    },
+    {
+      "q": "How does Swain's scene test differ from McKee's?",
+      "choices": [
+        "Swain counts beats; McKee counts pages",
+        "Swain requires a midpoint in each scene",
+        "They're identical",
+        "Swain asks whether the scene ends in disaster for the character's goal; McKee asks whether a value changes charge"
+      ],
+      "answer": 3,
+      "explain": "Close cousins, but Swain frames the scene around a goal that is thwarted."
+    }
+  ],
+  "ideas": [
+    "A story alternates units of action, each ending in disaster, with units of response that end in a decision.",
+    "The reader should always see the outside stimulus before the character's reaction, and the reaction should run from feeling to action to speech.",
+    "A character's decision after a setback becomes the goal that drives the next scene."
+  ]
+}

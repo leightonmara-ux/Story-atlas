@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A writer's sixty-page second act sags. What does the sequence approach suggest?",
+      "choices": [
+        "Cut the second act entirely",
+        "Break it into about four sequences, each with its own goal and tension",
+        "Add a save-the-cat scene",
+        "Move the crisis into Act I"
+      ],
+      "answer": 1,
+      "explain": "Two sequences in Act I, four in Act II, two in Act III makes the middle manageable."
+    },
+    {
+      "q": "What makes a sequence more than just a stretch of pages?",
+      "choices": [
+        "It has its own goal, its own tension and a resolution, like a short film",
+        "It's always set in a single location",
+        "It must end on a cliffhanger",
+        "It contains exactly five scenes"
+      ],
+      "answer": 0,
+      "explain": "Each sequence poses and answers its own question, usually launching the next one."
+    },
+    {
+      "q": "What's the best way to treat the number eight?",
+      "choices": [
+        "As an industry rule written into contracts",
+        "As Aristotle's original division of tragedy",
+        "As a typical pattern for a two-hour film, which can vary",
+        "As the number of acts in a feature"
+      ],
+      "answer": 2,
+      "explain": "Gulino doesn't treat eight as a law; some films have fewer or more sequences."
+    },
+    {
+      "q": "According to this school of teaching, tension in the audience is built from what?",
+      "choices": [
+        "Spectacle and music",
+        "Pity and fear",
+        "Hope and fear",
+        "Comfort and need"
+      ],
+      "answer": 2,
+      "explain": "The audience hopes for one outcome and fears another. Pity and fear are Aristotle's tragic emotions."
+    },
+    {
+      "q": "What is the 'main tension' of a film?",
+      "choices": [
+        "The overarching dramatic question, usually set up by the end of Act I",
+        "The tension of the final sequence only",
+        "The conflict between the writer and the studio",
+        "The hero's psychological weakness"
+      ],
+      "answer": 0,
+      "explain": "The sequences work toward answering it, while each poses smaller questions of its own."
+    },
+    {
+      "q": "Why is Frank Daniel's approach known mainly through other people's books?",
+      "choices": [
+        "His books were banned",
+        "He taught it in classrooms and didn't publish a screenwriting book of his own",
+        "He wrote only in Czech",
+        "He opposed writing structure down"
+      ],
+      "answer": 1,
+      "explain": "Students and colleagues such as Paul Gulino and David Howard set out his ideas in print."
+    },
+    {
+      "q": "An audience knows a bomb is under the table, but the characters don't. Which tool is that?",
+      "choices": [
+        "The gap",
+        "Dangling cause",
+        "Dramatic irony",
+        "Laying pipe"
+      ],
+      "answer": 2,
+      "explain": "Dramatic irony, the audience knowing more than a character, is one of the tools the sequence approach uses to build tension."
+    }
+  ],
+  "ideas": [
+    "A feature film is a chain of roughly eight short films, each 10 to 15 minutes long with its own tension.",
+    "Each sequence needs its own goal, its own question and its own resolution, which launches the next.",
+    "Tension is built from hope and fear: the audience hopes for one outcome and dreads another."
+  ]
+}

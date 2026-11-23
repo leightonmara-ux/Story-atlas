@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "What does Thompson's close timing of Hollywood films typically find?",
+      "choices": [
+        "Three acts in a 1–2–1 ratio",
+        "Four large parts, often of roughly equal length, plus a brief epilogue",
+        "Eight sequences of 10–15 minutes",
+        "Five acts rising to a central climax"
+      ],
+      "answer": 1,
+      "explain": "Setup, complicating action, development and climax, with an epilogue."
+    },
+    {
+      "q": "What marks the boundary between two of Thompson's large parts?",
+      "choices": [
+        "A fixed page number",
+        "A commercial break",
+        "A turning point where the protagonist's goals or situation change",
+        "A change of location"
+      ],
+      "answer": 2,
+      "explain": "Her parts are defined by what the protagonist is trying to do."
+    },
+    {
+      "q": "What does her finding imply about the manuals' 'Act II'?",
+      "choices": [
+        "It's usually two parts of about normal length, split by a major turn near the middle",
+        "It should be cut",
+        "It's the shortest act",
+        "It contains the climax"
+      ],
+      "answer": 0,
+      "explain": "That's why the manuals' midpoint matters so much: it's a full structural break."
+    },
+    {
+      "q": "In the 1990s many critics said blockbusters had abandoned careful storytelling. What did Thompson argue?",
+      "choices": [
+        "That they were right, and spectacle had replaced plot",
+        "That classical storytelling techniques were alive and well in New Hollywood films",
+        "That only independent films told stories well",
+        "That Hollywood had always ignored structure"
+      ],
+      "answer": 1,
+      "explain": "Clear goals, causality, dangling causes and redundancy persisted."
+    },
+    {
+      "q": "Which part of Thompson's structure often works almost like a second setup?",
+      "choices": [
+        "The complicating action",
+        "The climax",
+        "The epilogue",
+        "The development"
+      ],
+      "answer": 0,
+      "explain": "A turning point creates a new situation, and the protagonist's goals may be redefined."
+    },
+    {
+      "q": "How is Thompson's work different from most screenwriting manuals?",
+      "choices": [
+        "It only covers silent films",
+        "It insists on exact page numbers",
+        "It's a descriptive study of what films actually do, not a method for writers",
+        "It's about stage plays"
+      ],
+      "answer": 2,
+      "explain": "She tested the manuals against the movies, and found them partly right."
+    },
+    {
+      "q": "A writer wants to apply Thompson's method rather than her conclusions. What should they do?",
+      "choices": [
+        "Write a beat sheet",
+        "Pitch a logline",
+        "Draw a story circle",
+        "Time films they admire and chart where the characters' goals change"
+      ],
+      "answer": 3,
+      "explain": "Her method is close analysis: watch, time, and see what's really there."
+    }
+  ],
+  "ideas": [
+    "Time real films closely and you'll find four large parts of roughly equal length, not three acts in a 1–2–1 ratio.",
+    "A film's large parts are divided by turning points where the protagonist's goals change.",
+    "Blockbuster-era Hollywood never abandoned classical storytelling; it kept clear goals, causality and redundancy.",
+    "The so-called second act is really two parts, split by a major turning point near the middle."
+  ]
+}

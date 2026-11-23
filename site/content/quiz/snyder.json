@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer can't pitch their script in two sentences. What would Snyder say to do first?",
+      "choices": [
+        "Find the inciting incident",
+        "Write the logline before anything else",
+        "Outline it as eight sequences",
+        "Time a few films in the same genre"
+      ],
+      "answer": 1,
+      "explain": "Snyder's first chapter asks 'what is it?' If you can't pitch it, you probably don't know what it is."
+    },
+    {
+      "q": "What should happen at Snyder's Midpoint?",
+      "choices": [
+        "The hero chooses to enter the new world",
+        "The theme is stated",
+        "A false victory or false defeat, and the stakes are raised",
+        "The hero returns to the familiar world, changed"
+      ],
+      "answer": 2,
+      "explain": "At page 55, Fun and Games ends with a false win or loss, and the story gets serious."
+    },
+    {
+      "q": "How should the Opening Image and Final Image relate?",
+      "choices": [
+        "They should be identical, showing nothing has changed",
+        "The Final Image should introduce a sequel",
+        "As opposites, so together they show how the hero has changed",
+        "They should both feature the villain"
+      ],
+      "answer": 2,
+      "explain": "Put them side by side and you should see the whole arc."
+    },
+    {
+      "q": "A thriller has both aliens and time travel. Which Snyder rule does it break?",
+      "choices": [
+        "The Pope in the Pool",
+        "Laying Pipe",
+        "Covenant of the Arc",
+        "Double Mumbo Jumbo"
+      ],
+      "answer": 3,
+      "explain": "Audiences will accept one piece of magic per movie, not two."
+    },
+    {
+      "q": "Where does the B Story usually come in, and what does it carry?",
+      "choices": [
+        "Around page 30, often a love story that carries the theme",
+        "On page 1, carrying the backstory",
+        "At the climax, carrying the twist",
+        "After the Final Image, carrying the sequel hook"
+      ],
+      "answer": 0,
+      "explain": "The B Story starts as the hero enters Act Two, and meets the A story at Break into Three."
+    },
+    {
+      "q": "Which critique did Peter Suderman make in Slate in 2013?",
+      "choices": [
+        "That Snyder ignored the second act",
+        "That blockbusters were following the beat sheet so closely they all felt alike",
+        "That the beat sheet was stolen from Aristotle",
+        "That Snyder's genres were too few"
+      ],
+      "answer": 1,
+      "explain": "Snyder's defenders replied that the beats describe what worked before the book existed."
+    },
+    {
+      "q": "Why does Snyder sort films into ten genres such as Monster in the House and Golden Fleece?",
+      "choices": [
+        "To decide the budget",
+        "So each genre can have its own page count",
+        "To avoid writing a B story",
+        "So writers know what audiences enjoyed before in that kind of story and give it 'the same, only different'"
+      ],
+      "answer": 3,
+      "explain": "His genres are story shapes, not marketing labels."
+    }
+  ],
+  "ideas": [
+    "Early on, the hero should do something that makes the audience want to root for them.",
+    "Fifteen beats, each with a target page in a 110-page script, from Opening Image to Final Image.",
+    "Audiences will swallow one piece of magic per movie, but not two.",
+    "Sort your film by its story type, like Monster in the House or Golden Fleece, and give the audience the same, only different."
+  ]
+}

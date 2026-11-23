@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What was the status of the '22 rules' when Emma Coats tweeted them?",
+      "choices": [
+        "Rules written by John Lasseter",
+        "A summary of McKee's seminar",
+        "Pixar's official story handbook",
+        "Her own notes on lessons learned from colleagues"
+      ],
+      "answer": 3,
+      "explain": "She later said she wished she'd called them guidelines."
+    },
+    {
+      "q": "Where did the story spine originate?",
+      "choices": [
+        "Pixar's story department",
+        "Hollywood screenwriting manuals of the 1970s",
+        "Kenn Adams's improvisational theater work",
+        "Russian folktale studies"
+      ],
+      "answer": 2,
+      "explain": "Adams developed it in the late 1980s as a tool for building stories live on stage."
+    },
+    {
+      "q": "A writer's spine reads: 'One day… And then… And then… Until finally…'. What's wrong?",
+      "choices": [
+        "Nothing",
+        "The events follow each other but don't cause each other",
+        "It needs a midpoint",
+        "It lacks a cold open"
+      ],
+      "answer": 1,
+      "explain": "'Because of that' forces causality, Aristotle's 'because of, not after'."
+    },
+    {
+      "q": "Which spine line plays the role of the inciting incident?",
+      "choices": [
+        "Once upon a time…",
+        "Every day…",
+        "One day…",
+        "Until finally…"
+      ],
+      "answer": 2,
+      "explain": "'One day' breaks the routine established by 'Every day'."
+    },
+    {
+      "q": "According to the rules, which coincidence is acceptable?",
+      "choices": [
+        "One that gets the hero into trouble",
+        "Neither",
+        "Both, if foreshadowed",
+        "One that gets the hero out of trouble"
+      ],
+      "answer": 0,
+      "explain": "Coincidences that rescue characters feel like cheating, because the escape isn't earned."
+    },
+    {
+      "q": "Rule #1 says you admire a character more for…",
+      "choices": [
+        "Their successes",
+        "Their trying",
+        "Their flaws",
+        "Their backstory"
+      ],
+      "answer": 1,
+      "explain": "Effort is sympathetic; success alone isn't."
+    },
+    {
+      "q": "What is the main limitation of the story spine?",
+      "choices": [
+        "It only works for comedy",
+        "It requires five acts",
+        "It can't handle cause and effect",
+        "It guarantees causality but not surprise, theme or depth"
+      ],
+      "answer": 3,
+      "explain": "A spine can be perfectly linked and still dull."
+    }
+  ],
+  "ideas": [
+    "A story can be built from sentence starters: once upon a time, every day, one day, because of that, until finally.",
+    "Coincidences that get characters into trouble are fine; coincidences that get them out are cheating.",
+    "You admire a character for trying more than for succeeding."
+  ]
+}

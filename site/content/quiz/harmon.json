@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "q": "What are the eight steps of the story circle, in order?",
+      "choices": [
+        "Setup, Catalyst, Debate, Midpoint, All Is Lost, Finale, Epilogue, Change",
+        "You, Need, Go, Search, Find, Take, Return, Change",
+        "Weakness, Desire, Opponent, Plan, Battle, Revelation, Return, Change",
+        "You, Go, Need, Find, Search, Return, Take, Change"
+      ],
+      "answer": 1,
+      "explain": "A character in a comfort zone wants something, enters the unfamiliar, adapts, gets it, pays for it, returns, changed."
+    },
+    {
+      "q": "A character gets the promotion they wanted at the halfway point, and nothing bad follows. What does the circle say is missing?",
+      "choices": [
+        "Take: a heavy price for getting what they wanted",
+        "Need: a reason to want it",
+        "A Theme Stated beat",
+        "A second plot point"
+      ],
+      "answer": 0,
+      "explain": "Steps 5 and 6 come as a pair: the win, then its cost."
+    },
+    {
+      "q": "What does the horizontal line across the middle of the circle mark?",
+      "choices": [
+        "Act I versus Act II",
+        "Positive versus negative values",
+        "The familiar world of order above, the unfamiliar world of chaos below",
+        "The A story versus the B story"
+      ],
+      "answer": 2,
+      "explain": "Every story is a descent below the line and a return."
+    },
+    {
+      "q": "Whose model did Harmon simplify to make the circle?",
+      "choices": [
+        "Aristotle's",
+        "Syd Field's",
+        "Kristin Thompson's",
+        "Joseph Campbell's hero's journey"
+      ],
+      "answer": 3,
+      "explain": "He boiled the monomyth down to eight steps without the mythological vocabulary."
+    },
+    {
+      "q": "Why has the circle been so useful in television?",
+      "choices": [
+        "It specifies exact page numbers for each act break",
+        "It works at any scale, and it lets characters come home each episode while still changing a little",
+        "It requires no conflict",
+        "It only applies to single-camera comedies"
+      ],
+      "answer": 1,
+      "explain": "TV writers can apply it to a season, an episode, a storyline or a scene."
+    },
+    {
+      "q": "A writer's story never leaves its starting world. Which step of the circle is weakest?",
+      "choices": [
+        "Go: entering an unfamiliar situation",
+        "Change",
+        "You",
+        "Return"
+      ],
+      "answer": 0,
+      "explain": "Without crossing into the unfamiliar, there's no descent and so nothing to return from."
+    }
+  ],
+  "ideas": [
+    "Every story is a descent from the familiar world of order into chaos, and a return.",
+    "The character gets what they wanted, then pays a heavy price for it.",
+    "Eight steps around a circle, small enough to check against every scene, episode and season.",
+    "The structure grew out of a monthly screening night where audiences voted on five-minute pilots."
+  ]
+}

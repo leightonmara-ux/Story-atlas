@@ -18,7 +18,7 @@ The alternative he attacks is what he calls following the actor around with a ca
 
 ### Every scene has an objective
 
-Mamet trained in the Stanislavski tradition of the theater, and he brings its central question to film: **what does the protagonist want?** Not in general, but in this scene. The scene is over when they get it, or definitively fail.
+Mamet studied acting at New York's Neighborhood Playhouse, and he brings the actor's central question to film: **what does the protagonist want?** Not in general, but in this scene. The scene is over when they get it, or definitively fail.
 
 Then he applies the same question at smaller scales. What is this sequence for? This shot? If you can't say, in a few plain words, what each unit accomplishes, it probably doesn't belong in the film. Like *Aristotle*, he wants every part to serve one action.
 

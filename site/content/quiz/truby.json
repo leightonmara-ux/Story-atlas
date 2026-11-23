@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A hero wants to win a big court case but really needs to stop using people. What is Truby's name for the court case?",
+      "choices": [
+        "Need",
+        "Desire",
+        "Ghost",
+        "Plan"
+      ],
+      "answer": 1,
+      "explain": "Desire is the hero's goal in the world and drives the plot; need is the inner change."
+    },
+    {
+      "q": "Why does Truby object to three-act structure?",
+      "choices": [
+        "It has too many acts for television",
+        "It ignores page counts",
+        "It's mechanical: it imposes a shape from outside and says nothing about what should happen or why",
+        "It requires a conflict-free middle"
+      ],
+      "answer": 2,
+      "explain": "Truby wants structure to grow organically from the hero's change, not be poured into a template."
+    },
+    {
+      "q": "A writer's opponent is a generic villain who wants something unrelated to the hero's goal. What would Truby suggest?",
+      "choices": [
+        "Make the opponent compete with the hero for the same goal",
+        "Cut the opponent and let the hero fight themselves",
+        "Give the opponent a save-the-cat scene",
+        "Move the opponent's entrance to page 12"
+      ],
+      "answer": 0,
+      "explain": "Truby's best opponent wants the same thing as the hero and is best able to attack the hero's weakness."
+    },
+    {
+      "q": "What is four-corner opposition?",
+      "choices": [
+        "Four acts of roughly equal length",
+        "Four sequences in Act II",
+        "A hero, a main opponent and two secondary opponents, each in conflict with all the others",
+        "The four corners of the story circle"
+      ],
+      "answer": 2,
+      "explain": "Each character stands for different values, so conflict runs in many directions at once."
+    },
+    {
+      "q": "How should a story make its moral argument, according to Truby?",
+      "choices": [
+        "Through a character who states the theme early on",
+        "Through the hero's actions and moral choices and their consequences",
+        "Through a closing voice-over",
+        "It shouldn't: stories are morally neutral"
+      ],
+      "answer": 1,
+      "explain": "He warns against preaching; the argument is made through structure and should be felt, not heard."
+    },
+    {
+      "q": "Which step comes immediately before the new equilibrium in Truby's seven?",
+      "choices": [
+        "Battle",
+        "Plan",
+        "Opponent",
+        "Self-revelation"
+      ],
+      "answer": 3,
+      "explain": "The order is weakness and need, desire, opponent, plan, battle, self-revelation, new equilibrium."
+    },
+    {
+      "q": "Truby advises creating characters as a web rather than one at a time. Why?",
+      "choices": [
+        "Because each character is defined by how they contrast with the others, especially the hero",
+        "Because ensemble casts sell better",
+        "Because every character must have the same arc",
+        "Because minor characters should be cut"
+      ],
+      "answer": 0,
+      "explain": "Contrast sharpens everyone, and minor characters become variations on the hero's moral problem."
+    }
+  ],
+  "ideas": [
+    "A story should grow organically from its premise rather than being poured into a mechanical three-act mold.",
+    "The best opponent competes with the hero for the same goal and is best able to attack the hero's weakness.",
+    "Build the cast as a web: four-corner opposition puts a hero and three opponents in conflict with each other.",
+    "A story's moral argument should be made through the hero's actions and choices, never preached."
+  ]
+}

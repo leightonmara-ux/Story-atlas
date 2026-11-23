@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A reader finishes page 30 of a script and the story is still heading in the same direction it started. In Field's terms, what's missing?",
+      "choices": [
+        "A crisis decision between two irreconcilable goods",
+        "Plot Point I: an event that spins the action in a new direction",
+        "A false victory at the midpoint",
+        "A save-the-cat moment for the hero"
+      ],
+      "answer": 1,
+      "explain": "Field's Plot Point I, around page 25–27, hooks into the action and turns it into Act II."
+    },
+    {
+      "q": "Why can Field attach page numbers to his acts at all?",
+      "choices": [
+        "Because studios require scripts of exactly 120 pages",
+        "Because Aristotle specified the proportions",
+        "Because one page of screenplay runs about one minute of screen time",
+        "Because every act must contain the same number of scenes"
+      ],
+      "answer": 2,
+      "explain": "The page-a-minute rule of thumb turns page numbers into a rough map of the film."
+    },
+    {
+      "q": "Field says his paradigm is 'context', not 'content'. What does he mean?",
+      "choices": [
+        "It gives the structure that holds a story, not what happens in it",
+        "It applies only to the setting of a story",
+        "It describes the theme, not the plot",
+        "It's meant for adaptations rather than original scripts"
+      ],
+      "answer": 0,
+      "explain": "The paradigm tells you something must turn the story around page 25. Only the writer can supply what."
+    },
+    {
+      "q": "A writer's sixty-page Act II wanders. What later addition to Field's model is meant to help?",
+      "choices": [
+        "Four-corner opposition",
+        "Breaking the film into eight sequences of 10–15 minutes",
+        "Moving the climax to the middle of the play",
+        "A midpoint around page 60 that splits Act II into two halves"
+      ],
+      "answer": 3,
+      "explain": "In The Screenwriter's Workbook Field described the midpoint, which gives the second act a turn and two halves."
+    },
+    {
+      "q": "What does Field mean by a character's 'dramatic need'?",
+      "choices": [
+        "A flaw that hurts other people",
+        "What the character wants to win, gain, get or achieve over the story",
+        "The audience's need to like the hero",
+        "The backstory wound that haunts the character"
+      ],
+      "answer": 1,
+      "explain": "Dramatic need defines the character; drama comes from putting obstacles in its way."
+    },
+    {
+      "q": "Which criticism of Field comes from close timing of real Hollywood films?",
+      "choices": [
+        "That most films break into four roughly equal parts, not a 1–2–1 shape",
+        "That every scene must turn a value",
+        "That a hero must be likable",
+        "That stories should grow organically from a premise"
+      ],
+      "answer": 0,
+      "explain": "Kristin Thompson's analysis found four balanced parts; Field's own midpoint goes some way toward the same idea."
+    },
+    {
+      "q": "What should a reader know within roughly the first ten pages of a Field-style script?",
+      "choices": [
+        "The ending and the theme",
+        "Who the main character is, what the story is about, and the situation",
+        "The B story and its love interest",
+        "The villain's plan"
+      ],
+      "answer": 1,
+      "explain": "Field puts heavy weight on the opening: main character, dramatic premise and dramatic situation."
+    }
+  ],
+  "ideas": [
+    "A plot point is an event that hooks into the action and spins it around in another direction.",
+    "A screenplay is a story told with pictures, and one page runs about a minute of screen time.",
+    "A feature divides into Setup, Confrontation and Resolution of roughly 30, 60 and 30 pages.",
+    "Structure is the context that holds a story; the content is something only the writer can supply."
+  ]
+}

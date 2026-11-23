@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "Why do commercial TV episodes end each act on a turn or cliffhanger?",
+      "choices": [
+        "To introduce the C story",
+        "Aristotle required it",
+        "To keep viewers watching through the commercial break",
+        "To mark the midpoint"
+      ],
+      "answer": 2,
+      "explain": "The act-out exists because of advertising."
+    },
+    {
+      "q": "A writer pitches a series but can only think of three episodes. What's probably missing?",
+      "choices": [
+        "An engine that keeps generating stories",
+        "A tag",
+        "A third act",
+        "A cold open"
+      ],
+      "answer": 0,
+      "explain": "A series needs a situation, such as cases through the door or an unresolvable relationship, that produces stories for years."
+    },
+    {
+      "q": "Which describes a premise pilot?",
+      "choices": [
+        "It has no teaser",
+        "It's written after the season",
+        "It drops us into a world already running, like a typical episode",
+        "It shows the series' situation beginning"
+      ],
+      "answer": 3,
+      "explain": "A premise pilot has a built-in story but may not look like later episodes."
+    },
+    {
+      "q": "In an episode, the C story is usually…",
+      "choices": [
+        "The main plot carried by the lead",
+        "A secondary plot for other characters",
+        "A small thread or running joke",
+        "The season arc"
+      ],
+      "answer": 2,
+      "explain": "A runner, sometimes just a recurring gag across a few scenes."
+    },
+    {
+      "q": "A show closes a case each week while slowly advancing a conspiracy over the season. This is…",
+      "choices": [
+        "Purely serialized",
+        "A hybrid of episodic and serialized storytelling",
+        "An anthology",
+        "Purely episodic"
+      ],
+      "answer": 1,
+      "explain": "The X-Files' split between 'monster of the week' and 'mythology' episodes is the classic example."
+    },
+    {
+      "q": "What's the danger in resolving a series' engine?",
+      "choices": [
+        "It breaks the act-outs",
+        "It forces a cold open",
+        "Nothing; resolution is always good",
+        "The show may lose the thing that generates its stories"
+      ],
+      "answer": 3,
+      "explain": "If the couple gets together or the secret comes out, the series may stall unless a new engine replaces it."
+    },
+    {
+      "q": "What is a common criticism of fully serialized streaming seasons?",
+      "choices": [
+        "They can feel like stretched films with episodes that don't stand alone",
+        "They have no season arc",
+        "They always use premise pilots",
+        "Too many act-outs"
+      ],
+      "answer": 0,
+      "explain": "Critics call it the 'ten-hour movie' problem."
+    }
+  ],
+  "ideas": [
+    "Each act should end on a small cliffhanger so the audience comes back after the break.",
+    "A good series needs an engine, a situation that generates new stories week after week.",
+    "An episode interweaves a main A story with secondary B and C stories that echo its theme."
+  ]
+}

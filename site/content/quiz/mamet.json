@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "What does Mamet mean by telling a story through 'uninflected images'?",
+      "choices": [
+        "Having actors play without emotion",
+        "Shooting long, unbroken takes",
+        "Letting meaning arise from the juxtaposition of simple shots in the cut",
+        "Avoiding color and music"
+      ],
+      "answer": 2,
+      "explain": "Following Eisenstein's montage, each shot shows one plain thing, and the cut makes the meaning."
+    },
+    {
+      "q": "Which is NOT one of the three questions in Mamet's memo to the writers of The Unit?",
+      "choices": [
+        "Who wants what?",
+        "What happens if they don't get it?",
+        "Why now?",
+        "What does the character need, as opposed to want?"
+      ],
+      "answer": 3,
+      "explain": "The want/need distinction belongs to other teachers. Mamet's third question is 'Why now?'"
+    },
+    {
+      "q": "A pilot's opening scene has two characters explaining the backstory of their unit to each other. Mamet would say…",
+      "choices": [
+        "The audience won't tune in to watch information; let it emerge under pressure",
+        "Add a voice-over instead",
+        "Move it to the act-out",
+        "Good: the audience needs information first"
+      ],
+      "answer": 0,
+      "explain": "Exposition is the writer doing the audience's work for them."
+    },
+    {
+      "q": "What test does the memo offer for a scene?",
+      "choices": [
+        "Read it aloud to check rhythm",
+        "Imagine the characters can't speak: could it play as a silent film?",
+        "Count its beats",
+        "Check that it ends in disaster"
+      ],
+      "answer": 1,
+      "explain": "If the scene only works through talk, it may be relying on dialogue instead of action."
+    },
+    {
+      "q": "A scene is beautifully written but doesn't move the plot forward. According to the memo, it is…",
+      "choices": [
+        "A sequel",
+        "A B story",
+        "Fine, if it reveals character",
+        "Superfluous or incorrectly written"
+      ],
+      "answer": 3,
+      "explain": "Every scene must both advance the plot and work dramatically on its own."
+    },
+    {
+      "q": "How does Mamet's view of character relate to Aristotle?",
+      "choices": [
+        "He reverses Aristotle and puts character first",
+        "Like Aristotle, he ranks action above character: character is what people habitually do",
+        "He ignores both",
+        "He thinks character is revealed through backstory"
+      ],
+      "answer": 1,
+      "explain": "An audience knows people only by their actions toward a goal."
+    },
+    {
+      "q": "Why does 'Why now?' matter?",
+      "choices": [
+        "A scene that could happen any time has no urgency",
+        "It identifies the antagonist",
+        "It fixes the act break",
+        "It sets the page count"
+      ],
+      "answer": 0,
+      "explain": "Urgency comes from a reason this scene must happen today."
+    }
+  ],
+  "ideas": [
+    "The director should tell the story through the cut, juxtaposing simple shots that each do one plain thing.",
+    "Every scene should answer who wants what, what happens if they don't get it, and why now.",
+    "Audiences won't sit still for information; if a scene couldn't play as a silent film, it's leaning on talk.",
+    "There is no character apart from habitual action."
+  ]
+}

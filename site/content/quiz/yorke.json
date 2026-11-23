@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "What is the governing image of Yorke's theory?",
+      "choices": [
+        "A journey into the woods and back out, changed",
+        "A circle of eight steps",
+        "A spine of 'because of that'",
+        "A pyramid of rising and falling action"
+      ],
+      "answer": 0,
+      "explain": "A character leaves the familiar world, confronts what they lack in the unknown, and returns transformed."
+    },
+    {
+      "q": "How does Yorke get five acts from three?",
+      "choices": [
+        "By adding a prologue and an epilogue",
+        "By splitting Act One in two and Act Three in two",
+        "By adding two turning points inside the long second act",
+        "By counting every major reversal"
+      ],
+      "answer": 2,
+      "explain": "Five acts are a refinement of three, not a rival model."
+    },
+    {
+      "q": "A writer's scene feels dead, although the film's overall structure is sound. Yorke's fractal idea suggests…",
+      "choices": [
+        "Add a cold open",
+        "Move it to the midpoint",
+        "Cut it, since only acts need shape",
+        "Check whether the scene has the story's shape in miniature: a want, a push into difficulty, a turn"
+      ],
+      "answer": 3,
+      "explain": "The same shape repeats at every scale, down to the scene."
+    },
+    {
+      "q": "In Yorke's symmetry, which act mirrors the second?",
+      "choices": [
+        "The first",
+        "The third",
+        "The fourth",
+        "The fifth"
+      ],
+      "answer": 2,
+      "explain": "Act Four mirrors Act Two and Act Five mirrors Act One, around a midpoint in Act Three."
+    },
+    {
+      "q": "For Yorke, what is structure ultimately for?",
+      "choices": [
+        "Selling scripts to producers",
+        "Dramatizing a character's change",
+        "Hitting page counts",
+        "Delivering information efficiently"
+      ],
+      "answer": 1,
+      "explain": "The protagonist starts with a flaw or lack and must absorb its opposite, or be destroyed by refusing it."
+    },
+    {
+      "q": "What often happens at Yorke's midpoint?",
+      "choices": [
+        "The final battle",
+        "The protagonist refuses the call",
+        "The inciting incident",
+        "The protagonist reaches the heart of the woods and glimpses a crucial truth, or wins something that isn't enough"
+      ],
+      "answer": 3,
+      "explain": "The story changes direction: the first half moves toward something, the second deals with the consequences."
+    },
+    {
+      "q": "Which is a fair criticism of Yorke?",
+      "choices": [
+        "Much of the book synthesizes earlier theorists, and his universal pattern can be forced onto works",
+        "He insists on three acts only",
+        "He rejects the idea of change",
+        "He ignores the midpoint"
+      ],
+      "answer": 0,
+      "explain": "His original contributions are the fractal idea, symmetry and his account of why we tell stories."
+    }
+  ],
+  "ideas": [
+    "Story structure is fractal: the same shape recurs in the whole story, each act, and each scene.",
+    "Every story is a journey into the woods, where a character confronts what they lack and comes out changed.",
+    "Five-act structure is three-act structure refined, with acts mirroring each other symmetrically around a central midpoint."
+  ]
+}
