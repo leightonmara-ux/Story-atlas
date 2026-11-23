@@ -1,0 +1,15 @@
+{
+  "questions": [
+    { "q": "You have a gripping situation, but it hasn't resolved yet. What would Franklin say?", "choices": ["Invent a likely ending", "You may have an important article, but not yet a story in his sense", "Use a flashback to create one", "Write it as an inverted pyramid with a twist"], "answer": 1, "explain": "In nonfiction you can't invent the resolution, so Franklin tells reporters to find it first." },
+    { "q": "What is the shape of Franklin's outline?", "choices": ["Five acts", "Lede, nut graf, kicker", "Complication, developments (often three), resolution", "Who, what, when, where, why"], "answer": 2, "explain": "Each part is a short active statement: subject, verb, object." },
+    { "q": "A story opens with a patient's fear of surgery and ends on the hospital's budget problems. Which Franklin principle does it break?", "choices": ["Focus: the complication and resolution must match", "The inverted pyramid", "Setup and payoff", "The nut graf"], "answer": 0, "explain": "The resolution has to answer the problem the opening posed." },
+    { "q": "In Franklin's model, where should the resolution come from?", "choices": ["Luck", "An institution", "The character's own action, often an insight", "The writer's commentary"], "answer": 2, "explain": "The character confronts and resolves the complication." },
+    { "q": "Franklin won the first Pulitzer Prize for Feature Writing for…", "choices": ["The Mind Fixers", "Mrs. Kelly's Monster", "Hiroshima", "The Right Stuff"], "answer": 1, "explain": "\"Mrs. Kelly's Monster\" (1979) followed a brain operation." },
+    { "q": "What is a main criticism of Franklin's approach?", "choices": ["It ignores characters", "It can bias journalism toward tidy personal triumphs over unresolved systemic problems", "It requires invented dialogue", "It forbids scenes"], "answer": 1, "explain": "Hunting for neat resolutions can steer reporters away from institutional stories that never resolve." }
+  ],
+  "ideas": [
+    "A true story is a sympathetic character confronting and resolving a complication.",
+    "Before you write a narrative, find out whether the situation has actually resolved.",
+    "Outline the whole piece in a few short statements, each with a subject, an active verb and an object."
+  ]
+}

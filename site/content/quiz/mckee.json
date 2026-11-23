@@ -1,0 +1,17 @@
+{
+  "questions": [
+    { "q": "A scene starts with two lovers trusting each other and ends with them still trusting each other, after ten minutes of talk. McKee would call it…", "choices": ["A sequence", "A non-event", "An act climax", "A controlling idea"], "answer": 1, "explain": "If the value at stake doesn't change charge, nothing has happened." },
+    { "q": "What is McKee's \"gap\"?", "choices": ["The pause between acts", "The space between expectation and result when a character acts", "The distance between author and narrator", "The difference between story and plot"], "answer": 1, "explain": "The world reacts differently than the character expects, forcing a riskier action." },
+    { "q": "Put McKee's five parts in order:", "choices": ["Crisis, inciting incident, complications, climax, resolution", "Inciting incident, progressive complications, crisis, climax, resolution", "Inciting incident, crisis, complications, resolution, climax", "Complications, inciting incident, climax, crisis, resolution"], "answer": 1, "explain": "The crisis is the dilemma; the climax is the action that answers it." },
+    { "q": "In McKee's terms, the crisis is…", "choices": ["The biggest action scene", "A true dilemma that forces a choice", "The low point after the midpoint", "The opening disturbance"], "answer": 1, "explain": "A choice between irreconcilable goods or the lesser of two evils, where character is revealed." },
+    { "q": "A clever, charming hero turns out to be capable of cruelty under pressure. McKee calls this the contrast between…", "choices": ["Archplot and antiplot", "Characterization and true character", "Values and the gap", "Beats and scenes"], "answer": 1, "explain": "True character is revealed by choices made under pressure, and great stories contrast it with the surface." },
+    { "q": "Which design has a passive protagonist, inner conflict and an open ending?", "choices": ["Archplot", "Miniplot", "Antiplot", "Episodic plot"], "answer": 1, "explain": "Miniplot (minimalism) sits at one corner of McKee's story triangle." },
+    { "q": "How does McKee decide how many acts a story has?", "choices": ["Always three", "Always five", "By counting major reversals", "By page count"], "answer": 2, "explain": "Acts are defined by act climaxes, major reversals, not a template." }
+  ],
+  "ideas": [
+    "Every scene must turn a value from positive to negative, or the reverse; otherwise it's a non-event.",
+    "Progress comes from the gap between what a character expects their action to do and what the world actually does.",
+    "Story design ranges across a triangle: classical archplot, minimalist miniplot and anti-structural antiplot.",
+    "True character is revealed in the choices a person makes under pressure."
+  ]
+}

@@ -238,6 +238,7 @@ async function renderLesson(id) {
     <p class="lede">${esc(l.subtitle)}</p>
     ${l.summary ? `<blockquote class="summary"><p>${inline(l.summary)}</p><cite>In one sentence</cite></blockquote>` : ''}
     <article class="lesson-body">${body}</article>
+    <a class="quiz-cta" href="#/play/quiz/${id}"><b>Quiz yourself on ${esc(l.title)}</b><span>Multiple choice, with explanations →</span></a>
     <div class="lesson-foot">
       <button class="btn ${isDone ? 'is-done' : ''}" id="doneBtn">${isDone ? '✓ Done (tap to undo)' : 'Mark as done'}</button>
       ${next ? `<a class="btn solid" href="#/lesson/${next.id}">Next: ${esc(next.title)} →</a>` : `<a class="btn solid" href="#/compare">Compare the frameworks →</a>`}
@@ -304,17 +305,311 @@ function renderCompare(momentId) {
   }));
 }
 
+// ---------- Play: quizzes and games ----------
+// Every lesson has content/quiz/<id>.json: { questions: [{q, choices[4], answer, explain}], ideas: [..] }.
+// Each question is a flashcard with a Leitner box (1–5): right answers move it up, wrong ones send it
+// back to box 1, and mixed quizzes pick low boxes more often, so mistakes come back until they stick.
+
+const quizCache = {};
+async function getQuiz(id) {
+  if (!quizCache[id]) quizCache[id] = getJSON(`content/quiz/${id}.json`).catch(() => ({ questions: [], ideas: [] }));
+  return quizCache[id];
+}
+async function allQuizzes() {
+  const ready = allLessons().filter(l => l.ready);
+  const quizzes = await Promise.all(ready.map(l => getQuiz(l.id)));
+  return ready.map((l, k) => ({ lesson: l, ...quizzes[k] }));
+}
+
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+function weightedPick(items, n, weight) {
+  const pool = items.slice(), out = [];
+  while (out.length < n && pool.length) {
+    const total = pool.reduce((s, it) => s + weight(it), 0);
+    let r = Math.random() * total, k = 0;
+    while (k < pool.length - 1 && (r -= weight(pool[k])) > 0) k++;
+    out.push(pool.splice(k, 1)[0]);
+  }
+  return out;
+}
+
+const cards = () => store.get('sa.cards', {});
+function recordAnswer(key, correct) {
+  const c = cards();
+  const box = c[key] || 0;
+  c[key] = correct ? Math.min(5, Math.max(1, box) + 1) : 1;
+  store.set('sa.cards', c);
+
+  const st = store.get('sa.stats', { answered: 0, correct: 0, streak: 0, lastDay: '' });
+  st.answered++; if (correct) st.correct++;
+  const today = new Date().toDateString();
+  if (st.lastDay !== today) {
+    const yesterday = new Date(Date.now() - 864e5).toDateString();
+    st.streak = st.lastDay === yesterday ? st.streak + 1 : 1;
+    st.lastDay = today;
+  }
+  store.set('sa.stats', st);
+}
+
+let timers = [];
+function stopTimers() { timers.forEach(clearInterval); timers = []; }
+
+// Questions in a common shape: { key, q, choices, answer, explain, lesson }
+async function questionPool({ lessonId, onlyDone } = {}) {
+  const qs = await allQuizzes();
+  const done = doneMap();
+  let pool = [];
+  for (const z of qs) {
+    if (lessonId && z.lesson.id !== lessonId) continue;
+    if (onlyDone && !done[z.lesson.id]) continue;
+    z.questions.forEach((q, i) => pool.push({ ...q, key: `${z.lesson.id}#${i}`, lesson: z.lesson }));
+  }
+  return pool;
+}
+
+async function whoseIdeaPool() {
+  const qs = await allQuizzes();
+  const people = qs.filter(z => z.ideas && z.ideas.length);
+  const out = [];
+  for (const z of people) {
+    z.ideas.forEach((idea, i) => {
+      const others = shuffle(people.filter(p => p.lesson.id !== z.lesson.id)).slice(0, 3).map(p => p.lesson.title);
+      out.push({
+        key: `${z.lesson.id}~${i}`, q: idea, lesson: z.lesson,
+        choices: [z.lesson.title, ...others], answer: 0,
+        explain: `From the lesson on ${z.lesson.title}.`,
+      });
+    });
+  }
+  return out.filter(q => q.choices.length === 4);
+}
+
+function shuffledChoices(q) {
+  const order = shuffle(q.choices.map((_, i) => i));
+  return { choices: order.map(i => q.choices[i]), answer: order.indexOf(q.answer) };
+}
+
+// ----- the quiz runner (used by lesson quizzes, mixed quiz and Whose idea?) -----
+function runQuiz({ title, questions, back, again }) {
+  let i = 0, score = 0;
+  const missed = [];
+  const view = () => {
+    if (i >= questions.length) return finish();
+    const q = questions[i];
+    const { choices, answer } = shuffledChoices(q);
+    app.innerHTML = `
+      <a class="back" href="${back.href}">← ${esc(back.label)}</a>
+      <p class="eyebrow">${esc(title)}</p>
+      <div class="qhead"><span>Question ${i + 1} of ${questions.length}</span><span>Score ${score}</span></div>
+      <div class="bar"><span style="width:${100 * i / questions.length}%"></span></div>
+      <h2 class="qtext">${inline(q.q)}</h2>
+      <div class="choices">${choices.map((c, k) => `<button class="choice" data-k="${k}">${inline(c)}</button>`).join('')}</div>
+      <div id="after"></div>`;
+    app.querySelectorAll('.choice').forEach(b => b.addEventListener('click', () => {
+      const k = +b.dataset.k, right = k === answer;
+      recordAnswer(q.key, right);
+      if (right) score++; else missed.push(q);
+      app.querySelectorAll('.choice').forEach((x, j) => {
+        x.disabled = true;
+        if (j === answer) x.classList.add('right'); else if (j === k) x.classList.add('wrong');
+      });
+      document.getElementById('after').innerHTML = `
+        <div class="feedback ${right ? 'ok' : 'no'}"><b>${right ? 'Right.' : 'Not quite.'}</b> ${inline(q.explain || '')}
+        ${q.lesson ? `<a href="#/lesson/${q.lesson.id}">Lesson: ${esc(q.lesson.title)}</a>` : ''}</div>
+        <button class="btn solid" id="nextQ">${i + 1 < questions.length ? 'Next question' : 'See results'}</button>`;
+      const n = document.getElementById('nextQ');
+      n.addEventListener('click', () => { i++; view(); window.scrollTo(0, 0); });
+      n.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }));
+  };
+  const finish = () => {
+    const pct = questions.length ? Math.round(100 * score / questions.length) : 0;
+    const verdict = pct === 100 ? 'Perfect.' : pct >= 80 ? 'Excellent.' : pct >= 50 ? 'Getting there.' : 'Worth another read.';
+    app.innerHTML = `
+      <a class="back" href="${back.href}">← ${esc(back.label)}</a>
+      <p class="eyebrow">${esc(title)}</p>
+      <div class="result"><strong>${score} / ${questions.length}</strong><span>${verdict}</span></div>
+      ${missed.length ? `<h2>To review</h2><p class="muted">These will come up more often in mixed quizzes until you get them right.</p>
+        ${missed.map(q => `<details class="check"><summary>${inline(q.q)}</summary><p><b>${inline(q.choices[q.answer])}.</b> ${inline(q.explain || '')}</p></details>`).join('')}` : ''}
+      <div class="lesson-foot">
+        <a class="btn" href="${back.href}">${esc(back.label)}</a>
+        <button class="btn solid" id="againBtn">Play again</button>
+      </div>`;
+    document.getElementById('againBtn').addEventListener('click', again);
+  };
+  if (!questions.length) {
+    app.innerHTML = `<a class="back" href="${back.href}">← ${esc(back.label)}</a><p class="loading">No questions here yet.</p>`;
+    return;
+  }
+  view();
+}
+
+// ----- Put it in order -----
+function runOrder(seq, again) {
+  const correct = seq.steps;
+  const tiles = shuffle(correct.map((s, i) => ({ s, i })));
+  let next = 0, mistakes = 0;
+  const lesson = allLessons().find(l => l.id === seq.lesson);
+  const draw = () => {
+    app.innerHTML = `
+      <a class="back" href="#/play">← Play</a>
+      <p class="eyebrow">Put it in order</p>
+      <h1 class="game-title">${esc(seq.title)}</h1>
+      <p class="muted">Tap the stages in the order they come. ${next} of ${correct.length} placed · ${mistakes} slip${mistakes === 1 ? '' : 's'}</p>
+      <ol class="placed">${correct.slice(0, next).map(s => `<li>${esc(s)}</li>`).join('')}</ol>
+      ${next < correct.length
+        ? `<div class="tiles">${tiles.filter(t => t.i >= next).map(t => `<button class="tile" data-i="${t.i}">${esc(t.s)}</button>`).join('')}</div>`
+        : `<div class="result"><strong>${mistakes === 0 ? 'Flawless.' : `${mistakes} slip${mistakes === 1 ? '' : 's'}`}</strong>
+           <span>${esc(seq.title)}, in order.</span></div>
+           <div class="lesson-foot">
+             ${lesson && lesson.ready ? `<a class="btn" href="#/lesson/${lesson.id}">Lesson: ${esc(lesson.title)}</a>` : '<a class="btn" href="#/play">Play</a>'}
+             <button class="btn solid" id="againBtn">Another one</button></div>`}`;
+    app.querySelectorAll('.tile').forEach(b => b.addEventListener('click', () => {
+      if (+b.dataset.i === next) { next++; draw(); }
+      else { mistakes++; b.classList.remove('shake'); void b.offsetWidth; b.classList.add('shake');
+        app.querySelector('.muted').textContent = `Tap the stages in the order they come. ${next} of ${correct.length} placed · ${mistakes} slip${mistakes === 1 ? '' : 's'}`; }
+    }));
+    const a = document.getElementById('againBtn');
+    if (a) {
+      const st = store.get('sa.order', {});
+      st[seq.title] = Math.min(st[seq.title] ?? Infinity, mistakes);
+      store.set('sa.order', st);
+      a.addEventListener('click', again);
+    }
+  };
+  draw();
+}
+
+// ----- Lightning round: 60 seconds -----
+async function runLightning() {
+  const pool = shuffle(await questionPool());
+  if (!pool.length) return;
+  let score = 0, idx = 0, left = 60, locked = false;
+  const best = store.get('sa.bestLightning', 0);
+  const frame = () => {
+    const q = pool[idx % pool.length];
+    const { choices, answer } = shuffledChoices(q);
+    app.innerHTML = `
+      <a class="back" href="#/play">← Play</a>
+      <div class="qhead lightning"><span id="clock">${left}s</span><span>Score ${score}</span></div>
+      <div class="bar"><span id="timebar" style="width:${100 * left / 60}%"></span></div>
+      <h2 class="qtext">${inline(q.q)}</h2>
+      <div class="choices">${choices.map((c, k) => `<button class="choice" data-k="${k}">${inline(c)}</button>`).join('')}</div>`;
+    locked = false;
+    app.querySelectorAll('.choice').forEach(b => b.addEventListener('click', () => {
+      if (locked) return; locked = true;
+      const k = +b.dataset.k, right = k === answer;
+      recordAnswer(q.key, right);
+      if (right) score++;
+      b.classList.add(right ? 'right' : 'wrong');
+      if (!right) app.querySelectorAll('.choice')[answer].classList.add('right');
+      setTimeout(() => { if (left > 0) { idx++; frame(); } }, right ? 350 : 900);
+    }));
+  };
+  const end = () => {
+    stopTimers();
+    const newBest = score > best;
+    if (newBest) store.set('sa.bestLightning', score);
+    app.innerHTML = `
+      <a class="back" href="#/play">← Play</a>
+      <p class="eyebrow">Lightning round</p>
+      <div class="result"><strong>${score}</strong><span>${newBest ? 'A new personal best!' : `Your best: ${best}`}</span></div>
+      <div class="lesson-foot"><a class="btn" href="#/play">Play</a><button class="btn solid" id="againBtn">Go again</button></div>`;
+    document.getElementById('againBtn').addEventListener('click', runLightning);
+  };
+  timers.push(setInterval(() => {
+    left--;
+    const c = document.getElementById('clock'), t = document.getElementById('timebar');
+    if (c) c.textContent = left + 's';
+    if (t) t.style.width = (100 * left / 60) + '%';
+    if (left <= 0) end();
+  }, 1000));
+  frame();
+}
+
+// ----- Play home and routes -----
+async function renderPlay(mode, arg) {
+  document.title = 'Play · Story Atlas';
+  app.innerHTML = '<p class="loading">Loading…</p>';
+  const box = cards();
+  const weight = q => { const b = box[q.key]; return b ? 6 - b : 3; };
+
+  if (mode === 'quiz' && arg) {
+    const l = allLessons().find(x => x.id === arg);
+    const go = async () => runQuiz({
+      title: `Quiz: ${l ? l.title : ''}`,
+      questions: shuffle(await questionPool({ lessonId: arg })),
+      back: { href: `#/lesson/${arg}`, label: 'Back to the lesson' },
+      again: go,
+    });
+    return go();
+  }
+  if (mode === 'mixed') {
+    const go = async () => {
+      const done = Object.keys(doneMap()).length;
+      const pool = await questionPool({ onlyDone: done >= 2 });
+      runQuiz({ title: 'Mixed quiz', questions: weightedPick(pool, 10, weight), back: { href: '#/play', label: 'Play' }, again: go });
+    };
+    return go();
+  }
+  if (mode === 'whose') {
+    const go = async () => runQuiz({
+      title: 'Whose idea is this?',
+      questions: weightedPick(await whoseIdeaPool(), 10, weight),
+      back: { href: '#/play', label: 'Play' }, again: go,
+    });
+    return go();
+  }
+  if (mode === 'order') {
+    const seqs = data.sequences || [];
+    const go = () => runOrder(seqs[Math.floor(Math.random() * seqs.length)], go);
+    return seqs.length ? go() : renderPlay();
+  }
+  if (mode === 'lightning') return runLightning();
+
+  const st = store.get('sa.stats', { answered: 0, correct: 0, streak: 0, lastDay: '' });
+  const today = new Date().toDateString(), yesterday = new Date(Date.now() - 864e5).toDateString();
+  const streak = st.lastDay === today || st.lastDay === yesterday ? st.streak : 0;
+  const pool = await questionPool();
+  const mastered = pool.filter(q => (box[q.key] || 0) >= 4).length;
+  const acc = st.answered ? Math.round(100 * st.correct / st.answered) : 0;
+
+  app.innerHTML = `
+    <h1>Play</h1>
+    <p class="lede">Test yourself. Questions you miss come back more often until they stick.</p>
+    <div class="stats">
+      <div><strong>${streak}</strong><span>day streak</span></div>
+      <div><strong>${mastered}<small>/${pool.length}</small></strong><span>mastered</span></div>
+      <div><strong>${st.answered ? acc + '%' : '–'}</strong><span>accuracy</span></div>
+    </div>
+    <div class="games">
+      <a class="game" href="#/play/mixed"><b>Mixed quiz</b><span>10 questions from the lessons you've finished, favoring the ones you've missed.</span></a>
+      <a class="game" href="#/play/whose"><b>Whose idea is this?</b><span>Match each idea to the thinker behind it.</span></a>
+      <a class="game" href="#/play/order"><b>Put it in order</b><span>Tap a framework's stages in sequence: Snyder's beats, the hero's journey and more.</span></a>
+      <a class="game" href="#/play/lightning"><b>Lightning round</b><span>As many as you can in 60 seconds. Best: ${store.get('sa.bestLightning', 0)}</span></a>
+    </div>
+    <h2>Quiz by lesson</h2>
+    <ul class="lessons">${allLessons().filter(l => l.ready).map(l => {
+      const qs = pool.filter(q => q.lesson.id === l.id);
+      const m = qs.filter(q => (box[q.key] || 0) >= 4).length;
+      return `<li><a href="#/play/quiz/${l.id}"><span class="txt"><b>${esc(l.title)}</b><i>${esc(l.track.title)} · ${m}/${qs.length} mastered</i></span></a></li>`;
+    }).join('')}</ul>`;
+}
+
 // ---------- routing ----------
 let lastView = '';
 async function route() {
-  const [view = '', arg] = location.hash.replace(/^#\/?/, '').split('/');
-  const tab = view === 'compare' ? 'compare' : 'learn';
+  const [view = '', arg, arg2] = location.hash.replace(/^#\/?/, '').split('/');
+  const tab = view === 'compare' || view === 'play' ? view : 'learn';
+  stopTimers();
   document.querySelectorAll('.tabbar a').forEach(a => {
     if (a.dataset.tab === tab) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
   const keepScroll = view === 'compare' && lastView === 'compare';
   if (view === 'lesson') await renderLesson(arg);
   else if (view === 'compare') renderCompare(arg);
+  else if (view === 'play') await renderPlay(arg, arg2);
   else renderHome();
   if (!keepScroll) window.scrollTo(0, 0);
   lastView = view;
@@ -322,9 +617,10 @@ async function route() {
 
 async function start() {
   try {
-    [data.curriculum, data.concordance] = await Promise.all([
+    [data.curriculum, data.concordance, data.sequences] = await Promise.all([
       getJSON('content/curriculum.json'),
       getJSON('content/concordance.json'),
+      getJSON('content/sequences.json').catch(() => []),
     ]);
   } catch {
     app.innerHTML = '<p class="loading">Couldn’t load the course. Check your connection and reload.</p>';

@@ -1,0 +1,18 @@
+{
+  "questions": [
+    { "q": "Which part of tragedy does Aristotle call its \"soul\"?", "choices": ["Character", "Spectacle", "Plot", "Thought"], "answer": 2, "explain": "Plot, the arrangement of the incidents, comes first. Character comes second." },
+    { "q": "A messenger arrives to comfort the hero and, by doing so, reveals the truth that destroys him. This is a…", "choices": ["Deus ex machina", "Reversal (peripeteia)", "Catharsis", "Episodic plot"], "answer": 1, "explain": "An action producing the opposite of its intended effect is a reversal. Aristotle's example is the messenger in Oedipus." },
+    { "q": "What does Aristotle consider the worst kind of plot?", "choices": ["Episodic: events with no probable or necessary link", "Complex: with reversal and recognition", "Tragic: ending in misfortune", "Short: under a day in length"], "answer": 0, "explain": "Episodic plots string events together without cause. That's \"after\" rather than \"because of\"." },
+    { "q": "Which of the \"three unities\" did Aristotle actually insist on?", "choices": ["Time", "Place", "Action", "All three"], "answer": 2, "explain": "Only unity of action. Time was an observation, place he never mentions; the three unities came from later Renaissance and neoclassical critics." },
+    { "q": "A real event in your script is true but the audience finds it unbelievable. Which Aristotelian principle applies?", "choices": ["Prefer probable impossibilities to improbable possibilities", "Plot is the soul of tragedy", "A whole has a beginning, middle and end", "Catharsis purges pity and fear"], "answer": 0, "explain": "What matters on stage is whether it feels probable, not whether it could really happen." },
+    { "q": "Hamartia is best translated as…", "choices": ["Tragic flaw", "Error or mistake", "Pride", "Destiny"], "answer": 1, "explain": "It means an error, often made in ignorance. It isn't necessarily a defect of character." },
+    { "q": "Aristotle criticizes Euripides' Medea for its ending. Why?", "choices": ["It's too long", "It has no recognition", "It resolves through a deus ex machina, not the plot itself", "Its heroine is too good"], "answer": 2, "explain": "The unraveling should come out of the plot, not from outside intervention." },
+    { "q": "Who called Aristotle's model of tragedy a \"coercive system\"?", "choices": ["Bertolt Brecht", "Augusto Boal", "Lajos Egri", "E. M. Forster"], "answer": 1, "explain": "Augusto Boal, in Theatre of the Oppressed (1974)." }
+  ],
+  "ideas": [
+    "Plot is the soul of drama; character comes second.",
+    "The best turning point combines a reversal of fortune with a recognition, a shift from ignorance to knowledge.",
+    "An audience prefers a probable impossibility to an improbable possibility.",
+    "A drama should imitate one unified action, not everything that happens to one hero."
+  ]
+}

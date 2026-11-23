@@ -1,22 +1,22 @@
 // Offline support. Serves from cache right away, then refreshes the cache in the background,
 // so new content shows up on the next launch. Bump VERSION when the app shell changes.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'story-atlas-' + VERSION;
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'icon.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png',
-  'content/curriculum.json', 'content/concordance.json',
+  'content/curriculum.json', 'content/concordance.json', 'content/sequences.json',
 ];
 
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE);
     await cache.addAll(SHELL);
-    // Also store every finished lesson, so the whole course works offline.
+    // Also store every finished lesson and its quiz, so the whole course works offline.
     try {
       const cur = await (await fetch('content/curriculum.json')).json();
       const lessons = cur.tracks.flatMap(t => t.lessons).filter(l => l.ready);
-      await cache.addAll(lessons.map(l => `content/lessons/${l.id}.md`));
+      await cache.addAll(lessons.flatMap(l => [`content/lessons/${l.id}.md`, `content/quiz/${l.id}.json`]));
     } catch { /* lessons will be cached as they're opened */ }
     self.skipWaiting();
   })());

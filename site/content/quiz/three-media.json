@@ -1,0 +1,11 @@
+{
+  "questions": [
+    { "q": "Which medium's audience chooses where to look?", "choices": ["Screen", "Stage", "Journalism", "All three"], "answer": 1, "explain": "On stage everything happens in one shared space; on screen the camera chooses for you." },
+    { "q": "What is the biggest structural difference in journalism?", "choices": ["Stories must be under 1,000 words", "You must find the structure in real events rather than invent it", "There's no need for a question to hold the reader", "Endings must be happy"], "answer": 1, "explain": "You can't invent a better ending; your art is finding and ordering." },
+    { "q": "Why can screenwriting guides put beats on specific page numbers?", "choices": ["Because of the convention that one page is about one minute", "Because Aristotle specified them", "Because plays use the same page counts", "Because editors cut from the bottom"], "answer": 0, "explain": "The page-a-minute convention and the industry's standardized reading make the form measurable." },
+    { "q": "In hard news, why are facts ordered from most to least important?", "choices": ["To build suspense", "So readers can stop anywhere and editors can cut from the bottom", "To mimic the three-act structure", "Because the nut graf comes last"], "answer": 1, "explain": "The inverted pyramid serves a reader who might leave at any moment." },
+    { "q": "Why does so much theater take place in one room over a short time?", "choices": ["Audiences dislike variety", "Location and time changes are costly, and confinement builds pressure", "Brecht required it", "Critics demanded the three unities"], "answer": 1, "explain": "Scarcity of time and place is a constraint that playwrights turn into pressure." },
+    { "q": "On screen, a character's inner change mainly has to be…", "choices": ["Narrated in voice-over", "Shown through behavior and images", "Explained in dialogue", "Left out"], "answer": 1, "explain": "Film is a medium of pictures. Inner life has to become visible behavior." }
+  ],
+  "ideas": []
+}
