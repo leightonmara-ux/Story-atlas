@@ -1,6 +1,6 @@
 ## Who and when
 
-David Ball's *Backwards and Forwards: A Technical Manual for Reading Plays* was published in 1983 by Southern Illinois University Press. It's under a hundred pages long, and it has been a standard text in theatre programs ever since, assigned to directors, actors, designers and dramaturgs as well as playwrights.
+David Ball's *Backwards and Forwards: A Technical Manual for Reading Plays* was published in 1983 by Southern Illinois University Press. It's a short book, and it has been a standard text in theatre programs ever since, assigned to directors, actors, designers and dramaturgs as well as playwrights.
 
 Ball came out of professional and university theatre, with roles at the Guthrie Theater and Duke University's drama department. He later became a well-known trial consultant, applying theatre craft to how lawyers tell stories to juries.
 
