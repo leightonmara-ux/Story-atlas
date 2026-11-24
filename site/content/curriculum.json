@@ -529,6 +529,7 @@
         { "id": "sorkin", "title": "Aaron Sorkin", "subtitle": "Intention and obstacle" },
         { "id": "kaufman", "title": "Charlie Kaufman", "subtitle": "The BAFTA lecture, 2011" },
         { "id": "morrison", "title": "Toni Morrison", "subtitle": "The Site of Memory, 1987" },
+        { "id": "baldwin", "title": "James Baldwin", "subtitle": "Witness, and the case against the protest novel" },
         { "id": "nottage", "title": "Lynn Nottage", "subtitle": "Plays built from interviews" }
       ]
     },
