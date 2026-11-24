@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "amour",
+    "title": "Amour",
+    "year": 2012,
+    "medium": "Film",
+    "by": "Michael Haneke (writer-director); Darius Khondji (cinematography); Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",
+    "summary": "A chamber film that shows its ending first, so that every quiet domestic scene in one Paris apartment becomes dread, and lets long takes, offscreen sound and the absence of any score carry a love story through illness to death.",
+    "lessons": [
+      "narrative-order",
+      "camera",
+      "music-silence",
+      "film-sound",
+      "mise-en-scene",
+      "endings",
+      "bergman",
+      "chekhov"
+    ]
+  },
+  {
     "id": "autumn-sonata",
     "title": "Autumn Sonata",
     "year": 1978,
@@ -33,6 +51,60 @@
       "introductions",
       "camera",
       "bergman"
+    ]
+  },
+  {
+    "id": "boyhood",
+    "title": "Boyhood",
+    "year": 2014,
+    "medium": "Film",
+    "by": "Richard Linklater (writer-director); Ellar Coltrane, Patricia Arquette, Ethan Hawke, Lorelei Linklater",
+    "summary": "Shot over twelve years with the same cast, it shows a coming-of-age story built from ellipses and near-misses instead of plot turns, with the actors' real ageing doing the work of a timeline.",
+    "lessons": [
+      "bildungsroman",
+      "narrative-order",
+      "le-guin",
+      "allegiance",
+      "music-silence",
+      "vonnegut-shapes",
+      "cast-system",
+      "baxter"
+    ]
+  },
+  {
+    "id": "force-majeure",
+    "title": "Force Majeure",
+    "year": 2014,
+    "medium": "Film",
+    "by": "Ruben Östlund (writer-director); Fredrik Wenzel (cinematography); Johannes Kuhnke, Lisa Loven Kongsli, Kristofer Hivju, Fanni Metelius",
+    "summary": "A marriage comedy built on a three-second inciting incident, in which a father's flight from an avalanche becomes an argument nobody can settle, played out in long, static, excruciating takes.",
+    "lessons": [
+      "comedy",
+      "camera",
+      "cast-system",
+      "music-silence",
+      "mckee",
+      "allegiance",
+      "tragedy-comedy",
+      "freytag"
+    ]
+  },
+  {
+    "id": "la-haine",
+    "title": "La Haine",
+    "year": 1995,
+    "medium": "Film",
+    "by": "Mathieu Kassovitz (writer-director); Pierre Aïm (cinematography); Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
+    "summary": "A day-long countdown with on-screen clock times, framed by a parable told at the start and the end, that shows how a gun planted early, three foils and a ticking clock can make idle hours feel like a fall.",
+    "lessons": [
+      "endings",
+      "aristotle",
+      "cast-system",
+      "chekhov",
+      "narrative-order",
+      "camera",
+      "mise-en-scene",
+      "quest-picaresque"
     ]
   },
   {
@@ -89,6 +161,24 @@
     ]
   },
   {
+    "id": "nights-of-cabiria",
+    "title": "Nights of Cabiria",
+    "year": 1957,
+    "medium": "Film",
+    "by": "Federico Fellini (director, co-writer with Ennio Flaiano and Tullio Pinelli; dialogue help from Pier Paolo Pasolini); Nino Rota (music); Giulietta Masina",
+    "summary": "An episodic film held together by one indomitable face, whose opening betrayal predicts its ending, and whose last shot, a look straight into the lens, turns survival into a question for the audience.",
+    "lessons": [
+      "quest-picaresque",
+      "introductions",
+      "kuleshov",
+      "tragedy-comedy",
+      "vonnegut-shapes",
+      "film-sound",
+      "stage-tools",
+      "aristotle"
+    ]
+  },
+  {
     "id": "prometheus",
     "title": "Prometheus",
     "year": 2012,
@@ -138,6 +228,58 @@
       "le-guin",
       "campbell-vogler",
       "kishotenketsu"
+    ]
+  },
+  {
+    "id": "taste-of-cherry",
+    "title": "Taste of Cherry",
+    "year": 1997,
+    "medium": "Film",
+    "by": "Abbas Kiarostami (writer-director); Homayoun Ershadi, Abdolrahman Bagheri",
+    "summary": "A road film reduced to a car, three passengers and one request, which withholds its hero's reasons and its own ending, then breaks the frame with video of the crew.",
+    "lessons": [
+      "quest-picaresque",
+      "cast-system",
+      "want-need-wound",
+      "dialogue",
+      "camera",
+      "brecht",
+      "documentary",
+      "mckee"
+    ]
+  },
+  {
+    "id": "the-square",
+    "title": "The Square",
+    "year": 2017,
+    "medium": "Film",
+    "by": "Ruben Östlund (writer-director); Claes Bang, Elisabeth Moss, Dominic West, Terry Notary",
+    "summary": "An episodic satire whose A and B stories rhyme around one question (what we owe strangers), climaxing in a gala-dinner performance where a room of bystanders fails to move.",
+    "lessons": [
+      "brecht",
+      "tv",
+      "comedy",
+      "film-sound",
+      "who-is-the-subject",
+      "mckee",
+      "ethics"
+    ]
+  },
+  {
+    "id": "tony",
+    "title": "Tony",
+    "year": 2026,
+    "medium": "Film",
+    "by": "Matt Johnson (director, co-writer); Dominic Sessa, Antonio Banderas, Leo Woodall, Emilia Jones; A24",
+    "summary": "A biopic that refuses to be one: it shrinks Anthony Bourdain's life to a single invented-and-compressed summer in a Provincetown kitchen, turning a famous man into a coming-of-age story and raising sharp questions about how far a true story may bend.",
+    "lessons": [
+      "bildungsroman",
+      "want-need-wound",
+      "ethics",
+      "introductions",
+      "making-us-care",
+      "side-characters",
+      "cast-system"
     ]
   },
   {
@@ -225,6 +367,24 @@
       "want-need-wound",
       "introductions",
       "trier"
+    ]
+  },
+  {
+    "id": "yi-yi",
+    "title": "Yi Yi",
+    "year": 2000,
+    "medium": "Film",
+    "by": "Edward Yang (writer-director); Wu Nien-jen, Elaine Jin, Kelly Lee, Jonathan Chang",
+    "summary": "A three-hour family ensemble framed by a wedding and a funeral, where cross-cut first loves and a boy photographing the backs of people's heads show how much a story can hold without a single protagonist.",
+    "lessons": [
+      "cast-system",
+      "editing",
+      "braided",
+      "endings",
+      "camera",
+      "mise-en-scene",
+      "alison",
+      "bildungsroman"
     ]
   }
 ]
