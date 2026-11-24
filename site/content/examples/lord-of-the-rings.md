@@ -34,7 +34,7 @@ The novel's *The Two Towers* ends with Frodo stung by the giant spider Shelob an
 
 The move is a lesson in structure. The decision was made late, while the second film was being finished, and it gave both films a better shape. *The Two Towers* could end on its battle and on Gollum's turn, and *The Return of the King* gained a climax for the Frodo–Sam–Gollum strand. The writers also added a film-only turn to set it up: Gollum frames Sam for eating the last of the elvish bread, and Frodo sends Sam home. Frodo walks into Shelob's lair alone, and Sam's return becomes his finest moment. A plot event has been repositioned to sit at the bottom of a relationship's arc (see *The cast as a system*).
 
-Not every change was welcomed. Faramir, who in the book resists the Ring almost at once, is made to take the hobbits towards Gondor, and many readers felt the character had been diminished.
+Not every change was welcomed: many readers felt Faramir, who in the book resists the Ring almost at once, was diminished.
 
 ### Leitmotifs that carry memory
 
