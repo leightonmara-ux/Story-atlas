@@ -8,7 +8,7 @@
 
 ### "Boar on the Floor": a game that escalates
 
-Season 2, episode 3, "Hunting", takes Logan's senior executives to a hunting lodge in Hungary for a corporate retreat. Logan wants to buy a rival news organisation, Pierce, and the news of the plan has leaked. Late in the episode, at dinner, he decides to find out who talked. He makes several of his executives, Tom and Greg among them, get down on the floor and crawl, calling out "boar on the floor", while he throws sausages for them to fight over.
+Season 2, episode 3, "Hunting", takes Logan's senior executives to a hunting lodge in Hungary for a corporate retreat. Logan wants to buy a rival news organisation, Pierce, and someone inside the company has been leaking. Late in the episode, at dinner, he decides to find out who talked. He makes several of his executives, Tom and Greg among them, get down on the floor and crawl, calling out "boar on the floor", while he throws sausages for them to fight over.
 
 *Comedy structure* teaches the "game of the scene": find the unusual thing, then heighten it. Watch how Armstrong's script does this. It starts as a joke at the table, the kind a powerful man makes and everyone laughs at. Then it becomes an instruction. Then the instruction gets worse, and no one can find the moment to refuse, because refusing would mark you as the leaker. Each step is small; the end point is grotesque. The comedy and the horror are the same mechanism, which is the point of *Tragedy and comedy*: whether we laugh depends on how far away we stand.
 
@@ -16,7 +16,7 @@ It's also a lesson in status (see *Dialogue reveals character*). Logan never rai
 
 ### A death heard, not seen
 
-Season 4, episode 3, "Connor's Wedding", written by Armstrong and directed by Mark Mylod, opens on the day of Connor's wedding to Willa, which his father has decided to skip. Logan calls Roman from the airport with business, telling him to fire Gerri, the general counsel, and boards a plane to Sweden. Roman, Kendall and Shiv go to the wedding, on a boat in New York.
+Season 4, episode 3, "Connor's Wedding", written by Armstrong and directed by Mark Mylod, opens on the day of Connor's wedding to Willa, which his father has decided to skip. Logan calls Roman from the airport with business, telling him to fire Gerri, the general counsel, and boards a plane to meet Lukas Matsson, the tech billionaire buying the company. Roman, Kendall and Shiv go to the wedding, on a boat in New York.
 
 About a quarter of the way in, Roman gets a call from Tom, who is on the plane: Logan has collapsed. The rest of the sequence happens over phones. Tom holds a phone to Logan's ear so his children can speak to him, and they do, one after another, not knowing whether he can hear, or whether he's already gone. We never see Logan's body on the plane. We barely see the plane.
 
@@ -30,7 +30,7 @@ Mylod has explained in interviews that the sequence on the boat, from the first 
 
 ### The wedding goes on
 
-While the Roys fall apart on deck, Connor's wedding carries on: Connor and Willa marry after all, in front of hardly anyone. Then Kendall, Roman and Shiv head to the airport to meet the plane. Kendall stays to watch his father's body taken off.
+While the Roys fall apart on deck, Connor's wedding carries on: Connor and Willa marry after all, in front of hardly anyone. Then the siblings go to meet the plane, and Kendall stays to watch his father's body being taken away.
 
 *Tragedy and comedy* notes how the two registers can coexist in one scene. "Connor's Wedding" is the series' saddest episode and still has jokes in it, many of them Connor's, because Connor, who has always been the least important child, has his own grievance: even his father's death has happened on his day. Armstrong never makes the wedding a gag. It's a second, smaller tragedy running alongside the big one, about a son who is upstaged for the last time.
 
@@ -38,7 +38,7 @@ While the Roys fall apart on deck, Connor's wedding carries on: Connor and Willa
 
 Logan dies in the third of ten episodes. Armstrong had the idea of killing him early as far back as the planning of season 3. *Television structure* describes the season arc: a series of episodes building to a climax at the end. Season 4 puts its biggest event near the start and spends the rest asking what each child does with the vacuum. The children have been defined by one man for three seasons (see *The cast as a system*); with him gone, each of them has to show who they are.
 
-The answers come in the next six episodes: an election night at the family's news channel (episode 8), where Roman and Kendall help push the network into calling the race for a far-right candidate; Logan's funeral (episode 9), where Roman breaks down and can't deliver his eulogy and Kendall gives one instead; and the board vote in the finale.
+The answers come in the next six episodes: an election night at the family's news channel (episode 8), where Roman pushes the network into calling the presidential race early for a far-right candidate and Kendall lets it happen; Logan's funeral (episode 9), where Roman breaks down and can't deliver his eulogy and Kendall gives one instead; and the board vote in the finale.
 
 ### The vote: whose side are we on?
 
@@ -52,7 +52,7 @@ Season 4 is a ten-episode tragedy with its catastrophe moved forward. Freytag's 
 
 | Stage | Episodes | What happens |
 |---|---|---|
-| Exposition | 1–2 | Logan's sixties birthday; the siblings plan their own deal; the sale to Matsson's GoJo looms |
+| Exposition | 1–2 | Logan's birthday party; the siblings plan their own deal; the sale to Matsson's GoJo looms |
 | The catastrophe | 3 ("Connor's Wedding") | Logan dies on the plane; the children hear it on the phone |
 | Scramble | 4–7 | The wake; the deal; the children try to take Logan's place, each in their own way |
 | Moral low | 8 ("America Decides") | Election night; the network calls the race |
@@ -61,7 +61,7 @@ Season 4 is a ten-episode tragedy with its catastrophe moved forward. Freytag's 
 
 ## What people said
 
-**Jesse Armstrong** has said in interviews around the final season that he had considered Logan's early death since planning season 3, and HBO's own behind-the-scenes material quotes him explaining that the episode was meant to be about the reactions, not the death. **Mark Mylod** described the long take in several interviews after the episode aired in April 2023, including how many minutes of it were used and how much the cast's improvised reactions shaped it.
+**Jesse Armstrong** has said in interviews around the final season that he had considered Logan's early death since planning season 3, and HBO's own behind-the-scenes material quotes him explaining that the episode was meant to be about the reactions, not the death. **Mark Mylod** described the long take in several interviews after the episode aired in April 2023, including how much of it made the final cut and the practical problems of keeping film cameras running.
 
 **Critics** were nearly unanimous about "Connor's Wedding". Justin Sayles in *The Ringer* (2023) called it one of the best and most consequential episodes of the run. Philip Martin, in the *Arkansas Democrat-Gazette* (2023), called it one of the greatest hours of television he'd seen, while still questioning whether *Succession* was a great series or merely an entertaining one.
 

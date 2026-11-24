@@ -72,6 +72,42 @@
     ]
   },
   {
+    "id": "feel-good",
+    "title": "Feel Good",
+    "year": 2020,
+    "medium": "TV",
+    "by": "Mae Martin and Joe Hampson (creators, writers); Mae Martin, Charlotte Ritchie, Lisa Kudrow, Sophie Thompson, Phil Burgers",
+    "summary": "A semi-autobiographical romcom in which love is the new addiction, a stand-up stage is where pain becomes material, and the real wound is withheld until the second and final series.",
+    "lessons": [
+      "want-need-wound",
+      "cast-system",
+      "point-of-view",
+      "narrative-order",
+      "who-is-the-subject",
+      "comedy",
+      "waller-bridge",
+      "tv"
+    ]
+  },
+  {
+    "id": "fleabag",
+    "title": "Fleabag",
+    "year": 2016,
+    "medium": "TV",
+    "by": "Phoebe Waller-Bridge (writer, star); Harry Bradbeer (director); Sian Clifford, Olivia Colman, Andrew Scott, Bill Paterson",
+    "summary": "A comedy that turns its heroine's asides to camera into both her armour and, in a six-episode romance with a priest, the thing she has to give up.",
+    "lessons": [
+      "waller-bridge",
+      "genre-promise",
+      "side-characters",
+      "narrative-order",
+      "dialogue",
+      "cast-system",
+      "endings",
+      "tv"
+    ]
+  },
+  {
     "id": "force-majeure",
     "title": "Force Majeure",
     "year": 2014,
@@ -87,6 +123,22 @@
       "allegiance",
       "tragedy-comedy",
       "freytag"
+    ]
+  },
+  {
+    "id": "i-may-destroy-you",
+    "title": "I May Destroy You",
+    "year": 2020,
+    "medium": "TV",
+    "by": "Michaela Coel (creator, writer, star, co-director); Sam Miller (co-director); Weruche Opia, Paapa Essiedu",
+    "summary": "A drama built around a rape its heroine can't remember, which tells one night across twelve episodes, widens it into a study of consent, and ends with several endings instead of one.",
+    "lessons": [
+      "narrative-order",
+      "endings",
+      "cast-system",
+      "want-need-wound",
+      "who-is-the-subject",
+      "tv"
     ]
   },
   {
@@ -213,6 +265,23 @@
     ]
   },
   {
+    "id": "sorry-baby",
+    "title": "Sorry, Baby",
+    "year": 2025,
+    "medium": "Film",
+    "by": "Eva Victor (writer-director-star); Naomi Ackie, Lucas Hedges, John Carroll Lynch",
+    "summary": "A comedy-drama about the years after a sexual assault that never shows the assault, tells its story in out-of-order 'The Year with…' chapters, and lets jokes and small kindnesses carry the pain.",
+    "lessons": [
+      "narrative-order",
+      "want-need-wound",
+      "comedy",
+      "tragedy-comedy",
+      "cast-system",
+      "endings",
+      "quest-picaresque"
+    ]
+  },
+  {
     "id": "spirited-away",
     "title": "Spirited Away",
     "year": 2001,
@@ -231,6 +300,24 @@
     ]
   },
   {
+    "id": "succession",
+    "title": "Succession",
+    "year": 2018,
+    "medium": "TV",
+    "by": "Jesse Armstrong (creator, showrunner); Mark Mylod (director of key episodes); Brian Cox, Jeremy Strong, Kieran Culkin, Sarah Snook, Matthew Macfadyen",
+    "summary": "An ensemble tragedy told as comedy, worth studying for a status game that escalates into humiliation and a patriarch's death heard only down a phone line, shot in one long take.",
+    "lessons": [
+      "armstrong",
+      "film-sound",
+      "camera",
+      "tragedy-comedy",
+      "tv",
+      "allegiance",
+      "cast-system",
+      "dialogue"
+    ]
+  },
+  {
     "id": "taste-of-cherry",
     "title": "Taste of Cherry",
     "year": 1997,
@@ -246,6 +333,23 @@
       "brecht",
       "documentary",
       "mckee"
+    ]
+  },
+  {
+    "id": "the-sopranos",
+    "title": "The Sopranos",
+    "year": 1999,
+    "medium": "TV",
+    "by": "David Chase (creator); James Gandolfini, Edie Falco, Lorraine Bracco; HBO, 1999–2007",
+    "summary": "A gangster story turned inside out by a therapy frame, which keeps us aligned with a murderer for six seasons, tests that allegiance from the fifth episode on, and ends by refusing to tell us how it ends.",
+    "lessons": [
+      "allegiance",
+      "tv",
+      "endings",
+      "point-of-view",
+      "want-need-wound",
+      "comedy",
+      "bergman"
     ]
   },
   {
