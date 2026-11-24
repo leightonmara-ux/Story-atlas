@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A writer's scene has two old friends chatting pleasantly over coffee for three pages. What would Sorkin ask first?",
+      "choices": [
+        "What value changes charge between the start and the end?",
+        "What does each of them want right now, and what's in the way?",
+        "Where is the hero's save-the-cat moment?",
+        "Which of the thirty-six dramatic situations is this?"
+      ],
+      "answer": 1,
+      "explain": "Sorkin's test is intention and obstacle: without a want and something blocking it, the scene is just talk. The value-charge question is McKee's."
+    },
+    {
+      "q": "In Sorkin's terms, what is a 'tactic'?",
+      "choices": [
+        "The character's backstory wound",
+        "A plot point that spins the story in a new direction",
+        "What a character does to get past the obstacle",
+        "A line of subtext the character avoids saying"
+      ],
+      "answer": 2,
+      "explain": "Tactics are the moves a character makes to get what they want; Sorkin says the tactics are the story."
+    },
+    {
+      "q": "Sorkin credits Aristotle's Poetics as the source of his rules. What's the important caveat?",
+      "choices": [
+        "Aristotle never discussed drama",
+        "Aristotle insisted every play have five acts",
+        "Sorkin has said he's never read the Poetics",
+        "The phrase 'intention and obstacle' is Sorkin's shorthand, not Aristotle's wording"
+      ],
+      "answer": 3,
+      "explain": "Sorkin calls the Poetics the rule book, but 'intention and obstacle' is his own phrasing, close to acting-class language about objectives."
+    },
+    {
+      "q": "In the courtroom climax of A Few Good Men, Kaffee has no proof that Jessup gave the order. What does he do?",
+      "choices": [
+        "He goads Jessup, betting that pride will beat caution, until Jessup admits it",
+        "He produces a surprise witness who saw the order given",
+        "He reads Jessup's written order into the record",
+        "He drops the case and accepts a plea"
+      ],
+      "answer": 0,
+      "explain": "Kaffee switches from polite questioning to provocation, a riskier tactic that breaks the obstacle when Jessup's contempt boils over."
+    },
+    {
+      "q": "How does a walk and talk serve intention and obstacle?",
+      "choices": [
+        "It hides the actors' faces so the dialogue carries the scene",
+        "It replaces conflict with movement",
+        "The destination works as a deadline, so the characters must win before they arrive",
+        "It lets the camera show the characters' backstory"
+      ],
+      "answer": 2,
+      "explain": "Moving toward a destination adds a clock: each character has until the end of the corridor to get what they want."
+    },
+    {
+      "q": "Why does The Social Network keep cutting back to two deposition rooms?",
+      "choices": [
+        "To give a sprawling true story a clear frame of opposing sides who must answer",
+        "To satisfy the studio's lawyers",
+        "To show the story in strict chronological order",
+        "To create a dream sequence"
+      ],
+      "answer": 0,
+      "explain": "The depositions bring the courtroom, Sorkin's favorite intention-and-obstacle machine, into a scattered story."
+    },
+    {
+      "q": "A journalist admires Sorkin and wants to apply his method to a narrative feature. What should she borrow, and what shouldn't she?",
+      "choices": [
+        "Borrow his rhythm; invent dialogue where the record is thin",
+        "Borrow nothing: drama and journalism have no overlap",
+        "Borrow the walk and talk by staging scenes with sources",
+        "Borrow intention and obstacle to find the story's engine; don't borrow his licence to invent"
+      ],
+      "answer": 3,
+      "explain": "Every source wants something and meets resistance, which drives a narrative. But Sorkin openly favors story over the record, which no reporter can do."
+    },
+    {
+      "q": "Which criticism is most often made of Sorkin's dialogue?",
+      "choices": [
+        "It's too slow and full of pauses",
+        "It's mostly improvised by actors",
+        "Every character sounds like Sorkin, and they make speeches",
+        "It avoids conflict"
+      ],
+      "answer": 2,
+      "explain": "Critics complain of one shared, articulate voice and of set-piece speeches; fans have even made videos of his recurring lines."
+    }
+  ],
+  "ideas": [
+    "Somebody wants something, and something stands in the way: that's the drive shaft of every scene.",
+    "A character's tactics for getting past the obstacle are the story.",
+    "Put a destination at the end of the corridor, and a talky scene gets a deadline.",
+    "Wrap a scattered true story in two deposition rooms, so every flashback is evidence in a contest."
+  ]
+}

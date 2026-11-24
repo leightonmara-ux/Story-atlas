@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "Kaufman's films feature a portal into an actor's head and a company that erases memories. How does that fit his plea to 'say who you are'?",
+      "choices": [
+        "It doesn't: he only means it for memoirists",
+        "He means emotional honesty: invented premises can carry the writer's real anxieties",
+        "He means writers should only write about real events",
+        "He means every script should include the writer as a character"
+      ],
+      "answer": 1,
+      "explain": "'Say who you are' is about being honest and vulnerable, not about subject matter, so it's different from 'write what you know'."
+    },
+    {
+      "q": "What did Kaufman tell writers about failure in his 2011 BAFTA lecture?",
+      "choices": [
+        "Avoid it by testing scripts with audiences",
+        "It proves you didn't follow the paradigm",
+        "It only matters if the film loses money",
+        "It's a badge of honour, because it means you took a risk"
+      ],
+      "answer": 3,
+      "explain": "Kaufman argued that a writer who never risks failure can't make anything new."
+    },
+    {
+      "q": "In Adaptation, what happens after Charlie attends Robert McKee's seminar?",
+      "choices": [
+        "The film's last act turns into the guns, drugs, chase and life lesson he swore off",
+        "He abandons the script and returns to television",
+        "McKee rewrites the screenplay himself",
+        "The film ends with Charlie still blocked and nothing resolved"
+      ],
+      "answer": 0,
+      "explain": "The final act plays as if Donald, the formula-loving twin, wrote it, making the formula the film's subject."
+    },
+    {
+      "q": "What's the joke in the McKee seminar scene in Adaptation?",
+      "choices": [
+        "McKee warns against voice-over while we're hearing Charlie's voice-over",
+        "McKee is played by Charlie Kaufman",
+        "McKee recommends the three unities",
+        "The seminar is held in a swamp"
+      ],
+      "answer": 0,
+      "explain": "The film uses the very device McKee condemns, at the moment he condemns it."
+    },
+    {
+      "q": "Why does Eternal Sunshine of the Spotless Mind run through Joel's memories backwards, inside an erasure?",
+      "choices": [
+        "To follow the hero's journey stage by stage",
+        "Because the structure carries the question: knowing how it ended, would you do it again?",
+        "To disguise a missing second act",
+        "To obey the unity of time"
+      ],
+      "answer": 1,
+      "explain": "Kaufman builds a structure for each story so the form expresses its idea; here, love seen from its ending."
+    },
+    {
+      "q": "A screenwriter wants to follow Kaufman. Which approach is closest to his position?",
+      "choices": [
+        "Pick the beat sheet that best fits the genre",
+        "Reject structure entirely",
+        "Ask what shape this particular story needs, and build the structure from its idea",
+        "Write the ending first and outline backwards to the inciting incident"
+      ],
+      "answer": 2,
+      "explain": "Kaufman doesn't reject structure; he invents it for each story. His quarrel is with formula used because it sells."
+    },
+    {
+      "q": "Which is the strongest objection to Kaufman's approach?",
+      "choices": [
+        "It can become self-absorbed, and resisting the market is easier for an established writer",
+        "It's too dependent on the three-act paradigm",
+        "It ignores character entirely",
+        "It was designed for journalism, not film"
+      ],
+      "answer": 0,
+      "explain": "Critics call some of his work solipsistic, and many working writers can't afford to refuse commercial conventions."
+    }
+  ],
+  "ideas": [
+    "Be honest about who you are, in your life and your work, so your writing might reach someone lost.",
+    "Failure is a badge of honour, because it means you took a risk.",
+    "A writer who can't adapt a plotless book can put his own block on screen, and let a fictional twin write the formula ending.",
+    "Tell a love story from inside the erasure of its memories, newest first."
+  ]
+}
