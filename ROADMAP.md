@@ -22,7 +22,8 @@
   plus the "What kind of story?" and "Name the genre" games.
 - Learning paths on the home screen: Start here (20 core lessons), then Playwright, Screenwriter or Journalist.
   Everything else is under "Browse all lessons" as electives.
-- Working Writers track: Keefe, the braided narrative, Caro, Sorkin, Kaufman, Morrison, Nottage.
+- Working Writers track: Keefe, the braided narrative, Caro, Sorkin, Kaufman, Waller-Bridge, Armstrong, Morrison,
+  Baldwin, Nottage.
 - Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 
 ## Phase 3: Deepen
@@ -42,6 +43,9 @@
   (California Split vs. Nashville), Smith's later essay on perverse allegiance, Hauge's "reflection" character.
 - Story Types/Franzen details from memory or search snippets: Booker's stage names, Frye's four Greek theme words,
   Polti's dates, Franzen's ten rules beyond the two quoted, the Die Hard beat placements, Vonnegut's thesis story.
+- Working Writers: sources were often blocked, so claims rest on search excerpts. Check against originals:
+  Kaufman's BAFTA lecture transcript, Sorkin's Reddit AMA ("the tactics are the story"), Baldwin's 1984 Paris Review
+  interview, Morrison's Paris Review interview, the Priest's line in Fleabag S2E3, Armstrong's interview quotes.
 - Lenses quotes recalled rather than checked: Bakhtin on polyphony, Adichie on stereotypes, Thomas King's
   "that's all we are", Benjamin's "half the art of storytelling" (Zohn translation), Kermode's tick-tock.
 

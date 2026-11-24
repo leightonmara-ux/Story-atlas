@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer's ensemble drama has five siblings but no one the audience should root for. What keeps it gripping, in the Succession model?",
+      "choices": [
+        "Giving one sibling a save-the-cat moment so we have a hero",
+        "Rotating focus and sympathy, so the question becomes who betrays whom",
+        "Adding a narrator who tells us whom to trust",
+        "Cutting to two siblings, since ensembles can't hold suspense"
+      ],
+      "answer": 1,
+      "explain": "With no hero, Succession hands the centre to different characters and makes whoever is losing the one we feel for."
+    },
+    {
+      "q": "How does Armstrong say Succession's actors should play its comedy?",
+      "choices": [
+        "Broadly, signalling the joke to the audience",
+        "As improvised sketches loosely attached to the plot",
+        "As real: the laughs come from characters taking themselves seriously",
+        "Directly to camera, as in Peep Show"
+      ],
+      "answer": 2,
+      "explain": "In a Backstage interview he said the cast has to play everything as real."
+    },
+    {
+      "q": "Roman makes a crude joke whenever someone close to him is hurt. What's the best reading of the scene?",
+      "choices": [
+        "The insult is armour: look for what he's protecting",
+        "It's comic relief, unrelated to his character",
+        "It's exposition about the company",
+        "It's a sign the writers improvised the scene"
+      ],
+      "answer": 0,
+      "explain": "The Roys rarely say what they feel; insults and deflection carry it as subtext."
+    },
+    {
+      "q": "What were 'alts' on Succession?",
+      "choices": [
+        "Alternative endings shot for each season finale",
+        "Actors' fully improvised scenes replacing the script",
+        "Alternative casting for each role",
+        "Alternative lines written shortly before shooting for moments that could be funnier or truer"
+      ],
+      "answer": 3,
+      "explain": "Armstrong and the writers marked spots in a scripted scene and supplied options for actors to try in different takes."
+    },
+    {
+      "q": "A season of your ensemble series has many separate schemes. What does Succession's season shape suggest?",
+      "choices": [
+        "End each episode on a cliffhanger and leave the season open",
+        "Bring everyone to one family occasion where the schemes converge and a betrayal turns the power",
+        "Resolve one scheme per episode, like a procedural",
+        "Save every reveal for a flashback episode"
+      ],
+      "answer": 1,
+      "explain": "Weddings, a yacht trip and a board vote gather the whole cast in one place where they must choose sides."
+    },
+    {
+      "q": "Why, according to Armstrong, did Logan's death in season 4 happen without a death scene?",
+      "choices": [
+        "The actor wasn't available",
+        "HBO's rules on violence",
+        "It was deliberate: the episode is about the children's reactions",
+        "To leave open whether he really died"
+      ],
+      "answer": 2,
+      "explain": "We hear it through phones, at second hand, because the point is who each child is without him."
+    },
+    {
+      "q": "In 'Hunting', Logan makes his executives crawl and fight over sausages. Which idea is the scene built on?",
+      "choices": [
+        "Dialogue as a status contest: who will humiliate themselves, and who will humiliate others to stay safe",
+        "The hero's journey's ordeal",
+        "A withheld backstory revealed",
+        "The rule of three"
+      ],
+      "answer": 0,
+      "explain": "The whole scene is about rank, the same contest that drives Succession's dialogue."
+    }
+  ],
+  "ideas": [
+    "An ensemble can work with no hero at all, if every member wants the same thing and pursues it with a different weapon.",
+    "Write alternative lines just before shooting so actors can try a funnier or truer version inside a scripted scene.",
+    "A writers' room is for breaking stories and planning the season, not for writing the scripts.",
+    "Comedy and tragedy can be the same scene, as long as the actors play it entirely as real."
+  ]
+}

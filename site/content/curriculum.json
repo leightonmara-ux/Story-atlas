@@ -523,16 +523,76 @@
       "title": "Working Writers",
       "blurb": "Contemporary novelists, reporters, playwrights and screenwriters on how they actually build stories.",
       "lessons": [
-        { "id": "keefe", "title": "Patrick Radden Keefe", "subtitle": "Say Nothing, and nonfiction built like a thriller" },
-        { "id": "braided", "title": "The braided narrative", "subtitle": "David Grann, Isabel Wilkerson and Erik Larson" },
-        { "id": "caro", "title": "Robert Caro", "subtitle": "Working, 2019: turn every page" },
-        { "id": "sorkin", "title": "Aaron Sorkin", "subtitle": "Intention and obstacle" },
-        { "id": "kaufman", "title": "Charlie Kaufman", "subtitle": "The BAFTA lecture, 2011" },
-        { "id": "waller-bridge", "title": "Phoebe Waller-Bridge", "subtitle": "Fleabag, from fringe stage to screen" },
-        { "id": "armstrong", "title": "Jesse Armstrong", "subtitle": "Succession and the ensemble without a hero" },
-        { "id": "morrison", "title": "Toni Morrison", "subtitle": "The Site of Memory, 1987" },
-        { "id": "baldwin", "title": "James Baldwin", "subtitle": "Witness, and the case against the protest novel" },
-        { "id": "nottage", "title": "Lynn Nottage", "subtitle": "Plays built from interviews" }
+        {
+          "id": "keefe",
+          "title": "Patrick Radden Keefe",
+          "subtitle": "Say Nothing, and nonfiction built like a thriller",
+          "summary": "Build true stories like thrillers: hang a history on a question readers want answered, follow a few lives across decades, find the archive that lets the silent speak, and withhold only what you'll honestly pay off.",
+          "ready": true
+        },
+        {
+          "id": "braided",
+          "title": "The braided narrative",
+          "subtitle": "David Grann, Isabel Wilkerson and Erik Larson",
+          "summary": "Weave two or three true stories so each shows what the others can't, switching at moments of tension and choosing whether the strands converge or gain meaning by contrast.",
+          "ready": true
+        },
+        {
+          "id": "caro",
+          "title": "Robert Caro",
+          "subtitle": "Working, 2019: turn every page",
+          "summary": "Turn every page, go and live in the place until the reader can see it, let interview silences run, and know your ending before you write, so the book shows how power actually works.",
+          "ready": true
+        },
+        {
+          "id": "sorkin",
+          "title": "Aaron Sorkin",
+          "subtitle": "Intention and obstacle",
+          "summary": "Somebody wants something and something stands in their way: Sorkin's intention and obstacle, played out through changing tactics and fast, rhythmic dialogue, is the engine of every scene.",
+          "ready": true
+        },
+        {
+          "id": "kaufman",
+          "title": "Charlie Kaufman",
+          "subtitle": "The BAFTA lecture, 2011",
+          "summary": "Kaufman's 2011 BAFTA lecture asks writers to say who they are, risk failure and resist formula, and his films show structure invented to carry each story's idea.",
+          "ready": true
+        },
+        {
+          "id": "waller-bridge",
+          "title": "Phoebe Waller-Bridge",
+          "subtitle": "Fleabag, from fringe stage to screen",
+          "summary": "Fleabag turns direct address into story: the asides make the audience a confidant and a hiding place, a withheld wound gives the comedy its meaning, and the device pays off when someone inside the story finally notices.",
+          "ready": true
+        },
+        {
+          "id": "armstrong",
+          "title": "Jesse Armstrong",
+          "subtitle": "Succession and the ensemble without a hero",
+          "summary": "Succession shows how an ensemble can work without a hero: one shared want pursued with different weapons, dialogue as a status contest played completely straight, tightly scripted scenes with alternative lines, and seasons that converge on a betrayal.",
+          "ready": true
+        },
+        {
+          "id": "morrison",
+          "title": "Toni Morrison",
+          "subtitle": "The Site of Memory, 1987",
+          "summary": "Every record was written by someone for someone, so read it for what it leaves out, then reconstruct the missing truth from real remains and a starting image, knowing that facts and truth are not the same thing.",
+          "ready": true
+        },
+        {
+          "id": "baldwin",
+          "title": "James Baldwin",
+          "subtitle": "Witness, and the case against the protest novel",
+          "summary": "Baldwin argued that stories which reduce people to categories fail as art and as protest, and showed how a writer can braid private experience with public events to bear honest witness.",
+          "ready": true
+        },
+        {
+          "id": "nottage",
+          "title": "Lynn Nottage",
+          "subtitle": "Plays built from interviews",
+          "summary": "Listen to a community for months or years, then write invented characters and plots that keep faith with what you heard, giving working people humor, knowledge and choices rather than only suffering.",
+          "ready": true
+        }
       ]
     },
     {

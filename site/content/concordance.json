@@ -761,6 +761,43 @@
           "g": "The line ends higher than it began."
         }
       }
+    },
+    {
+      "lesson": "genre-promise",
+      "name": "Regis's romance",
+      "when": "2003",
+      "medium": "Counterpoint",
+      "note": "Regis's eight elements are not a fixed order; they can come in different sequences and repeat. This is a common arrangement.",
+      "cells": {
+        "setup": {
+          "t": "Society defined",
+          "g": "The flawed world the courtship will challenge."
+        },
+        "disruption": {
+          "t": "The meeting",
+          "g": "The lovers meet, often with friction."
+        },
+        "rising": {
+          "t": "Barrier · attraction",
+          "g": "What keeps them apart, and what draws them together."
+        },
+        "midpoint": {
+          "t": "Declaration",
+          "g": "Feelings spoken, sometimes too early, as in Darcy's first proposal."
+        },
+        "crisis": {
+          "t": "Point of ritual death",
+          "g": "Union seems impossible."
+        },
+        "climax": {
+          "t": "Recognition",
+          "g": "The insight or fact that removes the barrier."
+        },
+        "resolution": {
+          "t": "Betrothal",
+          "g": "The promise of a lasting union."
+        }
+      }
     }
   ]
 }

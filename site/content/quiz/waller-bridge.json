@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A TV comedy's lead talks to the camera throughout, and nobody else ever notices. In the spirit of Fleabag series 2, what's the strongest way to develop the device?",
+      "choices": [
+        "Drop it after the pilot so it doesn't get stale",
+        "Let a character inside the story notice it, so the device becomes plot",
+        "Add a second narrator to balance the first",
+        "Replace it with voice-over to make it more cinematic"
+      ],
+      "answer": 1,
+      "explain": "When the Priest notices Fleabag's asides, the device she used to hide becomes the story: someone finally sees her."
+    },
+    {
+      "q": "Fleabag jokes to camera every time a scene gets painful. What is the comedy doing structurally?",
+      "choices": [
+        "Releasing tension so the audience stays relaxed, as in comic relief",
+        "Breaking identification so the audience judges the social causes, as Brecht intended",
+        "Defending her: the asides are how she avoids the grief she needs to face",
+        "Establishing the genre promise of a romantic comedy"
+      ],
+      "answer": 2,
+      "explain": "The asides are armour. Her want is to stay entertaining and in control; her need is to stop performing and grieve."
+    },
+    {
+      "q": "Why does Fleabag reveal the full story of Boo's death only in the last episode of series 1?",
+      "choices": [
+        "The withheld backstory gives the series a central question and makes the earlier comedy read as avoidance",
+        "Television rules require a twist in every finale",
+        "The stage version didn't include it",
+        "It's an inciting incident, which always comes last in a series"
+      ],
+      "answer": 0,
+      "explain": "Glimpses keep us asking what happened; the full reveal recasts every joke we laughed at."
+    },
+    {
+      "q": "A playwright is adapting her solo show for television. Which choice best follows what Waller-Bridge did with Fleabag?",
+      "choices": [
+        "Cut the direct address, since TV characters shouldn't know they're watched",
+        "Keep every incident exactly as it was on stage",
+        "Turn the monologue into a voice-over over silent images",
+        "Keep the voice and the spine, and turn described characters into people who can push back"
+      ],
+      "answer": 3,
+      "explain": "The asides carried the monologue's intimacy to screen, the avoidance stayed the spine, and the sister and father became full characters."
+    },
+    {
+      "q": "At the end of Fleabag series 2, she stops the camera following her. What does this do?",
+      "choices": [
+        "It ends the relationship with the audience: she no longer needs the performance",
+        "It's a cliffhanger promising a third series",
+        "It shows the Priest has been watching all along",
+        "It returns the show to the stage version's ending"
+      ],
+      "answer": 0,
+      "explain": "The audience was her confidant and her hiding place. Leaving us behind is the last step of the love story."
+    },
+    {
+      "q": "Series 2 opens with Fleabag telling us, 'This is a love story.' What does a line like this mainly do?",
+      "choices": [
+        "It states the theme as a controlling idea for the writers' room",
+        "It makes a genre promise to the audience, which the series then twists",
+        "It reveals the withheld backstory early",
+        "It breaks the three unities"
+      ],
+      "answer": 1,
+      "explain": "It tells us what kind of story to expect, teasingly, over a disastrous family dinner; the love story turns out to be with a priest."
+    },
+    {
+      "q": "A memoirist keeps telling funny stories around a loss she never names until the end. In Waller-Bridge's terms, what must the late revelation do to earn its place?",
+      "choices": [
+        "Surprise the reader with a twist unrelated to what came before",
+        "Arrive in the first paragraph so readers aren't misled",
+        "Make the earlier jokes read differently, as avoidance",
+        "Be told in the second person"
+      ],
+      "answer": 2,
+      "explain": "The reveal in Fleabag isn't a twist for its own sake: it explains the comedy we've been laughing at."
+    }
+  ],
+  "ideas": [
+    "The camera is the character's accomplice: the main relationship is between her and whoever is watching.",
+    "Direct address can become plot when someone inside the story notices the asides.",
+    "Jokes to the audience can be a character's way of avoiding a grief the story withholds until the end.",
+    "A one-woman stage monologue can move to television by keeping its voice and its central avoidance, and giving described people a life of their own."
+  ]
+}

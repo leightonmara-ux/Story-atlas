@@ -66,6 +66,19 @@
     ]
   },
   {
+    "term": "Alt",
+    "aka": [
+      "Alternative line"
+    ],
+    "origin": "Comedy production slang; Jesse Armstrong described the practice on Succession (2018–2023) in interviews around the 2023 finale.",
+    "meaning": "An alternative version of a line, supplied so actors can try it in a different take.",
+    "use": "For the line you're least sure of, write two alts, one funnier and one truer, and read all three aloud before choosing.",
+    "lessons": [
+      "armstrong",
+      "dialogue"
+    ]
+  },
+  {
     "term": "Anagnorisis",
     "aka": [
       "Recognition",
@@ -142,6 +155,16 @@
     "use": "Make your monster violate a category, not just threaten, and build the plot around discovering and proving it exists.",
     "lessons": [
       "genre-promise"
+    ]
+  },
+  {
+    "term": "Aside",
+    "origin": "A convention of Elizabethan and Restoration drama, in which a character speaks briefly to the audience while others on stage are assumed not to hear.",
+    "meaning": "A short remark to the audience in the middle of a scene, unheard by the other characters.",
+    "use": "Use asides to open a gap between what a character shows the others and what they tell us; a character who never stops making them may be hiding.",
+    "lessons": [
+      "waller-bridge",
+      "stage-tools"
     ]
   },
   {
@@ -276,6 +299,30 @@
     "lessons": [
       "egri",
       "want-need-wound"
+    ]
+  },
+  {
+    "term": "Braided essay",
+    "aka": [],
+    "origin": "Popularized in creative nonfiction teaching by Brenda Miller, notably in Tell It Slant (2003, with Suzanne Paola); Jo Ann Beard's \"The Fourth State of Matter\" (The New Yorker, 1996) is a much-taught example.",
+    "meaning": "A personal essay that twists together several threads, often a personal story, a research subject and an image, without explaining how they connect.",
+    "use": "Write each thread separately, then interleave short sections and let echoes between them carry the meaning.",
+    "lessons": [
+      "braided"
+    ]
+  },
+  {
+    "term": "Braided narrative",
+    "aka": [
+      "Multi-strand narrative",
+      "Multiple plotlines"
+    ],
+    "origin": "As old as multi-plot novels such as Anna Karenina and films such as Griffith's Intolerance (1916). In narrative nonfiction, books like Erik Larson's The Devil in the White City (2003) and Isabel Wilkerson's The Warmth of Other Suns (2010) made it a familiar form.",
+    "meaning": "Two or more stories told in alternation, so that each changes how the reader understands the others.",
+    "use": "Give each strand ground the others can't cover, switch at moments of tension, and decide whether the strands converge or work by contrast.",
+    "lessons": [
+      "braided",
+      "editing"
     ]
   },
   {
@@ -601,6 +648,30 @@
     ]
   },
   {
+    "term": "Direct address",
+    "aka": [
+      "Talking to camera",
+      "Breaking the fourth wall"
+    ],
+    "origin": "Ancient on stage (the chorus, the Shakespearean soliloquy and aside); on screen it runs from Alfie (1966) and Ferris Bueller's Day Off (1986) to Fleabag (2016–2019), which made it the backbone of a series.",
+    "meaning": "A character speaks or looks straight at the audience, acknowledging that they're being watched.",
+    "use": "Decide what the audience is to the speaker (confidant, jury, accomplice) and set the rules early; then make breaking those rules a turn in the story.",
+    "lessons": [
+      "waller-bridge",
+      "stage-tools",
+      "point-of-view"
+    ]
+  },
+  {
+    "term": "Disturber of the peace",
+    "origin": "James Baldwin, \"The Creative Process\" (1962), written for the anthology Creative America.",
+    "meaning": "Baldwin's name for the artist's role: from a cultivated state of being alone, the artist tells a society what it would rather not know, which is why societies have always battled the artist.",
+    "use": "Ask what truth your story tells that its audience would prefer to avoid, and whether you have softened it to keep the peace.",
+    "lessons": [
+      "baldwin"
+    ]
+  },
+  {
     "term": "Doubling",
     "origin": "As old as Greek tragedy, where three speaking actors shared all the roles; a standard practice in theatre ever since.",
     "meaning": "One actor playing two or more roles in a production, for economy or to make a point, as when Mr Darling and Captain Hook are played by the same actor in Peter Pan.",
@@ -645,6 +716,18 @@
     "use": "When a scene has no tension, ask which situation it dramatizes and whether all its roles are present.",
     "lessons": [
       "polti"
+    ]
+  },
+  {
+    "term": "Drawing the veil",
+    "aka": [
+      "Proceedings too terrible to relate"
+    ],
+    "origin": "A recurring move in 19th-century slave narratives, where narrators stopped short of the worst events; named and challenged by Toni Morrison in \"The Site of Memory\" (1987).",
+    "meaning": "A deliberate silence in a historical account, shaped by what its original audience could bear or would accept.",
+    "use": "Read every source for where it stops short and ask why; that silence may be where your story is.",
+    "lessons": [
+      "morrison"
     ]
   },
   {
@@ -699,6 +782,16 @@
     "lessons": [
       "white-didion",
       "ethics"
+    ]
+  },
+  {
+    "term": "Ensemble",
+    "origin": "From the French for 'together'; on stage Chekhov is the model, and television dramas like The Wire (2002–2008) and Succession (2018–2023) made it their home.",
+    "meaning": "A story with no single protagonist, whose meaning lies in the pattern of its characters.",
+    "use": "Give the whole cast one shared want and a different weapon each, rotate whose story each episode or scene is, and bring them together where they have to choose sides.",
+    "lessons": [
+      "armstrong",
+      "cast-system"
     ]
   },
   {
@@ -773,6 +866,16 @@
     "lessons": [
       "narrative-order",
       "forster"
+    ]
+  },
+  {
+    "term": "Fact and truth",
+    "aka": [],
+    "origin": "Toni Morrison's distinction in \"The Site of Memory\" (1987): facts can exist without human intelligence, but truth cannot.",
+    "meaning": "Facts are events and data that stand whether or not anyone thinks about them; truth is what they meant to the people inside them, which only a mind can make.",
+    "use": "In fiction, invented facts can carry truth. In journalism, keep facts sacred, then ask whether the accurate piece is also true.",
+    "lessons": [
+      "morrison"
     ]
   },
   {
@@ -900,6 +1003,18 @@
     "lessons": [
       "brecht",
       "three-media"
+    ]
+  },
+  {
+    "term": "Frame story",
+    "aka": [
+      "Frame narrative"
+    ],
+    "origin": "An ancient device: the One Thousand and One Nights and Boccaccio's Decameron (c. 1353) set their tales inside a storytelling occasion.",
+    "meaning": "An outer story that contains and organizes an inner one, such as the depositions in The Social Network (2010) that frame the founding of Facebook.",
+    "use": "If a true or sprawling story lacks shape, find a present-tense situation (a trial, an interview, a reunion) that gives the past a reason to be told and a question to answer.",
+    "lessons": [
+      "sorkin"
     ]
   },
   {
@@ -1151,6 +1266,32 @@
     ]
   },
   {
+    "term": "Intention and obstacle",
+    "aka": [
+      "Objective and obstacle"
+    ],
+    "origin": "Aaron Sorkin's name for the core of drama, taught in his MasterClass (2016) and many interviews; he credits Aristotle's Poetics, though the phrase is his, and it echoes the actor's language of objectives from Stanislavski.",
+    "myth": "It's sometimes presented as a term from the Poetics; Aristotle never uses it.",
+    "meaning": "Somebody wants something, and something stands in the way of getting it. Without both, a scene is just talk.",
+    "use": "Write 'wants ___, blocked by ___' at the top of each scene for every character. If you can't fill both blanks, strengthen the want or the obstacle, or cut the scene.",
+    "lessons": [
+      "sorkin"
+    ]
+  },
+  {
+    "term": "Interview-based drama",
+    "aka": [
+      "Research-based playwriting"
+    ],
+    "origin": "An old practice with no single originator; Lynn Nottage's Ruined (2009) and Sweat (2017) are leading examples. Distinct from verbatim theatre, which uses only real people's words.",
+    "meaning": "Plays whose characters and plots are invented but grow out of long interviews with real people.",
+    "use": "Use interviews for texture (jobs, routines, jokes, local words) and build a fictional plot; tell interviewees you're writing fiction, and keep composites honest.",
+    "lessons": [
+      "nottage",
+      "stage-forms"
+    ]
+  },
+  {
     "term": "Inverted pyramid",
     "origin": "Developed in American newspapers in the second half of the 19th century; the familiar story that Civil War telegraph lines forced it is not well supported.",
     "myth": "The telegraph origin story is popular but historians, including David T. Z. Mindich (1998), find the form spread later and for other reasons.",
@@ -1272,6 +1413,16 @@
     ]
   },
   {
+    "term": "Literary archaeology",
+    "aka": [],
+    "origin": "Toni Morrison's term, in her talk \"The Site of Memory\", published in William Zinsser's anthology Inventing the Truth (1987).",
+    "meaning": "Starting from real remains (documents, fragments, memories), going to the 'site' and reconstructing the world those remains imply, imagining only what fits the evidence.",
+    "use": "Before inventing, gather what survives and list what it implies; let your invention fill gaps without contradicting the record.",
+    "lessons": [
+      "morrison"
+    ]
+  },
+  {
     "term": "Long take",
     "origin": "Championed by critic André Bazin in the 1940s–50s; famous examples include the Copacabana shot in Goodfellas (1990).",
     "meaning": "A single shot held for an unusually long time without a cut, often with the camera moving.",
@@ -1364,6 +1515,18 @@
     ]
   },
   {
+    "term": "Metafiction",
+    "aka": [
+      "Meta"
+    ],
+    "origin": "The term was coined by the novelist and critic William H. Gass in his essay 'Philosophy and the Form of Fiction' (1970); the practice is much older, as in Don Quixote and Tristram Shandy.",
+    "meaning": "Fiction that draws attention to its own making, as in Adaptation (2002), a film about the writer failing to write it.",
+    "use": "Use self-awareness only when the making of the work is genuinely the subject; otherwise it's a wink that lets the writer avoid committing.",
+    "lessons": [
+      "kaufman"
+    ]
+  },
+  {
     "term": "Mickey-Mousing",
     "origin": "Industry slang named after early Disney cartoons, whose music matched the action beat for beat.",
     "meaning": "Music that imitates the on-screen action note for note.",
@@ -1382,6 +1545,15 @@
       "thompson",
       "snyder",
       "yorke"
+    ]
+  },
+  {
+    "term": "Mise en abyme",
+    "origin": "André Gide borrowed the term from heraldry in his journal (1893) for a work that contains a small image of itself.",
+    "meaning": "A story within a story that mirrors the whole, such as the play-within-the-play in Hamlet or the replica city inside the warehouse in Synecdoche, New York (2008).",
+    "use": "If you nest a story inside yours, make it reflect the outer story's question, so each level comments on the other.",
+    "lessons": [
+      "kaufman"
     ]
   },
   {
@@ -1528,6 +1700,18 @@
     ]
   },
   {
+    "term": "Oral history",
+    "aka": [
+      "Oral history archive"
+    ],
+    "origin": "The modern practice is usually dated to Allan Nevins's oral history office at Columbia University (1948); Studs Terkel's books, such as Hard Times (1970) and Working (1974), popularized it.",
+    "meaning": "Recorded interviews in which people describe their own past, kept as an archive for later researchers.",
+    "use": "Look for interviews your subjects gave others, especially ones recorded in confidence. They're often more candid than anything said to a reporter, but check how they were gathered and what was promised.",
+    "lessons": [
+      "keefe"
+    ]
+  },
+  {
     "term": "Overcoming the Monster",
     "aka": [],
     "origin": "Named as one of the seven basic plots by Christopher Booker (2004).",
@@ -1670,6 +1854,16 @@
     ]
   },
   {
+    "term": "Poverty porn",
+    "aka": [],
+    "origin": "A critical term from media and film criticism, in wide use since the 2000s; no clear originator. Lynn Nottage invoked the worry when discussing Sweat (Slate, 2016).",
+    "meaning": "Work that displays poor people's hardship for the audience's pity or thrill rather than portraying them as full people.",
+    "use": "Test every character in a story about hardship: do they have humor, knowledge and choices, or do they exist only to suffer?",
+    "lessons": [
+      "nottage"
+    ]
+  },
+  {
     "term": "Premise",
     "origin": "Lajos Egri, The Art of Dramatic Writing (1946), which borrowed the word from logic and argument.",
     "meaning": "The proposition a play proves through its conflict and outcome, in the form \"X leads to Y\".",
@@ -1735,6 +1929,15 @@
     ]
   },
   {
+    "term": "Protest novel",
+    "origin": "A long-standing label for fiction written to expose a social injustice; James Baldwin's essay \"Everybody's Protest Novel\" (Zero and Partisan Review, 1949) made it a term of criticism, aimed at Uncle Tom's Cabin and Native Son.",
+    "meaning": "Fiction whose characters exist mainly as evidence for a cause. Baldwin's objection is that it reduces people to their social category, denying their beauty, dread and power.",
+    "use": "If a character exists only to suffer or only to be hateful, give them a want, a fear and a contradiction the cause can't explain.",
+    "lessons": [
+      "baldwin"
+    ]
+  },
+  {
     "term": "Quest",
     "origin": "As old as epic; shaped in the West by Homer's Odyssey and the medieval Grail romances of Chrétien de Troyes (c. 1190) and Wolfram von Eschenbach's Parzival. For the mythic pattern, see Campbell's hero's journey.",
     "meaning": "A story in which a hero sets out after a goal (an object, a person, a way home) through a road of trials, often finding the goal mattered less than what the search taught.",
@@ -1769,6 +1972,16 @@
     "use": "Make a red herring fair: it should be a real possibility given what the audience knows, and it should reveal something true once explained. Cheap red herrings that lead nowhere make audiences distrust real clues.",
     "lessons": [
       "barthes"
+    ]
+  },
+  {
+    "term": "Rememory",
+    "aka": [],
+    "origin": "Coined by Toni Morrison in Beloved (1987), in the voice of Sethe.",
+    "meaning": "Memory that persists outside the person who had it, as if a past event were still present in a place and others could walk into it.",
+    "use": "Useful for stage and screen when a place itself should seem to hold the past, as in a haunting.",
+    "lessons": [
+      "morrison"
     ]
   },
   {
@@ -1840,6 +2053,15 @@
     ]
   },
   {
+    "term": "Say who you are",
+    "origin": "Charlie Kaufman, BAFTA and BFI Screenwriters' Lecture, London, 30 September 2011.",
+    "meaning": "Kaufman's plea for honesty in life and work: writing as a true record of the writer and their time, which may reach someone who feels lost.",
+    "use": "Write one private paragraph about what your story is secretly about in your own life, then make sure that feeling is in the scenes, however invented the premise.",
+    "lessons": [
+      "kaufman"
+    ]
+  },
+  {
     "term": "Scene",
     "origin": "An ancient theatrical term; defined in screenwriting by Robert McKee in Story (1997) as action that turns a value.",
     "meaning": "A unit of continuous action in one place and time; in McKee's sense, one in which something changes.",
@@ -1888,6 +2110,25 @@
     "lessons": [
       "endings",
       "poe"
+    ]
+  },
+  {
+    "term": "Sense of place",
+    "aka": [],
+    "origin": "A long-standing term in writing about landscape; Robert Caro's account in Working (2019) of moving to the Texas Hill Country is a famous statement of it for nonfiction.",
+    "meaning": "Making the reader see, hear and feel a place so vividly that they understand the people shaped by it.",
+    "use": "Go there and stay. Describe light, sound, distance and the work people do, and mark which details you know firsthand.",
+    "lessons": [
+      "caro"
+    ]
+  },
+  {
+    "term": "Sentimentality",
+    "origin": "An old critical term; James Baldwin gave it a sharp definition in \"Everybody's Protest Novel\" (1949).",
+    "meaning": "A display of excessive, false feeling that lets the audience enjoy its own compassion without facing a real, complicated person. Baldwin called it a mark of dishonesty and an inability to feel.",
+    "use": "Where a scene asks the audience to feel a lot, check that it has shown a specific person rather than a symbol, and cut any emotion the story hasn't earned.",
+    "lessons": [
+      "baldwin"
     ]
   },
   {
@@ -1961,6 +2202,17 @@
     ]
   },
   {
+    "term": "Showrunner",
+    "origin": "An American television term, widespread from the 1990s, for the head writer who also runs production.",
+    "meaning": "The person in charge of a TV series' writing and day-to-day creative decisions, from the writers' room to the edit.",
+    "use": "If you're pitching a series, think like a showrunner: know the season's shape and the show's voice well enough that other writers and directors can work inside it.",
+    "lessons": [
+      "armstrong",
+      "waller-bridge",
+      "tv"
+    ]
+  },
+  {
     "term": "Single effect",
     "origin": "Edgar Allan Poe, in his 1842 review of Hawthorne's Twice-Told Tales and \"The Philosophy of Composition\" (1846).",
     "meaning": "Poe's principle that a story should be built to produce one unified effect, decided before writing.",
@@ -1980,6 +2232,18 @@
     ]
   },
   {
+    "term": "Site-specific theatre",
+    "aka": [
+      "Site-specific performance"
+    ],
+    "origin": "A term that spread from the visual arts into theatre from the 1970s and 1980s; no single originator.",
+    "meaning": "Performance made for, and staged in, a particular real place, which becomes part of its meaning.",
+    "use": "Choose a place that holds the story's history; Nottage and Kate Whoriskey's This Is Reading (2017) filled an abandoned railroad station with the town's own stories.",
+    "lessons": [
+      "nottage"
+    ]
+  },
+  {
     "term": "Situation and the story",
     "origin": "Vivian Gornick, The Situation and the Story (2001).",
     "meaning": "The situation is the circumstance or plot; the story is the emotional experience or insight the writer has to convey.",
@@ -1995,6 +2259,20 @@
     "use": "If your story aims to be about a society, check that its private conflicts actually carry the public ones, rather than standing beside them.",
     "lessons": [
       "franzen"
+    ]
+  },
+  {
+    "term": "Solo show",
+    "aka": [
+      "One-person show",
+      "Monologue play"
+    ],
+    "origin": "An old form, revived by fringe theatre; Beckett's Krapp's Last Tape (1958) and Waller-Bridge's Fleabag (Edinburgh Fringe, 2013) are well-known examples.",
+    "meaning": "A play performed by one actor, who usually narrates and voices everyone else in the story.",
+    "use": "Decide who the audience is to your speaker, build the piece around what they're avoiding, and let that avoidance be reached at the end.",
+    "lessons": [
+      "waller-bridge",
+      "stage-forms"
     ]
   },
   {
@@ -2072,6 +2350,18 @@
     ]
   },
   {
+    "term": "SU",
+    "aka": [
+      "Shut up"
+    ],
+    "origin": "Robert Caro's notebook reminder during interviews, described in Working (2019).",
+    "meaning": "Letting a silence run in an interview instead of filling it, because people often fill it with what they hadn't planned to say.",
+    "use": "Write SU in your notebook, and when a subject pauses, wait.",
+    "lessons": [
+      "caro"
+    ]
+  },
+  {
     "term": "Subtext",
     "origin": "Associated with Stanislavski's work on Chekhov at the Moscow Art Theatre; the term came into wide English use in the mid-20th century.",
     "meaning": "What characters mean or feel beneath what they say.",
@@ -2120,6 +2410,15 @@
     "use": "Test a scene with different sounds under the same image. Choose the sound that makes the picture mean what you need without any line of dialogue.",
     "lessons": [
       "film-sound"
+    ]
+  },
+  {
+    "term": "Tactic",
+    "origin": "Acting-class vocabulary descended from Stanislavski's system (objective, obstacle, tactic); Aaron Sorkin applies it to writing, saying a character's tactics for overcoming the obstacle are the story.",
+    "meaning": "What a character does, moment to moment, to get past the obstacle: flatter, threaten, bargain, lie, walk out.",
+    "use": "List a character's tactics in a scene as verbs. If there's only one, make it fail and force a riskier one; each switch is a small turn.",
+    "lessons": [
+      "sorkin"
     ]
   },
   {
@@ -2299,6 +2598,16 @@
     ]
   },
   {
+    "term": "Turn every page",
+    "aka": [],
+    "origin": "Advice from Alan Hathway, managing editor of Newsday, to the young Robert Caro, as Caro recounts in Working (2019); also the title of the 2022 documentary about Caro and his editor Robert Gottlieb.",
+    "meaning": "Read every document in a file, not just the ones that look important, because the crucial evidence is usually buried in routine material.",
+    "use": "When you research, go through whole boxes and transcripts. Note what the routine papers reveal about how decisions were actually made.",
+    "lessons": [
+      "caro"
+    ]
+  },
+  {
     "term": "Undeserved misfortune",
     "origin": "A source of sympathy discussed since Aristotle's Poetics, which says pity is aroused by undeserved misfortune; Michael Hauge made it the first of his identification tools in Writing Screenplays That Sell (1988).",
     "meaning": "Harm that befalls a character through no fault of their own, which makes the audience side with them.",
@@ -2448,6 +2757,27 @@
     ]
   },
   {
+    "term": "Withheld reveal",
+    "aka": [
+      "Delayed disclosure"
+    ],
+    "origin": "A thriller technique long used in fiction; in narrative nonfiction, Patrick Radden Keefe's Say Nothing (2018) is a much-discussed example.",
+    "meaning": "Holding the answer to a story's central question until late, after the reader has lived with the people involved.",
+    "use": "Delay, don't distort: tell the reader the question exists, give them what they need for the answer to land, and pay it off as soon as the story has earned it.",
+    "lessons": [
+      "keefe"
+    ]
+  },
+  {
+    "term": "Witness and spokesman",
+    "origin": "James Baldwin, in a 1984 interview with Julius Lester in The New York Times Book Review.",
+    "meaning": "A spokesman presumes to speak for others; a witness reports truthfully what they have seen and lived. Baldwin saw himself as a witness.",
+    "use": "In personal essays and reporting, claim only the authority of what you saw and heard, and let other people speak for themselves.",
+    "lessons": [
+      "baldwin"
+    ]
+  },
+  {
     "term": "Write what you know",
     "origin": "A common piece of writing advice of unknown origin; it's often attributed to Mark Twain or Ernest Hemingway, but no source has been found.",
     "myth": "The Twain and Hemingway attributions are unsourced.",
@@ -2455,6 +2785,28 @@
     "use": "Read it as \"write what you know emotionally\": a story about a world you've never seen can be grounded in a feeling you have. If you're writing outside your experience, research and consult.",
     "lessons": [
       "salesses"
+    ]
+  },
+  {
+    "term": "Writearound",
+    "aka": [
+      "Write-around"
+    ],
+    "origin": "Newsroom term for a piece written without the subject's cooperation; Gay Talese's \"Frank Sinatra Has a Cold\" (Esquire, 1966) is the classic example. Patrick Radden Keefe discusses enjoying the challenge in the preface to Rogues (2022).",
+    "meaning": "A profile or story about someone who won't talk to you, built from documents, other people's memories and the subject's own public words.",
+    "use": "List every record and witness that can speak for the silent subject, attribute each claim to its source, and include their denials.",
+    "lessons": [
+      "keefe"
+    ]
+  },
+  {
+    "term": "Writers' room",
+    "origin": "A practice of American television, where a team breaks stories together under a head writer; British comedy traditionally relied more on writing partnerships.",
+    "meaning": "The group of writers who plan a series' stories, arcs and episodes together.",
+    "use": "Use the room to break stories and test ideas, then write drafts alone; Jesse Armstrong has said the room is not the place to write.",
+    "lessons": [
+      "armstrong",
+      "tv"
     ]
   },
   {
