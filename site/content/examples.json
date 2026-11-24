@@ -265,6 +265,24 @@
     ]
   },
   {
+    "id": "sentimental-value",
+    "title": "Sentimental Value",
+    "year": 2025,
+    "medium": "Film",
+    "by": "Joachim Trier (director; co-writer with Eskil Vogt); Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning",
+    "summary": "A family drama in which a house narrates the opening, a father who can't apologize writes a film instead, and a single pull-back of the camera turns the climax into an act of art-making.",
+    "lessons": [
+      "trier",
+      "mise-en-scene",
+      "introductions",
+      "dialogue",
+      "want-need-wound",
+      "point-of-view",
+      "camera",
+      "bergman"
+    ]
+  },
+  {
     "id": "sorry-baby",
     "title": "Sorry, Baby",
     "year": 2025,
