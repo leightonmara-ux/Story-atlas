@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "q": "A screenplay introduces its hero walking into a café and ordering coffee. What's the main problem?",
+      "choices": [
+        "The scene has no Midpoint",
+        "It needs voiceover",
+        "The first action could be anyone's: it doesn't define the character",
+        "Cafés are clichés"
+      ],
+      "answer": 2,
+      "explain": "A first action should be something only this character would do."
+    },
+    {
+      "q": "Which screenplay introduction line follows the advice in this lesson?",
+      "choices": [
+        "JANE (34) straightens every picture frame in the waiting room, then glares at anyone who touches one.",
+        "JANE (34), brown hair, 5'6\", blue jeans, white shirt.",
+        "Jane enters.",
+        "JANE, our heroine, is very complex."
+      ],
+      "answer": 0,
+      "explain": "Essence and attitude, shown through action, beat an inventory of looks."
+    },
+    {
+      "q": "In Raiders of the Lost Ark, why does the film keep Indiana Jones's face hidden until he cracks his whip?",
+      "choices": [
+        "To save money on the actor",
+        "To hide a twist about his identity",
+        "Because it's a flashback",
+        "To build mystery, then reveal him at a moment of decisive competence"
+      ],
+      "answer": 3,
+      "explain": "The reveal is timed to his first defining action, so face and skill arrive together."
+    },
+    {
+      "q": "Molière keeps Tartuffe offstage until Act 3. What does the delay achieve?",
+      "choices": [
+        "It shortens the play",
+        "The household's arguments about him make us eager to judge him, and his first gestures expose him",
+        "It hides that he's a ghost",
+        "It follows the unity of time"
+      ],
+      "answer": 1,
+      "explain": "A delayed entrance turns the audience's curiosity into a question the entrance answers."
+    },
+    {
+      "q": "In The Silence of the Lambs, Clarice is warned at length before meeting Lecter. Why is his calm, courteous manner so effective?",
+      "choices": [
+        "It contradicts the build-up, making him stranger and more frightening than the monster we imagined",
+        "It shows he's innocent",
+        "It's a save-the-cat moment",
+        "It's a false Midpoint"
+      ],
+      "answer": 0,
+      "explain": "Others' talk builds expectation; the gap between reputation and reality is the point."
+    },
+    {
+      "q": "Harry Lime appears about an hour into The Third Man, revealed in a doorway by a light from a window. What technique is this?",
+      "choices": [
+        "In medias res",
+        "A kicker",
+        "A delayed entrance built on other characters' talk about him",
+        "Cross-cutting"
+      ],
+      "answer": 2,
+      "explain": "The film is full of talk about Harry before he appears, so the audience has built him in their heads first."
+    },
+    {
+      "q": "A profile of a chef opens: 'Maria Lopez, 52, has worked in kitchens for thirty years.' What would this lesson suggest?",
+      "choices": [
+        "Add her education",
+        "Move her age to the end",
+        "Start with a quote from a critic",
+        "Open on her doing something characteristic, in a scene"
+      ],
+      "answer": 3,
+      "explain": "A profile lede is a character introduction: scene and action rather than résumé."
+    },
+    {
+      "q": "The Godfather introduces Michael at the wedding, in uniform, insisting he's not like his family. Why is that useful?",
+      "choices": [
+        "It's a red herring about his identity",
+        "It sets a starting point the whole film measures his change against",
+        "It's a delayed entrance",
+        "It's a kick-the-dog moment"
+      ],
+      "answer": 1,
+      "explain": "An introduction can show who someone is now, so we can see how far they travel."
+    }
+  ],
+  "ideas": [
+    "A character's first action works as a thesis that the rest of the story tests.",
+    "Letting other characters talk about someone before they appear builds expectation, and the gap between reputation and reality becomes the point.",
+    "Keeping a character offstage for acts, or for most of a film, can make their first appearance the event the audience is waiting for."
+  ]
+}

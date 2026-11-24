@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A director wants the audience to feel a tycoon's power growing. Which camera choice is the conventional tool?",
+      "choices": [
+        "A high angle looking down at him",
+        "A low angle looking up at him",
+        "A Dutch angle",
+        "A jump cut"
+      ],
+      "answer": 1,
+      "explain": "Low angles tend to make characters look strong or monumental, as with Kane."
+    },
+    {
+      "q": "A film opens with a long shot through a masked figure's eyes as they enter a house and kill. What's the technique, and its effect?",
+      "choices": [
+        "Subjective camera: it makes the audience share the killer's eyes",
+        "Deep focus: it keeps everyone sharp",
+        "Cross-cutting: it builds suspense",
+        "An establishing shot: it orients us"
+      ],
+      "answer": 0,
+      "explain": "As in the opening of Halloween, the camera becomes the character."
+    },
+    {
+      "q": "Why is Lady in the Lake, shot almost entirely from the hero's point of view, usually judged a failure?",
+      "choices": [
+        "It broke the 180-degree rule",
+        "It had no music",
+        "We never see the hero's face, so we lose the reactions that build sympathy",
+        "Its cuts were invisible"
+      ],
+      "answer": 2,
+      "explain": "Living permanently in someone's eyes removes the face, and with it the reaction shot."
+    },
+    {
+      "q": "In one frame, a mother signs papers in the foreground while her son plays in the snow, sharp, through the window. What's the technique?",
+      "choices": [
+        "Shallow focus",
+        "A match cut",
+        "Negative space",
+        "Deep focus"
+      ],
+      "answer": 3,
+      "explain": "Deep focus keeps near and far sharp so the composition makes the connection without a cut."
+    },
+    {
+      "q": "A screenwriter wants the audience to feel a character's loneliness in a new city without dialogue. Which written image best implies the right shot?",
+      "choices": [
+        "Close on her lips as she speaks",
+        "Far below, she stands alone on an empty platform as the train pulls away",
+        "Her POV of a menu",
+        "A jump cut to her hotel room"
+      ],
+      "answer": 1,
+      "explain": "Wide shots set people small in their surroundings; distance reads as isolation."
+    },
+    {
+      "q": "Why might a director stage a nightclub entrance as one unbroken Steadicam shot rather than in cuts?",
+      "choices": [
+        "Because long takes are cheaper to edit",
+        "To hide continuity errors",
+        "Because the continuous movement itself conveys the character's access and the seduction of that world",
+        "To follow the 180-degree rule"
+      ],
+      "answer": 2,
+      "explain": "In Goodfellas's Copacabana shot, the unbroken path through the kitchen is the meaning."
+    },
+    {
+      "q": "A playwright wants the audience to watch one silent character during a crowded party scene. Without a close-up, what can she do?",
+      "choices": [
+        "Use blocking, levels, light or other characters' looks to direct focus",
+        "Add a voice-over",
+        "Use a Dutch angle",
+        "Nothing: stage audiences can't be directed"
+      ],
+      "answer": 0,
+      "explain": "Theatre is a permanent wide shot, so focus is directed by staging."
+    }
+  ],
+  "ideas": [
+    "Which approach treats the distance between camera and face as the distance between audience and feeling?",
+    "Which approach keeps foreground and background sharp at once so the viewer finds the connection without a cut?",
+    "Which approach holds a single moving shot for minutes so that continuous time and space become the meaning?",
+    "Which approach tilts the horizon to signal that the world of the story is off balance?"
+  ]
+}

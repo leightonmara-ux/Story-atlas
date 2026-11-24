@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A detective wants to catch a killer before the next full moon; underneath, she can't let anyone help her. Which is the want and which the need?",
+      "choices": [
+        "Both are needs: one outer, one inner",
+        "The want is to accept help; the need is to catch the killer",
+        "The want is to catch the killer; the need is to let others help",
+        "Neither: she has a super-objective, not a want"
+      ],
+      "answer": 2,
+      "explain": "The want is the conscious, outward goal; the need is the inner change she doesn't yet see."
+    },
+    {
+      "q": "At the end of Casablanca, Rick puts Ilsa on the plane with her husband. In want-and-need terms, what has happened?",
+      "choices": [
+        "He gives up his want for his need",
+        "He finally gets his want",
+        "He has a flat arc and changes no one",
+        "His wound is revealed"
+      ],
+      "answer": 0,
+      "explain": "He sacrifices what he wanted (Ilsa) for what he needed (to rejoin the world and its fight)."
+    },
+    {
+      "q": "A writer's draft opens with a ten-minute flashback showing exactly how the hero's mother abandoned him, and the hero later explains it to a friend. What would Truby advise?",
+      "choices": [
+        "Keep it: the audience must know the wound first",
+        "Turn the flashback into the inciting incident",
+        "Reveal the ghost later, when the audience already cares, and less completely",
+        "Cut the friend and keep the flashback"
+      ],
+      "answer": 2,
+      "explain": "Truby suggests revealing the ghost late; critics of the trauma plot would add: don't let it explain everything."
+    },
+    {
+      "q": "The hero of a long-running detective series never changes; instead, each case tests her beliefs and changes the people around her. What is this?",
+      "choices": [
+        "A negative arc",
+        "Static conflict",
+        "A jumping arc",
+        "A flat arc"
+      ],
+      "answer": 3,
+      "explain": "K. M. Weiland's flat arc: the protagonist already holds the truth, and the story tests it."
+    },
+    {
+      "q": "What was Parul Sehgal's main complaint in \"The Case Against the Trauma Plot\"?",
+      "choices": [
+        "Trauma is never a fit subject for fiction",
+        "Trauma has become a default shortcut to depth that reduces characters to symptoms",
+        "Writers don't research trauma accurately enough",
+        "Trauma plots are always too slow"
+      ],
+      "answer": 1,
+      "explain": "She argued the withheld-then-revealed wound had become a formula that flattens people."
+    },
+    {
+      "q": "Which pairing is right?",
+      "choices": [
+        "Super-objective: Truby; ghost: Stanislavski",
+        "Bone structure: McKee; dramatic need: Egri",
+        "Super-objective: Stanislavski; bone structure: Egri",
+        "The Lie: Field; ghost: Weiland"
+      ],
+      "answer": 2,
+      "explain": "Stanislavski's super-objective is the actor's version of the want; Egri's bone structure is physiology, sociology, psychology."
+    },
+    {
+      "q": "A reporter writing about a released prisoner decides he 'needed to forgive himself' and builds the piece toward that. What's the problem?",
+      "choices": [
+        "The need is the writer's interpretation, imposed on a real person",
+        "Features shouldn't have structure",
+        "The want should come after the need",
+        "Nothing, if it makes a good kicker"
+      ],
+      "answer": 0,
+      "explain": "Wants can be reported in the subject's own words; a 'need' or an arc imposed from outside turns a person into a character."
+    },
+    {
+      "q": "In Citizen Kane, how does the film treat the 'Rosebud' explanation?",
+      "choices": [
+        "It reveals the wound as the full answer to Kane",
+        "It never shows what Rosebud is",
+        "It reveals the sled but has the reporter doubt that one word can explain a life",
+        "It explains Rosebud through a psychiatrist's speech"
+      ],
+      "answer": 2,
+      "explain": "The film offers the wound and refuses to let it be the whole answer. The psychiatrist's speech is Psycho."
+    }
+  ],
+  "ideas": [
+    "Which approach sets a character's conscious goal against the inner change they don't know they must make?",
+    "Which approach traces a character's present weakness back to a single injury in their past?",
+    "Which approach warns that a withheld-then-revealed trauma has become fiction's shortcut to depth?",
+    "Which approach describes a hero who doesn't change but changes the world around them?"
+  ]
+}

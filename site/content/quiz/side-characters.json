@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "q": "A novelist with thirty characters worries that most of them are 'flat'. What would Forster say?",
+      "choices": [
+        "Make every one of them round",
+        "Give each a full backstory chapter",
+        "Cut the cast to five",
+        "Flat characters are useful: easily recognized and remembered, and a big cast needs them"
+      ],
+      "answer": 3,
+      "explain": "Forster defended flat characters and pointed to Dickens, who filled his novels with them."
+    },
+    {
+      "q": "Which of these is the strongest tag for a minor character?",
+      "choices": [
+        "He keeps checking the stove is off, in a story where nobody cooks",
+        "He's tall and has brown hair",
+        "She's nervous",
+        "She's a lawyer"
+      ],
+      "answer": 0,
+      "explain": "A tag works when it's specific enough to picture and says something about the person; adjectives and job titles don't."
+    },
+    {
+      "q": "Mr. Jaggers washes his hands with scented soap after seeing clients. Why is this a good tag?",
+      "choices": [
+        "It's realistic period detail",
+        "It's a catchphrase",
+        "It expresses who he is: a man rinsing off his clients' crimes",
+        "It sets up the climax"
+      ],
+      "answer": 2,
+      "explain": "Dickens's best tags aren't decoration: each says something about the character or what they hide."
+    },
+    {
+      "q": "A waiter appears in one scene only to deliver plot information. How could you make him less like furniture?",
+      "choices": [
+        "Give him a long monologue about his past",
+        "Give him a want of his own, even one we only glimpse, like wanting his shift to end",
+        "Remove his lines",
+        "Make him the villain"
+      ],
+      "answer": 1,
+      "explain": "Every character is the hero of their own story; a glimpse of a want makes a walk-on feel alive."
+    },
+    {
+      "q": "Which work best illustrates the idea that every minor character is the lead of their own story?",
+      "choices": [
+        "Rosencrantz and Guildenstern Are Dead",
+        "The Godfather",
+        "A Study in Scarlet",
+        "Noises Off"
+      ],
+      "answer": 0,
+      "explain": "Stoppard puts two minor characters from Hamlet at the center and pushes Hamlet to the margins."
+    },
+    {
+      "q": "In Les Misérables, the Bishop of Digne appears briefly but gives Valjean the candlesticks. What role does he play?",
+      "choices": [
+        "Comic relief",
+        "A foil who mirrors the hero's flaw",
+        "A side character whose single act changes the hero's whole life",
+        "A red herring"
+      ],
+      "answer": 2,
+      "explain": "The bishop is small on the page and huge in effect: his mercy drives the rest of the novel."
+    },
+    {
+      "q": "A screenwriter's only character from a particular background exists to give the hero wise advice and then disappears. What's the risk?",
+      "choices": [
+        "Too many subplots",
+        "A sagging second act",
+        "Too much exposition",
+        "A token: a character reduced to a type, with no want of their own"
+      ],
+      "answer": 3,
+      "explain": "The test for a token is whether the character wants anything for themselves. See also Adichie's single story."
+    },
+    {
+      "q": "A reporter describes a court clerk as 'a long-serving official'. What would make the clerk vivid in one line?",
+      "choices": [
+        "Adding her full title and years of service",
+        "One accurate, observed detail of what she wears, carries or does",
+        "A quote from her supervisor",
+        "An adjective like 'dedicated'"
+      ],
+      "answer": 1,
+      "explain": "The minor source is best rendered in one telling detail, Wolfe's status details, as long as it's true and fair."
+    }
+  ],
+  "ideas": [
+    "A minor character becomes memorable fastest through one specific tag: a way of speaking, an object, a behaviour or an attitude.",
+    "The best tags aren't decorations; each one expresses who the person is or what they're hiding.",
+    "Every walk-on is the lead of their own story, so give even a one-scene character a want."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "Two characters argue across a table. Halfway through, the camera crosses to the other side and they suddenly seem to swap places. What has been broken?",
+      "choices": [
+        "The rule of six",
+        "The 180-degree rule",
+        "The Kuleshov effect",
+        "Unity of place"
+      ],
+      "answer": 1,
+      "explain": "Staying on one side of the line between characters keeps screen positions consistent."
+    },
+    {
+      "q": "A film alternates between a bomb ticking under a bus and the hero racing through traffic to reach it. What's the technique?",
+      "choices": [
+        "Jump cut",
+        "Montage sequence",
+        "Cross-cutting",
+        "Deep focus"
+      ],
+      "answer": 2,
+      "explain": "Cross-cutting alternates simultaneous lines of action, the engine of the last-minute rescue."
+    },
+    {
+      "q": "Which statement about cross-cutting is accurate?",
+      "choices": [
+        "Griffith invented it in The Birth of a Nation",
+        "Eisenstein invented it for Battleship Potemkin",
+        "It was first used in 2001: A Space Odyssey",
+        "Earlier films used it; Griffith developed and popularized it"
+      ],
+      "answer": 3,
+      "explain": "Pathé's A Narrow Escape (1908) predates Griffith's directing career."
+    },
+    {
+      "q": "Eisenstein cuts three shots of stone lions, sleeping, waking, rising, so a statue seems to roar. What idea of editing does this show?",
+      "choices": [
+        "Shots collide to produce an idea neither contains",
+        "Cuts should be invisible",
+        "Shots are bricks linked in a chain",
+        "The camera should follow the actor"
+      ],
+      "answer": 0,
+      "explain": "Collision, against Pudovkin's linkage and Hollywood's invisibility."
+    },
+    {
+      "q": "An editor has a cut that gets the emotion exactly right but slightly breaks spatial continuity. What would Murch advise?",
+      "choices": [
+        "Reshoot: continuity comes first",
+        "Keep it: emotion outranks three-dimensional space",
+        "Add a jump cut",
+        "Cross-cut to hide the error"
+      ],
+      "answer": 1,
+      "explain": "In the rule of six, emotion is 51% and 3D space only 4%; sacrifice from the bottom."
+    },
+    {
+      "q": "A character tosses a coin; it spins in the air, and the film cuts to a spinning planet. What's this?",
+      "choices": [
+        "A jump cut",
+        "An eyeline match",
+        "A match cut",
+        "A montage sequence"
+      ],
+      "answer": 2,
+      "explain": "A shared shape and movement join the shots, like the bone and spacecraft in 2001."
+    },
+    {
+      "q": "A feature writer needs to show a team's two years of preparation before a big race, in a few paragraphs. Which film tool is the closest model?",
+      "choices": [
+        "The long take",
+        "The 180-degree rule",
+        "The reaction shot",
+        "The montage sequence"
+      ],
+      "answer": 3,
+      "explain": "A montage sequence compresses time into quick fragments; use it for change the audience must accept, not feel moment by moment."
+    }
+  ],
+  "ideas": [
+    "Which approach ranks emotion, story and rhythm above spatial continuity when choosing where to cut?",
+    "Which approach insists that two shots should collide to produce an idea neither contains?",
+    "Which approach keeps the camera on one side of a line between characters so the audience never loses its bearings?",
+    "Which approach alternates between a threatened victim and racing rescuers to build suspense?"
+  ]
+}

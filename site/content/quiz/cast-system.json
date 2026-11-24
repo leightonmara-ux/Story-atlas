@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "Hamlet, Laertes and Fortinbras have all lost fathers; Laertes and Fortinbras act at once, Hamlet delays. What are Laertes and Fortinbras doing structurally?",
+      "choices": [
+        "Serving as Hamlet's mentors",
+        "Acting as foils that make Hamlet's hesitation stand out",
+        "Providing comic relief",
+        "Forming the counter-through-action"
+      ],
+      "answer": 1,
+      "explain": "Likeness in situation, difference in choice: the definition of a foil."
+    },
+    {
+      "q": "A thriller's villain is a dim thug the hero beats easily. What would McKee's principle of antagonism predict?",
+      "choices": [
+        "The audience will relax and enjoy the hero",
+        "The story is only as compelling as its opposition, so the victory will feel empty",
+        "The hero needs a mentor",
+        "The villain needs a wound"
+      ],
+      "answer": 1,
+      "explain": "A weak opponent means an easy, meaningless victory."
+    },
+    {
+      "q": "A writer designs a hero, a main opponent and two secondary opponents, each standing for a different value and each in conflict with all the others. What is this?",
+      "choices": [
+        "Truby's four-corner opposition",
+        "Vogler's archetypes",
+        "Egri's unity of opposites",
+        "Hauge's four primary characters"
+      ],
+      "answer": 0,
+      "explain": "Truby's tool for spreading conflict in many directions within the character web."
+    },
+    {
+      "q": "In Racine's Phèdre, the nurse Oenone draws out Phèdre's secret love. Which role is she filling?",
+      "choices": [
+        "The foil",
+        "The reflection",
+        "The mentor",
+        "The confidant"
+      ],
+      "answer": 3,
+      "explain": "The confidant is the person the protagonist tells the truth to, so the audience hears it too."
+    },
+    {
+      "q": "In a buddy-cop film, the partner shares the hero's goal of catching the gang, and his contrasting choices expose the hero's inner conflict. In Hauge's terms, he is the…",
+      "choices": [
+        "Nemesis",
+        "Reflection",
+        "Romance",
+        "Herald"
+      ],
+      "answer": 1,
+      "explain": "Hauge's reflection supports the hero's outer goal and helps reveal the inner conflict."
+    },
+    {
+      "q": "Why do productions of Peter Pan traditionally have one actor play Mr Darling and Captain Hook?",
+      "choices": [
+        "The 1904 cast was too small",
+        "Barrie forbade doubling all other parts",
+        "The doubling makes meaning: the nursery's father returns as Neverland's villain",
+        "Hook has too few lines for a separate actor"
+      ],
+      "answer": 2,
+      "explain": "Doubling can save money, but used well it makes a point about the characters."
+    },
+    {
+      "q": "A feature on a factory closure picks a 'heartless executive', a 'loyal worker' and a 'wise union elder'. What's the risk?",
+      "choices": [
+        "Too few characters",
+        "Casting real people as types because the structure needs them",
+        "No foil for the reader",
+        "It breaks the inverted pyramid"
+      ],
+      "answer": 1,
+      "explain": "Casting can be powerful, as in Lukas's Common Ground, but real people should be reported as individuals, not roles."
+    },
+    {
+      "q": "Which statement about the ensemble is accurate?",
+      "choices": [
+        "An ensemble has no structure, only mood",
+        "An ensemble must still have one clear protagonist",
+        "Only television can sustain an ensemble",
+        "In an ensemble, meaning comes from the pattern among characters, often variations on one want"
+      ],
+      "answer": 3,
+      "explain": "Succession's siblings, Chekhov's sisters and The Wire's mirrored institutions all work by pattern."
+    }
+  ],
+  "ideas": [
+    "Which approach defines each character by contrast with the others rather than one at a time?",
+    "Which approach says a protagonist can only be as compelling as the forces against them?",
+    "Which approach uses a character in a similar situation who chooses differently, to make another shine?",
+    "Which approach treats the cast list, and which roles one actor doubles, as a way of making meaning?"
+  ]
+}

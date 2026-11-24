@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "A director shoots an actor's neutral face once, then cuts it after a shot of a coffin and, separately, after a shot of a birthday cake. Audiences see grief, then joy. What explains this?",
+      "choices": [
+        "The actor's micro-expressions changed between takes",
+        "The Kuleshov effect: viewers read the face through the shot it's cut against",
+        "The 180-degree rule",
+        "Deep focus linking foreground and background"
+      ],
+      "answer": 1,
+      "explain": "The same shot takes its meaning from its neighbours; the audience supplies the emotion."
+    },
+    {
+      "q": "What's the most accurate thing to say about Kuleshov's original experiment?",
+      "choices": [
+        "Its footage survives and has been confirmed by every replication",
+        "It was invented by Hitchcock in 1964",
+        "The footage is lost, accounts of it vary, and modern replications give mixed results",
+        "It was a 1990s neuroscience study"
+      ],
+      "answer": 2,
+      "explain": "It's a well-observed tendency resting on a shaky founding story."
+    },
+    {
+      "q": "In a dialogue scene, a character hears that her brother has died. Which shot will usually carry the most meaning?",
+      "choices": [
+        "The reaction shot of the listener",
+        "A wide establishing shot of the room",
+        "A close-up of the speaker delivering the line",
+        "An insert of the clock"
+      ],
+      "answer": 0,
+      "explain": "The line says what's said; the listener's face shows what it means."
+    },
+    {
+      "q": "A character looks off-screen to the left, and the next shot shows a gun on a table. What links the two shots for the audience?",
+      "choices": [
+        "A jump cut",
+        "A Dutch angle",
+        "A match cut on shape",
+        "An eyeline match"
+      ],
+      "answer": 3,
+      "explain": "A look off-screen followed by its object builds space and connects the look to what's seen."
+    },
+    {
+      "q": "A screenwriter fills stage directions with 'she looks devastated, then furious, then resigned.' What would a Kuleshov-minded director suggest instead?",
+      "choices": [
+        "Add a voice-over explaining her feelings",
+        "Give the image she's reacting to, and let a simpler face take its meaning from the cut",
+        "Cross the line to disorient the audience",
+        "Shoot the whole scene in one long take"
+      ],
+      "answer": 1,
+      "explain": "A face that shows too much leaves the viewer nothing to do."
+    },
+    {
+      "q": "Who is wrongly but often credited with inventing the close-up?",
+      "choices": [
+        "D. W. Griffith",
+        "Sergei Eisenstein",
+        "G. A. Smith",
+        "Carl Theodor Dreyer"
+      ],
+      "answer": 0,
+      "explain": "Close views appear in films around 1900; Griffith's contribution was using them for emotion within a story."
+    },
+    {
+      "q": "A TV news crew films the interviewer nodding sympathetically after the interview and cuts those shots in. Why can this be an ethical problem?",
+      "choices": [
+        "It breaks the 180-degree rule",
+        "It's a jump cut",
+        "Reaction shots can change how an answer seems to land, implying a response that never happened",
+        "It uses the male gaze"
+      ],
+      "answer": 2,
+      "explain": "The Kuleshov effect works in news as well as fiction, which is why 'noddies' are controversial."
+    }
+  ],
+  "ideas": [
+    "Which approach says the same unchanged face can seem hungry, grieving or tender depending on the shot it's cut against?",
+    "Which approach says the listener's reaction often matters more than the line being spoken?",
+    "Which approach relies on a character looking off-screen, the thing they see, and a cut back to their face?"
+  ]
+}

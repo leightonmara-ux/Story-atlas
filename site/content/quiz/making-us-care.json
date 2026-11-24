@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A screenwriter's hero is decent but dull, and test readers don't mind what happens to him. Which of Hauge's tools would add sympathy most directly?",
+      "choices": [
+        "Give him a clearer dramatic question",
+        "Show him suffering a misfortune he did nothing to deserve",
+        "Add a Midpoint false victory",
+        "Make his first line on the nose"
+      ],
+      "answer": 1,
+      "explain": "Hauge's sympathy comes from undeserved misfortune; the word 'undeserved' is what makes it work."
+    },
+    {
+      "q": "Which of these best states Emma Coats's rule #1?",
+      "choices": [
+        "Every scene must turn a value",
+        "Characters should surprise us convincingly",
+        "We admire a character for trying more than for their successes",
+        "Kill your darlings"
+      ],
+      "answer": 2,
+      "explain": "Effort draws us in more than success. The other options belong to McKee, Forster and the 'murder your darlings' advice."
+    },
+    {
+      "q": "In Rocky (1976), Rocky is sent to break a debtor's thumb and doesn't. What is this moment doing?",
+      "choices": [
+        "Kicking the dog, marking him as a villain",
+        "Delivering the inciting incident",
+        "Planting a MacGuffin",
+        "Petting the dog: a small kindness that tells us a hard man has a softer side"
+      ],
+      "answer": 3,
+      "explain": "It's a pet-the-dog touch, and a good one because it grows out of who he is: he isn't really cut out for the life he's living."
+    },
+    {
+      "q": "Sherlock Holmes is rude and cold, yet readers follow him eagerly. Which source of investment is mainly at work?",
+      "choices": [
+        "Competence: the pleasure of watching someone be superb at something",
+        "Jeopardy",
+        "Undeserved misfortune",
+        "Worse people around him"
+      ],
+      "answer": 0,
+      "explain": "Power or skill is one of Hauge's tools, and it can carry characters who aren't likable at all."
+    },
+    {
+      "q": "A writer says: 'My protagonist is a manipulative schemer, so no one will follow her.' What's the best reply?",
+      "choices": [
+        "Add a save-the-cat scene and make her nice",
+        "Switch to a different protagonist",
+        "Caring isn't liking: fascination, competence or worse people around her can hold an audience",
+        "Cut her scenes down so she's less present"
+      ],
+      "answer": 2,
+      "explain": "Investment doesn't require approval. Richard III and Tom Ripley hold us through fascination and skill."
+    },
+    {
+      "q": "A villain's first scene shows him casually ordering puppies turned into coats. What's the technique?",
+      "choices": [
+        "Pet the dog",
+        "Status details",
+        "Undeserved misfortune",
+        "Kick the dog: a gratuitous cruelty that tells the audience where they stand"
+      ],
+      "answer": 3,
+      "explain": "Kick the dog marks a villain with one cruel act, as Cruella de Vil's plan does."
+    },
+    {
+      "q": "A feature writer's draft calls a family's situation 'heartbreaking' four times, but editors say it feels cold. What would this lesson suggest?",
+      "choices": [
+        "Cut the telling words and show, in concrete detail, what the family is trying to do and what's in the way",
+        "Add more adjectives to make the feeling clearer",
+        "Open with a statistic",
+        "Move the family to the end of the piece"
+      ],
+      "answer": 0,
+      "explain": "Care for real people comes from specificity and visible wanting, not from adjectives that instruct the reader to feel."
+    },
+    {
+      "q": "Breaking Bad opens with Walter White underpaid, humiliated and diagnosed with cancer. In terms of audience sympathy, what is the series doing?",
+      "choices": [
+        "Using jeopardy alone",
+        "Buying sympathy with undeserved misfortune early, then spending it as he becomes a monster",
+        "Following Snyder's Midpoint rule",
+        "Avoiding identification altogether"
+      ],
+      "answer": 1,
+      "explain": "Sympathy is a credit the story can spend; the early misfortune keeps us with Walt long after we stop approving of him."
+    }
+  ],
+  "ideas": [
+    "Identification, the audience stepping into the hero's shoes, comes from tools like undeserved misfortune, jeopardy, likability, humor and skill.",
+    "Caring about a character is not the same as liking them: fascination and competence can hold us just as well.",
+    "We judge characters on a curve, so surrounding a bad protagonist with worse people moves our sympathy toward them.",
+    "Early sympathy is a credit that a story can spend as its hero grows darker."
+  ]
+}

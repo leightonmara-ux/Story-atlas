@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A character says, 'I'm hurt because you never listened to me.' What's the diagnosis?",
+      "choices": [
+        "On-the-nose dialogue: the feeling is stated, leaving nothing to play",
+        "A good use of subtext",
+        "An idiolect problem",
+        "Overlapping dialogue"
+      ],
+      "answer": 0,
+      "explain": "Give her a reason not to say it, and something else to talk about."
+    },
+    {
+      "q": "In Annie Hall, Alvy and Annie chat about photography while subtitles show their real anxieties. What is the scene exposing?",
+      "choices": [
+        "Exposition",
+        "Subtext: what they avoid saying",
+        "The super-objective",
+        "A Pinter pause"
+      ],
+      "answer": 1,
+      "explain": "Allen makes the hidden layer visible as a joke."
+    },
+    {
+      "q": "You cover the names on a page of your script and can't tell who's speaking. What's missing?",
+      "choices": [
+        "Subtext",
+        "Stakes",
+        "Distinct voices: each character's idiolect",
+        "A crisis speech"
+      ],
+      "answer": 2,
+      "explain": "Each character needs their own words, rhythms and habits."
+    },
+    {
+      "q": "What does McKee's subtitle 'The Art of Verbal Action' imply?",
+      "choices": [
+        "Dialogue should be cut wherever possible",
+        "Talk should be realistic transcription",
+        "Dialogue is mainly for exposition",
+        "Every line is something a character does to someone, not just information"
+      ],
+      "answer": 3,
+      "explain": "Dialogue is action, an idea that runs from Stanislavski through Mamet to McKee."
+    },
+    {
+      "q": "Which filmmaker built a sound system with separate tracks and radio microphones so several conversations could overlap?",
+      "choices": [
+        "Aaron Sorkin",
+        "Robert Altman",
+        "Howard Hawks",
+        "David Mamet"
+      ],
+      "answer": 1,
+      "explain": "Altman, on California Split and Nashville. Hawks used rapid overlap earlier, but performed it live."
+    },
+    {
+      "q": "In On the Waterfront's taxi scene, why does Terry's 'contender' speech work as dramatic dialogue?",
+      "choices": [
+        "It's an action: an accusation under pressure that changes what Charley does",
+        "It explains Terry's backstory to the audience",
+        "It states the theme directly",
+        "It's comic relief"
+      ],
+      "answer": 0,
+      "explain": "It's a crisis speech that does something: Charley lets him go."
+    },
+    {
+      "q": "A source tells you, 'Me and him was gonna, uh, we was gonna fix it.' What's the most defensible approach?",
+      "choices": [
+        "Fix the grammar silently; Masson says it's legal",
+        "Fix it only if the speaker is a public official",
+        "Quote exactly, or paraphrase, and treat all sources by the same standard",
+        "Invent a cleaner quote with the same meaning"
+      ],
+      "answer": 2,
+      "explain": "Many style guides forbid altering quotes; Masson is a legal floor, and tidying only some people's speech is unfair."
+    },
+    {
+      "q": "In Pinter's plays, what do the marked pauses and silences usually signal?",
+      "choices": [
+        "The actor has forgotten a line",
+        "A moment for the audience to laugh",
+        "Scene changes",
+        "Moments of pressure, often where power shifts"
+      ],
+      "answer": 3,
+      "explain": "What isn't said can be the loudest thing in the room."
+    }
+  ],
+  "ideas": [
+    "Which approach treats every line as a move one character makes against another?",
+    "Which approach finds the real scene in what characters avoid saying?",
+    "Which approach lets several conversations run over each other so the scene feels eavesdropped?",
+    "Which approach writes silence into the script as a measured event?"
+  ]
+}
