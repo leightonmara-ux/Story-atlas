@@ -528,6 +528,8 @@
         { "id": "caro", "title": "Robert Caro", "subtitle": "Working, 2019: turn every page" },
         { "id": "sorkin", "title": "Aaron Sorkin", "subtitle": "Intention and obstacle" },
         { "id": "kaufman", "title": "Charlie Kaufman", "subtitle": "The BAFTA lecture, 2011" },
+        { "id": "waller-bridge", "title": "Phoebe Waller-Bridge", "subtitle": "Fleabag, from fringe stage to screen" },
+        { "id": "armstrong", "title": "Jesse Armstrong", "subtitle": "Succession and the ensemble without a hero" },
         { "id": "morrison", "title": "Toni Morrison", "subtitle": "The Site of Memory, 1987" },
         { "id": "baldwin", "title": "James Baldwin", "subtitle": "Witness, and the case against the protest novel" },
         { "id": "nottage", "title": "Lynn Nottage", "subtitle": "Plays built from interviews" }
