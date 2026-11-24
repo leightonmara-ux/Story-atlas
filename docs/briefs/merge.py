@@ -1,6 +1,7 @@
 import json, glob, os, re
 ROOT='/home/user/story-atlas/site'
-OUT='AGENT_OUT_DIR'
+import sys
+OUT=sys.argv[1] if len(sys.argv)>1 else 'agent-out'  # folder holding the writers' output JSON
 cur=json.load(open(f'{ROOT}/content/curriculum.json'))
 conc=json.load(open(f'{ROOT}/content/concordance.json'))
 seqs=json.load(open(f'{ROOT}/content/sequences.json'))
