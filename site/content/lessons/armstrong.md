@@ -38,12 +38,12 @@ Tom and Greg are the clearest double act. Tom, insecure about his place in the f
 
 ### The room, the set and the "alts"
 
-*Succession* is often described as improvised. Armstrong has said that's an exaggeration. The process, as he's described it in interviews around the 2023 finale:
+*Succession* is often described as improvised. Armstrong has said that's an exaggeration. The process, as he's described it in interviews over the show's run:
 
 - **The room plans; it doesn't write.** At the BBC Comedy Festival in 2023 he said a writers' room isn't the place to write. The main room, in London, broke the stories and planned the season; scripts were then written and rewritten.
 - **Rewriting to the last minute.** He told *The Guardian* (2023) that he kept refining scripts very late, and admitted this caused tension with actors who wanted to learn their lines.
 - **Alts.** Shortly before shooting, he and the writers marked moments where a funnier or truer line might fit and wrote alternatives, or "alts": sometimes none for a scene, sometimes a dozen or more. Actors could try them in different takes.
-- **The loose take.** He told *The Hollywood Reporter* (2023) that they would shoot the scene as written, then try looser takes, and sometimes pull fragments from them into the edit. Improvisation lived inside a scripted structure, not instead of it.
+- **The loose take.** He told *The Hollywood Reporter* (2019, after the season 2 finale) that they would shoot scripted takes, then looser ones, and take fragments from both into the edit. Improvisation lived inside a scripted structure, not instead of it.
 
 He also urged writers, at the same 2023 festival, to be part of the conversation on set. For a writer, the lesson is that the script is the skeleton, and the alts are a way to keep testing which line hits hardest.
 
@@ -57,10 +57,10 @@ Every finale turns on a betrayal or a reversal of power. Kendall's attempt to ta
 
 In season 4, episode 3 ("Connor's Wedding"), Logan dies on a plane while his children are at their brother's wedding. We never see him die; we hear it through phones, at second hand. Armstrong said in HBO's behind-the-scenes video that leaving out a death scene was deliberate: the episode is about the reactions. Killing the centre of the ensemble early turned the final season into a test of who each child was without him.
 
-The series finale, "With Open Eyes" (2023), ends with the sale going through, Shiv voting against Kendall at the last moment, and Tom, the outsider, named CEO. Armstrong told *The New Yorker* (2023) that he'd never thought the show could go on forever, and that the title itself was a promise that needed keeping. Afterwards, he told *The Hollywood Reporter*:
+The series finale, "With Open Eyes" (2023), ends with the sale going through, Shiv voting against Kendall at the last moment, and Tom, the outsider, named CEO. Before the final season aired, Armstrong told *The New Yorker* (2023) that he'd never thought the show could go on forever, and that the title itself was a promise that needed keeping. After the finale, Jeremy Strong, who played Kendall, said in HBO's post-finale material, as reported by *The Hollywood Reporter*:
 
-> A completely tragic ending from my perspective.
-— Jesse Armstrong, *The Hollywood Reporter* (2023)
+> It is a completely tragic ending from my perspective.
+— Jeremy Strong, quoted in *The Hollywood Reporter* (2023)
 
 ## Use it
 

@@ -2,7 +2,7 @@
 
 *Spoilers: this case study discusses the whole film, including the ending.*
 
-*Tony* (2026) is A24's film about Anthony Bourdain, directed and co-written by Matt Johnson (*BlackBerry*), with Dominic Sessa (*The Holdovers*) as the 19-year-old Bourdain, Antonio Banderas as the chef who runs the kitchen, Leo Woodall as a cook called Sal and Emilia Jones as Nancy. It opened in US cinemas on 7 August 2026, after a preview at the Provincetown International Film Festival in May. It covers one summer: in 1975 a privileged college kid who wants to be a novelist misses out on a writing fellowship, follows a girl to Provincetown, Massachusetts, and ends up washing dishes in a seafood restaurant. The famous Bourdain never appears; the film stops as the boy starts to become a cook.
+*Tony* (2026) is A24's film about Anthony Bourdain, directed and co-written by Matt Johnson (*BlackBerry*), with Dominic Sessa (*The Holdovers*) as the 19-year-old Bourdain, Antonio Banderas as the chef who runs the kitchen, Leo Woodall as a cook called Sal and Emilia Jones as Nancy. It opened in US cinemas on 7 August 2026, after Johnson and Sessa showed clips from it at the Provincetown International Film Festival in June. It covers one summer: in 1975 a privileged college kid who wants to be a novelist misses out on a writing fellowship, follows a girl to Provincetown, Massachusetts, and ends up washing dishes in a seafood restaurant. The famous Bourdain never appears; the film stops as the boy starts to become a cook.
 
 ## Why it works
 
@@ -26,7 +26,7 @@ Tony is privileged, arrogant and dishonest, and the film doesn't hide it. Review
 
 ### Two mentors who pull in opposite directions
 
-The kitchen gives Tony two teachers. Banderas plays the owner and head chef, known simply as Chef, whom some critics thought stole the film. Woodall's Sal is the reckless cook who befriends Tony and draws him into the kitchen's excesses. Reviews describe Sal unravelling until a violent clash with Chef gets him fired, and his departure is what moves Tony from the sink to the stove.
+The kitchen gives Tony two teachers. Banderas plays the owner and head chef, known simply as Chef, whom some critics thought stole the film. Woodall's Sal is the reckless cook who befriends Tony and draws him into the kitchen's excesses. Sal unravels until a violent clash with Chef, after which he quits, and his departure is what moves Tony from the sink to the stove.
 
 This is *Memorable side characters* at work: the minor character who changes the hero. It is also *The cast as a system*. Chef and Sal are two answers to the question of what kind of cook, and man, Tony might become: one disciplined, the other charismatic and self-destructive. Anyone who knows how Bourdain's life went will feel the weight of that, because both paths were in him.
 
@@ -40,7 +40,7 @@ This is *Memorable side characters* at work: the minor character who changes the
 
 *Tony* invents freely. *Rolling Stone* reported that Chef is a composite of several mentors from Provincetown and New York. NPR's John Powers noted that there was no Sal, and that the real Bourdain wasn't the innocent the film makes him seem. The Nancy plot is also invented. The real restaurant, the Flagship, which Bourdain called the Dreadnaught in *Kitchen Confidential*, was merged with another Provincetown restaurant for the film.
 
-*Janet Malcolm & John Hersey* sets out the terms: composites, compression and invented events would be unacceptable in journalism, while "based on a true story" carries a looser reader's contract, and the test is whether the invention changes the meaning of what happened. Powers expected the filmmakers to answer that the film is emotionally rather than literally true. Johnson has said in interviews that he didn't feel bound by factual accuracy but did feel an obligation to get at the truth,, and that the Provincetown locals he interviewed disagreed about how much Bourdain had exaggerated.
+*Janet Malcolm & John Hersey* sets out the terms: composites, compression and invented events would be unacceptable in journalism, while "based on a true story" carries a looser reader's contract, and the test is whether the invention changes the meaning of what happened. Powers expected the filmmakers to answer that the film is emotionally rather than literally true. Johnson has said in interviews that he didn't feel bound by factual accuracy but did feel an obligation to get at the truth, and that the Provincetown locals he interviewed disagreed about how much Bourdain had exaggerated.
 
 ## The shape
 
@@ -51,7 +51,7 @@ The film follows the classic *bildungsroman* pattern, compressed into one season
 | Departure | Vassar; the fellowship falls through; Tony follows Nancy to Provincetown | Opening |
 | The false self | The lie that he's writing a novel; broke, he takes a dishwashing job | First third |
 | Education | Life in the kitchen under Chef, alongside Sal | Middle |
-| Crisis | Sal's fall and firing; Tony moves from the sink to the stove | About two-thirds to three-quarters |
+| Crisis | Sal's fall and exit; Tony moves from the sink to the stove | About two-thirds to three-quarters |
 | Accommodation | The clambake fundraiser; Tony gives the money to the damaged restaurant | Final stretch |
 | Coda | A glance toward the man he will become | Last minutes |
 

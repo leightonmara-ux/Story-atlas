@@ -46,7 +46,7 @@ She also describes memory itself as active, closer to a flood returning than to 
 
 Two other sources round out her craft. In her Nobel Lecture (1993), she told a parable: young people try to trick a blind, wise old woman by asking whether the bird in their hands is alive or dead. She answers that she doesn't know, but that it is in their hands. Morrison reads the bird as language, and the writer as responsible for whether it lives. She argues that oppressive language doesn't just describe violence; it *is* violence. For a writer that means every word choice is a choice about whose reality gets to count.
 
-In *The Paris Review*'s "Art of Fiction" interview (No. 134, 1993), she describes drafting in pencil and revising on a screen, revising a great deal, and recognizing a point where revision turns into fretting that only wears the work down.
+In *The Paris Review*'s "Art of Fiction" interview (No. 134, 1993), she describes drafting by hand in pencil, revising a great deal, and recognizing a point where revision turns into fretting that only wears the work down.
 
 ## Use it
 

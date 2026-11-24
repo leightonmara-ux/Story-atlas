@@ -47,7 +47,7 @@ His 1984 *Paris Review* interview ("The Art of Fiction No. 78", with Jordan Elgr
 
 - **He worked at night.** He began when the household was asleep, a habit from years of day jobs and a crowded home.
 - **Rewriting was where the truth came out.** He called revision painful, and said the hardest thing to achieve was simplicity, because it means stripping away disguises you didn't know you were wearing. The goal, he said, is a sentence as clean as a bone.
-- **Learning to see.** He told how the painter Beauford Delaney, his friend and mentor, pointed at a puddle in a Greenwich Village street and said only "Look." Baldwin saw water; when he looked again he saw oil on it, and the city reflected in it. Look at what is actually in front of you.
+- **Learning to see.** He told how the painter Beauford Delaney, his friend and mentor, pointed at a puddle in a Greenwich Village street and told him to look. Baldwin saw only water; told to look again, he saw oil on it, and the city reflected in it. Look at what is actually in front of you.
 
 ### Writing for the stage
 

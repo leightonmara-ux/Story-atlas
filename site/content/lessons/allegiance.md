@@ -2,7 +2,7 @@
 
 People say they "identify with" a character as if that explained something. Film theorists in the 1970s and 1980s used **identification** as a big, loose word, often borrowed from psychoanalysis, for how films bind us to their characters.
 
-**Murray Smith**, a British philosopher of film at the University of Kent, set out to replace it with something writers can actually use. His book ***Engaging Characters: Fiction, Emotion, and the Cinema*** (1995) breaks "identification" into three separate mechanisms that he calls the **structure of sympathy**: recognition, alignment and allegiance. A later essay tackled the puzzle of what he called "apparently perverse allegiances": why we root for gangsters and killers.
+**Murray Smith**, a British philosopher of film at the University of Kent, set out to replace it with something writers can actually use. His book ***Engaging Characters: Fiction, Emotion, and the Cinema*** (1995) breaks "identification" into three separate mechanisms that he calls the **structure of sympathy**: recognition, alignment and allegiance. A later essay, "Gangsters, Cannibals, Aesthetes, or Apparently Perverse Allegiances" (1999), tackled the puzzle of why we root for gangsters and killers.
 
 Smith's tools sit alongside two older ideas you'll meet elsewhere in this course: Hitchcock's account of suspense (in *The shared core*) and Blake Snyder's "save the cat" (in *Blake Snyder* and *Making us care*).
 
@@ -59,6 +59,7 @@ Blake Snyder's "save the cat" (see *Blake Snyder*, and the wider toolkit in *Mak
 ## Read next
 
 - Murray Smith, *Engaging Characters: Fiction, Emotion, and the Cinema* (1995). Academic but clear; the chapters on the structure of sympathy are the core.
+- Murray Smith, "Gangsters, Cannibals, Aesthetes, or Apparently Perverse Allegiances", in *Passionate Views: Film, Cognition, and Emotion*, ed. Carl Plantinga and Greg M. Smith (1999).
 - François Truffaut, *Hitchcock* (1967; revised 1983), the interview book, for Hitchcock on suspense and on manipulating an audience.
 - Watch the first two episodes of *Breaking Bad* and note each moment that wins or tests your allegiance.
 

@@ -10,7 +10,7 @@ He has taught his method widely, above all in his online MasterClass (2016) and 
 
 ### Intention and obstacle
 
-Sorkin's rule: **somebody wants something, and something is standing in the way of getting it.** That's a scene, an episode, a film. He calls it the drive shaft of drama, and says he worships at its altar.
+Sorkin's rule: **somebody wants something, and something is standing in the way of getting it.** That's a scene, an episode, a film. He has said he worships at the altar of intention and obstacle.
 
 The words are his, but he doesn't claim the idea. He sends writers to Aristotle's *Poetics*, which he calls the rule book (see *Aristotle*). Be careful, though: Aristotle never uses the phrase "intention and obstacle". It's Sorkin's shorthand for Aristotle's point that drama is an imitation of action. The vocabulary also comes from the acting class Sorkin trained in, where an actor looks for the character's **objective** and what blocks it (see *Konstantin Stanislavski*).
 

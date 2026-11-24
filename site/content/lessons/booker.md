@@ -38,7 +38,7 @@ Booker's most usable idea for working writers is that each plot moves through re
 
 Watch *Jaws* (1975) with this in mind. The shark's attacks and the beach closures are the call; the hunt sets out with banter and bravado; the shark proves far bigger than expected; Quint is eaten and the *Orca* sinks; and Brody, alone on the mast, fires at the oxygen tank in the shark's jaws.
 
-Tragedy uses the same frame turned inside out. Booker's stages are **Anticipation** (the hero feels unfulfilled and fixes on a forbidden goal), **Dream** (it goes well: Macbeth is king), **Frustration** (things start to slip; more crimes are needed), **Nightmare** (forces close in and the hero grows desperate) and **Destruction or Death-Wish**. The Dream Stage is the key: tragedy lets its hero, and us, enjoy getting away with it before the bill arrives.
+Tragedy uses the same frame turned inside out. Booker's stages are **Anticipation** (the hero feels unfulfilled and fixes on a forbidden goal), **Dream** (it goes well: Macbeth is king), **Frustration** (things start to slip; more crimes are needed), **Nightmare** (forces close in and the hero grows desperate) and **Destruction or Death Wish**. The Dream Stage is the key: tragedy lets its hero, and us, enjoy getting away with it before the bill arrives.
 
 ### The Jungian frame
 

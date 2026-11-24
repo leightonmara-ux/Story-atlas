@@ -12,7 +12,7 @@ The figure in brackets is Snyder's target as a share of the running time (his pa
 
 1. **Opening Image** (first minute): New York cop John McClane on a plane landing in Los Angeles, gripping the armrest. A passenger tells him to make fists with his toes on the carpet to unwind. A tense man, alone, out of place.
 2. **Theme Stated** (5%): In the limo, McClane tells the driver, Argyle, that his wife Holly took a big job in LA and he stayed behind, expecting her to come back. Can he let go of that pride?
-3. **Set-Up** (0–10%): The office Christmas party. Holly uses her maiden name at work; her boss Takagi is warm; her colleague Ellis is a creep. John and Holly quarrel within minutes, and he's left barefoot in her washroom.
+3. **Set-Up** (1–9%): The office Christmas party. Holly uses her maiden name at work; her boss Takagi is warm; her colleague Ellis is a creep. John and Holly quarrel within minutes, and he's left barefoot in her washroom.
 4. **Catalyst** (11%): Hans Gruber's armed men seize the building. McClane, shoeless, slips into the stairwell.
 5. **Debate** (11–23%): He hides and watches Gruber shoot Takagi. He argues with himself, pulls a fire alarm, and hears the gang call off the fire trucks.
 6. **Break into Two** (23%): He kills one of the gang and sends the body down in the lift with a mocking message. He has chosen to fight.
@@ -101,7 +101,7 @@ Map your own draft, or a film in your genre, against the beat sheet before chang
 ## Check yourself
 
 Q: What are the five steps of Snyder's five-point finale?
-A: Gathering the Team, Executing the Plan, the High Tower Surprise, Dig Deep Down, and the Execution of the New Plan.
+A: Gathering the Team, Executing the Plan, the High Tower Surprise, Dig, Deep Down, and the Execution of the New Plan.
 
 Q: What does "Watch Out for That Glacier!" warn against?
 A: A threat that's far away or slow. Danger should be close and closing in fast.

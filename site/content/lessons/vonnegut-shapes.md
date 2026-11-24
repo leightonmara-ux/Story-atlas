@@ -44,7 +44,7 @@ Vonnegut's conclusion: *Hamlet* is a masterpiece partly because Shakespeare does
 
 Vonnegut half-joked that the shapes of stories were simple enough to feed into a computer. In 2016, a team at the University of Vermont's Computational Story Lab, Andrew Reagan, Lewis Mitchell, Dilan Kiley, Christopher Danforth and Peter Sheridan Dodds, tried it. Their paper, "The emotional arcs of stories are dominated by six basic shapes," appeared in *EPJ Data Science*.
 
-They took a large collection of English-language fiction from Project Gutenberg (well over a thousand works; the count depends on how they filtered it), scored the emotional tone of the words in a sliding window through each book, and looked for the patterns that recur. They found six:
+They took a large collection of English-language fiction from Project Gutenberg (a filtered set of 1,327 works in the final version of the paper; an earlier draft counted 1,737), scored the emotional tone of the words in a sliding window through each book, and looked for the patterns that recur. They found six:
 
 | Arc | Shape |
 |---|---|

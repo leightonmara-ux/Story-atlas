@@ -12,7 +12,7 @@ You won't find a twelve-step diagram here. What you'll find is the craft vocabul
 
 Burroway's best-known line comes from her discussion of plot:
 
-> In literature, only trouble is interesting.
+> In literature only trouble is interesting.
 > — Janet Burroway, Writing Fiction
 
 Her point is not that fiction must be violent or melodramatic. It's that a smooth day, a happy marriage or a picnic that goes well isn't yet a story. In life we avoid trouble; in fiction we go looking for it. The trouble can be very quiet: a misunderstanding at a dinner table, a decision put off. But something has to be at stake and in doubt.

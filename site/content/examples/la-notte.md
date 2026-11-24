@@ -20,15 +20,15 @@ The wet glass says what the cast never does: these people can see one another bu
 
 ### Lidia's walk: a story made of looking
 
-About a fifth of the way in, Lidia slips away from Giovanni's book launch and walks. The sequence runs for a long time with almost no dialogue. She drifts through central Milan, a small figure against walls and buildings; she watches a fight between young men on a patch of waste ground; out on the edge of the city she watches boys setting off rockets in an open field. Eventually she reaches the outlying neighbourhood where she and Giovanni lived when they were first married, and telephones him to come and fetch her. When he arrives, he barely registers where he is.
+About a fifth of the way in, Lidia slips away from Giovanni's book launch and walks. The sequence runs for a long time with almost no dialogue. She drifts through central Milan, a small figure against walls and buildings, and ends up in the outlying neighbourhood where she and Giovanni lived when they were first married. There she comes on a fight between young men on a patch of waste ground and tries to stop it, and watches boys setting off rockets in an open field. Then she telephones him to come and fetch her. When he arrives, he barely registers where he is.
 
-In conventional terms the walk is a pause; here it's the centre. It gives Lidia an inner life we're shown, never told, and makes the city a mirror for her: modern towers, then waste ground, then the older outskirts where her past is. *Light, colour and setting* would call this geography doing the work of argument, and it is close to the **long take** logic in *The camera's eye*: continuity of time and space is itself the meaning. We live her afternoon at walking pace, and the pace is the feeling.
+In conventional terms the walk is a pause; here it's the centre. It gives Lidia an inner life we're shown, never told, and makes the city a mirror for her: modern towers first, then the older outskirts and waste ground where her past is. *Light, colour and setting* would call this geography doing the work of argument, and it is close to the **long take** logic in *The camera's eye*: continuity of time and space is itself the meaning. We live her afternoon at walking pace, and the pace is the feeling.
 
 ### The party as a system of mirrors
 
 The second half is one long night at the villa of Gherardini, an industrialist who offers Giovanni a well-paid job writing for his company: a writer being invited to sell out, and Giovanni doesn't say no. It's here that *The cast as a system* comes in. The three leads are variations on one problem, the inability to feel or commit.
 
-Giovanni is the empty centre: charming, passive, drifting towards whatever is nearest. Lidia sees clearly but has stopped acting on what she sees. Valentina, whom Giovanni first finds alone reading Hermann Broch's novel *The Sleepwalkers*, is younger, cleverer and more honest than either; she plays a game sliding her compact across a chequered marble floor, and when Giovanni pursues her she is drawn in and then holds back. Late in the night, during a power cut, she plays him a recording she made of her own voice on a tape recorder, then erases it. Her refusal is what stops this becoming an affair story. The dying friend, Tommaso, is the fourth corner: the one man who loved Lidia without needing anything, and the measure of what Giovanni has lost. During the party, Lidia telephones the hospital and learns he has died.
+Giovanni is the empty centre: charming, passive, drifting towards whatever is nearest. Lidia sees clearly but has stopped acting on what she sees. Valentina, whom Giovanni first finds alone reading Hermann Broch's novel *The Sleepwalkers*, is younger, cleverer and more honest than either; she plays a game sliding her compact across a chequered marble floor, and when Giovanni pursues her she is drawn in and then holds back. Late in the night, alone with him, she plays him a tape recording of herself reading something she has written; when he praises it, she erases it. Her refusal is what stops this becoming an affair story. The dying friend, Tommaso, is the fourth corner: the one man who loved Lidia without needing anything, and the measure of what Giovanni has lost. During the party, Lidia telephones the hospital and learns he has died.
 
 ### Jazz at the party, quiet everywhere else
 
@@ -40,7 +40,7 @@ Elsewhere the film is sparing with sound. The walk plays mostly to street noise 
 
 At dawn, Giovanni and Lidia walk out across Gherardini's private golf course. She tells him Tommaso has died, and then that she no longer loves him, and believes he no longer loves her. She takes out a letter and reads it aloud: a tender, articulate love letter, describing waking beside a sleeping woman and loving her. Giovanni asks who wrote it. She tells him he did, years ago. He didn't recognise his own words.
 
-He responds by pulling her down onto the grass and kissing her, almost desperately, while she says no and then stops resisting. The camera moves away from them across the empty landscape, the music comes in, and the film ends. Nothing is resolved; the image does the ending: two figures small against an empty morning.
+He responds by pulling her down into a sand bunker on the golf course and kissing her, almost desperately, while she says no and then stops resisting. The camera moves away from them across the empty landscape, the music comes in, and the film ends. Nothing is resolved; the image does the ending: two figures small against an empty morning.
 
 This is what the counterpoint lessons describe. In *Robert McKee*'s terms, it's a **miniplot**: a passive protagonist, inner conflict, an open ending. In *Ursula K. Le Guin*'s, it's a carrier bag, not a spear: its meaning comes from how a hospital, a city, a party and a letter sit together. And the letter works like the turn in *Kishōtenketsu*: not a fight but a sudden shift in understanding. The past arrives in the present in Giovanni's own voice, and he can't hear it.
 
@@ -52,7 +52,7 @@ This is what the counterpoint lessons describe. In *Robert McKee*'s terms, it's 
 |---|---|---|
 | Ki (setting) | The Pirelli Tower credits; the hospital visit to Tommaso; the book launch | Opening to about a fifth |
 | Shō (development) | Lidia's walk through Milan to the old neighbourhood; evening at home and out | About a fifth to two-fifths |
-| Ten (turn) | The villa party: Valentina, the job offer, the rain, the car, the news of Tommaso's death | About two-fifths to nine-tenths |
+| Ten (turn) | The villa party: Valentina, the news of Tommaso's death, the job offer, the rain, the car | About two-fifths to nine-tenths |
 | Ketsu (gathering) | Dawn on the golf course: the letter, the embrace, the camera's withdrawal | Final ten minutes or so |
 
 What drives it instead of plot is the clock, morning to night to dawn, and accumulating evidence: each episode adds one more proof about the marriage, until the letter makes the case undeniable.

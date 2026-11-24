@@ -6,7 +6,7 @@ Every story decides whose desires drive it, whose eyes we see through, and who i
 
 **Chimamanda Ngozi Adichie**, the Nigerian novelist (*Half of a Yellow Sun*, *Americanah*), gave a TED talk in 2009 called "**The Danger of a Single Story**". It has been watched tens of millions of times.
 
-**Thomas King**, a writer of Cherokee and Greek descent who was born in California and has long lived in Canada, gave the 2003 Massey Lectures on CBC Radio. They were published the same year as ***The Truth About Stories: A Native Narrative***.
+**Thomas King**, a writer born in California who has long lived in Canada and has written mostly about Native North America, gave the 2003 Massey Lectures on CBC Radio. They were published the same year as ***The Truth About Stories: A Native Narrative***. King long said he was part Cherokee through his father; in 2025 he accepted genealogists' findings that he has no Indigenous ancestry.
 
 ## The big ideas
 

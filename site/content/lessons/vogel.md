@@ -21,7 +21,7 @@ The most practical thing Vogel teaches is that the Aristotelian arc, events link
 - **Backward:** the story told in reverse, as in Harold Pinter's *Betrayal*, which starts with the end of an affair and ends with its beginning.
 - **Repetitive:** a pattern played again with variations, as in *Waiting for Godot*, where the second act echoes the first.
 
-Other forms on her list involve association and the collision of different times. The value of the list is the permission it gives: if your play resists a climax, the question isn't how to force one in, but which form it actually wants.
+Accounts of her list name further forms as well, and don't always agree on their labels. The value of the list is the permission it gives: if your play resists a climax, the question isn't how to force one in, but which form it actually wants.
 
 ### Time works backwards
 

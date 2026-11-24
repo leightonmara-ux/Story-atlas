@@ -2,7 +2,7 @@
 
 *Spoilers: this case study discusses the whole film, including the ending.*
 
-*Sorry, Baby* (2025) was written and directed by Eva Victor, who also plays the lead. It premiered at the Sundance Film Festival in January 2025, where it won the Waldo Salt Screenwriting Award in the U.S. Dramatic competition, closed the Directors' Fortnight at Cannes that May, and was released by A24 that summer. Agnes (Victor) is a literature academic who has stayed on in the small college town where she did her graduate degree Her best friend from those years, Lydie (Naomi Ackie), has moved away. The film follows several years of her life after she was sexually assaulted by her thesis adviser, an event the film mostly calls "the bad thing". Because it's recent, this case study is shorter than most and sticks to what reviews and interviews confirm.
+*Sorry, Baby* (2025) was written and directed by Eva Victor, who also plays the lead. It premiered at the Sundance Film Festival in January 2025, where it won the Waldo Salt Screenwriting Award in the U.S. Dramatic competition, closed the Directors' Fortnight at Cannes that May, and was released by A24 that summer. Agnes (Victor) is a literature academic who has stayed on in the small college town where she did her graduate degree. Her best friend from those years, Lydie (Naomi Ackie), has moved away. The film follows several years of her life after she was sexually assaulted by her thesis adviser, an event the film mostly calls "the bad thing". Because it's recent, this case study is shorter than most and sticks to what reviews and interviews confirm.
 
 ## Why it works
 

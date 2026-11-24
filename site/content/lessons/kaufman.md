@@ -2,7 +2,7 @@
 
 Charlie Kaufman (born 1958) is an American screenwriter and director. He started out writing television comedy in the early 1990s, including the sitcom *Get a Life*, and broke through with *Being John Malkovich* (1999), directed by Spike Jonze. *Adaptation* (2002), also with Jonze, and *Eternal Sunshine of the Spotless Mind* (2004), directed by Michel Gondry, followed. *Eternal Sunshine* won the Oscar for original screenplay, shared with Gondry and the artist Pierre Bismuth, who had the original idea with them. Kaufman then directed his own scripts: *Synecdoche, New York* (2008), *Anomalisa* (2015, co-directed with Duke Johnson) and *I'm Thinking of Ending Things* (2020). He also published a novel, *Antkind* (2020).
 
-On 30 September 2011 he gave the last of that year's BAFTA and BFI Screenwriters' Lectures, at BFI Southbank in London. It was described as his first public lecture. The video and a full transcript are on BAFTA's website, and it has become one of the most widely shared talks about writing. This lesson paraphrases it; read the transcript for his exact words.
+On 30 September 2011 he gave the last of that year's BAFTA and BFI Screenwriters' Lectures, in London. It was described as his first public lecture. The video and a full transcript are on BAFTA's website, and it has become one of the most widely shared talks about writing. This lesson paraphrases it; read the transcript for his exact words.
 
 ## The big ideas
 
