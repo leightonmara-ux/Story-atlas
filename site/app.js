@@ -824,15 +824,30 @@ async function renderExamples(id) {
     return;
   }
   document.title = 'Examples · Story Atlas';
+  const sortKey = t => t.replace(/^(the|a|an)\s+/i, '').toLowerCase();
+  const card = e => `
+      <a class="game" href="#/examples/${e.id}"><b>${esc(e.title)}</b>
+        <span>${esc(String(e.year))} · ${esc(e.by)}</span>
+        <span class="ex-sum">${esc(e.summary || '')}</span></a>`;
+  const order = ['Film', 'TV', 'Play', 'Journalism'];
   app.innerHTML = `
     <h1>Examples</h1>
     <p class="lede">Works worth studying, and why they work: each one linked to the lessons it teaches.</p>
-    ${examples.length ? `<div class="games">${examples.map(e => `
-      <a class="game" href="#/examples/${e.id}"><b>${esc(e.title)}</b>
-        <span>${esc(e.medium)} · ${esc(String(e.year))} · ${esc(e.by)}</span>
-        <span class="ex-sum">${esc(e.summary || '')}</span></a>`).join('')}</div>`
-      : '<p class="muted">The first case study is on its way.</p>'}
+    ${examples.length > 6 ? `<input class="search" type="search" id="exSearch" placeholder="Search ${examples.length} works" autocomplete="off" aria-label="Search examples">` : ''}
+    <div id="exList"></div>
     <p class="muted ex-note">Want a work you love studied here? Name it in your Story Atlas conversation with Claude.</p>`;
+  const draw = () => {
+    const q = ((document.getElementById('exSearch') || {}).value || '').trim().toLowerCase();
+    const list = examples.filter(e => !q || [e.title, e.by, String(e.year), e.summary].join(' ').toLowerCase().includes(q))
+      .sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
+    const media = [...new Set(list.map(e => e.medium))].sort((a, b) => (order.indexOf(a) + 9) % 9 - (order.indexOf(b) + 9) % 9);
+    document.getElementById('exList').innerHTML = !examples.length ? '<p class="muted">The first case study is on its way.</p>'
+      : !list.length ? '<p class="muted">Nothing matches.</p>'
+      : media.map(m => `<h2 class="letter">${esc(m)}</h2><div class="games">${list.filter(e => e.medium === m).map(card).join('')}</div>`).join('');
+  };
+  draw();
+  const box = document.getElementById('exSearch');
+  if (box) box.addEventListener('input', draw);
 }
 
 // ---------- routing ----------
