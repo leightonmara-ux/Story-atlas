@@ -8,15 +8,15 @@
 
 ### Seasons as chapters
 
-The film is divided by title cards naming the seasons: it begins in winter and moves through spring, summer and fall back to winter, before a final jump of five years. The structure is borrowed from Jacques Demy's *The Umbrellas of Cherbourg* (1964), which Chazelle has repeatedly called his favourite film and his biggest influence, and which is also divided into parts by date and ends with former lovers meeting by chance years later.
+The film is divided by title cards naming the seasons: it begins in winter and moves through spring, summer and fall, then returns to winter for an epilogue set five years later. The structure is borrowed from Jacques Demy's *The Umbrellas of Cherbourg* (1964), which Chazelle has repeatedly called his favourite film and his biggest influence, and which is also divided into parts by date and ends with former lovers meeting by chance years later.
 
-The seasons do three jobs. They compress time, letting a year pass in two hours without explanation. They give each chapter a mood: winter is the frustrated loneliness of two people who keep passing each other; spring is the courtship; summer is the happy montage; fall is the rupture. And they make the shape of the love affair feel natural and inevitable, like weather. *Story vs. telling* would call the season cards a signal of duration: the gaps between them are where time goes missing.
+The seasons do three jobs. They compress time, letting a year pass in two hours without explanation. They give each chapter a mood: winter is the frustrated loneliness of two people who keep passing each other; spring is the courtship; summer is the happy montage; fall is the rupture. They also make the affair feel as natural and inevitable as weather. *Story vs. telling* would call the season cards a signal of duration: the gaps between them are where time goes missing.
 
 ### The "I want" songs
 
 *Stage forms* explains that in the integrated musical the hero sings an "I want" song early, stating the desire that drives the show. *La La Land* has two people with two wants, and it gives each a song.
 
-Mia's want comes in "Someone in the Crowd", early in winter, as her roommates drag her to a party: the hope of being discovered, of being seen among the many. Sebastian's comes more quietly, in "City of Stars", which he sings alone on a pier, then later as a duet at the piano with Mia. His want is also stated plainly in dialogue and through a running joke: he wants to own a club and keep "real" jazz alive, and he has a name and a sign in mind.
+Mia's want comes in "Someone in the Crowd", early in winter, as her roommates drag her to a party: the hope of being discovered, of being seen among the many. Sebastian's comes more quietly, in "City of Stars", which he sings alone on a pier, then later as a duet at the piano with Mia. In dialogue he states it plainly: he wants to own a club and keep "real" jazz alive.
 
 The film's cleverness is that it states the wants as songs and then tests them with plot. Sebastian joins a commercially successful band led by an old acquaintance, Keith (John Legend), for steady money; the band's slick song, "Start a Fire", is the first number in the film that the hero performs without believing it. *Want, need and wound* is the lens: his want for security has taken over his want for the club. Late in the film, Mia's "Audition (The Fools Who Dream)" restates her want as a credo. Asked at an audition simply to tell a story, she sings about her aunt, who once jumped into a river in Paris, and about the foolish dreamers who keep trying. Sandgren holds it largely in a single slow push-in on her face, the musical's want song reborn as its climax.
 
@@ -52,16 +52,16 @@ The seasons give the structure; Regis's romance elements show where the film dep
 | Spring | The party; "A Lovely Night"; jazz club; the observatory | Attraction; declaration | About a fifth to two-fifths |
 | Summer | Montage of happiness; "City of Stars"; Sebastian joins Keith | The barrier forms | About two-fifths to three-fifths |
 | Fall | Touring; the dinner fight; the empty show; Mia goes home | Ritual death | About three-fifths to four-fifths |
-| Winter | The audition; the bench | Recognition, without union | About four-fifths |
-| Five years later | The club; the alternate-life montage; the look | (No betrothal) | The last ten minutes or so |
+| Fall, continued | The audition; the bench above the city | Recognition, without union | About four-fifths to nine-tenths |
+| Winter, five years later | The club; the alternate-life montage; the look | (No betrothal) | The last ten minutes or so |
 
 ## What people said
 
-**Damien Chazelle** has spoken in many interviews about Jacques Demy and classic Hollywood musicals as his models, and about wanting a musical that keeps the old form's colour and song but lets reality intrude: the dancers are actors, the voices aren't polished. **Tom Cross**, who also edited *Whiplash*, has said in craft interviews that much of the film was planned meticulously in advance, around the music.
+**Damien Chazelle** has spoken in many interviews about Jacques Demy and classic Hollywood musicals as his models, and about wanting a musical that keeps the old form's colour and song but lets the disappointments of real life intrude. **Tom Cross**, who also edited *Whiplash*, has said in craft interviews that much of the film was planned meticulously in advance, around the music.
 
 The film opened the Venice Film Festival in 2016, where Emma Stone won the prize for best actress. It received fourteen Academy Award nominations, tying the record, and won six, including Best Director (Chazelle was the youngest winner), Best Actress, Best Cinematography, Best Production Design, Best Original Score and Best Original Song for "City of Stars". At the ceremony it was mistakenly announced as Best Picture before the error was corrected and the award went to *Moonlight*.
 
-**The critics** divided. **Peter Travers**, in *Rolling Stone* (2016), praised it for jolting the movie musical to life for a new century. **Richard Brody**, in *The New Yorker* (2016), was among the most hostile: he found its charm coercive and its nostalgia empty, a criticism continuing his complaint about *Whiplash*'s view of jazz. Others asked why a film that celebrates jazz, a predominantly Black art form, makes a white musician its defender and casts John Legend as the man who leads him toward commercial pop. Some musical-theatre fans also found the singing and dancing modest by the standards of the classics it invokes, though Chazelle has said that was partly the point.
+**The critics** divided. **Peter Travers**, in *Rolling Stone* (2016), praised it for jolting the movie musical to life for a new century. **Richard Brody**, in *The New Yorker* (2016), was among the most hostile: he wrote that Chazelle had slathered the film in a coercive kind of charm, a criticism that continued his complaint about *Whiplash*'s view of jazz. Others asked why a film that celebrates jazz, a predominantly Black art form, makes a white musician its defender and casts John Legend as the man who leads him toward commercial pop.
 
 ## Watch for
 
@@ -71,7 +71,7 @@ The film opened the Venice Film Festival in 2016, where Emma Stone won the prize
 - **"A Lovely Night"** (about a quarter in): a love duet in which both singers deny they're in love.
 - **The planetarium** (about two-fifths in): the moment the film leaves gravity behind.
 - **"Start a Fire"** (around halfway): Mia's face in the concert crowd while Sebastian plays.
-- **The dinner fight** (about two-thirds in): no music at all. Notice the record skipping.
+- **The dinner fight** (about two-thirds in): the film's least musical scene, two people at a table, with the silences left in.
 - **The epilogue montage** (last ten minutes): what changes in each "corrected" moment, and the look at the door.
 
 ## Try it

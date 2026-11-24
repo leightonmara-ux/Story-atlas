@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writing team wants to work the way Trier and Vogt describe. Where should they start?",
+      "choices": [
+        "With a beat sheet, then cast characters to fit each beat",
+        "With a logline tested on an audience before any characters exist",
+        "With long conversations about life and the characters, arriving at plot late",
+        "With the ending, then work backwards to the inciting incident"
+      ],
+      "answer": 2,
+      "explain": "They have said they talk for a long time, often about life rather than scenes, and let material and characters come before plot."
+    },
+    {
+      "q": "A writer's voice-over says, over a shot of a man crying, 'He was very sad.' What would Trier say is wrong with it?",
+      "choices": [
+        "It only repeats what the image shows; narration should contrast with the picture or add what it can't show",
+        "Voice-over must always be spoken by the protagonist in the first person",
+        "Narration belongs only in the opening and closing minutes",
+        "It's fine, as long as the actor recording it is well known"
+      ],
+      "answer": 0,
+      "explain": "Trier told Seventh Row (2016) that voice-over is a cop-out when it tells us what the film isn't showing, and earns its place when it contrasts with the image."
+    },
+    {
+      "q": "Oslo, August 31st opens with old footage of the city under anonymous voices, each beginning 'I remember'. What does this opening do?",
+      "choices": [
+        "It sets up a mystery about which of the voices is the killer",
+        "It frames the film as memory and makes the city a presence Anders will walk through",
+        "It provides a cold open with the story's inciting incident",
+        "It replaces the need for any further voice-over"
+      ],
+      "answer": 1,
+      "explain": "The voices make Oslo a place of memories before we meet Anders, who spends one day walking through his own past in the city."
+    },
+    {
+      "q": "In The Worst Person in the World, Julie flicks a light switch and all of Oslo freezes while she runs to meet another man. In the terms of Story vs. telling, what is this?",
+      "choices": [
+        "An ellipsis: time skipped between chapters",
+        "A flashback revealing her childhood wound",
+        "A pause made literal: the world stops while the telling continues, showing her wish to delay consequences",
+        "A false ending before the real climax"
+      ],
+      "answer": 2,
+      "explain": "Narrative pause usually means the story stops while description continues; here the pause becomes visible and expresses what Julie wants."
+    },
+    {
+      "q": "Why does a film like The Worst Person in the World use titled chapters?",
+      "choices": [
+        "To mark the five acts that Freytag's pyramid requires",
+        "Because each chapter is written by a different writer",
+        "To signal commercial breaks for television broadcast",
+        "To make jumps in time honest and give the film a wry, novelistic voice"
+      ],
+      "answer": 3,
+      "explain": "The prologue, twelve chapters and epilogue let time leap between sections, and the titles comment on Julie with gentle irony."
+    },
+    {
+      "q": "Sentimental Value introduces Nora on an opening night when stage fright makes her try to flee. What principle is at work?",
+      "choices": [
+        "Introduce a character on an extreme day, when they're least in control, to show at once what the story is about",
+        "Save the cat: make the hero likeable through a kind act",
+        "Delay the protagonist's entrance until the second act",
+        "Open with the climax and then flash back"
+      ],
+      "answer": 0,
+      "explain": "On Scriptnotes (2026), Trier said he prefers introducing characters on an extreme day rather than an ordinary one."
+    },
+    {
+      "q": "Trier said Sentimental Value became 'polyphonic' while he and Vogt were writing. What changed?",
+      "choices": [
+        "They added a chorus that sings between scenes",
+        "They realized the daughter's story also needed the father's point of view",
+        "They cut the film into twelve chapters",
+        "They replaced the dialogue with voice-over"
+      ],
+      "answer": 1,
+      "explain": "He told John August it began as the daughter's story and grew into a film with several centres of feeling, including the father's."
+    }
+  ],
+  "ideas": [
+    "Cinema is the art form of memory: open with voices remembering a place before the story begins.",
+    "Voice-over earns its place only when it contrasts with the image instead of explaining it.",
+    "Introduce a character on their most extreme day, not an ordinary one.",
+    "Let a city stop dead so a heroine can avoid a choice for one stolen day."
+  ]
+}

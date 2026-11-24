@@ -1,5 +1,23 @@
 [
   {
+    "id": "about-time",
+    "title": "About Time",
+    "year": 2013,
+    "medium": "Film",
+    "by": "Richard Curtis (writer-director); Domhnall Gleeson, Rachel McAdams, Bill Nighy",
+    "summary": "A romantic comedy that uses a deliberately simple time-travel rule to turn, halfway through, into a family drama about a dying father and the value of living an ordinary day.",
+    "lessons": [
+      "harmon",
+      "want-need-wound",
+      "snyder",
+      "tragedy-comedy",
+      "genre-promise",
+      "comedy",
+      "cast-system",
+      "editing"
+    ]
+  },
+  {
     "id": "autumn-sonata",
     "title": "Autumn Sonata",
     "year": 1978,
@@ -84,6 +102,42 @@
       "le-guin",
       "campbell-vogler",
       "kishotenketsu"
+    ]
+  },
+  {
+    "id": "uptown-girls",
+    "title": "Uptown Girls",
+    "year": 2003,
+    "medium": "Film",
+    "by": "Boaz Yakin (director); Brittany Murphy, Dakota Fanning, Heather Locklear",
+    "summary": "A critically panned but much-loved odd-couple film in which a childlike heiress and an adult-like eight-year-old swap what each lacks, built on Snyder's Buddy Love and a teacup ride that pays off a plant.",
+    "lessons": [
+      "snyder",
+      "comedy",
+      "cast-system",
+      "want-need-wound",
+      "making-us-care",
+      "save-the-cat-practice",
+      "music-silence",
+      "mise-en-scene"
+    ]
+  },
+  {
+    "id": "world-war-z",
+    "title": "World War Z",
+    "year": 2013,
+    "medium": "Film",
+    "by": "Marc Forster (director); screenplay by Matthew Michael Carnahan, Drew Goddard and Damon Lindelof, from the novel by Max Brooks; Brad Pitt, Mireille Enos",
+    "summary": "A zombie epic rebuilt as a globe-trotting investigation, whose scrapped battle finale was replaced by a near-silent climax in a lab corridor: a lesson in sequences, scale versus intimacy, and adapting an oral history into a single hero's quest.",
+    "lessons": [
+      "sequence",
+      "quest-picaresque",
+      "journalism-forms",
+      "genre-promise",
+      "making-us-care",
+      "music-silence",
+      "three-media",
+      "snyder"
     ]
   },
   {
