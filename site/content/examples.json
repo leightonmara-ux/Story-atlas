@@ -72,6 +72,24 @@
     ]
   },
   {
+    "id": "braveheart",
+    "title": "Braveheart",
+    "year": 1995,
+    "medium": "Film",
+    "by": "Mel Gibson (director); Randall Wallace (screenplay); James Horner (score); Mel Gibson, Sophie Marceau, Patrick McGoohan, Catherine McCormack, Angus Macfadyen",
+    "summary": "A historical epic that turns a man's private grief into a national cause, then hands its ending to the character who changes, Robert the Bruce, and shows how far a film can bend history for myth.",
+    "lessons": [
+      "want-need-wound",
+      "cast-system",
+      "campbell-vogler",
+      "dialogue",
+      "editing",
+      "music-silence",
+      "introductions",
+      "making-us-care"
+    ]
+  },
+  {
     "id": "feel-good",
     "title": "Feel Good",
     "year": 2020,
@@ -123,6 +141,23 @@
       "allegiance",
       "tragedy-comedy",
       "freytag"
+    ]
+  },
+  {
+    "id": "gladiator",
+    "title": "Gladiator",
+    "year": 2000,
+    "medium": "Film",
+    "by": "Ridley Scott (director); David Franzoni, John Logan, William Nicholson (screenplay); Hans Zimmer and Lisa Gerrard (score); Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+    "summary": "A fall-and-rise epic whose hero wants only to go home, with an antagonist built as his dark twin and a wheat-field image that turns revenge into a story about reaching home at last.",
+    "lessons": [
+      "want-need-wound",
+      "cast-system",
+      "vonnegut-shapes",
+      "music-silence",
+      "campbell-vogler",
+      "side-characters",
+      "allegiance"
     ]
   },
   {
@@ -193,6 +228,24 @@
       "mckee",
       "le-guin",
       "kishotenketsu"
+    ]
+  },
+  {
+    "id": "last-of-the-mohicans",
+    "title": "The Last of the Mohicans",
+    "year": 1992,
+    "medium": "Film",
+    "by": "Michael Mann (director; screenplay with Christopher Crowe); Trevor Jones and Randy Edelman (score); Daniel Day-Lewis, Madeleine Stowe, Wes Studi, Russell Means, Eric Schweig, Jodhi May",
+    "summary": "A war film with a full romance inside it, whose hero is introduced in pure action and whose near-wordless final sequence is cut to music, and a clear case study in how an adaptation reshapes its source.",
+    "lessons": [
+      "music-silence",
+      "genre-promise",
+      "cast-system",
+      "introductions",
+      "dialogue",
+      "three-media",
+      "booker",
+      "want-need-wound"
     ]
   },
   {
