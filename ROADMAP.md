@@ -16,6 +16,8 @@
 - Lenses & Critiques track (10 lessons): Sontag, Benjamin, Barthes, White & Didion, endings, point of view,
   who gets to be the subject, comedy, documentary, the science of story.
 - Every lesson has a boxed "Try it" exercise with Stage, Screen and Journalism versions.
+- Character track (6 lessons) and Tools of the Trade track (9 lessons: sound, music, allegiance, Kuleshov,
+  editing, camera, mise-en-scène, mood on stage, mood in journalism), plus the "What's this doing?" game.
 - Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 
 ## Phase 3: Deepen
@@ -31,6 +33,8 @@
 - Natyashastra: where its stages sit on the arc in Compare.
 - Glossary origins marked uncertain: dramatic irony (Thirlwall, 1833), "indirect action" (Magarshack, 1952),
   "given circumstances" via Pushkin, the 5 Ws, "lede", "in late, out early", "inciting incident" before McKee.
+- Character/Tools details recalled rather than checked: Pinter's "two silences" talk (date), Altman's radio mics
+  (California Split vs. Nashville), Smith's later essay on perverse allegiance, Hauge's "reflection" character.
 - Lenses quotes recalled rather than checked: Bakhtin on polyphony, Adichie on stereotypes, Thomas King's
   "that's all we are", Benjamin's "half the art of storytelling" (Zohn translation), Kermode's tick-tock.
 

@@ -89,12 +89,48 @@
       "title": "Character",
       "blurb": "How to make us care, remember and take sides: from the hero to the smallest part.",
       "lessons": [
-        { "id": "making-us-care", "title": "Making us care", "subtitle": "Save the cat, Michael Hauge and the sympathy toolkit" },
-        { "id": "side-characters", "title": "Memorable side characters", "subtitle": "Tags, flat characters and the one vivid trait" },
-        { "id": "introductions", "title": "Introducing a character", "subtitle": "First impressions on page, stage and screen" },
-        { "id": "want-need-wound", "title": "Want, need and wound", "subtitle": "Egri's three dimensions and Truby's weakness" },
-        { "id": "cast-system", "title": "The cast as a system", "subtitle": "Foils, opponents and Truby's web" },
-        { "id": "dialogue", "title": "Dialogue reveals character", "subtitle": "Subtext, voice and what people won't say" }
+        {
+          "id": "making-us-care",
+          "title": "Making us care",
+          "subtitle": "Save the cat, Michael Hauge and the sympathy toolkit",
+          "summary": "Caring isn't liking: audiences invest in characters through undeserved misfortune, jeopardy, likability, humor and skill, and above all by watching them want something and try for it.",
+          "ready": true
+        },
+        {
+          "id": "side-characters",
+          "title": "Memorable side characters",
+          "subtitle": "Tags, flat characters and the one vivid trait",
+          "summary": "Minor characters stick when they get one specific tag that reveals who they are, plus a want of their own; flat is a tool, but a type with no want becomes a token.",
+          "ready": true
+        },
+        {
+          "id": "introductions",
+          "title": "Introducing a character",
+          "subtitle": "First impressions on page, stage and screen",
+          "summary": "A character's first action is a thesis: introduce people doing something only they would do, or let others talk about them first so the entrance answers a question.",
+          "ready": true
+        },
+        {
+          "id": "want-need-wound",
+          "title": "Want, need and wound",
+          "subtitle": "Egri's three dimensions and Truby's weakness",
+          "summary": "A character chases a conscious want while lacking an inner need, and the climax often forces a choice between them; the wound or backstory that explains the need is useful, but critics warn it can reduce people to symptoms.",
+          "ready": true
+        },
+        {
+          "id": "cast-system",
+          "title": "The cast as a system",
+          "subtitle": "Foils, opponents and Truby's web",
+          "summary": "Characters are defined against each other: foils, opponents, mentors, confidants and ensembles make each other's meaning, and a hero is only as strong as the opposition.",
+          "ready": true
+        },
+        {
+          "id": "dialogue",
+          "title": "Dialogue reveals character",
+          "subtitle": "Subtext, voice and what people won't say",
+          "summary": "Dialogue is action, not information: every line does something to someone, the real scene lies in what goes unsaid, and in journalism the quotes you choose and how you handle them are an ethical act.",
+          "ready": true
+        }
       ]
     },
     {
@@ -333,15 +369,69 @@
       "title": "Tools of the Trade",
       "blurb": "How sound, image, cutting and light shape mood and decide whose side we're on. Mostly film, with stage and journalism equivalents.",
       "lessons": [
-        { "id": "film-sound", "title": "Sound inside and outside the story", "subtitle": "Diegetic sound, sound bridges and Michel Chion" },
-        { "id": "music-silence", "title": "Music and silence", "subtitle": "Empathetic, anempathetic, and the power of quiet" },
-        { "id": "allegiance", "title": "Whose side are we on?", "subtitle": "Murray Smith's structure of sympathy" },
-        { "id": "kuleshov", "title": "The face and the cut", "subtitle": "The Kuleshov effect, close-ups and reaction shots" },
-        { "id": "editing", "title": "Editing", "subtitle": "Cross-cutting, montage and Walter Murch" },
-        { "id": "camera", "title": "The camera's eye", "subtitle": "Point of view, shot size and movement" },
-        { "id": "mise-en-scene", "title": "Light, colour and setting", "subtitle": "Mise-en-scène and tone" },
-        { "id": "stage-tools", "title": "Mood on stage", "subtitle": "Light, sound and focus without a camera" },
-        { "id": "journalism-tools", "title": "Mood in journalism and audio", "subtitle": "Detail, nat sound and the photo" }
+        {
+          "id": "film-sound",
+          "title": "Sound inside and outside the story",
+          "subtitle": "Diegetic sound, sound bridges and Michel Chion",
+          "summary": "Whether a sound belongs to the characters' world or only to the audience changes what it means, and moving sound across that line, or across a cut, is one of film's strongest tools.",
+          "ready": true
+        },
+        {
+          "id": "music-silence",
+          "title": "Music and silence",
+          "subtitle": "Empathetic, anempathetic, and the power of quiet",
+          "summary": "Music can feel with a scene or coldly ignore it, and knowing when to withhold it entirely is just as powerful.",
+          "ready": true
+        },
+        {
+          "id": "allegiance",
+          "title": "Whose side are we on?",
+          "subtitle": "Murray Smith's structure of sympathy",
+          "summary": "Murray Smith splits 'identification' into recognition, alignment and allegiance, which explains how stories make us follow, understand and even side with people we shouldn't.",
+          "ready": true
+        },
+        {
+          "id": "kuleshov",
+          "title": "The face and the cut",
+          "subtitle": "The Kuleshov effect, close-ups and reaction shots",
+          "summary": "A shot takes its meaning from the shots around it, so the audience reads a face through what it's cut against, which is why the reaction often matters more than the line.",
+          "ready": true
+        },
+        {
+          "id": "editing",
+          "title": "Editing",
+          "subtitle": "Cross-cutting, montage and Walter Murch",
+          "summary": "Cuts can hide themselves to keep us oriented, collide to make new ideas, or cross-cut, match and jump to shape time, and Walter Murch ranks emotion above everything else when deciding where to cut.",
+          "ready": true
+        },
+        {
+          "id": "camera",
+          "title": "The camera's eye",
+          "subtitle": "Point of view, shot size and movement",
+          "summary": "Shot size, angle, movement and focus decide how close we stand to a character, whose eyes we share and what we notice, and a writer can imply them on the page.",
+          "ready": true
+        },
+        {
+          "id": "mise-en-scene",
+          "title": "Light, colour and setting",
+          "subtitle": "Mise-en-scène and tone",
+          "summary": "Before anyone speaks, light, colour, setting, costume and where people stand tell the audience how to feel, so writers can plant those choices in the first image and pay them off.",
+          "ready": true
+        },
+        {
+          "id": "stage-tools",
+          "title": "Mood on stage",
+          "subtitle": "Light, sound and focus without a camera",
+          "summary": "Without a camera, theatre directs focus and sets mood with light, sound, blocking and space, and a playwright can write the few cues that carry the story.",
+          "ready": true
+        },
+        {
+          "id": "journalism-tools",
+          "title": "Mood in journalism and audio",
+          "subtitle": "Detail, nat sound and the photo",
+          "summary": "Journalists set mood with the telling detail, the scene-setting lede, pace, quote placement, natural sound, the pause and the caption, but only with what was really there.",
+          "ready": true
+        }
       ]
     },
     {

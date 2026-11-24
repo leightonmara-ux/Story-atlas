@@ -709,5 +709,44 @@
       ]
     ],
     "steps": false
+  },
+  "editing": {
+    "caption": "Murch's rule of six: the criteria for a cut, weighted by importance. If something must give, sacrifice from the bottom.",
+    "points": [
+      [
+        0,
+        0.92,
+        "Emotion 51%"
+      ],
+      [
+        0.2,
+        0.42,
+        "Story 23%",
+        "below"
+      ],
+      [
+        0.4,
+        0.2,
+        "Rhythm 10%"
+      ],
+      [
+        0.6,
+        0.14,
+        "Eye-trace 7%",
+        "below"
+      ],
+      [
+        0.8,
+        0.1,
+        "2D plane 5%"
+      ],
+      [
+        1,
+        0.08,
+        "3D space 4%",
+        "below"
+      ]
+    ],
+    "steps": true
   }
 }

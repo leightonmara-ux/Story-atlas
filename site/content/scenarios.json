@@ -1,1 +1,530 @@
-[]
+[
+  {
+    "q": "In Blazing Saddles, big-band jazz accompanies the sheriff riding across the desert, until he rides past Count Basie's orchestra playing in the open. What is the technique, and what does it do?",
+    "choices": [
+      "A sound bridge, linking two scenes",
+      "Anempathetic music, making the ride sinister",
+      "Score revealed as diegetic, a joke on film convention",
+      "Point-of-view sound, putting us in his ears"
+    ],
+    "answer": 2,
+    "explain": "Music we took for non-diegetic score turns out to be in the story world, and the film laughs at its own convention.",
+    "lesson": "film-sound"
+  },
+  {
+    "q": "In Hitchcock's The 39 Steps, a cleaning woman finds a body and opens her mouth to scream; the scream becomes a train whistle as we cut to the hero on a train. What is the technique, and what does it do?",
+    "choices": [
+      "Room tone, smoothing the cut",
+      "A sound bridge, binding discovery and escape into one movement",
+      "Mickey-Mousing, matching the action",
+      "An acousmêtre, hiding the killer"
+    ],
+    "answer": 1,
+    "explain": "Sound carried across the cut links the two scenes and makes the transition feel inevitable.",
+    "lesson": "film-sound"
+  },
+  {
+    "q": "Apocalypse Now opens with the thud of helicopter blades, which turns into the ceiling fan above Willard's hotel bed in Saigon. What is the technique, and what does it do?",
+    "choices": [
+      "A sound bridge into subjective sound: the war is in his head",
+      "Non-diegetic score setting the period",
+      "A needle drop establishing the era",
+      "Room tone covering an edit"
+    ],
+    "answer": 0,
+    "explain": "The sound shifts from the remembered war to the room, telling us how he experiences the present.",
+    "lesson": "film-sound"
+  },
+  {
+    "q": "In The Godfather, as Michael sits in the restaurant deciding whether to shoot, the screech of a passing elevated train grows deafening. What is the technique, and what does it do?",
+    "choices": [
+      "Non-diegetic score telling us to feel afraid",
+      "A J-cut into the next scene",
+      "Anempathetic music",
+      "Diegetic sound heightened into point-of-view sound, letting us feel his pressure"
+    ],
+    "answer": 3,
+    "explain": "The train is in the world, but its volume follows Michael's state of mind.",
+    "lesson": "film-sound"
+  },
+  {
+    "q": "A thriller cuts from a family dinner to a dark road; the dinner conversation carries on over the first shots of a car approaching the house. What is the technique, and what does it do?",
+    "choices": [
+      "An L-cut, making the danger loom over the family's ordinary talk",
+      "A J-cut, introducing the road scene's sound early",
+      "Synchresis, welding the car to the voices",
+      "Transdiegetic music"
+    ],
+    "answer": 0,
+    "explain": "The outgoing scene's sound continues over the new picture, connecting the threat to the people it threatens.",
+    "lesson": "film-sound"
+  },
+  {
+    "q": "In Reservoir Dogs, Mr. Blonde dances to Stealers Wheel's \"Stuck in the Middle with You\" on the radio while torturing a policeman; the camera drifts away during the cutting. What is the technique, and what does it do?",
+    "choices": [
+      "Empathetic music, telling us to feel afraid",
+      "Mickey-Mousing, matching his dance",
+      "Anempathetic music, whose indifference makes the cruelty more disturbing",
+      "A leitmotif identifying the villain"
+    ],
+    "answer": 2,
+    "explain": "The cheerful song carries on regardless, and with the image withheld, our imagination does the rest.",
+    "lesson": "music-silence"
+  },
+  {
+    "q": "Dr. Strangelove ends with a montage of nuclear explosions set to Vera Lynn singing \"We'll Meet Again\". What is the technique, and what does it do?",
+    "choices": [
+      "A leitmotif returning for the hero",
+      "Ironic, anempathetic use of a needle drop, turning the apocalypse into bitter satire",
+      "Mickey-Mousing each explosion",
+      "Point-of-view sound from a survivor"
+    ],
+    "answer": 1,
+    "explain": "A tender wartime song set against destruction makes the horror sharper and the satire unmistakable.",
+    "lesson": "music-silence"
+  },
+  {
+    "q": "In Jaws, a low two-note figure plays while we see only water, and for much of the film we hardly see the shark at all. What is the technique, and what does it do?",
+    "choices": [
+      "Room tone building realism",
+      "A sound bridge to the next scene",
+      "Diegetic music the swimmers hear",
+      "A leitmotif that stands in for the unseen threat"
+    ],
+    "answer": 3,
+    "explain": "The music becomes the shark, so the audience feels danger before anything appears.",
+    "lesson": "music-silence"
+  },
+  {
+    "q": "In No Country for Old Men, a man hides in a hotel room at night; there's no score, only footsteps in the corridor and the beep of a tracking device. What is the technique, and what does it do?",
+    "choices": [
+      "Withholding music, so small diegetic sounds carry all the suspense",
+      "Empathetic score telling us he's in danger",
+      "Mickey-Mousing the footsteps",
+      "A needle drop setting the period"
+    ],
+    "answer": 0,
+    "explain": "With no score to guide us, we listen as hard as the character does.",
+    "lesson": "music-silence"
+  },
+  {
+    "q": "A courtroom drama's verdict is read. The swelling score that has accompanied every scene cuts out completely just before the word \"guilty\". What is the technique, and what does it do?",
+    "choices": [
+      "An L-cut extending the previous scene",
+      "A sound drop-out, making the audience lean in at the decisive moment",
+      "Anempathetic music",
+      "A leitmotif for the judge"
+    ],
+    "answer": 1,
+    "explain": "Silence against an expected bed of music makes the moment land harder.",
+    "lesson": "music-silence"
+  },
+  {
+    "q": "Breaking Bad begins with Walter White as an underpaid teacher with cancer, then has him do something a little worse each season. What is the technique, and what does it do?",
+    "choices": [
+      "A save-the-cat moment that guarantees allegiance",
+      "Recognition, making him a continuous person",
+      "A gradual slide that holds alignment while testing allegiance",
+      "Anempathetic scoring"
+    ],
+    "answer": 2,
+    "explain": "We stay attached to Walt as our moral verdict is tested step by step, which implicates the viewer.",
+    "lesson": "allegiance"
+  },
+  {
+    "q": "In Psycho, after the murder, we watch Norman clean up and push Marion's car into a swamp; it stops sinking halfway and he freezes. What is the technique, and what does it do?",
+    "choices": [
+      "Alignment plus suspense, briefly making us want the killer to get away with it",
+      "Recognition, introducing a new character",
+      "Subjective sound from Marion",
+      "A save-the-cat moment for Norman"
+    ],
+    "answer": 0,
+    "explain": "Following him through a moment of danger produces a flicker of allegiance we'd rather not admit.",
+    "lesson": "allegiance"
+  },
+  {
+    "q": "Richard III opens his play alone onstage, telling the audience exactly how he plans to deceive everyone around him. What is the technique, and what does it do?",
+    "choices": [
+      "A fourth-wall break that lowers recognition",
+      "Subjective access through soliloquy, aligning us with him and making us complicit",
+      "A save-the-cat moment",
+      "Anempathetic music"
+    ],
+    "answer": 1,
+    "explain": "We know his mind better than any character onstage, so we're aligned with him even as we judge him.",
+    "lesson": "allegiance"
+  },
+  {
+    "q": "The Godfather's Corleones are criminals, but the enemies who shoot Vito and break Michael's jaw are a drug dealer and a corrupt police captain. What is the technique, and what does it do?",
+    "choices": [
+      "A sound bridge between families",
+      "Low recognition, making the gangsters hard to tell apart",
+      "Mickey-Mousing the violence",
+      "Surrounding the protagonists with worse people, tilting our allegiance toward them"
+    ],
+    "answer": 3,
+    "explain": "When the world around a criminal is worse, we side with him by comparison.",
+    "lesson": "allegiance"
+  },
+  {
+    "q": "A newspaper feature on a fatal car crash follows the driver who caused it, hour by hour, and reports her thoughts, rather than the victim's family. What is the technique, and what does it do?",
+    "choices": [
+      "Inverted pyramid, putting the key facts first",
+      "Recognition only, with no effect on sympathy",
+      "Aligning readers with the driver, which can shift their allegiance and raises ethical questions",
+      "Anempathetic tone, keeping readers detached"
+    ],
+    "answer": 2,
+    "explain": "Whose movements and thoughts a story follows strongly shapes whom readers side with.",
+    "lesson": "allegiance"
+  },
+  {
+    "q": "In Hitchcock's Rear Window, James Stewart's character looks out of his window, we see a neighbour across the courtyard, and we cut back to his face. What's the technique, and what does it do?",
+    "choices": [
+      "Deep focus: it keeps both apartments sharp",
+      "Look, object, reaction (the Kuleshov effect): his small expression takes its meaning from what we've just seen",
+      "A jump cut: it compresses time",
+      "A Dutch angle: it signals his paranoia"
+    ],
+    "answer": 1,
+    "explain": "Hitchcock built the film from these three-shot units; the audience assembles the story in their heads.",
+    "lesson": "kuleshov"
+  },
+  {
+    "q": "In Jaws, during a shark attack on a crowded beach, the camera stays on Chief Brody's face as the background seems to rush toward him. What's the key choice, and what does it do?",
+    "choices": [
+      "A reaction shot with a dolly zoom: we feel the horror through the man responsible for the beach",
+      "A point-of-view shot: we become the shark",
+      "Cross-cutting: it compares two events",
+      "A montage sequence: it compresses the day"
+    ],
+    "answer": 0,
+    "explain": "We barely see the shark; the meaning lands on the face of the man who should have closed the beach.",
+    "lesson": "kuleshov"
+  },
+  {
+    "q": "A hypothetical TV interview: after the subject has left, the crew films the reporter nodding gravely, then cuts those shots in between the subject's answers. What's happening, and why is it risky?",
+    "choices": [
+      "Deep focus, which flattens the interview",
+      "A match cut that links reporter and subject",
+      "Reaction shots ('noddies') that can change how an answer seems to land",
+      "A long take that shows the full exchange honestly"
+    ],
+    "answer": 2,
+    "explain": "The Kuleshov effect works in news: a cut-in reaction can imply a response that never happened.",
+    "lesson": "kuleshov"
+  },
+  {
+    "q": "Carl Theodor Dreyer's The Passion of Joan of Arc tells Joan's trial largely in close-ups of her face and her judges' faces. What's the technique, and what does it do?",
+    "choices": [
+      "Wide shots that set Joan in her world",
+      "Jump cuts that show her restlessness",
+      "Cross-cutting between two time periods",
+      "Close-ups cut against each other, so each face is read through the faces around it"
+    ],
+    "answer": 3,
+    "explain": "A face in close-up can carry a whole trial, and its meaning shifts with whatever comes next.",
+    "lesson": "kuleshov"
+  },
+  {
+    "q": "Near the end of The Godfather, Michael renounces Satan at a christening while the film repeatedly cuts to his rivals being murdered on his orders. What's the technique, and what does it do?",
+    "choices": [
+      "A montage sequence that compresses time",
+      "Cross-cutting that sets the ceremony against the killings, for irony",
+      "Jump cuts that show his restlessness",
+      "The 180-degree rule keeping the church coherent"
+    ],
+    "answer": 1,
+    "explain": "Alternating two simultaneous lines of action lets each comment on the other.",
+    "lesson": "editing"
+  },
+  {
+    "q": "At the end of the prehistoric opening of 2001: A Space Odyssey, an ape-man throws a bone into the air, and the film cuts to a spacecraft in orbit. What's the technique, and what does it do?",
+    "choices": [
+      "A jump cut that shows time skipping within one scene",
+      "A reaction shot that shows the ape's wonder",
+      "A match cut that links tool and technology across millions of years",
+      "An eyeline match that shows what the ape sees"
+    ],
+    "answer": 2,
+    "explain": "The shared shape and movement join the shots, so the cut itself makes the connection.",
+    "lesson": "editing"
+  },
+  {
+    "q": "In Breathless, as Michel drives and talks, the shots of Patricia in the passenger seat keep jumping forward while the street behind her changes. What's the technique, and what does it do?",
+    "choices": [
+      "Jump cuts that make the time visibly skip, giving a restless, modern feel",
+      "Cross-cutting between two cars",
+      "Continuity editing that hides the cuts",
+      "A long take that preserves real time"
+    ],
+    "answer": 0,
+    "explain": "Removing pieces of a continuous shot makes the cut visible instead of invisible.",
+    "lesson": "editing"
+  },
+  {
+    "q": "In The Silence of the Lambs, the film cuts between an FBI team surrounding a house and a doorbell ringing inside the killer's house. What's the technique, and what does it do?",
+    "choices": [
+      "A montage sequence that summarizes the investigation",
+      "A match cut on the doorbell",
+      "A point-of-view shot from the killer",
+      "Cross-cutting that leads us to assume the two places are the same, then reveals Clarice is alone"
+    ],
+    "answer": 3,
+    "explain": "Cross-cutting usually implies convergence; here that assumption is used for misdirection.",
+    "lesson": "editing"
+  },
+  {
+    "q": "A hypothetical drama: two characters argue at a table, and at the moment one reveals a betrayal, the camera crosses the line so they seem to swap sides. What's the technique, and what does it do?",
+    "choices": [
+      "Breaking the 180-degree rule deliberately, to disorient us at the moment their relationship flips",
+      "A match cut joining two arguments",
+      "Deep focus to show both faces",
+      "An eyeline match to link them"
+    ],
+    "answer": 0,
+    "explain": "The rule keeps us oriented, so breaking it at a turning point makes the turn felt.",
+    "lesson": "editing"
+  },
+  {
+    "q": "In Goodfellas, Henry takes Karen into the Copacabana through a back entrance, down corridors and through the kitchen to a table set at the front, all in one shot. What's the technique, and what does it do?",
+    "choices": [
+      "Cross-cutting that compares two nights",
+      "A long take that makes us feel his access, and her seduction, in real time",
+      "A montage sequence that compresses their courtship",
+      "A Dutch angle showing the world off balance"
+    ],
+    "answer": 1,
+    "explain": "The unbroken movement is the meaning: this is what it feels like to be let in.",
+    "lesson": "camera"
+  },
+  {
+    "q": "Early in Citizen Kane, Kane's mother signs papers in the foreground while, sharp through the window behind her, the boy plays in the snow. What's the technique, and what does it do?",
+    "choices": [
+      "Shallow focus that isolates the mother",
+      "A jump cut that compresses the scene",
+      "Deep focus that lets us connect the adults' decision with the unaware child without a cut",
+      "A point-of-view shot from the boy"
+    ],
+    "answer": 2,
+    "explain": "Keeping near and far sharp lets the composition make the connection.",
+    "lesson": "camera"
+  },
+  {
+    "q": "The opening of Halloween follows someone, in one continuous shot through the eyeholes of a mask, entering a house and killing a girl. What's the technique, and what does it do?",
+    "choices": [
+      "An establishing shot that orients us",
+      "Cross-cutting that builds suspense",
+      "A low angle that makes the killer powerful",
+      "Subjective camera that makes us see through the killer's eyes, delaying the reveal of who it is"
+    ],
+    "answer": 3,
+    "explain": "The camera becomes the character; the cut outside reveals a small boy.",
+    "lesson": "camera"
+  },
+  {
+    "q": "A hypothetical thriller shows its hero again and again from below, the ceiling looming, as his empire grows. What's the technique, and what does it do?",
+    "choices": [
+      "A low angle that makes him look powerful and monumental, and the ceilings press in",
+      "A high angle that makes him look vulnerable",
+      "Negative space that isolates him",
+      "A Dutch angle that shows him going mad"
+    ],
+    "answer": 0,
+    "explain": "Low angles tend to suggest power, as Citizen Kane uses them.",
+    "lesson": "camera"
+  },
+  {
+    "q": "In The Third Man, many shots of postwar Vienna are tilted so the horizon slopes. What's the technique, and what does it do?",
+    "choices": [
+      "A match cut joining past and present",
+      "A Dutch angle that makes the city and its morals feel off balance",
+      "Deep focus showing the whole city",
+      "An eyeline match to the hero's view"
+    ],
+    "answer": 1,
+    "explain": "Tilting the frame signals that something in this world is crooked.",
+    "lesson": "camera"
+  },
+  {
+    "q": "In The Third Man, a man stands hidden in a dark doorway until a light in a window across the street snaps on and reveals the smiling face of a man we thought was dead. What is the technique, and what does it do?",
+    "choices": [
+      "Pathetic fallacy: the night mirrors his mood",
+      "Low-key lighting: the shadow hides him, and a single light makes the reveal",
+      "A colour motif: it plants a meaning for later",
+      "Cross-cutting: it builds suspense between two places"
+    ],
+    "answer": 1,
+    "explain": "Low-key lighting keeps him in darkness; one light turns on and the reveal is done.",
+    "lesson": "mise-en-scene"
+  },
+  {
+    "q": "In Schindler's List, filmed almost entirely in black and white, a small girl in a red coat walks through the ghetto clearance, and the coat is glimpsed again later. What is the technique, and what does it do?",
+    "choices": [
+      "High-key lighting: it makes the scene safe",
+      "Chiaroscuro: it hides the girl",
+      "A colour motif: one colour singles out a person and carries meaning when it returns",
+      "Production design: the setting becomes a character"
+    ],
+    "answer": 2,
+    "explain": "A colour motif gives one colour a meaning that builds when it returns; here it turns a crowd into a person.",
+    "lesson": "mise-en-scene"
+  },
+  {
+    "q": "A thriller's quiet scenes are washed in soft, even light, but when the killer's house appears, one hard lamp throws deep shadows across every face. What is the technique, and what does it do?",
+    "choices": [
+      "A shift from high-key to low-key lighting, moving the mood from safety to danger",
+      "Blocking in depth, separating characters",
+      "The pathetic fallacy, matching weather to feeling",
+      "A palette change to mark a flashback"
+    ],
+    "answer": 0,
+    "explain": "High-key reads as open and safe; low-key, with strong contrast, reads as hidden and dangerous.",
+    "lesson": "mise-en-scene"
+  },
+  {
+    "q": "In Parasite, after a storm floods the poor family's semi-basement, the rich family hold a garden party the next day under a clear sky. What is the technique, and what does it do?",
+    "choices": [
+      "Costume: it shows status",
+      "Weather used against the simple pathetic fallacy: the same storm means ruin for one family and fresh air for the other",
+      "High-key lighting: it makes the party a comedy",
+      "Direct address: it speaks to the audience"
+    ],
+    "answer": 1,
+    "explain": "Instead of matching one mood, the weather exposes the gap between two classes.",
+    "lesson": "mise-en-scene"
+  },
+  {
+    "q": "At the end of The Godfather, Kay watches from an outer room as men pay homage to Michael in his office, and then the door is closed in her face. What is the technique, and what does it do?",
+    "choices": [
+      "Montage: it compresses time",
+      "A music cue: it tells us how to feel",
+      "A colour motif: it pays off a setup",
+      "Blocking and framing: who is inside and who is shut out shows what the marriage has become"
+    ],
+    "answer": 3,
+    "explain": "Staging alone, with no line of dialogue, shows Kay excluded from Michael's world.",
+    "lesson": "mise-en-scene"
+  },
+  {
+    "q": "In A Streetcar Named Desire, Blanche covers the bare bulb with a paper lantern; late in the play Mitch tears it off and holds her face to the light. What is the technique, and what does it do?",
+    "choices": [
+      "A blackout: it ends the scene on a punch",
+      "Brechtian visible lighting: it reminds us we're in a theatre",
+      "Light as story: a lighting change becomes the scene's cruelest action, exposing her",
+      "A music cue: it signals rising feeling"
+    ],
+    "answer": 2,
+    "explain": "The light is something characters control; tearing off the lantern is an act of exposure.",
+    "lesson": "stage-tools"
+  },
+  {
+    "q": "Near the end of The Cherry Orchard, as the house is locked up, the distant sound of a breaking string heard earlier returns, followed by the strokes of an axe. What is the technique, and what does it do?",
+    "choices": [
+      "A recurring sound cue: it carries the play's loss without a word",
+      "Direct address: it speaks to the audience",
+      "A blackout: it hides a scene change",
+      "Upstaging: it steals focus"
+    ],
+    "answer": 0,
+    "explain": "One sound, planted and returned, holds the play's sense of an ending.",
+    "lesson": "stage-tools"
+  },
+  {
+    "q": "In Our Town, the play is staged with a few tables and chairs; actors mime their props, and a Stage Manager talks straight to the audience. What is the technique, and what does it do?",
+    "choices": [
+      "Scenography with projections: it builds a realistic town",
+      "Chiaroscuro: it hides the actors",
+      "A blackout sketch: it ends scenes on punchlines",
+      "The empty space and direct address: the audience imagines the town and is spoken to as a confidant"
+    ],
+    "answer": 3,
+    "explain": "A bare stage lets imagination build the world, and direct address changes watching into being spoken to.",
+    "lesson": "stage-tools"
+  },
+  {
+    "q": "A director stages a confrontation with one character alone downstage left while the rest of the family clusters upstage right, all facing her. What is the technique, and what does it do?",
+    "choices": [
+      "The pathetic fallacy: the space mirrors her feelings",
+      "Blocking and a stage picture: the space between them shows she's the outsider, and their facing her gives her focus",
+      "A follow spot: it tracks her movement",
+      "A slow fade: it lets the moment linger"
+    ],
+    "answer": 1,
+    "explain": "Where bodies stand, and which way they face, tells the audience who matters and who is alone.",
+    "lesson": "stage-tools"
+  },
+  {
+    "q": "In a Brecht production, the lighting rig hangs in full view and the stage is lit with bright, even white light throughout. What is the technique, and what does it do?",
+    "choices": [
+      "Low-key lighting: it creates suspense",
+      "Visible stage machinery: it keeps the audience aware it's in a theatre, so it thinks rather than drifts into mood",
+      "A colour motif: it marks the hero",
+      "High-key lighting to signal comedy"
+    ],
+    "answer": 1,
+    "explain": "Brecht wanted mood interrupted, so the audience would judge rather than be swept along.",
+    "lesson": "stage-tools"
+  },
+  {
+    "q": "John Hersey's 'Hiroshima' opens at fifteen minutes past eight on August 6, 1945, with a clerk who has just sat down and turned to speak to the girl at the next desk. What is the technique, and what does it do?",
+    "choices": [
+      "A nut graf: it states the story's significance",
+      "A kicker: it circles back",
+      "A scene-setting lede built on understatement: an ordinary moment fixed in time makes what follows unbearable",
+      "A composite character: it stands for many victims"
+    ],
+    "answer": 2,
+    "explain": "No adjectives of horror; the precise, ordinary moment does the work.",
+    "lesson": "journalism-tools"
+  },
+  {
+    "q": "Gay Talese's profile of Frank Sinatra opens with the singer in a dark corner of a bar, bourbon in one hand, cigarette in the other, while the people around him wait for him to speak. What is the technique, and what does it do?",
+    "choices": [
+      "Telling details: a few observed particulars show Sinatra's power over the room",
+      "An inverted pyramid: the most important fact comes first",
+      "A music bed: it sets the tone",
+      "Interior monologue: it tells us his thoughts"
+    ],
+    "answer": 0,
+    "explain": "Selected, observed detail shows status and mood without the writer stating them.",
+    "lesson": "journalism-tools"
+  },
+  {
+    "q": "A radio story opens with ten seconds of gulls, rope creaking and an engine idling before the reporter says a word, all recorded at the harbor in the story. What is the technique, and what does it do?",
+    "choices": [
+      "A music bed: it tells the listener how to feel",
+      "Nat sound: real sound from the scene places the listener there and works as evidence",
+      "A pause: it adds weight to an answer",
+      "A kicker: it ends on an image"
+    ],
+    "answer": 1,
+    "explain": "Natural sound recorded on location sets a scene faster than description, and honestly.",
+    "lesson": "journalism-tools"
+  },
+  {
+    "q": "Asked whether she blames herself, an interviewee is silent for four seconds before answering, and the producer leaves the whole silence in. What is the technique, and what does it do?",
+    "choices": [
+      "Nat sound: it sets the scene",
+      "A music bed: it marks a transition",
+      "A scene-setting lede: it opens the story",
+      "The pause on tape: the silence carries feeling a transcript can't"
+    ],
+    "answer": 3,
+    "explain": "A real pause can be the most powerful moment in audio; inventing one by editing would be dishonest.",
+    "lesson": "journalism-tools"
+  },
+  {
+    "q": "A newspaper runs the same photograph of a packed street twice: once captioned as a victory celebration, once as an unauthorized protest. What is the technique, and what does it do?",
+    "choices": [
+      "Chiaroscuro: contrast changes the mood",
+      "The telling detail: one object explains the scene",
+      "Anchorage: the caption fixes which of the image's meanings the reader sees",
+      "Nat sound: it adds atmosphere"
+    ],
+    "answer": 2,
+    "explain": "Barthes's point: words anchor an image's unstable meaning, so captions carry real responsibility.",
+    "lesson": "journalism-tools"
+  }
+]

@@ -1,5 +1,26 @@
 [
   {
+    "term": "180-degree rule",
+    "aka": [
+      "The axis of action"
+    ],
+    "origin": "A convention of continuity editing, standard since Hollywood's studio era.",
+    "meaning": "Keep the camera on one side of an imaginary line between characters so their screen positions and directions stay consistent.",
+    "use": "In a two-person scene, decide which side of the line you're on; if you cross it, do it deliberately, at a moment of disorientation or reversal.",
+    "lessons": [
+      "editing"
+    ]
+  },
+  {
+    "term": "Acousmêtre",
+    "origin": "Michel Chion, The Voice in Cinema (1982), borrowing 'acousmatic' from the composer Pierre Schaeffer.",
+    "meaning": "A character who is heard but not seen, whose voice seems to be everywhere and know everything, until showing the body (de-acousmatization) strips the power away.",
+    "use": "Keep a threatening or powerful figure offscreen as a voice for as long as you can, and treat the moment we finally see them as a deliberate turn.",
+    "lessons": [
+      "film-sound"
+    ]
+  },
+  {
     "term": "Act",
     "origin": "The five-act rule goes back to Horace's Ars Poetica (late 1st century BCE), was revived by Renaissance critics and analysed by Freytag (1863); the three-act screen model was popularized by Syd Field in Screenplay (1979).",
     "myth": "Three-act structure is often credited to Aristotle, but he described a whole with a beginning, middle and end, not acts.",
@@ -21,6 +42,15 @@
     "use": "When you workshop a piece, describe what you experienced moment by moment before anyone says what it means. If a scene only works once it's explained, the meaning is sitting on top of the form instead of inside it.",
     "lessons": [
       "sontag"
+    ]
+  },
+  {
+    "term": "Alignment",
+    "origin": "Murray Smith, Engaging Characters (1995).",
+    "meaning": "How the narration attaches us to a character: spatio-temporal attachment (following them) and subjective access (knowing their thoughts and feelings). It is not moral approval.",
+    "use": "Decide whose movements the story follows and whose mind it opens. To keep us with a difficult character, raise alignment while letting allegiance fall.",
+    "lessons": [
+      "allegiance"
     ]
   },
   {
@@ -53,12 +83,31 @@
     ]
   },
   {
+    "term": "Anchorage",
+    "origin": "Roland Barthes, \"Rhetoric of the Image\" (1964).",
+    "meaning": "The way a caption or text fixes one of an image's many possible meanings.",
+    "use": "Write captions as carefully as the story, and check they say only what you know about the image.",
+    "lessons": [
+      "journalism-tools"
+    ]
+  },
+  {
     "term": "Anecdote and reflection",
     "origin": "Ira Glass, in the video series Ira Glass on Storytelling, which circulated online from the mid-2000s.",
     "meaning": "Glass's two building blocks of a radio story: the anecdote, a sequence of actions that raises questions and pulls the listener forward, and the moment of reflection, where someone says what it means.",
     "use": "Mark each paragraph or tape segment as A (action) or R (reflection) and check that they alternate; a long run of either one loses people. If you can't find a reflection, ask your subject \"Why does this matter to you?\" on tape.",
     "lessons": [
       "glass"
+    ]
+  },
+  {
+    "term": "Antihero",
+    "origin": "The word is old (it appears in English in the 18th century); Dostoevsky's narrator in Notes from Underground (1864) calls himself one. Modern usage covers any protagonist who lacks conventional heroic virtues.",
+    "meaning": "A protagonist we follow without approving of: selfish, criminal or cruel, but compelling.",
+    "use": "Decide what holds us instead of likability: fascination, competence, or people around them who are worse. Use at least one, from the first scene.",
+    "lessons": [
+      "making-us-care",
+      "allegiance"
     ]
   },
   {
@@ -123,6 +172,38 @@
     ]
   },
   {
+    "term": "Blackout",
+    "origin": "Stage lighting term; the \"blackout sketch\" of vaudeville and revue took its name from the sudden darkness that ends it.",
+    "meaning": "Cutting all stage light at once: theatre's hard cut, as opposed to a slow fade.",
+    "use": "Decide the last image before darkness; use a blackout for a punch, a fade to let a moment linger.",
+    "lessons": [
+      "stage-tools"
+    ]
+  },
+  {
+    "term": "Blocking",
+    "origin": "Theatre term, now standard in film and television; of uncertain origin.",
+    "meaning": "The plan for where performers stand and move in each moment, and the picture it makes.",
+    "use": "Draw the stage or frame and mark positions at the start, turn and end of a scene; let one move toward or away from someone be an action.",
+    "lessons": [
+      "stage-tools",
+      "mise-en-scene"
+    ]
+  },
+  {
+    "term": "Bone structure",
+    "aka": [
+      "Three-dimensional character"
+    ],
+    "origin": "Lajos Egri, The Art of Dramatic Writing (1946).",
+    "meaning": "Egri's three dimensions of character: physiology (the body), sociology (class, work, family, beliefs) and psychology (the temperament and drives that grow from the other two).",
+    "use": "Write a few lines under each heading for a character who feels thin, then check whether their want comes from their sociology and their need from their psychology.",
+    "lessons": [
+      "egri",
+      "want-need-wound"
+    ]
+  },
+  {
     "term": "Carrier bag theory",
     "origin": "Ursula K. Le Guin, \"The Carrier Bag Theory of Fiction\" (written 1986, published in Dancing at the Edge of the World, 1989), drawing on Elizabeth Fisher's Women's Creation.",
     "meaning": "Le Guin's proposal that a story can be a container that holds many things in relation, rather than a spear-shaped arc of conflict and triumph.",
@@ -143,6 +224,40 @@
     ]
   },
   {
+    "term": "Character arc",
+    "aka": [
+      "Positive, negative and flat arcs"
+    ],
+    "origin": "A long-standing screenwriting and workshop term with no single originator; K. M. Weiland's Creating Character Arcs (2016) popularized the positive, negative (or disillusionment) and flat arcs.",
+    "meaning": "The path of inner change a character travels over a story. In a positive arc they learn their need; in a negative arc they refuse it or learn the wrong lesson; in a flat arc they already hold the truth and change others.",
+    "use": "Name which arc each lead is on, then find the scene where it turns. If a lead is on a flat arc, make sure the people around them change instead.",
+    "lessons": [
+      "want-need-wound"
+    ]
+  },
+  {
+    "term": "Character introduction",
+    "origin": "A convention of screenplay format: the first time a character appears, the name is in capitals, often with an age, followed by a short description. No single originator.",
+    "meaning": "A character's first appearance, and in a script, the description line that comes with it.",
+    "use": "Write essence and attitude, not an inventory of looks, and follow it at once with an action only this character would do.",
+    "lessons": [
+      "introductions"
+    ]
+  },
+  {
+    "term": "Character web",
+    "aka": [
+      "Four-corner opposition"
+    ],
+    "origin": "John Truby, The Anatomy of Story (2007).",
+    "meaning": "Truby's idea that characters should be designed together, each defined by contrast with the others and each a different answer to the hero's moral problem. Four-corner opposition sets a hero, a main opponent and two secondary opponents against each other.",
+    "use": "Write the value each character stands for. If two characters stand for the same thing, merge or cut one.",
+    "lessons": [
+      "truby",
+      "cast-system"
+    ]
+  },
+  {
     "term": "Chekhov's gun",
     "origin": "Based on Anton Chekhov's remarks in letters and conversation, including an 1889 letter to Alexander Lazarev (Gruzinsky) and a reminiscence by Ilia Gurlyand published in 1904.",
     "myth": "Chekhov stated the rule several ways and didn't always follow it; the popular version, \"every detail must pay off\", is a simplification.",
@@ -150,6 +265,15 @@
     "use": "Underline every object, skill or fact you draw attention to in Act One and check that each is used later; cut or quiet the ones that aren't. In nonfiction, the same test applies to details in the lede.",
     "lessons": [
       "chekhov"
+    ]
+  },
+  {
+    "term": "Chiaroscuro",
+    "origin": "Italian for \"light-dark\", a term from Renaissance and Baroque painting (Caravaggio is the painter most associated with it), carried into film through German Expressionism and film noir.",
+    "meaning": "Strong contrast between light and shadow, used to model forms and create drama.",
+    "use": "Use it where you want something hidden or a face only half readable; a reveal can be as simple as a light coming on.",
+    "lessons": [
+      "mise-en-scene"
     ]
   },
   {
@@ -176,6 +300,17 @@
     ]
   },
   {
+    "term": "Close-up",
+    "origin": "Close views appear in British films around 1900 (G. A. Smith) and in The Great Train Robbery (1903).",
+    "myth": "Often credited to D. W. Griffith, who used close-ups for emotion within stories but didn't invent them.",
+    "meaning": "A shot that fills the frame with a face or object, isolating it for attention and emotion.",
+    "use": "Save your closest images for your most important moments, so the cut-in itself tells the audience this matters.",
+    "lessons": [
+      "kuleshov",
+      "camera"
+    ]
+  },
+  {
     "term": "Cold open",
     "aka": [
       "Teaser"
@@ -185,6 +320,15 @@
     "use": "Open with the most intriguing moment you can show without explanation, then cut to titles before answering it. A good test: could someone who switched on mid-scene still be curious?",
     "lessons": [
       "tv"
+    ]
+  },
+  {
+    "term": "Colour motif",
+    "origin": "A long-standing practice in film design; no single originator.",
+    "meaning": "A colour given a meaning that builds each time it returns, as distinct from a film's overall palette, like the red coat in Schindler's List.",
+    "use": "Choose one colour for one meaning, plant it early, repeat it sparingly, and pay it off at a turning point.",
+    "lessons": [
+      "mise-en-scene"
     ]
   },
   {
@@ -205,6 +349,18 @@
     "lessons": [
       "ethics",
       "new-journalism"
+    ]
+  },
+  {
+    "term": "Confidant",
+    "aka": [
+      "Confidante"
+    ],
+    "origin": "A fixed role in French classical tragedy, as with Oenone in Racine's Phèdre (1677); the device is much older.",
+    "meaning": "A character the protagonist tells the truth to, which lets the audience hear their thoughts without a soliloquy or voice-over.",
+    "use": "Give your confidant an agenda of their own, as Oenone has, so the confessions become scenes rather than exposition.",
+    "lessons": [
+      "cast-system"
     ]
   },
   {
@@ -234,6 +390,20 @@
     ]
   },
   {
+    "term": "Cross-cutting",
+    "aka": [
+      "Parallel editing",
+      "Intercutting"
+    ],
+    "origin": "Earlier films such as Pathé's A Narrow Escape (1908) used it; D. W. Griffith developed and popularized it from The Lonely Villa (1909) to Intolerance (1916).",
+    "myth": "Often said to be Griffith's invention; he refined it but didn't originate it.",
+    "meaning": "Alternating between two or more lines of action, usually simultaneous, to build suspense, irony or comparison.",
+    "use": "Cross-cut when the meaning lies in the relation between two events: a rescue racing a threat, a ceremony and a crime, two characters converging.",
+    "lessons": [
+      "editing"
+    ]
+  },
+  {
     "term": "Dark night of the soul",
     "aka": [
       "All Is Lost (Snyder)",
@@ -257,6 +427,15 @@
     ]
   },
   {
+    "term": "Deep focus",
+    "origin": "Made famous by cinematographer Gregg Toland in Citizen Kane (1941).",
+    "meaning": "Keeping foreground, middle ground and background sharp at once, so several actions can matter in one frame.",
+    "use": "Stage two related actions in one frame, near and far, and let the audience discover the connection instead of cutting to it.",
+    "lessons": [
+      "camera"
+    ]
+  },
+  {
     "term": "Defamiliarization",
     "aka": [
       "Ostranenie",
@@ -268,6 +447,15 @@
     "lessons": [
       "narrative-order",
       "brecht"
+    ]
+  },
+  {
+    "term": "Delayed entrance",
+    "origin": "An old stage technique; Molière keeps Tartuffe offstage until Act 3 of Tartuffe (1669), and The Third Man (1949) withholds Harry Lime for about an hour.",
+    "meaning": "Keeping an important character offstage while others talk about them, so their first appearance answers a question the audience has been asking.",
+    "use": "Have the characters who discuss the absent one disagree about them. Then make the first line or gesture confirm or overturn the talk.",
+    "lessons": [
+      "introductions"
     ]
   },
   {
@@ -293,6 +481,29 @@
     "lessons": [
       "aristotle",
       "pixar"
+    ]
+  },
+  {
+    "term": "Diegetic and non-diegetic sound",
+    "aka": [
+      "Source and score",
+      "Onscreen and offscreen music"
+    ],
+    "origin": "Diegesis is Greek for narration; Étienne Souriau's filmology group revived it for the story world in the early 1950s, Gérard Genette used it in narratology (1972), and textbooks such as Bordwell and Thompson's Film Art (1979) made the sound terms standard.",
+    "meaning": "Diegetic sound comes from the story world and the characters could hear it; non-diegetic sound, like score or voice-over, is heard only by the audience.",
+    "use": "Mark every sound in a scene D or N. Where you want the audience pulled into the characters' present, use diegetic sound, or reveal that apparent score was coming from a radio all along.",
+    "lessons": [
+      "film-sound",
+      "music-silence"
+    ]
+  },
+  {
+    "term": "Doubling",
+    "origin": "As old as Greek tragedy, where three speaking actors shared all the roles; a standard practice in theatre ever since.",
+    "meaning": "One actor playing two or more roles in a production, for economy or to make a point, as when Mr Darling and Captain Hook are played by the same actor in Peter Pan.",
+    "use": "When cutting a cast to size, look for pairs of roles that comment on each other, and double those.",
+    "lessons": [
+      "cast-system"
     ]
   },
   {
@@ -322,12 +533,35 @@
     ]
   },
   {
+    "term": "Dutch angle",
+    "aka": [
+      "Canted angle",
+      "Dutch tilt"
+    ],
+    "origin": "Associated with German Expressionist film and used throughout The Third Man (1949).",
+    "myth": "The name is usually explained as a corruption of 'Deutsch', but that origin is hard to document.",
+    "meaning": "A shot with the camera tilted so the horizon isn't level, suggesting unease, madness or a world out of joint.",
+    "use": "Use sparingly, at the moment the story's world tips off balance; constant use stops registering.",
+    "lessons": [
+      "camera"
+    ]
+  },
+  {
     "term": "Dysfunctional narratives",
     "origin": "Charles Baxter, \"Dysfunctional Narratives: or, 'Mistakes Were Made'\", in Burning Down the House (1997).",
     "meaning": "Baxter's term for stories in which nobody takes responsibility: things happen to a passive protagonist, and the climax is a recognition of grievance rather than a choice.",
     "use": "Look for the moment where your protagonist could have acted and check whether they do. If your story is about something done to someone, give them at least one decision that matters, even if it fails.",
     "lessons": [
       "baxter"
+    ]
+  },
+  {
+    "term": "Empathetic and anempathetic music",
+    "origin": "Michel Chion, Audio-Vision (1990; English 1994).",
+    "meaning": "Empathetic music expresses the feeling of the scene; anempathetic music carries on indifferent to it, which often intensifies the audience's response.",
+    "use": "For each cue, name which it is. Try playing a cruel or tragic moment against a cheerful or neutral piece, and see whether the indifference hurts more.",
+    "lessons": [
+      "music-silence"
     ]
   },
   {
@@ -369,6 +603,17 @@
       "well-made-play",
       "hart",
       "snyder"
+    ]
+  },
+  {
+    "term": "Eyeline match",
+    "origin": "A convention of continuity editing standardized in Hollywood's studio era.",
+    "meaning": "A cut from a character looking off-screen to a shot of what they're looking at, positioned so the look and its object line up.",
+    "use": "Write what each character looks at in key moments; a look followed by its object is the simplest way to put the audience in someone's head.",
+    "lessons": [
+      "kuleshov",
+      "editing",
+      "camera"
     ]
   },
   {
@@ -424,6 +669,15 @@
     "lessons": [
       "narrative-order",
       "point-of-view"
+    ]
+  },
+  {
+    "term": "Foil",
+    "origin": "From the jeweller's foil, a thin metal leaf set behind a gem to make it shine; Shakespeare puns on it in Hamlet (\"I'll be your foil, Laertes\").",
+    "meaning": "A character whose likeness to another, in situation or goal, makes their differences stand out.",
+    "use": "Give your hero someone facing the same problem who chooses differently. If no one does, the hero's choices have nothing to be measured against.",
+    "lessons": [
+      "cast-system"
     ]
   },
   {
@@ -566,6 +820,15 @@
     ]
   },
   {
+    "term": "High-key and low-key lighting",
+    "origin": "Hollywood studio lighting terms, named for the balance between the key light and the fill light.",
+    "meaning": "High-key lighting fills the frame with soft, even light and few shadows; low-key lighting lets one main source dominate, with deep shadows and strong contrast, as in film noir.",
+    "use": "Name the light source in a scene description (a single lamp, noon glare) when the mood matters; low-key for secrecy and danger, high-key for openness and comedy.",
+    "lessons": [
+      "mise-en-scene"
+    ]
+  },
+  {
     "term": "Iceberg theory",
     "aka": [
       "Theory of omission"
@@ -576,6 +839,25 @@
     "lessons": [
       "chekhov",
       "baxter"
+    ]
+  },
+  {
+    "term": "Identification",
+    "origin": "Michael Hauge, Writing Screenplays That Sell (1988; revised 2011), which lists ways to create it: sympathy through undeserved misfortune, jeopardy, likability, humor, and power or skill.",
+    "meaning": "The audience stepping into a character's shoes and experiencing the story through them, so that what happens to the character matters to us.",
+    "use": "Label the moments in your hero's first scenes with Hauge's tools. If you can't find at least two, the audience may not attach to them in time.",
+    "lessons": [
+      "making-us-care",
+      "snyder"
+    ]
+  },
+  {
+    "term": "Idiolect",
+    "origin": "A linguistics term usually credited to Bernard Bloch (1948).",
+    "meaning": "The speech habits peculiar to one person: vocabulary, rhythm, sentence length, pet phrases and what they never say.",
+    "use": "Cover the names on a page of dialogue. If you can't tell who's speaking, give each character a distinctive habit of speech.",
+    "lessons": [
+      "dialogue"
     ]
   },
   {
@@ -659,6 +941,15 @@
     ]
   },
   {
+    "term": "Jump cut",
+    "origin": "Made famous by Jean-Luc Godard's Breathless (1960).",
+    "meaning": "A cut that removes a piece of a continuous shot, so the image visibly skips forward in time.",
+    "use": "Use jump cuts for restlessness, impatience or compressed time within a single situation; in prose, the equivalent is dropping the connective tissue between moments.",
+    "lessons": [
+      "editing"
+    ]
+  },
+  {
     "term": "Kernels and satellites",
     "origin": "Seymour Chatman, Story and Discourse (1978), adapting Roland Barthes's \"nuclei\" and \"catalysers\" (1966).",
     "meaning": "Kernels are the events that open choices and can't be removed without changing the story; satellites fill out, elaborate or delay.",
@@ -687,6 +978,17 @@
     ]
   },
   {
+    "term": "Kuleshov effect",
+    "origin": "Lev Kuleshov's Moscow film workshop, around 1918–1921, best known through Vsevolod Pudovkin's account; demonstrated by Hitchcock in a 1964 CBC interview with Fletcher Markle.",
+    "myth": "The original footage is lost and accounts vary; modern replications show a real but weaker and less consistent effect than the legend.",
+    "meaning": "Viewers read the meaning of a shot, especially a face, from the shots around it, so the same expression seems to show different emotions in different contexts.",
+    "use": "Before writing an emotion onto a face, write the image the character is reacting to; test a key moment by imagining two different things the character could be looking at.",
+    "lessons": [
+      "kuleshov",
+      "editing"
+    ]
+  },
+  {
     "term": "Lede",
     "aka": [
       "Lead"
@@ -697,6 +999,26 @@
     "lessons": [
       "inverted-pyramid",
       "wsj-formula"
+    ]
+  },
+  {
+    "term": "Leitmotif",
+    "origin": "Associated with Richard Wagner's operas, especially the Ring cycle; the word was popularized by commentators, notably Hans von Wolzogen in the 1870s.",
+    "myth": "Often said to be Wagner's own term, but he rarely used it.",
+    "meaning": "A short musical idea attached to a character, place or idea that returns and develops as the story does.",
+    "use": "If you use a theme, let it change as the character changes, and bring it back softly when they're absent so the music carries memory.",
+    "lessons": [
+      "music-silence"
+    ]
+  },
+  {
+    "term": "Long take",
+    "origin": "Championed by critic André Bazin in the 1940s–50s; famous examples include the Copacabana shot in Goodfellas (1990).",
+    "meaning": "A single shot held for an unusually long time without a cut, often with the camera moving.",
+    "use": "Use it when continuous time and space are the meaning, such as entering a world or a pressure that can't be escaped; every beat inside it must hold.",
+    "lessons": [
+      "camera",
+      "editing"
     ]
   },
   {
@@ -716,12 +1038,50 @@
     ]
   },
   {
+    "term": "Manic pixie dream girl",
+    "origin": "Coined by the critic Nathan Rabin in a 2007 A.V. Club review of Elizabethtown; he later said he regretted how widely and loosely it was used.",
+    "meaning": "A quirky young woman who exists in a story mainly to teach a gloomy male hero to enjoy life, with no inner life or goals of her own.",
+    "use": "Test any character who exists to change the hero: what do they want for themselves? If the answer is nothing, give them a want or rethink the role.",
+    "lessons": [
+      "side-characters",
+      "who-is-the-subject"
+    ]
+  },
+  {
+    "term": "Match cut",
+    "origin": "A long-standing editing technique; the bone-to-spacecraft cut in 2001: A Space Odyssey (1968) is the most famous example.",
+    "meaning": "A cut that joins two shots through a shared shape, movement or sound, making a connection between them.",
+    "use": "End a scene on an image that rhymes with the next scene's opening image to link them in meaning or leap across time.",
+    "lessons": [
+      "editing"
+    ]
+  },
+  {
     "term": "Mechanical encrusted on the living",
     "origin": "Henri Bergson, Laughter (Le Rire, 1900).",
     "meaning": "Bergson's theory that we laugh when a person behaves like a machine, repeating, rigid or inattentive when life requires flexibility.",
     "use": "Give a comic character a rigid habit and then put them in a situation that demands they adapt. The more serious the situation, the funnier the rigidity.",
     "lessons": [
       "comedy"
+    ]
+  },
+  {
+    "term": "Mentor",
+    "origin": "From Mentor in Homer's Odyssey, whose form Athena takes to advise Telemachus; the modern sense owes much to Fénelon's The Adventures of Telemachus (1699). Vogler lists it among his archetypes (1992).",
+    "meaning": "A character who guides, trains or equips the hero, and who usually leaves or fails so the hero must act alone.",
+    "use": "Decide when your mentor exits. If the mentor solves the final problem, the hero hasn't grown.",
+    "lessons": [
+      "cast-system",
+      "campbell-vogler"
+    ]
+  },
+  {
+    "term": "Mickey-Mousing",
+    "origin": "Industry slang named after early Disney cartoons, whose music matched the action beat for beat.",
+    "meaning": "Music that imitates the on-screen action note for note.",
+    "use": "Use it deliberately in comedy and animation; in drama, if the music is describing what we can already see, cut it back.",
+    "lessons": [
+      "music-silence"
     ]
   },
   {
@@ -737,12 +1097,32 @@
     ]
   },
   {
+    "term": "Mise-en-scène",
+    "origin": "French theatre term (\"putting on stage\"), taken into film criticism by the critics of Cahiers du cinéma in the 1950s; defined for students by David Bordwell and Kristin Thompson in Film Art: An Introduction (1979).",
+    "meaning": "Everything placed in front of the camera or on the stage: setting, costume and makeup, lighting, and the staging of performers.",
+    "use": "Before writing dialogue, decide the light, one colour, one telling object and where people stand, and put those that carry the conflict into the scene description.",
+    "lessons": [
+      "mise-en-scene",
+      "stage-tools"
+    ]
+  },
+  {
     "term": "Modes of documentary",
     "origin": "Bill Nichols, Representing Reality (1991), extended in Introduction to Documentary (2001).",
     "meaning": "Six ways documentaries address their audience: poetic, expository, observational, participatory, reflexive and performative.",
     "use": "Name the mode of your film or podcast, then decide whether to use another for one section, for instance switching from observational to reflexive when you face an ethical choice. Make the shift on purpose.",
     "lessons": [
       "documentary"
+    ]
+  },
+  {
+    "term": "Montage",
+    "origin": "Soviet filmmakers of the 1920s, especially Sergei Eisenstein (Battleship Potemkin, 1925) and Vsevolod Pudovkin; the Hollywood 'montage sequence' is a later, different use of the word.",
+    "meaning": "In Soviet theory, the creation of meaning through the juxtaposition or collision of shots; in Hollywood usage, a sequence of short shots that compresses time.",
+    "use": "Use a collision of two images to make a point without stating it; use a montage sequence for change the audience must accept quickly rather than live through.",
+    "lessons": [
+      "editing",
+      "kuleshov"
     ]
   },
   {
@@ -763,6 +1143,28 @@
     "use": "Remove anything that pulls the reader out (an error, a jarring explanation) at the moment you most need them absorbed. Use concrete scene and a character to follow; abstract argument transports less.",
     "lessons": [
       "science-of-story"
+    ]
+  },
+  {
+    "term": "Nat sound",
+    "aka": [
+      "Natural sound",
+      "Ambience"
+    ],
+    "origin": "Broadcast newsroom jargon, short for \"natural sound\".",
+    "meaning": "Sound recorded on location, such as footsteps, traffic, a crowd or a kettle, used to place the listener in a scene.",
+    "use": "Let the recorder run before and after every interview; open a piece with a few seconds of real sound. Don't add or move sound from elsewhere without telling listeners.",
+    "lessons": [
+      "journalism-tools"
+    ]
+  },
+  {
+    "term": "Needle drop",
+    "origin": "Industry term, from lowering a record player's needle onto an existing recording.",
+    "meaning": "An existing song or recording placed in a film, as opposed to music composed for it.",
+    "use": "Choose a song for what its lyrics, era and associations do to the scene, and decide whether it plays in the story world or over it.",
+    "lessons": [
+      "music-silence"
     ]
   },
   {
@@ -816,6 +1218,25 @@
     ]
   },
   {
+    "term": "Overlapping dialogue",
+    "origin": "Fast overlapping exchanges were a hallmark of Howard Hawks's His Girl Friday (1940); Robert Altman developed multitrack recording to layer whole conversations, on California Split (1974) and Nashville (1975).",
+    "meaning": "Dialogue in which characters talk over and interrupt each other, as in life, rather than waiting their turn.",
+    "use": "In a crowded or heated scene, let two lines collide where a character can't wait. Mark in the script which line must be heard.",
+    "lessons": [
+      "dialogue"
+    ]
+  },
+  {
+    "term": "Pathetic fallacy",
+    "origin": "John Ruskin, Modern Painters, volume 3 (1856), chapter \"Of the Pathetic Fallacy\".",
+    "myth": "It's often treated as a technique Ruskin admired; he coined it as a criticism, of the false picture of nature that strong emotion produces.",
+    "meaning": "Giving nature human feelings, especially weather or landscape that mirrors a character's mood. \"Pathetic\" means \"of feeling\".",
+    "use": "Matching rain to grief is the easy choice; try weather that means different things to different characters, or that plays against the mood.",
+    "lessons": [
+      "mise-en-scene"
+    ]
+  },
+  {
     "term": "Peripeteia",
     "aka": [
       "Reversal"
@@ -829,12 +1250,30 @@
     ]
   },
   {
+    "term": "Perverse allegiance",
+    "origin": "Murray Smith, in an essay on 'apparently perverse allegiances' that followed Engaging Characters.",
+    "meaning": "Siding with a villain or criminal; Smith argues that many apparent cases are really fascination, or the result of surrounding the character with worse people.",
+    "use": "If you want the audience with a dark character, know which tool you're using: worse enemies, access to their reasons, suspense, or charisma.",
+    "lessons": [
+      "allegiance"
+    ]
+  },
+  {
     "term": "Pinch",
     "origin": "Syd Field, in work after Screenplay (1979), as part of his second-act scaffolding.",
     "meaning": "A smaller event in each half of the second act, reminding the audience of the central conflict.",
     "use": "Halfway between plot point I and the midpoint, put a scene that shows the antagonist's force; do the same after the midpoint. Use it to fight the second-act sag.",
     "lessons": [
       "field"
+    ]
+  },
+  {
+    "term": "Pinter pause",
+    "origin": "Harold Pinter's plays from The Birthday Party (1958) on, which mark three dots, \"Pause\" and \"Silence\" in the text.",
+    "meaning": "A scripted silence that carries meaning, usually a moment of pressure or a shift of power, rather than a gap in the talk.",
+    "use": "Mark pauses only where something shifts between characters. If a pause doesn't change the scene, cut it.",
+    "lessons": [
+      "dialogue"
     ]
   },
   {
@@ -845,6 +1284,20 @@
     "lessons": [
       "field",
       "hart"
+    ]
+  },
+  {
+    "term": "Point-of-view shot",
+    "aka": [
+      "POV shot",
+      "Subjective camera"
+    ],
+    "origin": "A basic film convention; the subjective camera was tried for a whole film in Robert Montgomery's Lady in the Lake (1947).",
+    "meaning": "A shot showing what a character sees, usually framed by a shot of them looking; pushed to extremes, the subjective camera makes the camera the character.",
+    "use": "Use a brief point-of-view shot to make the audience share a discovery; avoid long stretches, which hide the face that builds sympathy.",
+    "lessons": [
+      "camera",
+      "kuleshov"
     ]
   },
   {
@@ -873,6 +1326,15 @@
     "lessons": [
       "egri",
       "truby"
+    ]
+  },
+  {
+    "term": "Principle of antagonism",
+    "origin": "Robert McKee, Story (1997). The idea that a hero needs a strong villain is much older and is often attributed to others, including Hitchcock.",
+    "meaning": "A protagonist, and the story, can only be as compelling as the forces of antagonism make them.",
+    "use": "Ask whether your opponent can attack your hero's specific weakness. If the hero could win on a good day, strengthen the opposition.",
+    "lessons": [
+      "cast-system"
     ]
   },
   {
@@ -907,6 +1369,15 @@
     "use": "Decide the one dominant feeling the whole piece should leave, then pick secondary feelings that deepen it. Check scenes that work against it.",
     "lessons": [
       "natyashastra"
+    ]
+  },
+  {
+    "term": "Reaction shot",
+    "origin": "A basic convention of film editing, developed in the 1910s as close-ups were integrated into storytelling.",
+    "meaning": "A shot of a character responding to something said or seen, which often tells the audience what the moment means.",
+    "use": "After every important line, decide whose reaction the audience needs and give it room: a beat of silence, a look, a small action.",
+    "lessons": [
+      "kuleshov"
     ]
   },
   {
@@ -957,6 +1428,15 @@
     ]
   },
   {
+    "term": "Rule of six",
+    "origin": "Walter Murch, In the Blink of an Eye (1995).",
+    "meaning": "Murch's six criteria for a good cut, ranked and weighted: emotion 51%, story 23%, rhythm 10%, eye-trace 7%, two-dimensional plane 5%, three-dimensional space 4%.",
+    "use": "When a cut or transition feels wrong, ask first whether it's true to the emotion, then the story; only then worry about continuity.",
+    "lessons": [
+      "editing"
+    ]
+  },
+  {
     "term": "Save the cat",
     "aka": [
       "Pet the dog",
@@ -1002,6 +1482,15 @@
     ]
   },
   {
+    "term": "Scenography",
+    "origin": "European term for the whole visual and spatial design of a performance, closely associated with the Czech designer Josef Svoboda.",
+    "meaning": "Set, light, projection, costume and space designed as one composition, rather than as separate departments.",
+    "use": "In stage directions, describe the space as one image the designers can build on, rather than listing furniture.",
+    "lessons": [
+      "stage-tools"
+    ]
+  },
+  {
     "term": "Sense of an ending",
     "origin": "Frank Kermode, The Sense of an Ending (1967).",
     "meaning": "Kermode's argument that people give their lives meaning by imagining an end that makes sense of the middle, and that fiction satisfies this need.",
@@ -1032,6 +1521,15 @@
       "chekhov",
       "snyder",
       "pixar"
+    ]
+  },
+  {
+    "term": "Shot size",
+    "origin": "A shared craft vocabulary of film and television; names vary between countries and crews.",
+    "meaning": "The scale of the subject in the frame, from extreme wide shot to extreme close-up, which sets the audience's emotional distance from a character.",
+    "use": "Plan the distance of each moment: wide to set a character in their world, close to bring us inside a decisive feeling.",
+    "lessons": [
+      "camera"
     ]
   },
   {
@@ -1071,6 +1569,19 @@
     "use": "Write one sentence for your situation and one for your story. If you can only write the first, you haven't found what the piece is about yet; keep drafting until the second appears.",
     "lessons": [
       "gornick"
+    ]
+  },
+  {
+    "term": "Sound bridge",
+    "aka": [
+      "J-cut",
+      "L-cut"
+    ],
+    "origin": "Editors' terms; J-cut and L-cut are named after the shape the audio and picture tracks make on an editing timeline.",
+    "meaning": "Sound that carries across a cut: in a J-cut the next scene's sound starts before its picture; in an L-cut the previous scene's sound continues over the new picture.",
+    "use": "Plan scene transitions in the script: lead into a scene with its sound to pull attention forward, or let a line linger over the next image to show its consequences.",
+    "lessons": [
+      "film-sound"
     ]
   },
   {
@@ -1123,6 +1634,18 @@
     ]
   },
   {
+    "term": "Structure of sympathy",
+    "aka": [
+      "Recognition, alignment, allegiance"
+    ],
+    "origin": "Murray Smith, Engaging Characters: Fiction, Emotion, and the Cinema (1995).",
+    "meaning": "Smith's replacement for the loose word 'identification': recognition (seeing a character as a continuous person), alignment (whom we follow and how much of their mind we get) and allegiance (whose side we take).",
+    "use": "Rate your protagonist on each level scene by scene, and decide where you want them to diverge.",
+    "lessons": [
+      "allegiance"
+    ]
+  },
+  {
     "term": "Subtext",
     "origin": "Associated with Stanislavski's work on Chekhov at the Moscow Art Theatre; the term came into wide English use in the mid-20th century.",
     "meaning": "What characters mean or feel beneath what they say.",
@@ -1162,12 +1685,57 @@
     ]
   },
   {
+    "term": "Synchresis",
+    "aka": [
+      "Added value"
+    ],
+    "origin": "Michel Chion, Audio-Vision (1990; English 1994).",
+    "meaning": "The mind's habit of welding a sound and an image that happen at the same moment; with added value, it explains how sound gives images meaning we think was there all along.",
+    "use": "Test a scene with different sounds under the same image. Choose the sound that makes the picture mean what you need without any line of dialogue.",
+    "lessons": [
+      "film-sound"
+    ]
+  },
+  {
+    "term": "Tag",
+    "aka": [
+      "Character tag"
+    ],
+    "origin": "A common term in fiction-writing manuals; Dwight V. Swain discussed tags in Techniques of the Selling Writer (1965). Dickens is the classic practitioner.",
+    "meaning": "A single, specific identifying trait (a way of speaking, an object, a behaviour or an attitude) that makes a character instantly recognizable.",
+    "use": "Give each minor character one tag that expresses who they are or what they hide, show it at their first appearance, and repeat or twist it once. Don't let it harden into a tic.",
+    "lessons": [
+      "side-characters"
+    ]
+  },
+  {
     "term": "Taste gap",
     "origin": "Ira Glass, in the third segment of Ira Glass on Storytelling (mid-2000s).",
     "meaning": "The gap between a beginner's taste and their ability to produce work that meets it.",
     "use": "Set yourself a volume deadline, such as a short piece every week, and finish each one even if it's bad. The gap closes through quantity.",
     "lessons": [
       "glass"
+    ]
+  },
+  {
+    "term": "Telling detail",
+    "origin": "Long-standing craft term in fiction and feature writing; Tom Wolfe's \"status details\" (1973) are one kind.",
+    "meaning": "One concrete, observed particular, chosen from many, that does the work of a paragraph of description.",
+    "use": "Underline every detail in a scene and keep the one that tells most; replace adjectives with things you saw.",
+    "lessons": [
+      "journalism-tools"
+    ]
+  },
+  {
+    "term": "The Lie",
+    "aka": [
+      "Misbelief"
+    ],
+    "origin": "K. M. Weiland, Creating Character Arcs (2016); similar ideas appear in other teachers' work under other names.",
+    "meaning": "The false belief about themselves or the world that a character holds at the start, usually rooted in a wound, which the story challenges.",
+    "use": "Write your protagonist's Lie as a sentence they'd agree with, such as \"If I rely on anyone, I'll be abandoned.\" Then find the scene that proves it wrong.",
+    "lessons": [
+      "want-need-wound"
     ]
   },
   {
@@ -1209,6 +1777,38 @@
     ]
   },
   {
+    "term": "Token character",
+    "origin": "A term from social criticism of representation, applied to fiction and film; no single originator.",
+    "meaning": "A minor character included to represent a group, whose identity stands in for a personality and who has no want of their own.",
+    "use": "For every minor character from a group underrepresented in your cast, write their want and one specific trait that isn't about the group. If you can't, the character isn't finished.",
+    "lessons": [
+      "side-characters",
+      "who-is-the-subject"
+    ]
+  },
+  {
+    "term": "Transdiegetic sound",
+    "aka": [
+      "The fantastical gap"
+    ],
+    "origin": "Used by several sound and music scholars; Robynn Stilwell called the zone between diegetic and non-diegetic 'the fantastical gap' (2007).",
+    "meaning": "Sound that crosses between the story world and the soundtrack, such as a radio song that swells into score, or score revealed to be played by a band onscreen.",
+    "use": "Use a crossing at a turning point: score that becomes a car radio drops us into real time; a jukebox song that becomes score turns a private moment into the film's statement.",
+    "lessons": [
+      "film-sound"
+    ]
+  },
+  {
+    "term": "Trauma plot",
+    "origin": "Popularized as a critical term by Parul Sehgal's essay \"The Case Against the Trauma Plot\" (The New Yorker, December 2021).",
+    "meaning": "A story built around a character's past trauma, withheld and then revealed as the key to who they are. Sehgal argued it had become a shortcut to depth that reduces characters to symptoms.",
+    "use": "If your draft hinges on revealing a wound, check what the character does in the present that the wound doesn't explain. Keep at least one choice that surprises.",
+    "lessons": [
+      "want-need-wound",
+      "baxter"
+    ]
+  },
+  {
     "term": "Trigger and heap",
     "aka": [
       "Stasis and intrusion"
@@ -1218,6 +1818,15 @@
     "use": "Start from your last event and ask \"what caused this?\" back to the start; every break in the chain is a weak point. Use it to read your own script before rehearsal.",
     "lessons": [
       "ball"
+    ]
+  },
+  {
+    "term": "Undeserved misfortune",
+    "origin": "A source of sympathy discussed since Aristotle's Poetics, which says pity is aroused by undeserved misfortune; Michael Hauge made it the first of his identification tools in Writing Screenplays That Sell (1988).",
+    "meaning": "Harm that befalls a character through no fault of their own, which makes the audience side with them.",
+    "use": "Show the misfortune, don't announce it, and keep it specific. If it exists only to buy tears, audiences notice: tie it to what the character wants.",
+    "lessons": [
+      "making-us-care"
     ]
   },
   {
@@ -1249,6 +1858,15 @@
     ]
   },
   {
+    "term": "Upstage and downstage",
+    "origin": "From raked stages that sloped upward away from the audience, so the back was literally higher.",
+    "meaning": "Upstage is the back of the stage, downstage the front. To upstage someone is to stand behind them so they must turn from the audience, and by extension to steal attention.",
+    "use": "Place the character you want watched upstage and facing out, so others must turn toward them.",
+    "lessons": [
+      "stage-tools"
+    ]
+  },
+  {
     "term": "Value",
     "aka": [
       "Value charge",
@@ -1274,6 +1892,15 @@
     "use": "Interrupt a moment of identification with a device that makes the audience look at it as a choice: a song, a title, a character stepping out. Do it where you want judgment, not tears.",
     "lessons": [
       "brecht"
+    ]
+  },
+  {
+    "term": "Walk and talk",
+    "origin": "Associated with Aaron Sorkin and director Thomas Schlamme on Sports Night and The West Wing (1999–2006); the technique itself is older.",
+    "meaning": "A scene in which characters talk while moving through a space, usually followed by a moving camera, to keep long dialogue scenes energetic.",
+    "use": "If a talky scene sits still, try moving it: give the characters somewhere to get to, and let the destination become a deadline.",
+    "lessons": [
+      "dialogue"
     ]
   },
   {

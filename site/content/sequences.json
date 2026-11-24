@@ -206,5 +206,17 @@
       "Until finally…",
       "And ever since then…"
     ]
+  },
+  {
+    "lesson": "editing",
+    "title": "Murch's rule of six, most to least important",
+    "steps": [
+      "Emotion",
+      "Story",
+      "Rhythm",
+      "Eye-trace",
+      "Two-dimensional plane of the screen",
+      "Three-dimensional space"
+    ]
   }
 ]
