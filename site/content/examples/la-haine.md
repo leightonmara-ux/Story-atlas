@@ -28,7 +28,7 @@ The cast is also a statement. A Jewish, a Black and an Arab young man, friends, 
 
 ### The gun on the wall
 
-*Anton Chekhov* gives the most quoted rule in drama: a gun that appears in the first act should go off later. *La Haine* hangs its gun on the wall in the first minutes, when Vinz shows his friends the revolver. All day we wait for him to use it. He threatens to. At night, he finally has his chance: a brawl with a gang of skinheads leaves Vinz with one of them (played, in a cameo, by Kassovitz) at gunpoint. Hubert, furious, urges him to shoot, to show him what killing actually means. Vinz can't do it, and lets the boy go.
+*Anton Chekhov* gives the most quoted rule in drama: a gun that appears in the first act should go off later. *La Haine* hangs its gun on the wall early that first morning, when Vinz shows his friends the revolver. All day we wait for him to use it. He threatens to. At night, he finally has his chance: a brawl with a gang of skinheads leaves Vinz with one of them (played, in a cameo, by Kassovitz) at gunpoint. Hubert, furious, urges him to shoot, to show him what killing actually means. Vinz can't do it, and lets the boy go.
 
 In the morning Vinz hands the gun to Hubert. Moments later a policeman, toying with Vinz, holds his own pistol to Vinz's head, and it goes off. The gun that fires isn't the one we were watching. That's the film's reversal, what *Aristotle* calls *peripeteia*: the end arrives by a road we didn't expect, and it is worse than the one we feared. Then Hubert, holding the gun he never wanted, faces the policeman, each aiming at the other. The camera moves in on Saïd, who closes his eyes; we hear a shot; the film ends without showing who was hit.
 

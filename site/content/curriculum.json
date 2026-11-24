@@ -565,7 +565,13 @@
           "summary": "Start from an image or dream rather than a plot, treat film as rhythm closer to music than literature, and trust the human face and the small 'chamber' cast in one place to carry the drama.",
           "ready": true
         },
-        { "id": "trier", "title": "Joachim Trier", "subtitle": "Chapters, memory and the Oslo films, with Eskil Vogt" },
+        {
+          "id": "trier",
+          "title": "Joachim Trier",
+          "subtitle": "Chapters, memory and the Oslo films, with Eskil Vogt",
+          "summary": "Joachim Trier and Eskil Vogt build films from long talk about characters rather than plot, frame stories as memory through voices, places and chapter cards, and use voice-over only where it adds something the images can't.",
+          "ready": true
+        },
         {
           "id": "waller-bridge",
           "title": "Phoebe Waller-Bridge",

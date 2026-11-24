@@ -10,7 +10,7 @@
 
 The film opens at the wedding of Min-Min's younger brother, A-Di, whose bride is visibly pregnant, and which his ex-girlfriend crashes in a scene of loud public grief. It ends at the grandmother's funeral. Somewhere between, A-Di's baby is born. Yang said in a 2000 interview that in Chinese culture a wedding always stands for luck, something good, and that the film ends with its opposite.
 
-This is a frame, not a plot. Nothing at the wedding causes the funeral. What the bookends give is *Frank Kermode & Peter Brooks*' "tick-tock": a beginning and an end that turn the months between into organized time. Because the frame is the life cycle itself (marriage, birth, death), every smaller story inside it reads as one more instance of the same cycle. The pregnant bride and the dying grandmother are in the same family photograph. The lesson's point about *concord* is that the end should confirm what the beginning set going; here the beginning sets going nothing but time.
+This is a frame, not a plot. Nothing at the wedding causes the funeral. What the bookends give is *Frank Kermode & Peter Brooks*' "tick-tock": a beginning and an end that turn the months between into organized time. Because the frame is the life cycle itself (marriage, birth, death), every smaller story inside it reads as one more instance of the same cycle. The pregnant bride and the dying grandmother are in the same family photograph.
 
 ### Three generations, one question
 
@@ -36,7 +36,7 @@ This is the film's theory of itself. Much of *Yi Yi* is shot at a distance, in l
 
 Yang repeatedly films characters through windows at night, so that the city's lights are laid over their faces. In one shot Min-Min stands at her office window, the night city outside and the near-empty office reflected in the glass; in another, after her breakdown, the bedroom window turns into a dark mirror full of the traffic below. The effect is double exposure without a trick: the private crisis and the indifferent city occupy the same frame, and a single woman's misery becomes one light among thousands.
 
-*Light, colour and setting* teaches that setting can be a character. Yang goes further: the glass makes setting and character literally the same image. Watch how rarely anyone in the film is filmed in plain, unobstructed close-up.
+*Light, colour and setting* teaches that setting can be a character. Yang goes further: the glass makes setting and character literally the same image.
 
 ### Talking to someone who can't answer
 
@@ -61,7 +61,7 @@ Notice the movement at the end: nearly everyone who went looking for a different
 
 ## What people said
 
-**Edward Yang** talked about the film's frame in interviews on its release, explaining the wedding as the conventional sign of luck and setting it against the closing funeral. He made the film after a long break, and it was his first to get regular American distribution, through a small company, despite six earlier features. Yang trained as an engineer and worked in computing in the United States before turning to film, and NJ's world of offices, deals and software has that insider's precision.
+**Edward Yang** talked about the film's frame in interviews on its release, explaining the wedding as the conventional sign of luck and setting it against the closing funeral. He made the film after a long break, and it was his first to get regular American distribution, through a small company, despite six earlier features.
 
 **The critics** were close to unanimous. A. O. Scott, in the *New York Times* (2000), began his review by describing watching the end credits through tears and trying to name what he felt. The National Society of Film Critics named it the best film of 2000, and it placed high in later polls of the decade's best films. Roger Ebert, reviewing it in 2001, built his review around Yang-Yang and the idea that none of these people can see more than part of the truth. Kent Jones's essay for the Criterion Collection release looks at how the film's scenes carry their resonance over into one another, and at how Yang's Taipei can seem impersonal while remaining, for each character, a matter of choice.
 

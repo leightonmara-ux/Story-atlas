@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "la-la-land",
+    "title": "La La Land",
+    "year": 2016,
+    "medium": "Film",
+    "by": "Damien Chazelle (writer-director); Justin Hurwitz (music); Benj Pasek and Justin Paul (lyrics); Linus Sandgren (cinematography); Tom Cross (editing); Emma Stone, Ryan Gosling, John Legend",
+    "summary": "A musical that uses the seasons as chapters, gives each lover an \"I want\" song, and ends with a montage of the life they didn't live, making dream and love the two sides of one trade-off.",
+    "lessons": [
+      "stage-forms",
+      "editing",
+      "genre-promise",
+      "want-need-wound",
+      "music-silence",
+      "mise-en-scene",
+      "endings",
+      "narrative-order"
+    ]
+  },
+  {
     "id": "la-notte",
     "title": "La Notte",
     "year": 1961,
@@ -87,6 +105,24 @@
     ]
   },
   {
+    "id": "rosemarys-baby",
+    "title": "Rosemary's Baby",
+    "year": 1968,
+    "medium": "Film",
+    "by": "Roman Polanski (writer-director, from Ira Levin's 1967 novel); William Castle (producer); William Fraker (cinematography); Krzysztof Komeda (music); Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer",
+    "summary": "A horror film built almost entirely on restricted point of view and domestic dread, which keeps every clue ambiguous until an ending that turns the genre's confrontation into acceptance.",
+    "lessons": [
+      "genre-promise",
+      "narrative-order",
+      "camera",
+      "mise-en-scene",
+      "poe",
+      "endings",
+      "allegiance",
+      "music-silence"
+    ]
+  },
+  {
     "id": "spirited-away",
     "title": "Spirited Away",
     "year": 2001,
@@ -120,6 +156,41 @@
       "save-the-cat-practice",
       "music-silence",
       "mise-en-scene"
+    ]
+  },
+  {
+    "id": "virgin-suicides",
+    "title": "The Virgin Suicides",
+    "year": 1999,
+    "medium": "Film",
+    "by": "Sofia Coppola (writer-director, from Jeffrey Eugenides's 1993 novel); Ed Lachman (cinematography); Air (score); Kirsten Dunst, James Woods, Kathleen Turner, Josh Hartnett; Giovanni Ribisi (narrator)",
+    "summary": "A film narrated by a collective \"we\" that tells its outcome in the first minutes, turning suspense into elegy and showing how memory makes a myth of people it never understood.",
+    "lessons": [
+      "point-of-view",
+      "narrative-order",
+      "white-didion",
+      "who-is-the-subject",
+      "music-silence",
+      "poe",
+      "mise-en-scene"
+    ]
+  },
+  {
+    "id": "whiplash",
+    "title": "Whiplash",
+    "year": 2014,
+    "medium": "Film",
+    "by": "Damien Chazelle (writer-director); Tom Cross (editing); Sharone Meir (cinematography); Justin Hurwitz (music); Miles Teller, J. K. Simmons, Paul Reiser, Melissa Benoist",
+    "summary": "A two-hander that escalates like a fight, cut to the rhythm of its music, whose triumphant final performance leaves audiences arguing over whether it endorses the abuse that produced it.",
+    "lessons": [
+      "cast-system",
+      "editing",
+      "want-need-wound",
+      "allegiance",
+      "endings",
+      "field",
+      "music-silence",
+      "film-sound"
     ]
   },
   {

@@ -789,6 +789,19 @@
     ]
   },
   {
+    "term": "Ellipsis",
+    "aka": [
+      "Time cut"
+    ],
+    "origin": "Gérard Genette named it among the speeds of narrative in Narrative Discourse (1972; English 1980); in film it's simply a cut that skips time.",
+    "meaning": "A gap in the telling where story time passes but nothing is narrated; the audience fills it in.",
+    "use": "Skip whatever the audience can infer, and plant one clue after the gap (a new haircut, a different flat) so they catch up without exposition.",
+    "lessons": [
+      "trier",
+      "narrative-order"
+    ]
+  },
+  {
     "term": "Emotional arc",
     "aka": [
       "Sentiment arc"
@@ -1311,6 +1324,19 @@
     "use": "Write 'wants ___, blocked by ___' at the top of each scene for every character. If you can't fill both blanks, strengthen the want or the obstacle, or cut the scene.",
     "lessons": [
       "sorkin"
+    ]
+  },
+  {
+    "term": "Intertitle",
+    "aka": [
+      "Title card",
+      "Chapter card"
+    ],
+    "origin": "Silent cinema used intertitles for dialogue and narration; sound films kept them for chapter headings, as in The Worst Person in the World (2021), with its prologue, twelve titled chapters and epilogue.",
+    "meaning": "Text shown full-screen between shots or sections, naming a chapter, a time or a place.",
+    "use": "Use chapter cards when a story jumps through time: they make the gaps honest, and their wording can give the film a voice of its own.",
+    "lessons": [
+      "trier"
     ]
   },
   {
@@ -1947,6 +1973,18 @@
       "mckee",
       "egri",
       "shared-core"
+    ]
+  },
+  {
+    "term": "Prologue",
+    "aka": [
+      "Overture"
+    ],
+    "origin": "From Greek tragedy, where a prologue spoken before the chorus enters sets out the situation; screen and stage writers still use it for an opening set apart from the main action.",
+    "meaning": "An opening section that stands outside the main story, setting tone, backstory or a frame before the action proper begins.",
+    "use": "Use a prologue to tell the audience how to watch (as memory, as comedy, as a warning), not to dump backstory; Trier's films open with remembered voices, a school essay or an imagined future.",
+    "lessons": [
+      "trier"
     ]
   },
   {
@@ -2748,6 +2786,20 @@
     "use": "Interrupt a moment of identification with a device that makes the audience look at it as a choice: a song, a title, a character stepping out. Do it where you want judgment, not tears.",
     "lessons": [
       "brecht"
+    ]
+  },
+  {
+    "term": "Voice-over",
+    "aka": [
+      "Narration",
+      "V.O."
+    ],
+    "origin": "A film and broadcasting term from the sound era; no single originator. Screenwriting manuals often warn against it; Joachim Trier told Seventh Row (2016) it is a cop-out when it only tells us what the film isn't showing.",
+    "meaning": "Speech heard over the images by a voice not speaking in the scene: a narrator, or a character's inner voice.",
+    "use": "Write it last, and keep a line only if it contrasts with, undercuts or widens what we see; cut any line that describes the picture.",
+    "lessons": [
+      "trier",
+      "point-of-view"
     ]
   },
   {

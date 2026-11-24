@@ -65,7 +65,7 @@ No conventional structure fits, and the film is designed that way. Its chapters 
 
 - **The first shot** (opening seconds): Mason on the grass, looking at the sky. Compare it with the final scene.
 - **The first jump in time** (about a tenth in): how you learn time has passed, with no caption.
-- **Bill's dinner table** (about a quarter in): watch the dread build, and how the film refuses to let it explode.
+- **Bill's dinner table** (about a quarter in): watch the dread build, and how quickly the film moves on once Olivia acts.
 - **The haircut** (about a quarter to a third in): Bill has Mason's long hair shaved off. Linklater has joked that it might be the film's most traumatic scene. Notice how small it is.
 - **The Obama signs** (about two-fifths in): politics, and Mason Sr.'s idea of fatherhood, in one errand.
 - **The saw blades** (about two-thirds in): a scene staged like the lead-up to an accident.
