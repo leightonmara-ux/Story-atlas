@@ -43,8 +43,8 @@ Is the ending a parody of the rules or a surrender to them? Critics still argue.
 Kaufman doesn't reject structure; he invents it for each story, so the shape of the film carries its idea. Three examples:
 
 - ***Being John Malkovich*.** A failing puppeteer finds a small door in an office building that leads into the actor John Malkovich's head for fifteen minutes. The wish to be someone else, which the puppeteer already acts out with his puppets, becomes a literal place.
-- ***Eternal Sunshine of the Spotless Mind*.** Most of the film takes place inside Joel's (Jim Carrey) mind while his memories of Clementine (Kate Winslet) are erased, newest first. Halfway through, he decides he wants to keep them, and runs with her through his memories trying to hide her. The opening, where the two meet on a train from Montauk and the titles only roll after it, turns out to come *after* the erasure. The structure asks its question directly: knowing how it ended, would you do it again?
-- ***Synecdoche, New York*.** A theatre director (Philip Seymour Hoffman) builds a full-scale replica of New York in a warehouse for a play about his own life, then casts an actor to play himself, and later an actor to play that actor. Years pass within scenes. The form is the anxiety: the attempt to capture a whole life swallows the life.
+- ***Eternal Sunshine of the Spotless Mind*.** Most of the film takes place inside Joel's (Jim Carrey) mind while his memories of Clementine (Kate Winslet) are erased, newest first. Partway through, he decides he wants to keep them, and runs with her through his memories trying to hide her. The opening, where the two meet on a train from Montauk and the titles only roll after it, turns out to come *after* the erasure. The structure asks its question directly: knowing how it ended, would you do it again?
+- ***Synecdoche, New York*.** A theatre director (Philip Seymour Hoffman) builds a full-scale replica of New York in a warehouse for a play about his own life, then casts an actor to play himself, and eventually hands his own role to someone else. Years pass within scenes. The form is the anxiety: the attempt to capture a whole life swallows the life.
 
 The lesson for writers isn't "be weird". It's to ask what shape your particular story needs, rather than which template it fits.
 
@@ -52,7 +52,7 @@ The lesson for writers isn't "be weird". It's to ask what shape your particular 
 
 - **Stage:** Theatre welcomes self-awareness, and plays about the making of plays go back centuries. If your play stalls, try putting your own struggle with it on stage, but only if that struggle is the real subject. Ask whether your structure expresses the play's idea or just organizes it.
 - **Screen:** Before borrowing a beat sheet, ask what your premise does to time, memory or identity, and build the structure from that. If you do use the conventions, use them knowingly. *Adaptation* shows a formula can be a subject.
-- **Journalism:** Being honest and being vulnerable aren't the same as inserting yourself into the story. In a personal essay or first-person feature, Kaufman's question applies: are you saying who you really are, or performing a version of yourself? In reporting, the equivalent courage is admitting what you don't know (see *Vivian Gornick* and *Joan Didion*).
+- **Journalism:** Being honest and being vulnerable aren't the same as inserting yourself into the story. In a personal essay or first-person feature, Kaufman's question applies: are you saying who you really are, or performing a version of yourself? In reporting, the equivalent courage is admitting what you don't know (see *Vivian Gornick* and *Hayden White & Joan Didion*).
 
 ## The pushback
 
