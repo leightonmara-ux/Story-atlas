@@ -526,5 +526,850 @@
     "answer": 2,
     "explain": "Barthes's point: words anchor an image's unstable meaning, so captions carry real responsibility.",
     "lesson": "journalism-tools"
+  },
+  {
+    "game": "genre",
+    "q": "Jaws (1975): a great white shark attacks swimmers off a resort island, and the mayor keeps the beaches open for the tourist trade. Which of Snyder's genres is it?",
+    "choices": [
+      "Monster in the House",
+      "Dude with a Problem",
+      "Golden Fleece",
+      "Whydunit"
+    ],
+    "answer": 0,
+    "explain": "A monster, a confined place (the island town), and people whose sin (greed) lets the danger in.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Alien (1979): a creature gets aboard a mining spaceship and hunts the crew, who can't escape. Which of Snyder's genres is it?",
+    "choices": [
+      "Superhero",
+      "Golden Fleece",
+      "Monster in the House",
+      "Institutionalized"
+    ],
+    "answer": 2,
+    "explain": "A monster loose in a sealed 'house': the ship. The decisive clue is the trap the characters can't leave.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "The Wizard of Oz (1939): Dorothy and three companions travel the yellow brick road to reach the Wizard, and each is changed by the journey. Which of Snyder's genres is it?",
+    "choices": [
+      "Buddy Love",
+      "Golden Fleece",
+      "Out of the Bottle",
+      "Rites of Passage"
+    ],
+    "answer": 1,
+    "explain": "A quest on the road with a team and a prize at the end; the real reward is what they learn on the way.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Ocean's Eleven (2001): Danny Ocean assembles a crew of specialists to rob three Las Vegas casinos in one night. Which of Snyder's genres is it?",
+    "choices": [
+      "Whydunit",
+      "Golden Fleece",
+      "Institutionalized",
+      "Dude with a Problem"
+    ],
+    "answer": 1,
+    "explain": "Snyder counted the heist as a Golden Fleece: a team gathered to go after a prize.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Big (1988): a boy makes a wish at a fairground machine and wakes up as a grown man. Which of Snyder's genres is it?",
+    "choices": [
+      "Out of the Bottle",
+      "Rites of Passage",
+      "Fool Triumphant",
+      "Superhero"
+    ],
+    "answer": 0,
+    "explain": "A magic wish granted is the decisive clue; the magic brings a lesson and has to be undone.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Liar Liar (1997): after his son's birthday wish, a dishonest lawyer finds he can't tell a lie for a whole day. Which of Snyder's genres is it?",
+    "choices": [
+      "Fool Triumphant",
+      "Buddy Love",
+      "Out of the Bottle",
+      "Dude with a Problem"
+    ],
+    "answer": 2,
+    "explain": "A wish comes true and teaches the hero a lesson, Snyder's own example of the genre.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Gravity (2013): after debris destroys their shuttle, an astronaut fights to survive alone in orbit and get back to Earth. Which of Snyder's genres is it?",
+    "choices": [
+      "Golden Fleece",
+      "Monster in the House",
+      "Rites of Passage",
+      "Dude with a Problem"
+    ],
+    "answer": 3,
+    "explain": "An ordinary person suddenly fighting for survival against a problem she didn't ask for; there's no monster, just the situation.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Ordinary People (1980): after one son drowns, a family struggles with grief, and the surviving son with guilt and depression. Which of Snyder's genres is it?",
+    "choices": [
+      "Rites of Passage",
+      "Institutionalized",
+      "Whydunit",
+      "Buddy Love"
+    ],
+    "answer": 0,
+    "explain": "The 'monster' is a life passage, grief, which the hero must go through and come to accept.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "When Harry Met Sally... (1989): two people who keep meeting over twelve years insist they're just friends. Which of Snyder's genres is it?",
+    "choices": [
+      "Golden Fleece",
+      "Buddy Love",
+      "Fool Triumphant",
+      "Out of the Bottle"
+    ],
+    "answer": 1,
+    "explain": "The story is the relationship itself: two incomplete people who need each other to be whole.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Chinatown (1974): a private detective takes a routine adultery case and uncovers a scheme over Los Angeles water, and a darker family secret. Which of Snyder's genres is it?",
+    "choices": [
+      "Dude with a Problem",
+      "Monster in the House",
+      "Whydunit",
+      "Institutionalized"
+    ],
+    "answer": 2,
+    "explain": "An investigation into the dark side of people, which Snyder rated perhaps the best Whydunit ever made.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "All the President's Men (1976): two Washington Post reporters follow the money from a burglary toward the White House. Which of Snyder's genres is it?",
+    "choices": [
+      "Whydunit",
+      "Golden Fleece",
+      "Buddy Love",
+      "Dude with a Problem"
+    ],
+    "answer": 0,
+    "explain": "The engine is the investigation and what it reveals about power, not the partnership or a prize.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Being There (1979): a sheltered, simple gardener is mistaken for a wise man and rises to the top of Washington society. Which of Snyder's genres is it?",
+    "choices": [
+      "Superhero",
+      "Rites of Passage",
+      "Out of the Bottle",
+      "Fool Triumphant"
+    ],
+    "answer": 3,
+    "explain": "An underestimated 'fool' who wins out over the establishment, whose pretensions he exposes.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Forrest Gump (1994): a kind, slow-witted man drifts through decades of American history and outlasts everyone who looked down on him. Which of Snyder's genres is it?",
+    "choices": [
+      "Fool Triumphant",
+      "Golden Fleece",
+      "Rites of Passage",
+      "Superhero"
+    ],
+    "answer": 0,
+    "explain": "The decisive clue is the underestimated innocent who triumphs over people who think they're smarter.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "The Godfather (1972): a son who wanted no part of the family business is drawn in until he becomes its ruthless head. Which of Snyder's genres is it?",
+    "choices": [
+      "Dude with a Problem",
+      "Rites of Passage",
+      "Institutionalized",
+      "Whydunit"
+    ],
+    "answer": 2,
+    "explain": "Snyder filed it as Institutionalized (a 'family institution'): the story is about the individual against the group, and the cost of joining.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "game": "genre",
+    "q": "Spider-Man (2002): a teenager gains extraordinary powers and learns that they come with great responsibility, while an ordinary world misunderstands him. Which of Snyder's genres is it?",
+    "choices": [
+      "Out of the Bottle",
+      "Superhero",
+      "Fool Triumphant",
+      "Monster in the House"
+    ],
+    "answer": 1,
+    "explain": "An extraordinary person in an ordinary world. Unlike Out of the Bottle, the powers define him rather than being a temporary lesson.",
+    "lesson": "save-the-cat-practice"
+  },
+  {
+    "q": "Two tramps wait by a bare tree for someone called Godot who never comes. They trade music-hall routines, contemplate hanging themselves, and agree to leave, but don't move. What kind of story is it?",
+    "choices": [
+      "Farce",
+      "Tragicomedy",
+      "Booker's Tragedy",
+      "Frye's romance"
+    ],
+    "answer": 1,
+    "explain": "Beckett subtitled it \"a tragicomedy in two acts\": it's funny and desolate at once, and no one dies.",
+    "lesson": "tragedy-comedy",
+    "game": "type"
+  },
+  {
+    "q": "A king, through pride, banishes the daughter who truly loves him, loses his wits on a heath, and dies holding her body. What kind of story is it?",
+    "choices": [
+      "Tragicomedy",
+      "Booker's Rebirth",
+      "Tragedy",
+      "Picaresque"
+    ],
+    "answer": 2,
+    "explain": "King Lear ends in death and separation, the classical mark of tragedy; the brief reunion with Cordelia is undone.",
+    "lesson": "tragedy-comedy",
+    "game": "type"
+  },
+  {
+    "q": "A duke goes into disguise to watch his deputy, who demands a nun's chastity as the price of her brother's life. Plots are foiled and the play ends in marriages that feel more like sentences than celebrations. What kind of story is it?",
+    "choices": [
+      "Comedy",
+      "Farce",
+      "Tragedy",
+      "Problem play"
+    ],
+    "answer": 3,
+    "explain": "Measure for Measure has a comic ending but leaves its moral questions unsettled, which is why Boas called it a problem play.",
+    "lesson": "tragedy-comedy",
+    "game": "type"
+  },
+  {
+    "q": "A rogue general launches a nuclear strike, the war room squabbles over etiquette and procedure, and the film ends with bombs falling to a cheerful song. What kind of story is it?",
+    "choices": [
+      "Dark comedy",
+      "Tragedy",
+      "Booker's Overcoming the Monster",
+      "Frye's romance"
+    ],
+    "answer": 0,
+    "explain": "Dr. Strangelove laughs at annihilation itself; the decisive clue is that catastrophe is played as farce.",
+    "lesson": "tragedy-comedy",
+    "game": "type"
+  },
+  {
+    "q": "A hypothetical play: long-separated twins, each believing the other dead, finally meet onstage, and three couples pair off for a wedding feast that everyone attends. What kind of story is it?",
+    "choices": [
+      "Problem play",
+      "Comedy",
+      "Booker's Rebirth",
+      "Tragicomedy"
+    ],
+    "answer": 1,
+    "explain": "Reunion and marriage, with the whole community gathered, is comedy's classical ending; no near-death turn or unsettled question pulls it elsewhere.",
+    "lesson": "tragedy-comedy",
+    "game": "type"
+  },
+  {
+    "q": "A knight sets out on a perilous journey, survives a series of minor adventures, slays a dragon in a decisive battle, and returns in glory to a grateful court. What kind of story is it?",
+    "choices": [
+      "Frye's irony and satire",
+      "Booker's Rags to Riches",
+      "Frye's romance",
+      "Farce"
+    ],
+    "answer": 2,
+    "explain": "The successful quest, with journey, crucial struggle and exaltation of the hero, is Frye's mythos of summer.",
+    "lesson": "frye",
+    "game": "type"
+  },
+  {
+    "q": "Exiled courtiers flee a usurping duke to the Forest of Arden. Lovers find each other there, the usurper is converted, and the play ends with four weddings. What kind of story is it?",
+    "choices": [
+      "Frye's comedy",
+      "Frye's romance",
+      "Tragedy",
+      "Polti's Pursuit"
+    ],
+    "answer": 0,
+    "explain": "As You Like It forms a new society around its lovers, uses a green world, and converts its blocking figure: Frye's spring.",
+    "lesson": "frye",
+    "game": "type"
+  },
+  {
+    "q": "An ageing salesman, clinging to dreams of being well liked, loses his job, quarrels with his sons, and kills himself for the insurance money. Which of Frye's mythoi is it?",
+    "choices": [
+      "Frye's comedy",
+      "Frye's tragedy",
+      "Booker's Rags to Riches",
+      "Booker's Voyage and Return"
+    ],
+    "answer": 1,
+    "explain": "Death of a Salesman moves toward isolation and death, the mythos of autumn, though its hero is low mimetic rather than a king.",
+    "lesson": "frye",
+    "game": "type"
+  },
+  {
+    "q": "A hypothetical novel: every institution in a city fails at once, the would-be reformers are ridiculous, and no one is capable of changing anything. What kind of story is it?",
+    "choices": [
+      "Frye's romance",
+      "Comedy",
+      "Booker's Quest",
+      "Frye's irony and satire"
+    ],
+    "answer": 3,
+    "explain": "A world without effective heroes, where action seems impossible, is Frye's mythos of winter.",
+    "lesson": "frye",
+    "game": "type"
+  },
+  {
+    "q": "A historian tells the French Revolution as the story of a people rising up and triumphing over tyranny, good prevailing in the end. In Hayden White's terms, borrowed from Frye, which plot type has she chosen?",
+    "choices": [
+      "Frye's romance",
+      "Frye's irony and satire",
+      "Tragedy",
+      "Obituary"
+    ],
+    "answer": 0,
+    "explain": "A hero (the people) triumphing over the world is romance; the same facts could be emplotted as a tragic fall.",
+    "lesson": "frye",
+    "game": "type"
+  },
+  {
+    "q": "A giant shark terrorizes a seaside town. The police chief, a scientist and a grizzled fisherman go out to hunt it, the shark proves far stronger than they thought, and the chief kills it at the last moment. What kind of story is it?",
+    "choices": [
+      "Booker's Quest",
+      "Polti's Pursuit",
+      "Booker's Overcoming the Monster",
+      "Picaresque"
+    ],
+    "answer": 2,
+    "explain": "A deadly force threatening a community, confronted and destroyed: Jaws is the textbook case.",
+    "lesson": "booker",
+    "game": "type"
+  },
+  {
+    "q": "A girl from Kansas is swept by a tornado into a magical land, is enchanted by it, then menaced by a witch, and finally escapes home saying there's no place like home. What kind of story is it?",
+    "choices": [
+      "Booker's Voyage and Return",
+      "Booker's Quest",
+      "Booker's Rags to Riches",
+      "Bildungsroman"
+    ],
+    "answer": 0,
+    "explain": "The Wizard of Oz is a fall into another world where the point is getting home. In a Quest, the hero sets out deliberately for a distant goal.",
+    "lesson": "booker",
+    "game": "type"
+  },
+  {
+    "q": "A mistreated young woman, kept in the cinders by her stepfamily, is transformed for one night, loses everything at midnight, and is finally found and married to the prince. What kind of story is it?",
+    "choices": [
+      "Booker's Rebirth",
+      "Booker's Rags to Riches",
+      "Comedy",
+      "Booker's Overcoming the Monster"
+    ],
+    "answer": 1,
+    "explain": "Cinderella: a humble figure rises, loses it all at a central crisis, and wins through to deserved fulfilment.",
+    "lesson": "booker",
+    "game": "type"
+  },
+  {
+    "q": "A miser who hates Christmas is visited by spirits on Christmas Eve, sees his frozen, loveless life and the death it leads to, and wakes a changed, generous man. What kind of story is it?",
+    "choices": [
+      "Booker's Tragedy",
+      "Booker's Voyage and Return",
+      "Farce",
+      "Booker's Rebirth"
+    ],
+    "answer": 3,
+    "explain": "A Christmas Carol: a hero under a dark spell, in a kind of living death, released by a redemptive turn.",
+    "lesson": "booker",
+    "game": "type"
+  },
+  {
+    "q": "A small band of companions sets out from a peaceful homeland to carry a dangerous ring across the world to a distant mountain, and destroys it through a series of ordeals. What kind of story is it?",
+    "choices": [
+      "Booker's Voyage and Return",
+      "Booker's Rags to Riches",
+      "Booker's Quest",
+      "Frye's irony and satire"
+    ],
+    "answer": 2,
+    "explain": "The Lord of the Rings: a deliberate journey with companions toward a distant goal, won through final ordeals.",
+    "lesson": "booker",
+    "game": "type"
+  },
+  {
+    "q": "Fifty young women flee a forced marriage and throw themselves on the protection of a foreign king, who must decide whether to shelter them at the risk of war. What kind of story is it?",
+    "choices": [
+      "Polti's Supplication",
+      "Polti's Disaster",
+      "Booker's Quest",
+      "Comedy"
+    ],
+    "answer": 0,
+    "explain": "Aeschylus's The Suppliants has all three roles: persecutors, suppliants, and a power whose decision is in doubt.",
+    "lesson": "polti",
+    "game": "type"
+  },
+  {
+    "q": "An advertising man, mistaken for a spy, is framed for a murder and chased across the country by the police and by the spies who framed him. What kind of story is it?",
+    "choices": [
+      "Polti's Remorse",
+      "Booker's Rags to Riches",
+      "Tragicomedy",
+      "Polti's Pursuit"
+    ],
+    "answer": 3,
+    "explain": "North by Northwest runs on a fugitive and the punishment chasing him: Pursuit.",
+    "lesson": "polti",
+    "game": "type"
+  },
+  {
+    "q": "A sailor wrongly imprisoned for years escapes, finds a hidden fortune, and methodically destroys the men who betrayed him. What kind of story is it?",
+    "choices": [
+      "Polti's Supplication",
+      "Polti's Crime pursued by vengeance",
+      "Frye's comedy",
+      "Farce"
+    ],
+    "answer": 1,
+    "explain": "The Count of Monte Cristo pairs an avenger with the criminals who wronged him.",
+    "lesson": "polti",
+    "game": "type"
+  },
+  {
+    "q": "A hypothetical play: a single exhausted soldier staggers into the palace to report to the queen that the whole army has been destroyed. What kind of story is it?",
+    "choices": [
+      "Polti's Deliverance",
+      "Booker's Voyage and Return",
+      "Polti's Disaster",
+      "Obituary"
+    ],
+    "answer": 2,
+    "explain": "A vanquished power, and a messenger bringing word of defeat: Polti's Disaster.",
+    "lesson": "polti",
+    "game": "type"
+  },
+  {
+    "q": "A hypothetical film: a family is held hostage in their farmhouse by an armed gang, until a stranger passing through fights his way in and frees them. Which Polti situation is it?",
+    "choices": [
+      "Polti's Deliverance",
+      "Polti's Supplication",
+      "Polti's Remorse",
+      "Picaresque"
+    ],
+    "answer": 0,
+    "explain": "An unfortunate, a threatener and a rescuer: Deliverance. No one is begging a power to decide, so it isn't Supplication.",
+    "lesson": "polti",
+    "game": "type"
+  },
+  {
+    "game": "type",
+    "q": "A shy clerk has an ordinary week until he meets the love of his life at a friend's wedding. A misunderstanding drives her away; in the last act he wins her back for good. What kind of story is it?",
+    "choices": [
+      "The Kafka shape",
+      "Vonnegut's Boy Meets Girl",
+      "Picaresque",
+      "Künstlerroman"
+    ],
+    "answer": 1,
+    "explain": "Ordinary start, something wonderful found, lost, and regained forever: the rise–fall–rise of Boy Meets Girl.",
+    "lesson": "vonnegut-shapes"
+  },
+  {
+    "game": "type",
+    "q": "In Kafka's The Metamorphosis, a travelling salesman in a dull, badly paid job wakes up as a giant insect, and his life only gets worse until he dies. In Vonnegut's terms, what kind of story is it?",
+    "choices": [
+      "Vonnegut's Man in a Hole",
+      "Farce",
+      "The Kafka shape",
+      "Vonnegut's Cinderella"
+    ],
+    "answer": 2,
+    "explain": "It starts low and falls off the bottom of the graph with no climb back: the shape Vonnegut named after Kafka.",
+    "lesson": "vonnegut-shapes"
+  },
+  {
+    "game": "type",
+    "q": "In Apollo 13 (1995), a routine moon mission is crippled by an explosion; the crew and mission control improvise their way back to Earth, and the astronauts come home as heroes. In Vonnegut's terms, what kind of story is it?",
+    "choices": [
+      "Vonnegut's Man in a Hole",
+      "The Kafka shape",
+      "Vonnegut's Cinderella",
+      "Picaresque"
+    ],
+    "answer": 0,
+    "explain": "It starts from ordinary fortune, not the bottom, falls into trouble and climbs out better off: Man in a Hole, not Cinderella.",
+    "lesson": "vonnegut-shapes"
+  },
+  {
+    "game": "type",
+    "q": "An orphaned kitchen porter, mistreated by her bosses, is coached step by step by a retired chef into a famous cooking contest, is disqualified on the final night, and is then offered her own restaurant by a judge who saw what she could do. In Vonnegut's terms, what kind of story is it?",
+    "choices": [
+      "Vonnegut's Boy Meets Girl",
+      "Vonnegut's Cinderella",
+      "Vonnegut's Man in a Hole",
+      "The Kafka shape"
+    ],
+    "answer": 1,
+    "explain": "The decisive clue is the start at the very bottom, the staircase of gifts, a drop that isn't as low as the start, then a soar: Cinderella.",
+    "lesson": "vonnegut-shapes"
+  },
+  {
+    "game": "type",
+    "q": "A detective gets news after news about her missing brother, and neither she nor the audience can ever tell whether each turn is good or bad; the film refuses to say. In Vonnegut's terms, what kind of story is it?",
+    "choices": [
+      "Vonnegut's Man in a Hole",
+      "Farce",
+      "Vonnegut's Boy Meets Girl",
+      "Vonnegut's Hamlet: the flat line"
+    ],
+    "answer": 3,
+    "explain": "Events that can't be plotted as up or down keep the line flat, which is how Vonnegut drew Hamlet.",
+    "lesson": "vonnegut-shapes"
+  },
+  {
+    "game": "type",
+    "q": "An unloved orphan girl survives a harsh boarding school, becomes a governess, falls in love, flees a terrible discovery, and returns years later, independent, on her own terms. (Jane Eyre, 1847.) What kind of story is it?",
+    "choices": [
+      "Picaresque",
+      "Heist",
+      "Farce",
+      "Bildungsroman"
+    ],
+    "answer": 3,
+    "explain": "We watch one person formed over years by school, work and love, ending in a bargained accommodation: a bildungsroman.",
+    "lesson": "bildungsroman"
+  },
+  {
+    "game": "type",
+    "q": "A Dublin boy grows up through Catholic school and family quarrels, breaks with Church, family and nation, and leaves Ireland to become a writer. (A Portrait of the Artist as a Young Man, 1916.) What kind of story is it?",
+    "choices": [
+      "Quest",
+      "Künstlerroman",
+      "Picaresque",
+      "Booker's Voyage and Return"
+    ],
+    "answer": 1,
+    "explain": "The decisive clue is the artist's growth ending in a break to make art: the künstlerroman, the artist's branch of the bildungsroman.",
+    "lesson": "bildungsroman"
+  },
+  {
+    "game": "type",
+    "q": "In The 400 Blows (1959), a neglected Paris boy skips school, steals, is sent to a reform school, escapes and runs to the sea; the film freezes on his face. What kind of story is it?",
+    "choices": [
+      "Bildungsroman",
+      "Quest",
+      "Farce",
+      "Obituary"
+    ],
+    "answer": 0,
+    "explain": "It's about who this boy is becoming, and ends open, in rupture: a coming-of-age story. He has no goal to quest for; the sea is an escape, not a prize.",
+    "lesson": "bildungsroman"
+  },
+  {
+    "game": "type",
+    "q": "A fifteen-year-old moves to a new country, and over four years learns the language, loses her first friend, falls in love and finally decides whether to stay or go back. What kind of story is it?",
+    "choices": [
+      "Picaresque",
+      "Heist",
+      "Bildungsroman",
+      "The Kafka shape"
+    ],
+    "answer": 2,
+    "explain": "Formation over years, a curriculum of experience, and an ending that answers who she'll be and where she belongs.",
+    "lesson": "bildungsroman"
+  },
+  {
+    "game": "type",
+    "q": "In Lady Bird (2017), a Sacramento teenager fights with her mother, chases boys and colleges, gets into a New York school, and ends the film calling home and using her given name. What kind of story is it?",
+    "choices": [
+      "Road movie",
+      "Bildungsroman",
+      "Farce",
+      "Tragedy"
+    ],
+    "answer": 1,
+    "explain": "The decisive clue is the name: the film is about who she is becoming, and ends with her accepting part of where she came from.",
+    "lesson": "bildungsroman"
+  },
+  {
+    "game": "type",
+    "q": "A hungry boy tells how he got by serving a blind beggar, a stingy priest and a proud, penniless squire, outwitting each in turn. (Lazarillo de Tormes, 1554.) What kind of story is it?",
+    "choices": [
+      "Picaresque",
+      "Quest",
+      "Tragedy",
+      "Farce"
+    ],
+    "answer": 0,
+    "explain": "A low-born, first-person rogue, a string of masters and satire of each: the book that founded the picaresque.",
+    "lesson": "quest-picaresque"
+  },
+  {
+    "game": "type",
+    "q": "A young knight sets out to find a mysterious vessel at a wounded king's castle, fails the first time because he doesn't ask the right question, and spends years trying to return. What kind of story is it?",
+    "choices": [
+      "Picaresque",
+      "Farce",
+      "Quest",
+      "Künstlerroman"
+    ],
+    "answer": 2,
+    "explain": "A sought-after object, a road of trials, and a goal that turns into learning: the Grail quest.",
+    "lesson": "quest-picaresque"
+  },
+  {
+    "game": "type",
+    "q": "In It Happened One Night (1934), a runaway heiress and a reporter travel by bus and thumb from Miami to New York, falling in love along the way. What kind of story is it?",
+    "choices": [
+      "Heist",
+      "Road movie",
+      "Künstlerroman",
+      "The Kafka shape"
+    ],
+    "answer": 1,
+    "explain": "The journey structures the film, and the relationship changes with the miles: the road movie's founding pattern.",
+    "lesson": "quest-picaresque"
+  },
+  {
+    "game": "type",
+    "q": "After a long war, a soldier spends ten years trying to get home to his wife and son, while suitors take over his house. (The Odyssey.) Of these, what kind of story is it?",
+    "choices": [
+      "Picaresque",
+      "Bildungsroman",
+      "Farce",
+      "Quest"
+    ],
+    "answer": 3,
+    "explain": "Its episodes are adventurous, but the decisive clue is the fixed goal, home, that pulls every episode: a quest, not a rogue's wander.",
+    "lesson": "quest-picaresque"
+  },
+  {
+    "game": "type",
+    "q": "A newspaper series follows a Honduran boy riding freight trains north through Mexico to find his mother in the United States; the reporter retraced much of the route. (Enrique's Journey, 2002.) What kind of story is it?",
+    "choices": [
+      "Obituary",
+      "Explainer",
+      "Journey narrative",
+      "Farce"
+    ],
+    "answer": 2,
+    "explain": "The route and the destination structure the reporting: the journalism of the journey.",
+    "lesson": "quest-picaresque"
+  },
+  {
+    "q": "A retired safecracker recruits a team of specialists, each with one skill, to rob three casinos in one night. The film shows us part of the plan, then reveals the rest after the job. What kind of story is it?",
+    "choices": [
+      "Film noir",
+      "Whodunit",
+      "Picaresque",
+      "Heist"
+    ],
+    "answer": 3,
+    "explain": "The decisive clue is the crew of specialists assembled for one job: the heist's core convention.",
+    "lesson": "genre-promise",
+    "game": "type"
+  },
+  {
+    "q": "An insurance salesman falls for a married woman, helps her kill her husband for the payout, and narrates the whole thing as a confession, wounded, at night. What kind of story is it?",
+    "choices": [
+      "Film noir",
+      "Heist",
+      "Melodrama",
+      "Booker's Rags to Riches"
+    ],
+    "answer": 0,
+    "explain": "Double Indemnity's confession, desire and closing trap are noir's promise: doom, not mystery.",
+    "lesson": "genre-promise",
+    "game": "type"
+  },
+  {
+    "q": "A country house, a body in the library, six guests with motives, and a detective who gathers them in the last chapter to name the killer. What kind of story is it?",
+    "choices": [
+      "Thriller",
+      "Horror",
+      "Whodunit",
+      "Oral history"
+    ],
+    "answer": 2,
+    "explain": "The hidden crime uncovered by a safe detective is Todorov's whodunit; nothing threatens the investigator.",
+    "lesson": "genre-promise",
+    "game": "type"
+  },
+  {
+    "q": "A crew on a remote research station finds something that can imitate any living thing, and the plot turns on proving to each other that it exists and who it has become. What kind of story is it?",
+    "choices": [
+      "Whodunit",
+      "Horror",
+      "Booker's Voyage and Return",
+      "Farce"
+    ],
+    "answer": 1,
+    "explain": "The impure, category-breaking monster and the drama of proving it's real are Carroll's horror; the 'who is it?' is only the means.",
+    "lesson": "genre-promise",
+    "game": "type"
+  },
+  {
+    "q": "Two rivals meet, can't stand each other, slowly fall in love, are separated by a misunderstanding that seems final, and end engaged. What kind of story is it?",
+    "choices": [
+      "Bildungsroman",
+      "Tragedy",
+      "Frye's comedy",
+      "Romance"
+    ],
+    "answer": 3,
+    "explain": "Meeting, barrier, point of ritual death and betrothal are Regis's elements of the romance novel. Frye's comedy also ends in union, but the courtship is the whole plot here.",
+    "lesson": "genre-promise",
+    "game": "type"
+  },
+  {
+    "q": "A husband hides his mistress in a hotel where, by chance, his wife, his boss and his mistress's husband all book rooms on the same night. Doors slam; nobody must meet; everybody does. What kind of story is it?",
+    "choices": [
+      "Melodrama",
+      "Farce",
+      "Memory play",
+      "Whodunit"
+    ],
+    "answer": 1,
+    "explain": "Secrets in one building, people who must not meet, and rising speed: farce's machine.",
+    "lesson": "stage-forms",
+    "game": "type"
+  },
+  {
+    "q": "A poor orphan girl is cheated of her inheritance by a sneering guardian, wrongly accused, and finally vindicated in a big scene where the villain is exposed, with the orchestra swelling. What kind of story is it?",
+    "choices": [
+      "Tragedy",
+      "Farce",
+      "Booker's Rags to Riches",
+      "Melodrama"
+    ],
+    "answer": 3,
+    "explain": "Persecuted virtue, a plain villain, recognition and music cueing feeling are melodrama. The orphan rises, but the decisive clue is the moral recognition scene.",
+    "lesson": "stage-forms",
+    "game": "type"
+  },
+  {
+    "q": "A middle-aged man steps onstage and tells us that the play we're about to see is how he remembers one summer of his childhood; he interrupts the scenes to comment, and the lighting is dim and dreamlike. What kind of story is it?",
+    "choices": [
+      "Memory play",
+      "Verbatim theatre",
+      "History play",
+      "Monologue play"
+    ],
+    "answer": 0,
+    "explain": "The narrator presenting the past as he remembers it, with non-realistic staging, marks the memory play.",
+    "lesson": "stage-forms",
+    "game": "type"
+  },
+  {
+    "q": "A company interviews people in a town after a killing and builds a play using only their words, with the actors playing the townspeople and themselves. What kind of story is it?",
+    "choices": [
+      "Memory play",
+      "History play",
+      "Verbatim theatre",
+      "Oral history"
+    ],
+    "answer": 2,
+    "explain": "Real words performed onstage is verbatim theatre, as in The Laramie Project. Oral history uses the same method on the page, but this is a play.",
+    "lesson": "stage-forms",
+    "game": "type"
+  },
+  {
+    "q": "A play follows a king from his unlawful seizure of the crown to his death in battle, compressing years into scenes and inventing a comic companion. What kind of story is it?",
+    "choices": [
+      "History play",
+      "Tragedy",
+      "Picaresque",
+      "Melodrama"
+    ],
+    "answer": 0,
+    "explain": "Real political events reshaped to ask why power passes, with invented characters, is the history play. Its hero dies, but the clue is the chronicle of a real reign.",
+    "lesson": "stage-forms",
+    "game": "type"
+  },
+  {
+    "q": "A newspaper story's first paragraph says that a hospital chain billed patients for scans that were never done, according to records the paper obtained. The rest sets out the evidence and the company's response. What kind of story is it?",
+    "choices": [
+      "Explainer",
+      "Trend piece",
+      "Investigation",
+      "Hard news"
+    ],
+    "answer": 2,
+    "explain": "Finding first, then proof and right of reply: the investigation's structure.",
+    "lesson": "journalism-forms",
+    "game": "type"
+  },
+  {
+    "q": "A piece begins with 'Name, who invented the drip coffee filter that ended up in millions of kitchens, died on Tuesday at his home. He was 91.' What kind of story is it?",
+    "choices": [
+      "Profile",
+      "Feature",
+      "Q&A",
+      "Obituary"
+    ],
+    "answer": 3,
+    "explain": "Identity, the death and the age in the first lines are the obituary's fixed opening.",
+    "lesson": "journalism-forms",
+    "game": "type"
+  },
+  {
+    "q": "A magazine runs a 6,000-word piece on a famous chef built from watching her work for a week, her past, and interviews with people who worked for her, ending on a scene in her kitchen. What kind of story is it?",
+    "choices": [
+      "Profile",
+      "Obituary",
+      "Day in the life",
+      "Oral history"
+    ],
+    "answer": 0,
+    "explain": "The promise is to know a person, through scene, life and others' testimony. It's not one day, and the writer, not the voices, tells it.",
+    "lesson": "journalism-forms",
+    "game": "type"
+  },
+  {
+    "q": "A book collects dozens of people describing their jobs in their own words, edited and arranged by the author, with no narrator between them. What kind of story is it?",
+    "choices": [
+      "Q&A",
+      "Oral history",
+      "Trend piece",
+      "Investigation"
+    ],
+    "answer": 1,
+    "explain": "Edited first-person voices with no visible questions is oral history, as in Studs Terkel's Working. A Q&A keeps the questions.",
+    "lesson": "journalism-forms",
+    "game": "type"
+  },
+  {
+    "q": "A story says young professionals are suddenly taking up knitting, citing three people the reporter knows and a crafts-shop owner. What kind of story is it?",
+    "choices": [
+      "Explainer",
+      "Profile",
+      "Day in the life",
+      "Trend piece"
+    ],
+    "answer": 3,
+    "explain": "A claim that something is new and spreading, built on anecdotes, is a trend piece, and this one needs data.",
+    "lesson": "journalism-forms",
+    "game": "type"
   }
 ]

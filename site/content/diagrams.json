@@ -748,5 +748,104 @@
       ]
     ],
     "steps": true
+  },
+  "frye": {
+    "caption": "Frye's five modes, by the hero's power of action: from a god (mythic) through the marvellous hero of romance, the leader (high mimetic) and one of us (low mimetic), down to a figure weaker than ourselves (ironic). Western fiction has moved down this staircase over the centuries.",
+    "points": [
+      [
+        0,
+        0.95,
+        "Mythic"
+      ],
+      [
+        0.25,
+        0.75,
+        "Romantic",
+        "below"
+      ],
+      [
+        0.5,
+        0.55,
+        "High mimetic"
+      ],
+      [
+        0.75,
+        0.35,
+        "Low mimetic",
+        "below"
+      ],
+      [
+        1,
+        0.12,
+        "Ironic"
+      ]
+    ],
+    "steps": true
+  },
+  "booker": {
+    "caption": "Booker's Overcoming the Monster: the call, a dream stage where all seems to go well, frustration at the first real confrontation, a nightmare where all seems lost, and a thrilling escape as the monster dies.",
+    "points": [
+      [
+        0,
+        0.35,
+        "Call"
+      ],
+      [
+        0.25,
+        0.65,
+        "Dream",
+        "below"
+      ],
+      [
+        0.5,
+        0.38,
+        "Frustration"
+      ],
+      [
+        0.75,
+        0.08,
+        "Nightmare",
+        "below"
+      ],
+      [
+        1,
+        0.95,
+        "Escape"
+      ]
+    ],
+    "steps": false
+  },
+  "vonnegut-shapes": {
+    "caption": "Vonnegut's Man in a Hole, plotted on good–ill fortune against beginning–end: someone gets into trouble, gets out of it again, and ends up better off than before.",
+    "points": [
+      [
+        0,
+        0.58,
+        "Ordinary life"
+      ],
+      [
+        0.22,
+        0.38,
+        "Trouble",
+        "below"
+      ],
+      [
+        0.45,
+        0.12,
+        "In the hole"
+      ],
+      [
+        0.72,
+        0.5,
+        "Climbing out",
+        "below"
+      ],
+      [
+        1,
+        0.88,
+        "Better off"
+      ]
+    ],
+    "steps": false
   }
 }

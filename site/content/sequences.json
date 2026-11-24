@@ -218,5 +218,48 @@
       "Two-dimensional plane of the screen",
       "Three-dimensional space"
     ]
+  },
+  {
+    "lesson": "save-the-cat-practice",
+    "title": "Snyder's five-point finale",
+    "steps": [
+      "Gathering the Team",
+      "Executing the Plan",
+      "The High Tower Surprise",
+      "Dig, Deep Down",
+      "The Execution of the New Plan"
+    ]
+  },
+  {
+    "lesson": "booker",
+    "title": "Booker's Overcoming the Monster",
+    "steps": [
+      "Anticipation Stage and Call",
+      "Dream Stage",
+      "Frustration Stage",
+      "Nightmare Stage",
+      "Thrilling Escape from Death, and Death of the Monster"
+    ]
+  },
+  {
+    "lesson": "booker",
+    "title": "Booker's Tragedy",
+    "steps": [
+      "Anticipation Stage",
+      "Dream Stage",
+      "Frustration Stage",
+      "Nightmare Stage",
+      "Destruction or Death-Wish Stage"
+    ]
+  },
+  {
+    "lesson": "genre-promise",
+    "title": "Carroll's complex discovery plot",
+    "steps": [
+      "Onset",
+      "Discovery",
+      "Confirmation",
+      "Confrontation"
+    ]
   }
 ]

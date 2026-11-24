@@ -138,16 +138,76 @@
       "title": "Story Types",
       "blurb": "The kinds of story, from tragedy and the bildungsroman to the heist and the obituary, and what each one promises an audience.",
       "lessons": [
-        { "id": "tragedy-comedy", "title": "Tragedy and comedy", "subtitle": "The oldest division, and tragicomedy" },
-        { "id": "frye", "title": "Northrop Frye", "subtitle": "The four mythoi, 1957" },
-        { "id": "booker", "title": "Christopher Booker", "subtitle": "The Seven Basic Plots, 2004" },
-        { "id": "polti", "title": "Georges Polti", "subtitle": "The 36 dramatic situations, 1895" },
-        { "id": "vonnegut-shapes", "title": "Kurt Vonnegut", "subtitle": "The shapes of stories" },
-        { "id": "bildungsroman", "title": "The bildungsroman", "subtitle": "Coming-of-age, and the artist's growth" },
-        { "id": "quest-picaresque", "title": "The quest and the picaresque", "subtitle": "From Don Quixote to the road movie" },
-        { "id": "genre-promise", "title": "Genre as a promise", "subtitle": "Thriller, mystery, horror, romance, noir, heist" },
-        { "id": "stage-forms", "title": "Stage forms", "subtitle": "Farce, melodrama, the history play, the memory play, verbatim theatre" },
-        { "id": "journalism-forms", "title": "Journalism's story types", "subtitle": "Profile, investigation, explainer, obituary and more" }
+        {
+          "id": "tragedy-comedy",
+          "title": "Tragedy and comedy",
+          "subtitle": "The oldest division, and tragicomedy",
+          "summary": "Drama's oldest division is a promise about the ending: comedy moves toward reunion and inclusion, tragedy toward death and isolation, and tragicomedy and dark comedy keep both possibilities alive.",
+          "ready": true
+        },
+        {
+          "id": "frye",
+          "title": "Northrop Frye",
+          "subtitle": "The four mythoi, 1957",
+          "summary": "Frye sorted all stories by the hero's power relative to us and by four seasonal plot movements, comedy as spring, romance summer, tragedy autumn, irony and satire winter, each shading into the next.",
+          "ready": true
+        },
+        {
+          "id": "booker",
+          "title": "Christopher Booker",
+          "subtitle": "The Seven Basic Plots, 2004",
+          "summary": "Booker argued that stories are variations on seven deep plots, each moving through recognizable stages from anticipation and dream to frustration and nightmare, and read them through Jung, to the dismay of many critics.",
+          "ready": true
+        },
+        {
+          "id": "polti",
+          "title": "Georges Polti",
+          "subtitle": "The 36 dramatic situations, 1895",
+          "summary": "Polti listed thirty-six dramatic situations, each defined by the roles it needs, and writers have used the list ever since as a prompt generator, though it names conflicts rather than shapes.",
+          "ready": true
+        },
+        {
+          "id": "vonnegut-shapes",
+          "title": "Kurt Vonnegut",
+          "subtitle": "The shapes of stories",
+          "summary": "Plot a story's good and ill fortune against time and a few shapes keep recurring, from Man in a Hole to Cinderella, a joke Vonnegut told seriously and a 2016 computer study partly bore out.",
+          "ready": true
+        },
+        {
+          "id": "bildungsroman",
+          "title": "The bildungsroman",
+          "subtitle": "Coming-of-age, and the artist's growth",
+          "summary": "The novel of formation promises to show a young person becoming someone, educated by life, and ends either in accommodation with society or in rupture from it.",
+          "ready": true
+        },
+        {
+          "id": "quest-picaresque",
+          "title": "The quest and the picaresque",
+          "subtitle": "From Don Quixote to the road movie",
+          "summary": "The quest is pulled by a goal and the picaresque wanders with a rogue, and every road story, from Don Quixote to the road movie, must solve the episodic problem of momentum.",
+          "ready": true
+        },
+        {
+          "id": "genre-promise",
+          "title": "Genre as a promise",
+          "subtitle": "Thriller, mystery, horror, romance, noir, heist",
+          "summary": "A genre is a promise to the audience: honour its conventions and surprise with inventions, and know whether your engine is mystery, suspense or dread, because a broken promise feels like cheating, not surprise.",
+          "ready": true
+        },
+        {
+          "id": "stage-forms",
+          "title": "Stage forms",
+          "subtitle": "Farce, melodrama, the history play, the memory play, verbatim theatre",
+          "summary": "Each stage form makes its own promise: farce speeds up, melodrama makes virtue visible, the history play gives the record a meaning, the memory play shows the past as felt, and verbatim theatre offers testimony.",
+          "ready": true
+        },
+        {
+          "id": "journalism-forms",
+          "title": "Journalism's story types",
+          "subtitle": "Profile, investigation, explainer, obituary and more",
+          "summary": "Every journalism form promises the reader something different, from the investigation's finding-then-proof to the obituary's life in order, and choosing the form your material can support is the first editorial decision.",
+          "ready": true
+        }
       ]
     },
     {
@@ -183,7 +243,13 @@
           "summary": "Know what your movie is in a logline, give the audience a reason to root for the hero, and hit fifteen beats from Opening Image to its mirror, the Final Image.",
           "ready": true
         },
-        { "id": "save-the-cat-practice", "title": "Save the Cat in practice", "subtitle": "A film beat by beat, the finale, and the other rules" },
+        {
+          "id": "save-the-cat-practice",
+          "title": "Save the Cat in practice",
+          "subtitle": "A film beat by beat, the finale, and the other rules",
+          "summary": "Use Snyder's tools on real work: map a film or your draft beat by beat, build the ending in five points, test it with his rules of thumb, and read every missing beat as a question, not a mistake.",
+          "ready": true
+        },
         {
           "id": "harmon",
           "title": "Dan Harmon",
@@ -590,7 +656,13 @@
           "summary": "Research shows that stories are universal and that absorbing ones persuade, but claims about brain chemistry and science-proven story formulas go well beyond the evidence.",
           "ready": true
         },
-        { "id": "franzen", "title": "Jonathan Franzen", "subtitle": "Contract vs. status, and his rules for novelists" }
+        {
+          "id": "franzen",
+          "title": "Jonathan Franzen",
+          "subtitle": "Contract vs. status, and his rules for novelists",
+          "summary": "Fiction is either art for its own sake or a contract with the reader; Franzen argues for the contract, a reader who is a friend, invention as the truest autobiography, and protected concentration.",
+          "ready": true
+        }
       ]
     }
   ]

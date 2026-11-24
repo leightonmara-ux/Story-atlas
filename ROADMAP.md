@@ -18,6 +18,8 @@
 - Every lesson has a boxed "Try it" exercise with Stage, Screen and Journalism versions.
 - Character track (6 lessons) and Tools of the Trade track (9 lessons: sound, music, allegiance, Kuleshov,
   editing, camera, mise-en-scène, mood on stage, mood in journalism), plus the "What's this doing?" game.
+- Story Types track (10 lessons), Save the Cat in practice (Die Hard beat by beat), and Jonathan Franzen,
+  plus the "What kind of story?" and "Name the genre" games.
 - Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 
 ## Phase 3: Deepen
@@ -35,6 +37,8 @@
   "given circumstances" via Pushkin, the 5 Ws, "lede", "in late, out early", "inciting incident" before McKee.
 - Character/Tools details recalled rather than checked: Pinter's "two silences" talk (date), Altman's radio mics
   (California Split vs. Nashville), Smith's later essay on perverse allegiance, Hauge's "reflection" character.
+- Story Types/Franzen details from memory or search snippets: Booker's stage names, Frye's four Greek theme words,
+  Polti's dates, Franzen's ten rules beyond the two quoted, the Die Hard beat placements, Vonnegut's thesis story.
 - Lenses quotes recalled rather than checked: Bakhtin on polyphony, Adichie on stereotypes, Thomas King's
   "that's all we are", Benjamin's "half the art of storytelling" (Zohn translation), Kermode's tick-tock.
 

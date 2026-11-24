@@ -703,6 +703,64 @@
           "g": "The forces are no longer in conflict, and the play ends."
         }
       }
+    },
+    {
+      "lesson": "booker",
+      "name": "Booker's Overcoming the Monster",
+      "when": "2004",
+      "medium": "Counterpoint",
+      "note": "One of seven plots; the others have their own five-stage patterns.",
+      "cells": {
+        "disruption": {
+          "t": "Anticipation Stage and Call",
+          "g": "We learn of the monster, and the hero is called to face it."
+        },
+        "rising": {
+          "t": "Dream Stage",
+          "g": "Preparations go well; the threat still seems far off."
+        },
+        "midpoint": {
+          "t": "Frustration Stage",
+          "g": "The first real confrontation shows the monster's full power."
+        },
+        "crisis": {
+          "t": "Nightmare Stage",
+          "g": "The final ordeal, when all seems lost."
+        },
+        "climax": {
+          "t": "Thrilling Escape from Death",
+          "g": "A last-minute reversal; the monster dies and the community is freed."
+        }
+      }
+    },
+    {
+      "lesson": "vonnegut-shapes",
+      "name": "Vonnegut's Man in a Hole",
+      "when": "1981–2005",
+      "medium": "Counterpoint",
+      "note": "Vonnegut plots fortune, not tension: his shapes track how well things are going for the hero. Man in a Hole is the one he said people never tire of.",
+      "cells": {
+        "setup": {
+          "t": "Ordinary fortune",
+          "g": "Life a little above the middle of the good–ill axis."
+        },
+        "disruption": {
+          "t": "Gets into trouble",
+          "g": "The line drops."
+        },
+        "crisis": {
+          "t": "In the hole",
+          "g": "The lowest point of fortune."
+        },
+        "climax": {
+          "t": "Gets out of it",
+          "g": "The climb back up."
+        },
+        "resolution": {
+          "t": "Better off",
+          "g": "The line ends higher than it began."
+        }
+      }
     }
   ]
 }

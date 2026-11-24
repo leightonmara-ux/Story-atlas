@@ -36,6 +36,18 @@
     ]
   },
   {
+    "term": "Advance obituary",
+    "aka": [
+      "Advancer"
+    ],
+    "origin": "Newsroom practice; Alden Whitman at The New York Times (from the mid-1960s) made a point of interviewing subjects for their own.",
+    "meaning": "An obituary written and kept on file before the subject dies, updated over the years.",
+    "use": "Report an advance like a profile while the subject can still talk, then keep the first paragraph ready for the news.",
+    "lessons": [
+      "journalism-forms"
+    ]
+  },
+  {
     "term": "Against interpretation",
     "origin": "Susan Sontag, in the essay \"Against Interpretation\" (1964), collected in Against Interpretation (1966).",
     "meaning": "Sontag's argument that hunting for hidden meanings tames art, and that critics should attend to form and to what a work does to the senses. Her essay ends by calling for \"an erotics of art\" in place of a hermeneutics.",
@@ -124,6 +136,15 @@
     ]
   },
   {
+    "term": "Art-horror",
+    "origin": "Noël Carroll, The Philosophy of Horror, or Paradoxes of the Heart (1990).",
+    "meaning": "The emotion horror aims at: fear mixed with disgust at a monster that is both dangerous and impure, breaking our categories (dead yet alive, human yet animal).",
+    "use": "Make your monster violate a category, not just threaten, and build the plot around discovering and proving it exists.",
+    "lessons": [
+      "genre-promise"
+    ]
+  },
+  {
     "term": "B story",
     "aka": [
       "Subplot",
@@ -172,6 +193,46 @@
     ]
   },
   {
+    "term": "Bildungsroman",
+    "aka": [
+      "Coming-of-age story",
+      "Novel of formation"
+    ],
+    "origin": "Coined by Karl Morgenstern in lectures at the University of Dorpat (1819–20); popularized by Wilhelm Dilthey from 1870. The model is Goethe's Wilhelm Meister's Apprenticeship (1795–96).",
+    "myth": "Often credited to Dilthey, who popularized it; Morgenstern coined it half a century earlier.",
+    "meaning": "A story of a young person's formation over time, educated by experience, ending in accommodation with society or rupture from it.",
+    "use": "Write the protagonist's answer to \"who am I, and where do I belong?\" at the start and at the end; the story is the road between the two.",
+    "lessons": [
+      "bildungsroman"
+    ]
+  },
+  {
+    "term": "Black comedy",
+    "aka": [
+      "Dark comedy",
+      "Black humour",
+      "Humour noir"
+    ],
+    "origin": "The term humour noir was popularized by André Breton's Anthologie de l'humour noir (1940).",
+    "meaning": "Comedy that laughs at death, war, cruelty or madness, as in Dr. Strangelove (1964).",
+    "use": "Make the laughter look harder at the subject, not away from it; the joke should sharpen the horror.",
+    "lessons": [
+      "tragedy-comedy"
+    ]
+  },
+  {
+    "term": "Black Vet",
+    "aka": [
+      "Too Much Marzipan"
+    ],
+    "origin": "Blake Snyder, Save the Cat! (2005), one of his 'laws of screenplay physics'.",
+    "meaning": "Piling one clever idea on another: a premise with two unrelated hooks becomes a gimmick.",
+    "use": "Say your premise aloud. If it needs 'and also' to describe the hook, cut one of them.",
+    "lessons": [
+      "save-the-cat-practice"
+    ]
+  },
+  {
     "term": "Blackout",
     "origin": "Stage lighting term; the \"blackout sketch\" of vaudeville and revue took its name from the sudden darkness that ends it.",
     "meaning": "Cutting all stage light at once: theatre's hard cut, as opposed to a slow fade.",
@@ -188,6 +249,20 @@
     "lessons": [
       "stage-tools",
       "mise-en-scene"
+    ]
+  },
+  {
+    "term": "Blocking character",
+    "aka": [
+      "Blocking figure",
+      "Senex"
+    ],
+    "origin": "Northrop Frye's term in Anatomy of Criticism (1957), for a stock role going back to Greek New Comedy.",
+    "meaning": "The figure, often a father or rival, who stands in the way of the young hero's desire; comedy tends to convert and include them at the end rather than destroy them.",
+    "use": "Give your comic obstacle real authority, and decide whether the ending welcomes them in or shuts them out.",
+    "lessons": [
+      "frye",
+      "tragedy-comedy"
     ]
   },
   {
@@ -332,6 +407,16 @@
     ]
   },
   {
+    "term": "Comic relief",
+    "aka": [],
+    "origin": "An old practice, named by critics; the Porter scene in Macbeth (Act 2, Scene 3) is the classic example.",
+    "meaning": "A comic scene or character placed inside a serious work to release tension, often heightening the darkness around it.",
+    "use": "Put the joke right after the worst moment, and let it echo the horror rather than ignore it.",
+    "lessons": [
+      "tragedy-comedy"
+    ]
+  },
+  {
     "term": "Complication and resolution",
     "origin": "Jon Franklin, Writing for Story (1986).",
     "meaning": "Franklin's core of a true story: a complication, a problem that matters to a sympathetic person, and a resolution, a change that person brings about, ideally through insight.",
@@ -364,6 +449,15 @@
     ]
   },
   {
+    "term": "Contract and Status models",
+    "origin": "Jonathan Franzen, \"Mr. Difficult\", The New Yorker (2002).",
+    "meaning": "Two views of fiction: in the Status model a novel is art whose worth doesn't depend on readers' pleasure; in the Contract model it's an agreement in which the writer owes the reader something for their effort.",
+    "use": "For any difficult stretch of your work, list what you ask of the audience and what they get back. If the second list is empty, the contract is broken.",
+    "lessons": [
+      "franzen"
+    ]
+  },
+  {
     "term": "Controlling idea",
     "aka": [
       "Theme (in McKee's sense)"
@@ -374,6 +468,15 @@
     "lessons": [
       "mckee",
       "egri"
+    ]
+  },
+  {
+    "term": "Conventions and inventions",
+    "origin": "John G. Cawelti, 'The Concept of Formula in the Study of Popular Literature' (1969) and Adventure, Mystery, and Romance (1976).",
+    "meaning": "Conventions are the familiar elements writer and audience both know in advance; inventions are the new elements a writer brings. Conventions give security, inventions surprise.",
+    "use": "List the conventions your genre's audience expects, decide which to honour, and name the one invention that makes your story yours.",
+    "lessons": [
+      "genre-promise"
     ]
   },
   {
@@ -533,6 +636,18 @@
     ]
   },
   {
+    "term": "Dramatic situation",
+    "aka": [
+      "Situation (Polti)"
+    ],
+    "origin": "Georges Polti's unit of analysis in The Thirty-Six Dramatic Situations (1895).",
+    "meaning": "A configuration of roles and forces that produces conflict, such as a persecutor, a suppliant and a power whose decision is in doubt; the core of a plot rather than its whole shape.",
+    "use": "When a scene has no tension, ask which situation it dramatizes and whether all its roles are present.",
+    "lessons": [
+      "polti"
+    ]
+  },
+  {
     "term": "Dutch angle",
     "aka": [
       "Canted angle",
@@ -553,6 +668,18 @@
     "use": "Look for the moment where your protagonist could have acted and check whether they do. If your story is about something done to someone, give them at least one decision that matters, even if it fails.",
     "lessons": [
       "baxter"
+    ]
+  },
+  {
+    "term": "Emotional arc",
+    "aka": [
+      "Sentiment arc"
+    ],
+    "origin": "Used in computational studies of fiction, notably Matthew Jockers's Syuzhet tool (2015) and Andrew Reagan and colleagues' \"The emotional arcs of stories are dominated by six basic shapes\" (EPJ Data Science, 2016).",
+    "meaning": "The rise and fall of emotional tone through a text, measured by scoring the happiness or sadness of its words in a moving window.",
+    "use": "Treat it as a rough rhythm check, not a plot map: word mood can't see irony or contrast.",
+    "lessons": [
+      "vonnegut-shapes"
     ]
   },
   {
@@ -591,6 +718,25 @@
     "lessons": [
       "baxter",
       "franklin"
+    ]
+  },
+  {
+    "term": "Episodic plot",
+    "origin": "Aristotle's Poetics, which calls episodic plots, where events follow one another without probability or necessity, the worst kind.",
+    "meaning": "A plot of self-contained incidents that could be reordered without loss.",
+    "use": "Test by shuffling two middle episodes; if nothing breaks, add a clock, a hidden question or a changing relationship underneath.",
+    "lessons": [
+      "quest-picaresque",
+      "aristotle"
+    ]
+  },
+  {
+    "term": "Explainer",
+    "origin": "An old newsroom form (the backgrounder), made a brand by sites such as Vox in the 2010s.",
+    "meaning": "A piece that starts from the reader's question, answers it briefly, then adds layers of context and uncertainty.",
+    "use": "Write the reader's question at the top of your draft and make sure the third paragraph has answered it.",
+    "lessons": [
+      "journalism-forms"
     ]
   },
   {
@@ -640,6 +786,39 @@
     ]
   },
   {
+    "term": "Farce",
+    "origin": "From a French word for stuffing, used for comic interludes in medieval drama; perfected by Georges Feydeau in 1890s–1900s Paris.",
+    "meaning": "Comedy as accelerating machinery: flat characters driven by one appetite or fear, secrets, doors, and people who must not meet.",
+    "use": "Get every secret into one space by the end of the first act, then let the pressure rise until everything collides.",
+    "lessons": [
+      "comedy",
+      "stage-forms"
+    ]
+  },
+  {
+    "term": "Fictional modes",
+    "aka": [
+      "Frye's modes",
+      "Mythic, romantic, high mimetic, low mimetic, ironic"
+    ],
+    "origin": "Northrop Frye, Anatomy of Criticism (1957), first essay.",
+    "meaning": "A ranking of fiction by the hero's power of action relative to us and their world, from a god (mythic) down to someone weaker than ourselves (ironic).",
+    "use": "Decide whether your protagonist is above, level with or below the audience, and keep what they can do consistent with it.",
+    "lessons": [
+      "frye"
+    ]
+  },
+  {
+    "term": "Film noir",
+    "origin": "Coined by the French critic Nino Frank in 1946, after Paris saw a batch of wartime Hollywood crime films; spread by Raymond Borde and Étienne Chaumeton's Panorama du film noir américain (1955).",
+    "myth": "Hollywood's makers didn't call their films noir; the label came later, and critics still debate whether it's a genre or a style.",
+    "meaning": "Dark crime films of the 1940s and 1950s, and their heirs: a flawed protagonist, desire, a night city and a trap closing.",
+    "use": "Let the audience sense doom early, even reveal the ending, and make the pleasure watching how the trap closes.",
+    "lessons": [
+      "genre-promise"
+    ]
+  },
+  {
     "term": "Five Ws",
     "aka": [
       "Five Ws and an H"
@@ -649,6 +828,15 @@
     "use": "Check your first two paragraphs against the list; anything missing should be there unless you've chosen to delay it. Then ask which W is the news, and lead with that one.",
     "lessons": [
       "inverted-pyramid"
+    ]
+  },
+  {
+    "term": "Five-point finale",
+    "origin": "Blake Snyder, Save the Cat! Strikes Back (2009).",
+    "meaning": "Snyder's breakdown of the Finale beat into five steps: Gathering the Team, Executing the Plan, the High Tower Surprise, Dig Deep Down, and the Execution of the New Plan.",
+    "use": "If your climax is one long fight that simply works, let the first plan fail at a surprise, force the hero to find something inside, and finish with a new plan built on it.",
+    "lessons": [
+      "save-the-cat-practice"
     ]
   },
   {
@@ -688,6 +876,20 @@
     "lessons": [
       "egri",
       "chekhov"
+    ]
+  },
+  {
+    "term": "Four mythoi",
+    "aka": [
+      "Frye's mythoi",
+      "Mythos of spring, summer, autumn, winter"
+    ],
+    "origin": "Northrop Frye, Anatomy of Criticism (1957), third essay; taken into history-writing by Hayden White's Metahistory (1973).",
+    "meaning": "Frye's four basic plot movements, each tied to a season: comedy (spring), romance (summer), tragedy (autumn), irony and satire (winter), arranged on a circle so each shades into its neighbours.",
+    "use": "Name your story's season in one word, then decide on purpose where it leans toward a neighbouring one.",
+    "lessons": [
+      "frye",
+      "white-didion"
     ]
   },
   {
@@ -781,6 +983,16 @@
     ]
   },
   {
+    "term": "Green world",
+    "aka": [],
+    "origin": "Northrop Frye, \"The Argument of Comedy\" (1948), developed in Anatomy of Criticism (1957).",
+    "meaning": "The forest or countryside in Shakespeare's comedies, like the Forest of Arden, where characters escape a harsh society, are transformed, and return to renew it.",
+    "use": "Give your comedy an escape place with different rules, and make sure the characters bring something back.",
+    "lessons": [
+      "frye"
+    ]
+  },
+  {
     "term": "Hamartia",
     "origin": "Aristotle, Poetics (c. 335 BCE), ch. 13.",
     "myth": "\"Tragic flaw\" is a later moralizing gloss; Aristotle means a mistake of judgment or knowledge, not necessarily a defect of character.",
@@ -820,12 +1032,30 @@
     ]
   },
   {
+    "term": "High Tower Surprise",
+    "origin": "Blake Snyder, Save the Cat! Strikes Back (2009), the third step of his five-point finale.",
+    "meaning": "The twist in the finale that breaks the hero's plan: they reach the tower and the princess isn't there. It works like a second catalyst.",
+    "use": "Find the moment in your climax where the plan is going well, and break it with something the hero (and audience) didn't see coming but that was set up earlier.",
+    "lessons": [
+      "save-the-cat-practice"
+    ]
+  },
+  {
     "term": "High-key and low-key lighting",
     "origin": "Hollywood studio lighting terms, named for the balance between the key light and the fill light.",
     "meaning": "High-key lighting fills the frame with soft, even light and few shadows; low-key lighting lets one main source dominate, with deep shadows and strong contrast, as in film noir.",
     "use": "Name the light source in a scene description (a single lamp, noon glare) when the mood matters; low-key for secrecy and danger, high-key for openness and comedy.",
     "lessons": [
       "mise-en-scene"
+    ]
+  },
+  {
+    "term": "I want song",
+    "origin": "Musical-theatre trade term for a number early in the show.",
+    "meaning": "A song in which the protagonist states the desire that drives the musical, like 'Wouldn't It Be Loverly' or 'Part of Your World'.",
+    "use": "Put your hero's want into one early number, specific enough that we'll know when they get it.",
+    "lessons": [
+      "stage-forms"
     ]
   },
   {
@@ -932,6 +1162,15 @@
     ]
   },
   {
+    "term": "Is it primal?",
+    "origin": "Blake Snyder, Save the Cat! (2005).",
+    "meaning": "Snyder's test that a hero's drive should be one anyone, even a caveman, would understand: survival, protecting loved ones, love, fear of death.",
+    "use": "Write your hero's goal in one line, then ask what basic need it stands for. If you can't find one, deepen the goal.",
+    "lessons": [
+      "save-the-cat-practice"
+    ]
+  },
+  {
     "term": "Jo-ha-kyū",
     "origin": "A rhythmic principle from Japanese court music (gagaku), developed for Noh by Zeami Motokiyo in his treatises of the early 1400s.",
     "meaning": "Three phases, a slow beginning (jo), a breaking or development (ha) and a rapid conclusion (kyū), applying to a whole programme, a play, a scene or a gesture.",
@@ -947,6 +1186,15 @@
     "use": "Use jump cuts for restlessness, impatience or compressed time within a single situation; in prose, the equivalent is dropping the connective tissue between moments.",
     "lessons": [
       "editing"
+    ]
+  },
+  {
+    "term": "Keep the Press Out",
+    "origin": "Blake Snyder, Save the Cat! (2005), who credited it to Steven Spielberg.",
+    "meaning": "Once news crews arrive in a story, it stops feeling private and real, unless the story is about the press.",
+    "use": "Before you cut to a news report to raise the stakes, try showing the effect on one character instead.",
+    "lessons": [
+      "save-the-cat-practice"
     ]
   },
   {
@@ -986,6 +1234,18 @@
     "lessons": [
       "kuleshov",
       "editing"
+    ]
+  },
+  {
+    "term": "Künstlerroman",
+    "aka": [
+      "Artist novel"
+    ],
+    "origin": "German, \"artist novel\"; a branch of the bildungsroman. James Joyce's A Portrait of the Artist as a Young Man (1916) is the standard example.",
+    "meaning": "A story of an artist's growth, usually ending with a break from home, family or nation in order to make art.",
+    "use": "Make the art the thing the hero must choose over belonging, and let the ending cost them something.",
+    "lessons": [
+      "bildungsroman"
     ]
   },
   {
@@ -1038,6 +1298,15 @@
     ]
   },
   {
+    "term": "Man in a Hole",
+    "origin": "Kurt Vonnegut's name for the shape; the 2016 University of Vermont study by Andrew Reagan and colleagues kept the name for one of its six emotional arcs.",
+    "meaning": "Someone gets into trouble, gets out of it, and ends up better off than before: a fall followed by a rise.",
+    "use": "If your second act is one long climb, try a double hole: let the hero climb out, then fall again before the final rise.",
+    "lessons": [
+      "vonnegut-shapes"
+    ]
+  },
+  {
     "term": "Manic pixie dream girl",
     "origin": "Coined by the critic Nathan Rabin in a 2007 A.V. Club review of Elizabethtown; he later said he regretted how widely and loosely it was used.",
     "meaning": "A quirky young woman who exists in a story mainly to teach a gloomy male hero to enjoy life, with no inner life or goals of her own.",
@@ -1063,6 +1332,25 @@
     "use": "Give a comic character a rigid habit and then put them in a situation that demands they adapt. The more serious the situation, the funnier the rigidity.",
     "lessons": [
       "comedy"
+    ]
+  },
+  {
+    "term": "Melodrama",
+    "origin": "From Greek melos (song) and drama; Rousseau's Pygmalion (1770) and Pixerécourt's Cœlina (1800) in France, Holcroft's A Tale of Mystery (1802) in England. Theorized by Peter Brooks in The Melodramatic Imagination (1976).",
+    "myth": "The heroine tied to the railway tracks is rarer than its fame suggests; in Augustin Daly's Under the Gaslight (1867) the heroine rescues a man from the tracks.",
+    "meaning": "Drama of persecuted virtue and plain villainy, ending in a scene where virtue is recognized, originally with music cueing every emotion.",
+    "use": "When you need moral stakes loud and clear, let characters say what they feel and give the turn a big recognition scene; use it knowingly.",
+    "lessons": [
+      "stage-forms"
+    ]
+  },
+  {
+    "term": "Memory play",
+    "origin": "Tennessee Williams's description of The Glass Menagerie (1944) in its production notes.",
+    "meaning": "A play presenting the past as a narrator remembers it, so staging can be non-realistic: dim light, music, magnified moments, a frame of the present.",
+    "use": "Give your narrator a reason to remember now, and let what memory exaggerates or omits shape the staging.",
+    "lessons": [
+      "stage-forms"
     ]
   },
   {
@@ -1126,6 +1414,15 @@
     ]
   },
   {
+    "term": "Moral occult",
+    "origin": "Peter Brooks, The Melodramatic Imagination (1976).",
+    "meaning": "The hidden moral truths that melodrama drags into the open, making good and evil legible in a world without a guaranteed sacred order.",
+    "use": "Ask what moral truth your scene is uncovering, and let it be seen in gesture, face and speech, not left to subtext.",
+    "lessons": [
+      "stage-forms"
+    ]
+  },
+  {
     "term": "Murder your darlings",
     "aka": [
       "Kill your darlings"
@@ -1165,6 +1462,19 @@
     "use": "Choose a song for what its lyrics, era and associations do to the scene, and decide whether it plays in the story world or over it.",
     "lessons": [
       "music-silence"
+    ]
+  },
+  {
+    "term": "New Comedy",
+    "aka": [
+      "Greek New Comedy"
+    ],
+    "origin": "The comedy of Menander in Athens in the late fourth century BCE, adapted into Latin by Plautus and Terence.",
+    "meaning": "Domestic comedy of young lovers, blocking fathers, clever servants, mistaken identities and lost children, ending in recognition and marriage; the ancestor of romantic comedy and the sitcom.",
+    "use": "When your comedy needs an engine, give the lovers an obstacle with authority over them, and end with a recognition that brings the group together.",
+    "lessons": [
+      "tragedy-comedy",
+      "frye"
     ]
   },
   {
@@ -1218,6 +1528,16 @@
     ]
   },
   {
+    "term": "Overcoming the Monster",
+    "aka": [],
+    "origin": "Named as one of the seven basic plots by Christopher Booker (2004).",
+    "meaning": "A hero confronts a deadly force threatening a community and destroys it, moving through Anticipation and Call, Dream, Frustration, Nightmare, and Thrilling Escape.",
+    "use": "Let the hero feel equal to the threat (the Dream Stage) before the monster's real power shows.",
+    "lessons": [
+      "booker"
+    ]
+  },
+  {
     "term": "Overlapping dialogue",
     "origin": "Fast overlapping exchanges were a hallmark of Howard Hawks's His Girl Friday (1940); Robert Altman developed multitrack recording to layer whole conversations, on California Split (1974) and Nashville (1975).",
     "meaning": "Dialogue in which characters talk over and interrupt each other, as in life, rather than waiting their turn.",
@@ -1259,6 +1579,18 @@
     ]
   },
   {
+    "term": "Picaresque",
+    "aka": [
+      "Pícaro"
+    ],
+    "origin": "From Spanish pícaro, rogue. Founded by the anonymous Lazarillo de Tormes (1554), made popular by Mateo Alemán's Guzmán de Alfarache (1599, 1604).",
+    "meaning": "An episodic story, usually told in the first person, of a low-born rogue who survives by his wits through a series of masters or places, satirizing each, and changes little.",
+    "use": "Use it when you want a tour of a society; give each episode a new target, and add an engine underneath if you need suspense.",
+    "lessons": [
+      "quest-picaresque"
+    ]
+  },
+  {
     "term": "Pinch",
     "origin": "Syd Field, in work after Screenplay (1979), as part of his second-act scaffolding.",
     "meaning": "A smaller event in each half of the second act, reminding the audience of the central conflict.",
@@ -1284,6 +1616,25 @@
     "lessons": [
       "field",
       "hart"
+    ]
+  },
+  {
+    "term": "Plotto",
+    "aka": [],
+    "origin": "William Wallace Cook, Plotto (1928).",
+    "meaning": "A vast cross-referenced system of plot fragments that can be chained into stories; a more elaborate cousin of Polti's list.",
+    "use": "Use it, like Polti, to break a block, not to replace knowing your characters.",
+    "lessons": [
+      "polti"
+    ]
+  },
+  {
+    "term": "Point of ritual death",
+    "origin": "Pamela Regis, A Natural History of the Romance Novel (2003), one of her eight essential elements of the romance novel.",
+    "meaning": "The moment in a romance when union between the lovers seems impossible, often marked by images of death or despair.",
+    "use": "Give your romance a real low point where the barrier seems to have won, so the recognition that follows earns the ending.",
+    "lessons": [
+      "genre-promise"
     ]
   },
   {
@@ -1338,6 +1689,27 @@
     ]
   },
   {
+    "term": "Problem play",
+    "aka": [
+      "Shakespeare's problem plays"
+    ],
+    "origin": "Applied to Shakespeare by F. S. Boas in Shakspere and His Predecessors (1896), borrowing the term for the Ibsen-era drama of social problems.",
+    "meaning": "A play, such as Measure for Measure or All's Well That Ends Well, that raises moral questions its ending doesn't settle, so a formally comic ending feels uneasy.",
+    "use": "If your comedy's ending resolves the plot but not the question, own the unease rather than papering over it.",
+    "lessons": [
+      "tragedy-comedy"
+    ]
+  },
+  {
+    "term": "Profile",
+    "origin": "The New Yorker's 'Profiles' department, from 1925, named the form.",
+    "meaning": "A piece that makes a person known through scenes of them in action, their history, their voice and others' testimony.",
+    "use": "Open on the subject doing something revealing, say why now, and end on a scene, not a summary.",
+    "lessons": [
+      "journalism-forms"
+    ]
+  },
+  {
     "term": "Progressive complications",
     "origin": "Robert McKee, Story (1997).",
     "meaning": "Conflicts that build in force, each one costing the character more than the last, so the story can't go back.",
@@ -1360,6 +1732,15 @@
       "truby",
       "egri",
       "shared-core"
+    ]
+  },
+  {
+    "term": "Quest",
+    "origin": "As old as epic; shaped in the West by Homer's Odyssey and the medieval Grail romances of Chrétien de Troyes (c. 1190) and Wolfram von Eschenbach's Parzival. For the mythic pattern, see Campbell's hero's journey.",
+    "meaning": "A story in which a hero sets out after a goal (an object, a person, a way home) through a road of trials, often finding the goal mattered less than what the search taught.",
+    "use": "Name the goal, the distance and the cost; let the audience always know how far there is to go.",
+    "lessons": [
+      "quest-picaresque"
     ]
   },
   {
@@ -1425,6 +1806,15 @@
       "freytag",
       "hart",
       "shared-core"
+    ]
+  },
+  {
+    "term": "Road movie",
+    "origin": "A film genre with roots in Frank Capra's It Happened One Night (1934), named as a genre after Easy Rider (1969).",
+    "meaning": "A film structured as a journey by car, bus or bike, where the episodes of the road and the change in the travellers move together.",
+    "use": "Before writing, name the destination, the deadline and the relationship that will change.",
+    "lessons": [
+      "quest-picaresque"
     ]
   },
   {
@@ -1524,6 +1914,33 @@
     ]
   },
   {
+    "term": "Seven basic plots",
+    "aka": [
+      "Booker's seven plots"
+    ],
+    "origin": "Christopher Booker, The Seven Basic Plots: Why We Tell Stories (2004).",
+    "myth": "Booker didn't invent the idea that there are only a few plots; he offered one influential version of it, and added two more plots later in the book.",
+    "meaning": "Overcoming the Monster, Rags to Riches, the Quest, Voyage and Return, Comedy, Tragedy and Rebirth, each with its own sequence of stages.",
+    "use": "Identify the nearest plot, then use its stages to find a missing or underplayed movement in your draft.",
+    "lessons": [
+      "booker"
+    ]
+  },
+  {
+    "term": "Shapes of stories",
+    "aka": [
+      "Good–ill fortune axis",
+      "Beginning–end axis"
+    ],
+    "origin": "Kurt Vonnegut, in Palm Sunday (1981), A Man Without a Country (2005) and a widely shared lecture; he said a master's thesis on the idea was rejected by the University of Chicago.",
+    "myth": "The thesis story is Vonnegut's own anecdote; the records of which proposal was rejected, and when, are tangled.",
+    "meaning": "A story plotted as a line, with time running across and the protagonist's good or ill fortune running up and down; a few shapes recur.",
+    "use": "Mark how your protagonist's fortune stands after each major event and join the dots; long flat stretches are where audiences drift.",
+    "lessons": [
+      "vonnegut-shapes"
+    ]
+  },
+  {
     "term": "Shot size",
     "origin": "A shared craft vocabulary of film and television; names vary between countries and crews.",
     "meaning": "The scale of the subject in the frame, from extreme wide shot to extreme close-up, which sets the audience's emotional distance from a character.",
@@ -1569,6 +1986,15 @@
     "use": "Write one sentence for your situation and one for your story. If you can only write the first, you haven't found what the piece is about yet; keep drafting until the second appears.",
     "lessons": [
       "gornick"
+    ]
+  },
+  {
+    "term": "Social novel",
+    "origin": "An old term for fiction that portrays a whole society (Dickens, Balzac, Zola). In recent American debate it was championed by Tom Wolfe's \"Stalking the Billion-Footed Beast\" (Harper's, 1989) and agonized over in Franzen's \"Perchance to Dream\" (Harper's, 1996).",
+    "meaning": "A novel that tries to take in a whole society and engage its big issues, not just private lives.",
+    "use": "If your story aims to be about a society, check that its private conflicts actually carry the public ones, rather than standing beside them.",
+    "lessons": [
+      "franzen"
     ]
   },
   {
@@ -1739,6 +2165,15 @@
     ]
   },
   {
+    "term": "The reader is a friend",
+    "origin": "Jonathan Franzen, the first of his ten rules for novelists, The Guardian (2010): \"The reader is a friend, not an adversary, not a spectator.\"",
+    "meaning": "Don't trick, bully or lecture the reader, and don't perform at them either: draw them in as a participant.",
+    "use": "Find a passage where you're showing off or withholding to seem clever, and rewrite it so the reader works it out alongside you.",
+    "lessons": [
+      "franzen"
+    ]
+  },
+  {
     "term": "Therefore/but rule",
     "origin": "Trey Parker and Matt Stone, in a 2011 guest appearance at an NYU class filmed for mtvU's Stand In.",
     "meaning": "Beats should connect by \"therefore\" or \"but\", not by \"and then\".",
@@ -1747,6 +2182,19 @@
       "shared-core",
       "aristotle",
       "forster"
+    ]
+  },
+  {
+    "term": "Thirty-six dramatic situations",
+    "aka": [
+      "Polti's situations"
+    ],
+    "origin": "Georges Polti, Les trente-six situations dramatiques (1895; English 1916), built on a remark by Goethe to Eckermann that Carlo Gozzi had counted thirty-six tragic situations.",
+    "myth": "No list by Gozzi survives; the thirty-six are Polti's reconstruction.",
+    "meaning": "A catalogue of basic dramatic conflicts, from Supplication and Deliverance to Remorse and Loss of loved ones, each defined by the roles it needs.",
+    "use": "Name the situation at your story's core, check every role is filled, or collide two situations to generate a plot.",
+    "lessons": [
+      "polti"
     ]
   },
   {
@@ -1777,6 +2225,15 @@
     ]
   },
   {
+    "term": "Tick-tock",
+    "origin": "Newsroom and newsmagazine slang for a chronological reconstruction.",
+    "meaning": "A minute-by-minute or hour-by-hour reconstruction of how a big event unfolded.",
+    "use": "Build a timeline from multiple sources before writing, and use time stamps as the spine.",
+    "lessons": [
+      "journalism-forms"
+    ]
+  },
+  {
     "term": "Token character",
     "origin": "A term from social criticism of representation, applied to fiction and film; no single originator.",
     "meaning": "A minor character included to represent a group, whose identity stands in for a personality and who has no want of their own.",
@@ -1784,6 +2241,18 @@
     "lessons": [
       "side-characters",
       "who-is-the-subject"
+    ]
+  },
+  {
+    "term": "Tragicomedy",
+    "aka": [
+      "Tragi-comedy"
+    ],
+    "origin": "The word was coined by Plautus in the prologue to Amphitryon; Giovanni Battista Guarini defended the form around 1600, and John Fletcher defined it in the preface to The Faithful Shepherdess (c. 1609).",
+    "meaning": "A play that mixes tragic and comic elements; in Fletcher's definition, one that brings characters near death but has no deaths. In modern drama, often a doubleness of tone where the audience can't tell whether to laugh or grieve.",
+    "use": "Offer real danger and a reprieve that feels earned, or write scenes that can be played both funny and sad, as Chekhov did.",
+    "lessons": [
+      "tragedy-comedy"
     ]
   },
   {
@@ -1806,6 +2275,15 @@
     "lessons": [
       "want-need-wound",
       "baxter"
+    ]
+  },
+  {
+    "term": "Trend piece",
+    "origin": "Newsroom form; the joke 'three makes a trend' mocks its habit of building on anecdotes.",
+    "meaning": "A story claiming something is new and spreading, usually with examples and, if done well, data showing change over time.",
+    "use": "Before writing, find numbers that show growth; if you can't, it's a feature about some people, not a trend.",
+    "lessons": [
+      "journalism-forms"
     ]
   },
   {
@@ -1881,6 +2359,18 @@
     ]
   },
   {
+    "term": "Verbatim theatre",
+    "aka": [
+      "Documentary theatre"
+    ],
+    "origin": "Documentary theatre goes back to the 1920s–60s (Piscator, Peter Weiss's The Investigation, 1965); 'verbatim theatre' was given wide currency by Derek Paget's 1987 article in New Theatre Quarterly.",
+    "meaning": "Theatre made from the exact words of real people, usually from interviews, as in Anna Deavere Smith's Fires in the Mirror (1992) and The Laramie Project (2000).",
+    "use": "Interview widely, then keep a record of every cut and reordering: the editing is your argument.",
+    "lessons": [
+      "stage-forms"
+    ]
+  },
+  {
     "term": "Verfremdungseffekt",
     "aka": [
       "Alienation effect",
@@ -1892,6 +2382,16 @@
     "use": "Interrupt a moment of identification with a device that makes the audience look at it as a choice: a song, a title, a character stepping out. Do it where you want judgment, not tears.",
     "lessons": [
       "brecht"
+    ]
+  },
+  {
+    "term": "Voyage and Return",
+    "aka": [],
+    "origin": "Named as one of the seven basic plots by Christopher Booker (2004).",
+    "meaning": "A hero falls into a strange world, is enchanted, then threatened, and escapes home, as in Alice in Wonderland or The Wizard of Oz.",
+    "use": "Decide what the other world shows the hero, and whether they come home changed.",
+    "lessons": [
+      "booker"
     ]
   },
   {
@@ -1915,6 +2415,15 @@
     ]
   },
   {
+    "term": "Watch Out for That Glacier!",
+    "origin": "Blake Snyder, Save the Cat! (2005).",
+    "meaning": "Snyder's rule that danger must be close and coming fast; a slow, distant threat builds no suspense.",
+    "use": "If your menace is slow (an illness, a lawsuit, a climate), give it a near deadline and put it in the room.",
+    "lessons": [
+      "save-the-cat-practice"
+    ]
+  },
+  {
     "term": "Well-made play",
     "aka": [
       "Pièce bien faite"
@@ -1924,6 +2433,18 @@
     "use": "Use its machinery for tension, a secret the audience knows and characters don't, but ask what truth the plot reveals. Ibsen kept the mechanics and gave them moral weight.",
     "lessons": [
       "well-made-play"
+    ]
+  },
+  {
+    "term": "Whodunit",
+    "aka": [
+      "Classic detective story"
+    ],
+    "origin": "The word dates from the 1930s; Tzvetan Todorov analysed the form in 'The Typology of Detective Fiction' (1966), alongside the thriller and the suspense novel.",
+    "meaning": "A detective story built on two stories, a crime already committed and an investigation that uncovers it, in which the detective is never in real danger.",
+    "use": "Plant clues fairly in the investigation story so the solution, when it comes, rearranges what the reader has already seen.",
+    "lessons": [
+      "genre-promise"
     ]
   },
   {
