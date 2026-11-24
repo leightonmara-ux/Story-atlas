@@ -14,9 +14,9 @@ That sets the visual rule for everything after. Antonioni and Di Venanzo keep fr
 
 ### Glass, reflections and the scene you can't hear
 
-The film keeps putting something transparent between people. The opening is all glass. And in the rain sequence, about two-thirds through, Lidia leaves the party with Roberto, a guest who has been courting her, and drives off with him in his car. Antonioni keeps the camera outside the car. We watch the two of them through the rain-streaked windows, talking and laughing, their faces blurred and broken up by the water, and we hear none of what they say. Lidia, who has been closed all day, seems for a few minutes to be enjoying herself; then, when they stop, she turns away from his kiss.
+The film keeps putting something transparent between people. The opening is all glass. And in the rain sequence, about two-thirds through, Lidia leaves the party with Roberto, a guest who has been courting her, and drives off with him in his car. Antonioni keeps the camera outside the car. We watch the two of them through the rain-streaked windows, talking and laughing, their faces blurred and broken up by the water, and we hear none of what they say. Lidia seems, for a few minutes, to be enjoying herself; when they stop, she turns away from his kiss.
 
-The point is double. Visually, the wet glass does what the cast never says aloud: these people can see one another but can't reach one another. And by withholding the dialogue, the film makes us do what Giovanni can't, read Lidia from the outside. *Sound inside and outside the story* treats sound as something that places us; here the scene's sound places us firmly outside the car, outside the conversation, outside Lidia.
+The wet glass says what the cast never does: these people can see one another but can't reach one another. And by withholding the dialogue, the film makes us read Lidia from the outside, as Giovanni can't. *Sound inside and outside the story* treats sound as something that places us; here the scene's sound places us firmly outside the car, outside the conversation, outside Lidia.
 
 ### Lidia's walk: a story made of looking
 
@@ -26,7 +26,7 @@ In conventional terms the walk is a pause; here it's the centre. It gives Lidia 
 
 ### The party as a system of mirrors
 
-The second half is one long night at the villa of Gherardini, a wealthy industrialist, who offers Giovanni a well-paid job writing for his company: a writer being invited to sell out, and Giovanni doesn't say no. It's here that *The cast as a system* comes in. The three leads are variations on one problem, the inability to feel or commit.
+The second half is one long night at the villa of Gherardini, an industrialist who offers Giovanni a well-paid job writing for his company: a writer being invited to sell out, and Giovanni doesn't say no. It's here that *The cast as a system* comes in. The three leads are variations on one problem, the inability to feel or commit.
 
 Giovanni is the empty centre: charming, passive, drifting towards whatever is nearest. Lidia sees clearly but has stopped acting on what she sees. Valentina, whom Giovanni first finds alone reading Hermann Broch's novel *The Sleepwalkers*, is younger, cleverer and more honest than either; she plays a game sliding her compact across a chequered marble floor, and when Giovanni pursues her she is drawn in and then holds back. Late in the night, during a power cut, she plays him a recording she made of her own voice on a tape recorder, then erases it. Her refusal is what stops this becoming an affair story. The dying friend, Tommaso, is the fourth corner: the one man who loved Lidia without needing anything, and the measure of what Giovanni has lost. During the party, Lidia telephones the hospital and learns he has died.
 
@@ -34,7 +34,7 @@ Giovanni is the empty centre: charming, passive, drifting towards whatever is ne
 
 Antonioni had the jazz musician Giorgio Gaslini write the score, and Gaslini's band appears on screen, playing at the party. So most of the film's music is inside the story: the guests dance to it, talk over it, ignore it. *Music and silence* would call it **anempathetic**: it carries on in its own cool, easy mood while the marriage at the centre quietly ends. Nobody, including the music, is paying attention to these two people.
 
-Elsewhere the film is sparing with sound. The walk plays mostly to street noise and footsteps, so the boys' rockets land with real force. The rain sequence swaps conversation for the sound of water. Valentina's recorded voice, played and wiped, is the film's sharpest sound image: a person literally erasing what she said. Silence, the lesson says, makes us lean in, and *La Notte* asks us to lean in for two hours.
+Elsewhere the film is sparing with sound. The walk plays mostly to street noise and footsteps, so the boys' rockets land with real force. The rain sequence swaps conversation for the sound of water. Valentina's recorded voice, played and wiped, is the film's sharpest sound image: a person literally erasing what she said.
 
 ### An ending that refuses the climax
 
@@ -42,7 +42,7 @@ At dawn, Giovanni and Lidia walk out across Gherardini's private golf course. Sh
 
 He responds by pulling her down onto the grass and kissing her, almost desperately, while she says no and then stops resisting. The camera moves away from them across the empty landscape, the music comes in, and the film ends. Nothing is resolved; the image does the ending: two figures small against an empty morning.
 
-This is what the counterpoint lessons describe. In *Robert McKee*'s terms, it's a **miniplot**: a passive protagonist, inner conflict, an open ending. In *Ursula K. Le Guin*'s, the film is a carrier bag, not a spear: the night holds a hospital, a city, a party and a letter, and its meaning comes from how they sit together, not from a duel. And the letter works like the turn in *Kishōtenketsu*: not a fight but a sudden shift in understanding. The past arrives in the present in Giovanni's own voice, and he can't hear it.
+This is what the counterpoint lessons describe. In *Robert McKee*'s terms, it's a **miniplot**: a passive protagonist, inner conflict, an open ending. In *Ursula K. Le Guin*'s, it's a carrier bag, not a spear: its meaning comes from how a hospital, a city, a party and a letter sit together. And the letter works like the turn in *Kishōtenketsu*: not a fight but a sudden shift in understanding. The past arrives in the present in Giovanni's own voice, and he can't hear it.
 
 ## The shape
 
