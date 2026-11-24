@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A historical playwright notices that a 19th-century memoir stops short whenever the worst events happen. What would Morrison suggest?",
+      "choices": [
+        "Ask who the memoir was written for and what it couldn't afford to say, and write into that silence",
+        "Cut those events, since the source doesn't support them",
+        "Stage the memoir word for word as verbatim theatre",
+        "Replace the gaps with a hero's journey structure"
+      ],
+      "answer": 0,
+      "explain": "Morrison read the slave narratives' silences as shaped by their white readership, and saw her job as ripping that veil."
+    },
+    {
+      "q": "What does Morrison mean by 'literary archaeology'?",
+      "choices": [
+        "Studying how myths share one underlying pattern",
+        "Digging through drafts to find a story's real ending first",
+        "Starting from real remains and reconstructing the world they imply",
+        "Researching every fact before allowing any invention"
+      ],
+      "answer": 2,
+      "explain": "Like an archaeologist reading a site, she starts from information and some guesswork and rebuilds a world consistent with what remains."
+    },
+    {
+      "q": "For Morrison, what's the crucial distinction?",
+      "choices": [
+        "Between story and plot",
+        "Between fact and truth",
+        "Between the situation and the story",
+        "Between showing and telling"
+      ],
+      "answer": 1,
+      "explain": "Facts can exist without human intelligence; truth can't. Story/plot is Forster's, situation/story is Gornick's."
+    },
+    {
+      "q": "A screenwriter wants to start a script from a theme statement about injustice. How would Morrison's method differ?",
+      "choices": [
+        "Start from a logline and a save-the-cat moment",
+        "Start from the ending and work backward",
+        "Start from a premise to be proved by conflict",
+        "Start from a remembered image and let the text grow from it"
+      ],
+      "answer": 3,
+      "explain": "Morrison found the route from image to text the most trustworthy; ideas first tend to produce illustration."
+    },
+    {
+      "q": "What was the true story that seeded Beloved, and how did Morrison treat it?",
+      "choices": [
+        "Margaret Garner's story; Morrison invented the inner life the record didn't keep",
+        "Harriet Jacobs's narrative; Morrison adapted it scene by scene",
+        "Frederick Douglass's escape; Morrison verified every detail with historians",
+        "A family memory of her grandmother; Morrison wrote it as memoir"
+      ],
+      "answer": 0,
+      "explain": "Garner killed her daughter rather than see her returned to slavery in 1856; Morrison built Sethe's interior life from imagination."
+    },
+    {
+      "q": "A reporter likes Morrison's 'fact versus truth'. What's the right way to use it in journalism?",
+      "choices": [
+        "Invent a source's thoughts when they serve a deeper truth",
+        "Use composite characters to make the truth clearer",
+        "Get every fact right, then ask whether the piece is also true to what those facts meant",
+        "Ignore documents, since facts can exist without human intelligence"
+      ],
+      "answer": 2,
+      "explain": "Morrison wrote fiction. Journalists keep the facts sacred and use her distinction as a further test, not a license to invent."
+    },
+    {
+      "q": "In her 1993 Nobel Lecture, what does the bird in the young people's hands stand for?",
+      "choices": [
+        "The audience's attention",
+        "Language, and the writer's responsibility for it",
+        "Memory, which floods back like a river",
+        "Freedom from slavery"
+      ],
+      "answer": 1,
+      "explain": "Morrison reads the bird as language: whether it lives or dies is in the hands of those who use it."
+    }
+  ],
+  "ideas": [
+    "The writer's job is to rip away the veil that earlier narrators drew over events too terrible to relate.",
+    "Start from real remains, travel to the site, and reconstruct the world those remains imply.",
+    "The crucial distinction isn't between fact and fiction but between fact and truth, because facts can exist without human intelligence and truth cannot.",
+    "Oppressive language doesn't just represent violence; it is violence."
+  ]
+}

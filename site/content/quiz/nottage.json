@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A playwright has interviewed forty factory workers. What would Nottage's approach do with the material, as opposed to verbatim theatre?",
+      "choices": [
+        "Perform each worker's exact words, hesitations included",
+        "Invent fictional characters and a plot inspired by the interviews, keeping faith with their experience",
+        "Discard the interviews and write from imagination alone",
+        "Arrange the quotes by importance, most newsworthy first"
+      ],
+      "answer": 1,
+      "explain": "Nottage writes fiction drawn from long listening; verbatim theatre (Anna Deavere Smith, The Laramie Project) uses real words."
+    },
+    {
+      "q": "Why did Ruined stop being an adaptation of Brecht's Mother Courage?",
+      "choices": [
+        "The interviews showed that the European frame couldn't hold the Congolese women's stories",
+        "Brecht's estate refused permission",
+        "The director wanted a well-made play instead of epic theatre",
+        "Audiences found Brecht's alienation effects too cold"
+      ],
+      "answer": 0,
+      "explain": "Nottage kept an echo of Mother Courage in Mama Nadi, but the research convinced her to center the women themselves."
+    },
+    {
+      "q": "Sweat opens in 2008 with two young men just out of prison, then moves back to 2000. What does this do?",
+      "choices": [
+        "It creates a cliffhanger before an ad break",
+        "It hides the inciting incident until the final scene",
+        "It gives the audience dramatic irony, so they watch asking how these people got here",
+        "It follows the unity of time"
+      ],
+      "answer": 2,
+      "explain": "Knowing something went wrong shifts the question from 'what happens?' to 'how?', the question her research was about."
+    },
+    {
+      "q": "A screenwriter's working-class characters exist mainly to suffer and be pitied. What would Nottage's practice suggest?",
+      "choices": [
+        "Give them a save-the-cat moment in the first ten pages",
+        "Add more hardship to raise the stakes",
+        "Cut their dialogue so the images speak",
+        "Give them humor, knowledge, arguments and choices of their own"
+      ],
+      "answer": 3,
+      "explain": "Nottage is wary of 'poverty porn'; dignity comes from characters who are sharp, funny and acting for themselves."
+    },
+    {
+      "q": "What was distinctive about how Nottage researched Sweat?",
+      "choices": [
+        "She worked only from census data and news reports",
+        "She returned to Reading, Pennsylvania, again and again over about two years or more, listening to residents",
+        "She recorded interviews and had actors repeat them through earpieces",
+        "She adapted a nonfiction book about the steel industry"
+      ],
+      "answer": 1,
+      "explain": "With director Kate Whoriskey she made repeated trips from 2011; earpieces are Alecky Blythe's verbatim technique."
+    },
+    {
+      "q": "After Sweat, Nottage and Kate Whoriskey made This Is Reading (2017). What was it?",
+      "choices": [
+        "A documentary film about the 2016 election",
+        "A sequel play set in a sandwich shop",
+        "A multimedia installation in Reading's old railroad station, with residents among the performers",
+        "A verbatim transcript published as a book"
+      ],
+      "answer": 2,
+      "explain": "It gave the research back to the community. The sandwich-shop play is Clyde's (2021)."
+    },
+    {
+      "q": "A reporter wants to borrow Nottage's method for a feature about a struggling town. What carries over, and what doesn't?",
+      "choices": [
+        "The long immersion and listening carry over; composites and an invented climax don't",
+        "Everything carries over, as long as the piece feels true",
+        "Nothing carries over, because plays are fiction",
+        "Only the bar setting carries over"
+      ],
+      "answer": 0,
+      "explain": "Journalism shares her patience and her respect for subjects but can't invent characters or events."
+    }
+  ],
+  "ideas": [
+    "Interview a community for years, then write fiction: characters inspired by the people you met, not their exact words.",
+    "Let your research overturn your premise, even if you set out to adapt a classic play.",
+    "Give the story back to the community that told it, with a performance made in their town and with them.",
+    "Write working people with dignity, avoiding poverty porn: nobody onstage exists only to suffer."
+  ]
+}
