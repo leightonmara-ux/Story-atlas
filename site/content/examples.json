@@ -18,6 +18,57 @@
     ]
   },
   {
+    "id": "lord-of-the-rings",
+    "title": "The Lord of the Rings",
+    "year": "2001–2003",
+    "medium": "Film",
+    "by": "Peter Jackson (director); screenplays by Fran Walsh, Philippa Boyens and Peter Jackson (with Stephen Sinclair on The Two Towers), from J. R. R. Tolkien; music by Howard Shore",
+    "summary": "A nine-hour quest that braids three strands toward one fixed destination, restructures its source with care, lets leitmotifs carry memory, and ends with a hero who cannot go home.",
+    "lessons": [
+      "quest-picaresque",
+      "campbell-vogler",
+      "braided",
+      "editing",
+      "music-silence",
+      "endings",
+      "cast-system"
+    ]
+  },
+  {
+    "id": "prometheus",
+    "title": "Prometheus",
+    "year": 2012,
+    "medium": "Film",
+    "by": "Ridley Scott (director); screenplay by Jon Spaihts and Damon Lindelof; Michael Fassbender, Noomi Rapace, Charlize Theron",
+    "summary": "An honest double lesson: superb design, a model character introduction in David and a set piece built on a want under pressure, undermined by decisions that come from the plot rather than the characters.",
+    "lessons": [
+      "want-need-wound",
+      "making-us-care",
+      "introductions",
+      "genre-promise",
+      "mise-en-scene",
+      "allegiance"
+    ]
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away",
+    "year": 2001,
+    "medium": "Film",
+    "by": "Hayao Miyazaki (writer-director), Studio Ghibli; music by Joe Hisaishi",
+    "summary": "A coming-of-age fantasy whose heroine grows through work and kindness rather than combat, set in a bathhouse whose rules are the plot, with Miyazaki's deliberate pauses (ma) doing as much as the action.",
+    "lessons": [
+      "bildungsroman",
+      "making-us-care",
+      "mise-en-scene",
+      "music-silence",
+      "side-characters",
+      "le-guin",
+      "campbell-vogler",
+      "kishotenketsu"
+    ]
+  },
+  {
     "id": "worst-person-in-the-world",
     "title": "The Worst Person in the World",
     "year": 2021,

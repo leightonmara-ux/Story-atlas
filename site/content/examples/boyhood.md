@@ -16,7 +16,7 @@ It's also a *künstlerroman*, the artist's branch of the form. Mason drifts towa
 
 ### Time passing with no title cards
 
-There's no "Two years later." The film cuts straight from one year to the next, often mid-conversation in a new house, and we work out the jump from the evidence: Mason's haircut, a new school, a new stepfamily, the phones, the songs. *Story vs. telling* calls this **ellipsis**, events skipped entirely, and it's the film's main tool. Twelve years go by in under three hours, and most of the major events in Mason's life (moves, a divorce's legal end, first sex) happen in the gaps.
+There's no "Two years later." The film cuts straight from one year to the next, often mid-conversation in a new house, and we work out the jump from the evidence: Mason's haircut, a new school, a new stepfamily, the phones, the songs. *Story vs. telling* calls this **ellipsis**, events skipped entirely, and it's the film's main tool. Twelve years go by in under three hours, and most of the major events in Mason's life (moves, marriages ending, first romances) happen in the gaps.
 
 Pop culture does the job of a calendar. The film opens on young Mason lying on the grass looking up at the sky, to Coldplay's "Yellow". Later there's a midnight bookshop party for a *Harry Potter* release, and Mason Sr. takes the kids out putting up Obama signs in the 2008 campaign. *Music and silence* discusses the needle drop, a recognizable song placed in a scene; here songs work mainly as timestamps, telling the audience, without any caption, roughly what year it is.
 
@@ -24,7 +24,7 @@ Pop culture does the job of a calendar. The film opens on young Mason lying on t
 
 Linklater has said the film is a collection of small, intimate moments in which nothing huge happens, and that real memory is mostly made of little things that don't seem important at the time. He usually avoids showing the big events and gives us the moments just before or after them.
 
-The cleverest effect comes from what he leaves out. More than once the film sets up a scene the way a conventional drama would set up a catastrophe, and then lets it pass. Teenage boys throw circular saw blades at a plank in a half-built house while drinking and boasting. Mason's second stepfather, Bill, a professor, turns into a violent drunk, and the film builds the dread of something terrible, but Olivia simply gets her children out, and the story moves on. Viewers trained by other films brace for a death or a crash that never arrives.
+The cleverest effect comes from what he leaves out. More than once the film sets up a scene the way a conventional drama would set up a catastrophe, and then lets it pass. Teenage boys throw circular saw blades at a plank in a half-built house while drinking and boasting. Mason's first stepfather, Bill, Olivia's former professor, turns into a violent drunk, and the film builds the dread of something terrible, but Olivia simply gets her children out, and the story moves on. Viewers trained by other films brace for a death or a crash that never arrives.
 
 This is a direct challenge to the "therefore / but" chain of *The shared core* and to *Aristotle*'s preference for events that follow by necessity. *Ursula K. Le Guin*'s carrier bag is closer: a container of things held in relation, with no climax to aim at.
 
@@ -32,11 +32,11 @@ This is a direct challenge to the "therefore / but" chain of *The shared core* a
 
 The film is titled for Mason, but Olivia has the clearest arc. She starts as a young single mother, goes back to college, becomes a psychology lecturer, marries badly twice, and ends with a house of her own and children leaving home. Near the end, as Mason packs for college, she breaks down: she had expected there to be more to life than this, and the milestones she has just been through (the weddings, the divorces, the graduations) have been the whole of it, with her own funeral next. It's the film's most explicitly dramatic speech, and it belongs to someone who isn't the protagonist.
 
-*Whose side are we on?* separates **alignment** (whom we follow) from **allegiance** (whom we side with). We're aligned with Mason almost throughout; we follow him from scene to scene. But Olivia earns the deeper allegiance, partly because we see her bear the consequences of choices that Mason only experiences from below. One small thread shows it: early on, Olivia tells a young man fixing a pipe at her house that he's smart and should go to college; years later, he stops her in a restaurant, now its manager, to thank her.
+*Whose side are we on?* separates **alignment** (whom we follow) from **allegiance** (whom we side with). We're aligned with Mason almost throughout; we follow him from scene to scene. But Olivia earns the deeper allegiance, partly because we see her bear the consequences of choices that Mason only experiences from below. One small thread shows it: early on, Olivia tells a young man fixing a pipe at her house that he's smart and should take classes at the community college; years later, he stops her in a restaurant, now its manager, to thank her.
 
 ### The father who grows up too
 
-Mason Sr. begins as the fun, unreliable weekend dad with a muscle car and a band, and ends remarried, with a new baby, a minivan, and an insurance job. He'd promised the car to Mason, and sold it. *The cast as a system* asks what each character shows about the hero that no one else could; Mason Sr. shows Mason one version of becoming an adult, compromise without bitterness, against Olivia's version, achievement with regret. Both parents are growing up on screen alongside their son. That's what makes it a family story rather than one boy's.
+Mason Sr. begins as the fun, unreliable weekend dad with a muscle car and a band, and ends remarried, with a new baby, a minivan and a steady job. He'd promised the car to Mason, and sold it. *The cast as a system* asks what each character shows about the hero that no one else could; Mason Sr. shows Mason one version of becoming an adult, compromise without bitterness, against Olivia's version, achievement with regret. Both parents are growing up on screen alongside their son. That's what makes it a family story rather than one boy's.
 
 ## The shape
 
@@ -44,10 +44,10 @@ No conventional structure fits, and the film is designed that way. Its chapters 
 
 | Stretch | What happens | Roughly where |
 |---|---|---|
-| Early childhood | Mason on the grass; Olivia moves the family to Houston; father reappears | Opening to about a sixth |
-| First stepfamily | Bill's house; the drinking and violence; Olivia gets the children out | About a sixth to two-fifths |
-| Father's weekends, middle childhood | Camping, the Obama signs, a new town and school | About two-fifths to a half |
-| Second stepfather, early teens | Jim, the bad haircut, the saw blades, first parties | About a half to two-thirds |
+| Early childhood | Mason on the grass; Olivia moves the family to Houston; their father reappears | Opening to about a sixth |
+| First stepfamily | Bill's house; the forced haircut; the drinking and violence; Olivia gets the children out | About a sixth to two-fifths |
+| A new town, early teens | Father's weekends and the Obama signs; a new school; a second stepfather, Jim | About two-fifths to three-fifths |
+| Teenage drift | The saw blades, first parties, camping with his father | About three-fifths to two-thirds |
 | High school | Photography, a girlfriend, the trip to Austin, graduation party | About two-thirds to five-sixths |
 | Leaving | Olivia's breakdown; Mason drives to college; a hike with new friends | Last sixth |
 
@@ -55,19 +55,19 @@ No conventional structure fits, and the film is designed that way. Its chapters 
 
 ## What people said
 
-**Richard Linklater** described the project in many interviews as a film about time and memory. He said it was built from small moments rather than big dramatic events, and that if you think back on your own life it's mostly little things you have no business remembering. He wrote each year's section close to the time of filming, drawing on what his actors were living through, and has said he couldn't plan the ending in detail because he didn't know who Coltrane would become. The project was known for years by a working title, *12 Years*.
+**Richard Linklater** described the project in many interviews as a film about time and memory. He said it was built from small moments rather than big dramatic events, and that if you think back on your own life it's mostly little things you have no business remembering. He wrote each year's section close to the time of filming, drawing on what his actors were living through. The project was known for years by a working title, *12 Years*.
 
 **The critics** were overwhelmingly enthusiastic: the film scored near-perfect averages on review aggregators and won the Golden Globe for Best Motion Picture (Drama) and Linklater the Silver Bear for Best Director at Berlin. It lost the Academy Award for Best Picture to *Birdman*.
 
-**The dissent** came in two forms. Some critics who admired the film had reservations about its lead: the *Christian Science Monitor*'s reviewer praised it highly but wrote that at times he wished a trained actor had played the older Mason, and others found the teenage Mason too passive and unformed to carry the final hour (*Charles Baxter*'s argument about passive protagonists is relevant here). The broader objection, made in later essays and by many viewers, was that the twelve-year method was doing the work, and that without it the film would be an ordinary, plotless family story in which, famously, nothing much happens. Kenneth Turan of the *Los Angeles Times* was among the few major critics who were openly unpersuaded by the general raves.
+**The dissent** came in two forms. Some critics who admired the film had reservations about its lead: the *Christian Science Monitor*'s reviewer praised it highly but wrote that at times he wished a trained actor had played the older Mason, and others found the teenage Mason too passive and unformed to carry the final hour (*Charles Baxter*'s argument about passive protagonists is relevant here). The broader objection, made in later essays and by many viewers, was that the twelve-year method was doing the work, and that without it the film would be an ordinary, plotless family story in which, famously, nothing much happens.
 
 ## Watch for
 
 - **The first shot** (opening seconds): Mason on the grass, looking at the sky. Compare it with the final scene.
 - **The first jump in time** (about a tenth in): how you learn time has passed, with no caption.
 - **Bill's dinner table** (about a quarter in): watch the dread build, and how the film refuses to let it explode.
+- **The haircut** (about a quarter to a third in): Bill has Mason's long hair shaved off. Linklater has joked that it might be the film's most traumatic scene. Notice how small it is.
 - **The Obama signs** (about two-fifths in): politics, and Mason Sr.'s idea of fatherhood, in one errand.
-- **The haircut** (about half in): Linklater has joked that it might be the film's most traumatic scene. Notice how small it is.
 - **The saw blades** (about two-thirds in): a scene staged like the lead-up to an accident.
 - **The restaurant manager** (about three-quarters in): the payoff of a scene from years earlier.
 - **Olivia's speech** (last sixth): the film's one big outburst, and who gets to have it.
