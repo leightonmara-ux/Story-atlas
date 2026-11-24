@@ -10,7 +10,7 @@
 
 *The quest and the picaresque* explains why a quest has built-in momentum: there is a destination, and every episode is a step toward it or away from it. Tolkien's story is an unusual quest because the goal is not to get something but to get rid of it. From the moment Gandalf (Ian McKellen) drops the ring into the fire at Bag End, early in the first film, and the hidden writing appears, the audience knows the end point: Mount Doom. Nine hours later, it is still the end point.
 
-That fixed goal is what lets the trilogy sprawl. Battles, councils, cities and side journeys can pile up because the audience always knows how far Frodo is from the mountain. The films keep reminding us with a simple device: the Ring itself, which grows heavier, and Frodo, who grows thinner, greyer and more withdrawn with each film.
+That fixed goal is what lets the trilogy sprawl: battles, councils and side journeys can pile up because the audience always knows how far Frodo is from the mountain, and Frodo himself, thinner and more withdrawn with each film, is the gauge.
 
 The lesson's other point, that the best quests reveal that the object was not what mattered, lands in the climax. On the edge of the fire, Frodo cannot let go. He claims the Ring and puts it on, and it is Gollum, biting it off his finger and falling, who destroys it. The hero's quest succeeds through his failure, and through a creature he chose to spare.
 
@@ -24,7 +24,7 @@ What makes the trilogy more than a template is how it treats the return. Campbel
 
 At the end of the first film the Fellowship breaks into three. Frodo and Sam head for Mordor; Merry and Pippin are carried off by orcs; Aragorn (Viggo Mortensen), Legolas and Gimli pursue them. From then on the films are a braid, and *The braided narrative* and *Editing* both explain how that works.
 
-The strands are chosen to cover different ground: the small, intimate journey of two hobbits and a guide they can't trust; the war story in Rohan and Gondor; and, between them, Merry and Pippin, who connect the hobbits' world to the wider one. Tolkien's novel tells *The Two Towers* largely in two separate blocks, first the war, then Frodo's journey. The films alternate instead, so that each strand comments on the others.
+The strands cover different ground: the intimate journey of two hobbits and a guide they can't trust; the war in Rohan and Gondor; and Merry and Pippin between them. Tolkien's novel tells *The Two Towers* largely in two separate blocks, first the war, then Frodo's journey. The films alternate instead, so that each strand comments on the others.
 
 The clearest example is the climax of *The Two Towers*, where the siege of Helm's Deep is cross-cut with the Ents marching on Isengard and with Frodo, captured by Faramir and taken to the ruined city of Osgiliath, nearly giving himself up to a Ringwraith. Then, as the battles turn, Sam speaks to Frodo about the stories that matter, the ones where people keep going, and the film cuts across the strands under his words. It's convergence by meaning before it is convergence by plot. In *The Return of the King* the strands converge literally: Aragorn leads an army to the Black Gate as a decoy, so that Sauron's eye is turned away while Frodo and Sam climb the mountain.
 
@@ -40,9 +40,9 @@ Not every change was welcomed. Faramir, who in the book resists the Ring almost 
 
 *Music and silence* describes the leitmotif: a short musical idea tied to a character, place or idea, which returns and develops as the story does. Howard Shore's score is the largest modern example, built from dozens of themes in a deliberately Wagnerian way (the musicologist Doug Adams documented them in his 2010 book *The Music of the Lord of the Rings Films*).
 
-You don't need to know the names of the themes to feel the system work. The Shire has a gentle folk melody, heard on whistle and fiddle, which returns whenever the hobbits think of home. Rohan has its own melancholy theme, led by a Norwegian Hardanger fiddle. The Fellowship theme is a heroic brass melody that sounds most fully while the company travels together in the first film, and after the group breaks, it tends to return in fragments. Because each theme is attached to a place or a group, the score can remind us of what is absent: a few bars of the Shire tune in Mordor are a memory of home, and the audience feels the distance without a line of dialogue.
+The Shire has a gentle folk melody, heard on whistle and fiddle, which returns whenever the hobbits think of home. Rohan has its own melancholy theme, led by a Norwegian Hardanger fiddle. The Fellowship theme is a heroic brass melody that sounds most fully while the company travels together in the first film, and after the group breaks, it tends to return in fragments. Because each theme is attached to a place or a group, the score can remind us of what is absent: a few bars of the Shire tune in Mordor are a memory of home, and the audience feels the distance without a line of dialogue.
 
-The lighting of the beacons in *The Return of the King*, a chain of signal fires leaping from mountain to mountain, is almost pure music and landscape, and it shows how far the films trust the score to carry story.
+The lighting of the beacons in *The Return of the King*, signal fires leaping from mountain to mountain, is almost pure music and landscape.
 
 ## The shape
 
@@ -71,7 +71,6 @@ The debate maps neatly onto *Frank Kermode & Peter Brooks*. One side wants Kermo
 
 ## Watch for
 
-- **The prologue** (first minutes of the first film): how much history Galadriel's narration packs in, so the story can start small in the Shire.
 - **The Ring in the fire** (first film, about a sixth in): the moment the destination is fixed.
 - **Sam in the cornfield** (first film, about a quarter in): the threshold, said out loud.
 - **The breaking of the Fellowship** (end of the first film): three strands set going at once, and the Fellowship theme in pieces.
