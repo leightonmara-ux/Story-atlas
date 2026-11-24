@@ -63,6 +63,12 @@ Weave these into the relevant lessons' reading lists:
 - Counterpoints: Kurt Vonnegut's "shapes of stories" lecture (a natural fit for the diagrams).
 - Workshop practice: Felicia Rose Chavez, *The Anti-Racist Writing Workshop*. Read before designing Phase 4.
 
+## Later, when the owner starts sending work out
+- One durable lesson on the Screenwriter path, "From page to audience": what readers and buyers look for (logline,
+  genre promise, comps, first ten pages), how festivals and independent distributors find films, and the stage
+  and journalism equivalents (finding a theatre, pitching an editor). Decided against: 2026 industry/business news
+  (off-focus and goes stale).
+
 ## Phase 4: Workshop your own work  ← requested, don't drop
 Paste a scene, outline or draft and get feedback through a lens you choose
 ("read this like McKee: does every scene turn?", "where's the nut graf?", "Franklin outline this").
