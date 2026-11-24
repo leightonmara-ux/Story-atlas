@@ -85,6 +85,19 @@
       ]
     },
     {
+      "id": "character",
+      "title": "Character",
+      "blurb": "How to make us care, remember and take sides: from the hero to the smallest part.",
+      "lessons": [
+        { "id": "making-us-care", "title": "Making us care", "subtitle": "Save the cat, Michael Hauge and the sympathy toolkit" },
+        { "id": "side-characters", "title": "Memorable side characters", "subtitle": "Tags, flat characters and the one vivid trait" },
+        { "id": "introductions", "title": "Introducing a character", "subtitle": "First impressions on page, stage and screen" },
+        { "id": "want-need-wound", "title": "Want, need and wound", "subtitle": "Egri's three dimensions and Truby's weakness" },
+        { "id": "cast-system", "title": "The cast as a system", "subtitle": "Foils, opponents and Truby's web" },
+        { "id": "dialogue", "title": "Dialogue reveals character", "subtitle": "Subtext, voice and what people won't say" }
+      ]
+    },
+    {
       "id": "screen",
       "title": "Screen",
       "blurb": "Film and television, where structure is most codified, partly because the industry buys it that way.",
@@ -313,6 +326,22 @@
           "summary": "Shaping facts into story has limits: the writer must not invent, and must reckon with what the story does to the reader's trust and to the people in it.",
           "ready": true
         }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Tools of the Trade",
+      "blurb": "How sound, image, cutting and light shape mood and decide whose side we're on. Mostly film, with stage and journalism equivalents.",
+      "lessons": [
+        { "id": "film-sound", "title": "Sound inside and outside the story", "subtitle": "Diegetic sound, sound bridges and Michel Chion" },
+        { "id": "music-silence", "title": "Music and silence", "subtitle": "Empathetic, anempathetic, and the power of quiet" },
+        { "id": "allegiance", "title": "Whose side are we on?", "subtitle": "Murray Smith's structure of sympathy" },
+        { "id": "kuleshov", "title": "The face and the cut", "subtitle": "The Kuleshov effect, close-ups and reaction shots" },
+        { "id": "editing", "title": "Editing", "subtitle": "Cross-cutting, montage and Walter Murch" },
+        { "id": "camera", "title": "The camera's eye", "subtitle": "Point of view, shot size and movement" },
+        { "id": "mise-en-scene", "title": "Light, colour and setting", "subtitle": "Mise-en-scène and tone" },
+        { "id": "stage-tools", "title": "Mood on stage", "subtitle": "Light, sound and focus without a camera" },
+        { "id": "journalism-tools", "title": "Mood in journalism and audio", "subtitle": "Detail, nat sound and the photo" }
       ]
     },
     {

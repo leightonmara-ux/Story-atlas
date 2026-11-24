@@ -395,7 +395,9 @@ async function whoseIdeaPool() {
   // Only lessons named after a thinker or text; topics like "Television structure" aren't "whose".
   const topics = new Set(['shared-core', 'three-media', 'narrative-order', 'tv', 'well-made-play',
     'inverted-pyramid', 'wsj-formula', 'kishotenketsu', 'point-of-view', 'who-is-the-subject', 'comedy',
-    'science-of-story']);
+    'science-of-story', 'making-us-care', 'side-characters', 'introductions', 'want-need-wound', 'cast-system',
+    'dialogue', 'film-sound', 'music-silence', 'allegiance', 'kuleshov', 'editing', 'camera', 'mise-en-scene',
+    'stage-tools', 'journalism-tools']);
   const people = qs.filter(z => z.ideas && z.ideas.length && !topics.has(z.lesson.id));
   const out = [];
   for (const z of people) {
@@ -593,6 +595,15 @@ async function renderPlay(mode, arg) {
     return seqs.length ? go() : renderPlay();
   }
   if (mode === 'lightning') return runLightning();
+  if (mode === 'doing') {
+    const go = async () => {
+      const lessons = Object.fromEntries(allLessons().map(l => [l.id, l]));
+      const pool = (await getJSON('content/scenarios.json').catch(() => []))
+        .map((x, i) => ({ ...x, key: 'scene:' + i, lesson: lessons[x.lesson] }));
+      runQuiz({ title: "What's this doing?", questions: weightedPick(pool, 8, weight), back: { href: '#/play', label: 'Play' }, again: go });
+    };
+    return go();
+  }
   if (mode === 'terms') {
     const go = async () => runQuiz({
       title: 'Name the term',
@@ -620,6 +631,7 @@ async function renderPlay(mode, arg) {
     <div class="games">
       <a class="game" href="#/play/mixed"><b>Mixed quiz</b><span>10 questions from the lessons you've finished, favoring the ones you've missed.</span></a>
       <a class="game" href="#/play/whose"><b>Whose idea is this?</b><span>Match each idea to the thinker behind it.</span></a>
+      <a class="game" href="#/play/doing"><b>What's this doing?</b><span>A scene is described: name the technique and what it does to you.</span></a>
       <a class="game" href="#/play/terms"><b>Name the term</b><span>Read a definition, pick the term. Each answer shows who originated it.</span></a>
       <a class="game" href="#/play/order"><b>Put it in order</b><span>Tap a framework's stages in sequence: Snyder's beats, the hero's journey and more.</span></a>
       <a class="game" href="#/play/lightning"><b>Lightning round</b><span>As many as you can in 60 seconds. Best: ${store.get('sa.bestLightning', 0)}</span></a>
