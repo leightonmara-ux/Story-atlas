@@ -19,10 +19,16 @@
 </head>
 <body>
 <header class="topbar">
-  <a class="brand" href="#/">
-    <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 24 C 11 24, 14 7, 20 7 S 26 17, 28 19" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><circle cx="20" cy="7" r="3" fill="var(--accent)"/></svg>
-    Story Atlas
-  </a>
+  <div class="topbar-inner">
+    <a class="brand" href="#/">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 24 C 11 24, 14 7, 20 7 S 26 17, 28 19" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><circle cx="20" cy="7" r="3" fill="var(--accent)"/></svg>
+      Story Atlas
+    </a>
+    <button class="refresh" id="refreshBtn" type="button" aria-label="Check for updates">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span id="appVersion"></span>
+    </button>
+  </div>
 </header>
 <main id="app" tabindex="-1"><p class="loading">Loading…</p></main>
 <nav class="tabbar" aria-label="Sections">

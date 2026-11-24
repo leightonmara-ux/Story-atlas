@@ -1,5 +1,5 @@
 // Offline support. Fetches the newest version when online and keeps a copy for offline use. Bump VERSION when the app shell changes.
-const VERSION = 'v14';
+const VERSION = 'v15';
 const CACHE = 'story-atlas-' + VERSION;
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',

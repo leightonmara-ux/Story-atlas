@@ -7,5 +7,5 @@
 - Every lesson has a quiz in `content/quiz/<id>.json` (6–8 questions, exactly 4 choices, plus "ideas" for the Whose idea game).
 - When a new framework's lesson is written, add it to `content/concordance.json`, and to `content/sequences.json` if its stages have a fixed order.
 - Learning paths live in `site/content/paths.json` (Start here, then Playwright / Screenwriter / Journalist). The owner wants the course focused: prefer improving paths and depth over adding breadth, and add new lessons to a path only if they serve it.
-- Bump `VERSION` in `site/sw.js` whenever `app.js`, `style.css` or `index.html` change.
+- Bump `VERSION` in `site/sw.js` and `APP_VERSION` at the top of `site/app.js` together (same number) whenever `app.js`, `style.css` or `index.html` change. The number shows on the refresh button in the top bar.
 - Check layout at phone width (no horizontal page scroll) in light and dark mode.

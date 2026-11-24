@@ -52,9 +52,17 @@ main { max-width: 680px; margin: 0 auto; padding: 0 16px; outline: none; }
   padding: calc(env(safe-area-inset-top) + 10px) 16px 10px;
 }
 .brand {
-  display: flex; align-items: center; gap: 8px; max-width: 680px; margin: 0 auto;
+  display: flex; align-items: center; gap: 8px;
   color: var(--ink); text-decoration: none; font: 600 17px/1 var(--sans); letter-spacing: .01em;
 }
+.topbar-inner { display: flex; align-items: center; justify-content: space-between; max-width: 680px; margin: 0 auto; }
+.refresh {
+  appearance: none; border: 1px solid var(--rule); background: var(--card); color: var(--muted); cursor: pointer;
+  display: flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 99px; font: 600 12px/1 var(--sans);
+}
+.refresh svg { width: 16px; height: 16px; }
+.refresh.spinning svg { animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
 .brand svg { width: 26px; height: 26px; }
 
 /* Tab bar */
@@ -326,4 +334,3 @@ mark.hl { background: #fde68a; color: inherit; padding: 0; }
 .hl-group h2 { font-size: 20px; margin-top: 30px; }
 .hl-group h2 a { color: var(--ink); text-decoration: none; }
 .hl-quote { font-size: 17px; border-left-color: #e0b84a; }
-.version { text-align: center; font: 12px/1 var(--sans); color: var(--muted); margin: 40px 0 0; opacity: .7; }

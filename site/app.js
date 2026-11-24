@@ -1,7 +1,7 @@
 // Story Atlas: a small single-page app. Content lives in content/ as JSON and Markdown.
 'use strict';
 
-const APP_VERSION = 'v14';
+const APP_VERSION = 'v15';
 const app = document.getElementById('app');
 const data = { curriculum: null, concordance: null };
 
@@ -245,8 +245,7 @@ function renderHome() {
     <details class="browse" ${browseOpen ? 'open' : ''}>
       <summary><b>Browse all ${lessons.length} lessons</b><span>${allDone} done · every track, including electives</span></summary>
       ${tracks}
-    </details>
-    <p class="version">Story Atlas ${APP_VERSION}</p>`;
+    </details>`;
 
   app.querySelectorAll('[data-path]').forEach(a => a.addEventListener('click', e => {
     e.preventDefault(); store.set('sa.path', a.dataset.path); renderHome();
@@ -1005,6 +1004,25 @@ async function start() {
   window.addEventListener('hashchange', route);
   route();
 }
+
+// Refresh button: fetch the newest version now. Progress, highlights and settings are kept (they're in localStorage).
+async function refreshApp() {
+  const btn = document.getElementById('refreshBtn');
+  if (btn) btn.classList.add('spinning');
+  try {
+    if ('serviceWorker' in navigator) {
+      const regs = await navigator.serviceWorker.getRegistrations();
+      await Promise.all(regs.map(r => r.update().catch(() => {})));
+    }
+    if (window.caches) {
+      const keys = await caches.keys();
+      await Promise.all(keys.map(k => caches.delete(k)));
+    }
+  } catch { /* reload anyway */ }
+  location.reload();
+}
+document.getElementById('appVersion').textContent = APP_VERSION;
+document.getElementById('refreshBtn').addEventListener('click', refreshApp);
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   navigator.serviceWorker.register('sw.js').catch(() => {});
