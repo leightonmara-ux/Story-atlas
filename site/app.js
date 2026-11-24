@@ -397,7 +397,8 @@ async function whoseIdeaPool() {
     'inverted-pyramid', 'wsj-formula', 'kishotenketsu', 'point-of-view', 'who-is-the-subject', 'comedy',
     'science-of-story', 'making-us-care', 'side-characters', 'introductions', 'want-need-wound', 'cast-system',
     'dialogue', 'film-sound', 'music-silence', 'allegiance', 'kuleshov', 'editing', 'camera', 'mise-en-scene',
-    'stage-tools', 'journalism-tools']);
+    'stage-tools', 'journalism-tools', 'tragedy-comedy', 'bildungsroman', 'quest-picaresque', 'genre-promise',
+    'stage-forms', 'journalism-forms', 'save-the-cat-practice']);
   const people = qs.filter(z => z.ideas && z.ideas.length && !topics.has(z.lesson.id));
   const out = [];
   for (const z of people) {
@@ -595,12 +596,20 @@ async function renderPlay(mode, arg) {
     return seqs.length ? go() : renderPlay();
   }
   if (mode === 'lightning') return runLightning();
-  if (mode === 'doing') {
+  // Scenario games share content/scenarios.json; "game" says which one an item belongs to.
+  const scenarioGames = {
+    doing: { title: "What's this doing?", game: undefined, n: 8 },
+    kind: { title: 'What kind of story?', game: 'type', n: 8 },
+    genre: { title: 'Name the genre', game: 'genre', n: 8 },
+  };
+  if (scenarioGames[mode]) {
+    const cfg = scenarioGames[mode];
     const go = async () => {
       const lessons = Object.fromEntries(allLessons().map(l => [l.id, l]));
       const pool = (await getJSON('content/scenarios.json').catch(() => []))
-        .map((x, i) => ({ ...x, key: 'scene:' + i, lesson: lessons[x.lesson] }));
-      runQuiz({ title: "What's this doing?", questions: weightedPick(pool, 8, weight), back: { href: '#/play', label: 'Play' }, again: go });
+        .map((x, i) => ({ ...x, key: 'scene:' + i, lesson: lessons[x.lesson] }))
+        .filter(x => x.game === cfg.game);
+      runQuiz({ title: cfg.title, questions: weightedPick(pool, cfg.n, weight), back: { href: '#/play', label: 'Play' }, again: go });
     };
     return go();
   }
@@ -632,6 +641,8 @@ async function renderPlay(mode, arg) {
       <a class="game" href="#/play/mixed"><b>Mixed quiz</b><span>10 questions from the lessons you've finished, favoring the ones you've missed.</span></a>
       <a class="game" href="#/play/whose"><b>Whose idea is this?</b><span>Match each idea to the thinker behind it.</span></a>
       <a class="game" href="#/play/doing"><b>What's this doing?</b><span>A scene is described: name the technique and what it does to you.</span></a>
+      <a class="game" href="#/play/kind"><b>What kind of story?</b><span>A story is described: is it a bildungsroman, a picaresque, a farce, an obituary…?</span></a>
+      <a class="game" href="#/play/genre"><b>Name the genre</b><span>Sort famous films into Blake Snyder's ten Save the Cat genres.</span></a>
       <a class="game" href="#/play/terms"><b>Name the term</b><span>Read a definition, pick the term. Each answer shows who originated it.</span></a>
       <a class="game" href="#/play/order"><b>Put it in order</b><span>Tap a framework's stages in sequence: Snyder's beats, the hero's journey and more.</span></a>
       <a class="game" href="#/play/lightning"><b>Lightning round</b><span>As many as you can in 60 seconds. Best: ${store.get('sa.bestLightning', 0)}</span></a>

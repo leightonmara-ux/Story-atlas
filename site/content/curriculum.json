@@ -134,6 +134,23 @@
       ]
     },
     {
+      "id": "types",
+      "title": "Story Types",
+      "blurb": "The kinds of story, from tragedy and the bildungsroman to the heist and the obituary, and what each one promises an audience.",
+      "lessons": [
+        { "id": "tragedy-comedy", "title": "Tragedy and comedy", "subtitle": "The oldest division, and tragicomedy" },
+        { "id": "frye", "title": "Northrop Frye", "subtitle": "The four mythoi, 1957" },
+        { "id": "booker", "title": "Christopher Booker", "subtitle": "The Seven Basic Plots, 2004" },
+        { "id": "polti", "title": "Georges Polti", "subtitle": "The 36 dramatic situations, 1895" },
+        { "id": "vonnegut-shapes", "title": "Kurt Vonnegut", "subtitle": "The shapes of stories" },
+        { "id": "bildungsroman", "title": "The bildungsroman", "subtitle": "Coming-of-age, and the artist's growth" },
+        { "id": "quest-picaresque", "title": "The quest and the picaresque", "subtitle": "From Don Quixote to the road movie" },
+        { "id": "genre-promise", "title": "Genre as a promise", "subtitle": "Thriller, mystery, horror, romance, noir, heist" },
+        { "id": "stage-forms", "title": "Stage forms", "subtitle": "Farce, melodrama, the history play, the memory play, verbatim theatre" },
+        { "id": "journalism-forms", "title": "Journalism's story types", "subtitle": "Profile, investigation, explainer, obituary and more" }
+      ]
+    },
+    {
       "id": "screen",
       "title": "Screen",
       "blurb": "Film and television, where structure is most codified, partly because the industry buys it that way.",
@@ -166,6 +183,7 @@
           "summary": "Know what your movie is in a logline, give the audience a reason to root for the hero, and hit fifteen beats from Opening Image to its mirror, the Final Image.",
           "ready": true
         },
+        { "id": "save-the-cat-practice", "title": "Save the Cat in practice", "subtitle": "A film beat by beat, the finale, and the other rules" },
         {
           "id": "harmon",
           "title": "Dan Harmon",
@@ -571,7 +589,8 @@
           "subtitle": "What the research does and doesn't show",
           "summary": "Research shows that stories are universal and that absorbing ones persuade, but claims about brain chemistry and science-proven story formulas go well beyond the evidence.",
           "ready": true
-        }
+        },
+        { "id": "franzen", "title": "Jonathan Franzen", "subtitle": "Contract vs. status, and his rules for novelists" }
       ]
     }
   ]
