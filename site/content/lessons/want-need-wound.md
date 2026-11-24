@@ -38,9 +38,9 @@ Egri's bone structure (physiology, sociology, psychology) is covered in *Lajos E
 
 ### The wound: why they're like this
 
-The **wound**, Truby's ghost, or simply the **backstory**, is a past event that explains the character's weakness. A betrayal taught them never to trust; a failure taught them never to try. Hauge and many others teach it as the root of the whole system: the wound creates the Lie, the Lie creates the weakness, and the story forces the character to face it.
+The **wound**, Truby's ghost, or simply the **backstory**, is a past event that explains the character's weakness. A betrayal taught them never to trust; a failure taught them never to try. Many teachers, Michael Hauge and K. M. Weiland among them, treat it as the root of the whole system: the wound creates a false belief, the belief creates the weakness, and the story forces the character to face it.
 
-Used well, it gives a character weight. Truby's advice is to reveal the ghost late, when the audience already cares, rather than up front.
+Used well, it gives a character weight. A common piece of advice is to reveal it late, when the audience already cares, rather than up front.
 
 Film history also shows its risks. In *Psycho* (1960), a psychiatrist steps in near the end to explain Norman Bates's childhood in a long, tidy speech, and critics have long found it the weakest scene in the film. *Citizen Kane* (1941) builds its whole investigation around Kane's last word, "Rosebud", and then doubts it: in the final scene the reporter Thompson tells the others he doesn't think any single word can explain a man's life, just before the camera finds the burning sled. The film gives us the wound and refuses to let it be the answer.
 

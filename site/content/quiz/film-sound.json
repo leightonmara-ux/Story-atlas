@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A song plays over a driving montage like ordinary score. Then the driver switches it off mid-chorus. What has the film just done?",
+      "choices": [
+        "Used an L-cut to carry sound into the next scene",
+        "Revealed the music was diegetic all along, pulling us into the characters' present moment",
+        "Used Mickey-Mousing to match the action",
+        "Created an acousmêtre"
+      ],
+      "answer": 1,
+      "explain": "The music crosses from apparent score into the story world: it was on the car radio, so the montage becomes a scene in real time."
+    },
+    {
+      "q": "Which of these is non-diegetic sound?",
+      "choices": [
+        "A band playing in the corner of the bar",
+        "A gunshot offscreen that the characters turn toward",
+        "An orchestral score swelling as the lovers kiss",
+        "A radio playing in the kitchen"
+      ],
+      "answer": 2,
+      "explain": "The characters can't hear the score; only the audience can. Offscreen sound can still be diegetic."
+    },
+    {
+      "q": "An editor lets the sound of a train start a few seconds before we cut to the station. What is this?",
+      "choices": [
+        "A J-cut",
+        "An L-cut",
+        "Room tone",
+        "Synchresis"
+      ],
+      "answer": 0,
+      "explain": "In a J-cut the next scene's sound arrives before its picture, pulling attention forward."
+    },
+    {
+      "q": "A villain is only a voice on the phone for most of a thriller, seemingly able to see everything the hero does. When we finally see him, he seems smaller. Which idea explains this?",
+      "choices": [
+        "Anempathetic sound",
+        "Worldizing",
+        "The acousmêtre and its de-acousmatization, from Michel Chion",
+        "Free indirect style"
+      ],
+      "answer": 2,
+      "explain": "Chion's acousmêtre is a heard-but-unseen character with apparent powers that vanish when the body is shown."
+    },
+    {
+      "q": "A foley artist punches a cabbage, and the audience hears a fist hitting a face. What has Chion named this welding of sound and image?",
+      "choices": [
+        "Added value",
+        "Synchresis",
+        "Transdiegetic sound",
+        "Leitmotif"
+      ],
+      "answer": 1,
+      "explain": "Synchresis is the mind's habit of fusing a sound and image that happen at the same moment."
+    },
+    {
+      "q": "During a battle, the noise suddenly turns muffled and distant, with a ringing tone, as the hero is stunned. What technique is this?",
+      "choices": [
+        "Point-of-view (subjective) sound",
+        "Room tone",
+        "Non-diegetic score",
+        "A sound bridge"
+      ],
+      "answer": 0,
+      "explain": "We hear the scene through the character's damaged ears, as in Saving Private Ryan's Omaha Beach landing."
+    },
+    {
+      "q": "Who is widely described as the first person credited as a film's \"sound designer\"?",
+      "choices": [
+        "Michel Chion, on Audio-Vision",
+        "Bernard Herrmann, on Psycho",
+        "John Williams, on Jaws",
+        "Walter Murch, on Apocalypse Now (1979)"
+      ],
+      "answer": 3,
+      "explain": "Murch's credit on Apocalypse Now is usually cited as the first; Chion is a theorist, Herrmann and Williams composers."
+    }
+  ],
+  "ideas": [
+    "Whether the characters can hear a sound changes whether it acts as evidence or as commentary.",
+    "A voice heard but never seen seems all-powerful until the body it belongs to is shown.",
+    "Letting one scene's sound start before its picture, or linger after it, binds two scenes together.",
+    "Sound gives an image meaning so smoothly that we believe the meaning was in the picture all along."
+  ]
+}

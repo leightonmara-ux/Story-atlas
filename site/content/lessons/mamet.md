@@ -10,7 +10,7 @@ Mamet's second key text isn't a book. In 2005, while running the CBS military dr
 
 ### Tell the story in the cut
 
-Mamet's theory of film begins with Sergei Eisenstein, the Soviet director who argued that meaning in cinema comes from **montage**: putting one shot next to another. Show a face, then a bowl of soup, and the audience sees hunger. Neither shot says "hunger" on its own.
+Mamet's theory of film begins with Sergei Eisenstein, the Soviet director who argued that meaning in cinema comes from **montage**: putting one shot next to another. Eisenstein compared it to Chinese and Japanese characters, where the sign for an eye plus the sign for water means "to weep": neither part says "weep" on its own. (The famous face-then-a-bowl-of-soup example is Lev Kuleshov's, not Eisenstein's; see *The face and the cut*.)
 
 So Mamet tells students to build scenes from **uninflected images**: simple shots that each do one plain thing, and that tell the story only when cut together. A man looks at his watch. A train pulls out. A door closes. The audience makes the connection, and making it is what holds them.
 

@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A film follows a hitman through every scene and gives us his voice-over, but we're horrified by him throughout. In Murray Smith's terms, what's going on?",
+      "choices": [
+        "High allegiance, low alignment",
+        "High alignment, low allegiance",
+        "A save-the-cat moment",
+        "Low recognition"
+      ],
+      "answer": 1,
+      "explain": "Smith separates alignment (whom we follow and access) from allegiance (whose side we take)."
+    },
+    {
+      "q": "What are the two components of alignment in Smith's model?",
+      "choices": [
+        "Want and need",
+        "Spatio-temporal attachment and subjective access",
+        "Recognition and allegiance",
+        "Sympathy and antipathy"
+      ],
+      "answer": 1,
+      "explain": "We follow a character in space and time, and we get access to their thoughts and feelings."
+    },
+    {
+      "q": "A writer's antihero is a drug dealer. A colleague suggests making his rivals crueler and more treacherous. Which way of winning allegiance is this?",
+      "choices": [
+        "Surrounding the character with worse people, as The Godfather does",
+        "A save-the-cat opening",
+        "Mickey-Mousing",
+        "De-acousmatization"
+      ],
+      "answer": 0,
+      "explain": "When the world around a criminal is worse, our allegiance tilts toward him."
+    },
+    {
+      "q": "Why do audiences briefly want Norman Bates's car to sink in Psycho?",
+      "choices": [
+        "Because the score tells them to",
+        "Because they've been told Norman is innocent",
+        "Because they're aligned with him and caught in suspense about whether he'll be caught",
+        "Because of a save-the-cat moment earlier in the film"
+      ],
+      "answer": 2,
+      "explain": "Alignment plus suspense produces a flicker of allegiance we wouldn't endorse."
+    },
+    {
+      "q": "How does Smith's structure of sympathy differ from Blake Snyder's \"save the cat\"?",
+      "choices": [
+        "They are the same idea",
+        "Snyder's is a recipe for allegiance; Smith shows alignment and allegiance are separate dials",
+        "Smith says heroes must be likable in scene one",
+        "Snyder's model is about sound, Smith's about image"
+      ],
+      "answer": 1,
+      "explain": "You can hold an audience through access or fascination without making a character likable."
+    },
+    {
+      "q": "A feature writer tells a story about a parent whose child died in a hot car, following the parent's day and reporting their thoughts. In Smith's terms, what is the writer doing?",
+      "choices": [
+        "Recognition only",
+        "Using the inverted pyramid",
+        "Mickey-Mousing the reader",
+        "Aligning readers with someone they might otherwise condemn"
+      ],
+      "answer": 3,
+      "explain": "Alignment through access can shift allegiance, as in Gene Weingarten's \"Fatal Distraction\"."
+    },
+    {
+      "q": "Which word did Smith set out to replace with his three-level model?",
+      "choices": [
+        "Identification",
+        "Catharsis",
+        "Focalization",
+        "Suspense"
+      ],
+      "answer": 0,
+      "explain": "He thought \"identification\" was too loose and split it into recognition, alignment and allegiance."
+    }
+  ],
+  "ideas": [
+    "Following a character closely and siding with them morally are two separate effects a story can set against each other.",
+    "What feels like a perverse allegiance to a villain is often fascination rather than moral approval.",
+    "The vague word \"identification\" breaks down into recognizing a person, being attached to them, and taking their side.",
+    "You can keep an audience with a character through access to their mind alone, without making them likable."
+  ]
+}

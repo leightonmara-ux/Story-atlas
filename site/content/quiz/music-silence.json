@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A cheerful pop song keeps playing on a radio while a character is tortured. What does Chion call this, and what does it usually do?",
+      "choices": [
+        "Empathetic music; it tells us to feel sad",
+        "Mickey-Mousing; it makes the scene comic",
+        "Anempathetic music; its indifference sharpens our horror",
+        "A leitmotif; it identifies the villain"
+      ],
+      "answer": 2,
+      "explain": "Anempathetic music carries on regardless of the scene, and the world's indifference intensifies our response."
+    },
+    {
+      "q": "A composer writes a trombone slide for every pratfall and a pizzicato note for each tiptoe in a serious drama. What's the likely criticism?",
+      "choices": [
+        "It's Mickey-Mousing, and in drama it usually feels cartoonish",
+        "It's anempathetic and too cold",
+        "It's a needle drop and the lyrics compete with dialogue",
+        "It's a leitmotif that never develops"
+      ],
+      "answer": 0,
+      "explain": "Music that imitates action note for note is named after early Disney cartoons."
+    },
+    {
+      "q": "A short theme plays whenever the heroine's lost brother is mentioned, and returns softly at the end when she remembers him. What's the technique?",
+      "choices": [
+        "A needle drop",
+        "A leitmotif",
+        "Room tone",
+        "A drop-out"
+      ],
+      "answer": 1,
+      "explain": "A leitmotif ties a musical idea to a character or idea and lets music carry memory."
+    },
+    {
+      "q": "What did Hitchcock originally want for the Psycho shower murder?",
+      "choices": [
+        "A jazz score",
+        "A Bernard Herrmann love theme",
+        "No music at all",
+        "A pop song on the radio"
+      ],
+      "answer": 2,
+      "explain": "Hitchcock wanted silence; Herrmann wrote the shrieking strings anyway, and Hitchcock changed his mind."
+    },
+    {
+      "q": "Claudia Gorbman's Unheard Melodies argues that the classical Hollywood score...",
+      "choices": [
+        "Should always be diegetic",
+        "Works best when we don't consciously notice it, which also makes it quietly manipulative",
+        "Was invented by John Williams",
+        "Should copy the action note for note"
+      ],
+      "answer": 1,
+      "explain": "Gorbman describes music that shapes our feeling below the level of attention."
+    },
+    {
+      "q": "A writer has a big emotional reveal and plans a swelling string cue under it. A script editor says, \"Try it with nothing.\" What's the reasoning?",
+      "choices": [
+        "Silence against an expected cue makes us lean in, and lets the moment land without being told how to feel",
+        "Silence is always better than music",
+        "Music is only allowed if it's diegetic",
+        "Strings are a leitmotif and must be saved for the villain"
+      ],
+      "answer": 0,
+      "explain": "Withholding music can be more powerful than an empathetic cue that over-tells."
+    },
+    {
+      "q": "Why might a filmmaker choose an existing song (a needle drop) over composed score?",
+      "choices": [
+        "Because songs can't be anempathetic",
+        "Because songs never compete with dialogue",
+        "Because the law requires it for montages",
+        "Because a song brings its own era, lyrics and associations into the scene"
+      ],
+      "answer": 3,
+      "explain": "That's the shortcut, and the trap: the song's baggage comes with it."
+    }
+  ],
+  "ideas": [
+    "Music that carries on cheerfully while something terrible happens can make the scene more disturbing, not less.",
+    "The best-behaved film score is one the audience never consciously hears.",
+    "A recurring theme tied to a character lets the music carry memory and change as the story does.",
+    "Music that copies the action beat for beat turns drama into a cartoon."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "On a stage with no camera to give a close-up, how does a production most often tell the audience whom to watch?",
+      "choices": [
+        "By cutting to them",
+        "By lowering the house lights",
+        "By giving them the most lines",
+        "By lighting: the eye goes to the brightest area"
+      ],
+      "answer": 3,
+      "explain": "Light does the camera's job on stage: a special, a follow spot or a narrowing of light directs focus."
+    },
+    {
+      "q": "An actor keeps drifting toward the back of the stage during a scene partner's big speech, forcing the partner to turn away from the audience. What is this called?",
+      "choices": [
+        "Upstaging",
+        "Blocking in the round",
+        "Direct address",
+        "A stage picture"
+      ],
+      "answer": 0,
+      "explain": "Upstage is the back of the stage; standing upstage of someone forces them to turn their back on the audience."
+    },
+    {
+      "q": "Which designer argued that three-dimensional spaces and light changing like music should replace flat painted scenery?",
+      "choices": [
+        "Jean Rosenthal",
+        "Josef Svoboda",
+        "Adolphe Appia",
+        "Thornton Wilder"
+      ],
+      "answer": 2,
+      "explain": "Appia's Music and the Art of the Theatre (1899) made light the unifying force of a production."
+    },
+    {
+      "q": "Near the end of The Cherry Orchard, a distant sound like a breaking string returns, followed by an axe on the trees. What is the sound doing?",
+      "choices": [
+        "Breaking the fourth wall",
+        "A sound cue that recurs to carry the play's mood and meaning",
+        "A Brechtian song that comments on the action",
+        "A blackout"
+      ],
+      "answer": 1,
+      "explain": "A single recurring sound can hold a play's sense of loss; Chekhov writes it into the stage directions."
+    },
+    {
+      "q": "A playwright wants a scene to end on a sharp, shocking image. Which choice fits best?",
+      "choices": [
+        "A slow fade",
+        "A long musical interlude",
+        "Leaving the house lights up",
+        "A snap blackout right after the image"
+      ],
+      "answer": 3,
+      "explain": "A blackout is theatre's hard cut; the last image before darkness is what the audience carries forward."
+    },
+    {
+      "q": "A director stages a play on a bare floor with two chairs and has actors mime their props. Whose idea is she drawing on?",
+      "choices": [
+        "Peter Brook's The Empty Space",
+        "Stanislavski's given circumstances",
+        "Freytag's pyramid",
+        "Ruskin's pathetic fallacy"
+      ],
+      "answer": 0,
+      "explain": "Brook argued any empty space can be a stage; Our Town shows the same principle."
+    },
+    {
+      "q": "Why would Brecht leave the stage lights in full view of the audience?",
+      "choices": [
+        "To save money on scenery",
+        "To make the audience aware it's in a theatre, so it thinks rather than drifts into mood",
+        "To imitate film lighting",
+        "To create chiaroscuro"
+      ],
+      "answer": 1,
+      "explain": "Visible machinery was one of Brecht's ways of making the familiar strange."
+    }
+  ],
+  "ideas": [
+    "Because a live audience can look anywhere, light has to do the camera's job of choosing where the eye goes.",
+    "Light should shape three-dimensional space and change like music, rather than illuminate painted scenery.",
+    "Any empty space can be a stage: a person crossing it while someone watches is enough for theatre.",
+    "Where actors stand, near or far, high or low, facing out or turned away, makes a picture that tells the audience who matters."
+  ]
+}

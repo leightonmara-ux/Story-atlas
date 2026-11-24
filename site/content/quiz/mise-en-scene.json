@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A screenwriter wants a confession scene to feel dangerous and secretive. Which lighting should the scene description suggest?",
+      "choices": [
+        "High-key lighting, bright and even",
+        "Low-key lighting, with one strong source and deep shadows",
+        "A blackout, as on stage",
+        "Flat lighting so nothing distracts from the dialogue"
+      ],
+      "answer": 1,
+      "explain": "Low-key lighting, with strong contrast and deep shadow, reads as hidden and dangerous; high-key reads as open and safe."
+    },
+    {
+      "q": "In a mostly black-and-white film, one small girl wears a red coat, and the coat is glimpsed again later. What is this?",
+      "choices": [
+        "A palette",
+        "The pathetic fallacy",
+        "A colour motif",
+        "Chiaroscuro"
+      ],
+      "answer": 2,
+      "explain": "A colour motif gives one colour a meaning that builds each time it returns, as in Schindler's List."
+    },
+    {
+      "q": "Which four things do Bordwell and Thompson group under mise-en-scène?",
+      "choices": [
+        "Setting, costume and makeup, lighting, and staging",
+        "Shot size, angle, movement and focus",
+        "Dialogue, music, sound effects and silence",
+        "Cutting, pacing, montage and transitions"
+      ],
+      "answer": 0,
+      "explain": "Mise-en-scène is what's placed in front of the camera; camera and editing are separate categories."
+    },
+    {
+      "q": "A novelist writes that the sky 'wept' at a funeral. What did John Ruskin, who coined the term for this, think of it?",
+      "choices": [
+        "He praised it as the mark of the greatest poets",
+        "He thought it belonged only to comedy",
+        "He called it defamiliarization",
+        "He called it a 'fallacy': strong feeling producing a false picture of nature"
+      ],
+      "answer": 3,
+      "explain": "Ruskin's 'pathetic fallacy' (1856) was critical in intent; the neutral modern use came later."
+    },
+    {
+      "q": "In Parasite, the rich family live on a hill and the poor family in a semi-basement, and a storm floods only the lower home. Which tool is carrying the film's argument most directly?",
+      "choices": [
+        "Costume",
+        "High-key lighting",
+        "Production design: setting that embodies the conflict",
+        "Direct address"
+      ],
+      "answer": 2,
+      "explain": "The geography of the sets, up and down, makes class visible."
+    },
+    {
+      "q": "A young boy plays in the snow, seen through a distant window, while in the foreground his mother signs him away. What is the shot using?",
+      "choices": [
+        "Blocking in depth within the frame",
+        "A colour motif",
+        "Montage",
+        "The pathetic fallacy"
+      ],
+      "answer": 0,
+      "explain": "Placing characters near and far in one frame tells the story: the boy's future is decided out of his hearing."
+    },
+    {
+      "q": "A critic insists every red object in a film is a hidden symbol to be decoded. Which thinker in this course would push back?",
+      "choices": [
+        "Robert McKee",
+        "Vladimir Propp",
+        "Syd Field",
+        "Susan Sontag"
+      ],
+      "answer": 3,
+      "explain": "Sontag warned against translating works into hidden meanings instead of attending to form and sensation."
+    }
+  ],
+  "ideas": [
+    "Everything placed in front of the camera, from the setting to the light to the actors' positions, tells the audience how to feel before anyone speaks.",
+    "A director's personal style shows less in the script than in how each scene is staged, lit and arranged.",
+    "A single colour, repeated and then paid off, can work as a setup and payoff made of light.",
+    "Weather that mirrors a character's feelings began as a criticism: emotion giving a false picture of nature."
+  ]
+}

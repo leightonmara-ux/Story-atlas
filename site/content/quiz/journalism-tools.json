@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A reporter has notes on a CEO's office: carpet, art, a view, a framed photo, a half-eaten sandwich on a gold-rimmed plate. What does the 'telling detail' approach suggest?",
+      "choices": [
+        "Use all of them to show thoroughness",
+        "Use the one that reveals most about the person, and cut the rest",
+        "Replace them with an adjective like 'lavish'",
+        "Save them all for the kicker"
+      ],
+      "answer": 1,
+      "explain": "The telling detail is about selection: one concrete particular doing the work of a paragraph."
+    },
+    {
+      "q": "Hersey's 'Hiroshima' opens with a clerk turning to speak to a colleague at the exact minute the bomb fell. How does it create mood?",
+      "choices": [
+        "Through vivid adjectives of horror",
+        "Through direct address to the reader",
+        "Through a music bed",
+        "Through understatement: an ordinary moment fixed precisely in time"
+      ],
+      "answer": 3,
+      "explain": "Hersey's restraint lets the reader supply the dread."
+    },
+    {
+      "q": "An audio producer has great nat sound of a market, recorded on another day in another town, and wants to put it under an interview. What's the problem?",
+      "choices": [
+        "None; ambient sound is just mood",
+        "It's too quiet",
+        "Nat sound works as evidence of a place, so relocating it without telling listeners misleads them",
+        "It will clash with the music bed"
+      ],
+      "answer": 2,
+      "explain": "Many news organizations frown on adding or moving sound that wasn't recorded at the scene without disclosure."
+    },
+    {
+      "q": "An interviewee goes silent for three seconds before answering a hard question. What would most audio editors advise?",
+      "choices": [
+        "Cut the silence to keep the pace up",
+        "Fill it with music",
+        "Leave the pause in; silence on tape carries meaning",
+        "Replace it with narration"
+      ],
+      "answer": 2,
+      "explain": "A real pause can be the most powerful moment on tape; manufacturing one by cutting would be dishonest."
+    },
+    {
+      "q": "The same photo of a crowd can read as a celebration or a riot depending on the words under it. What did Roland Barthes call the caption's job here?",
+      "choices": [
+        "Anchorage",
+        "Status detail",
+        "The hermeneutic code",
+        "The pathetic fallacy"
+      ],
+      "answer": 0,
+      "explain": "In 'Rhetoric of the Image' (1964) Barthes described the caption as anchoring one of an image's possible meanings."
+    },
+    {
+      "q": "A writer's strongest quote is buried mid-paragraph. Where will it carry most weight?",
+      "choices": [
+        "In the headline",
+        "At the start of the next paragraph",
+        "In a footnote",
+        "At the end of its paragraph, or standing alone"
+      ],
+      "answer": 3,
+      "explain": "The last line of a paragraph is where the reader pauses, so a quote placed there rings on."
+    },
+    {
+      "q": "A podcast lays an ominous drone under a crime story before any facts are in. What's the ethical concern?",
+      "choices": [
+        "It tells listeners how to feel before the evidence does",
+        "It's too long",
+        "It breaks the inverted pyramid",
+        "There's none; mood is always fine in fact"
+      ],
+      "answer": 0,
+      "explain": "Music is audio's most openly manipulative tool; the question is whether it serves the story or the producer."
+    }
+  ],
+  "ideas": [
+    "In true stories, mood made from what was really there is craft, and mood made from what wasn't is fabrication.",
+    "A few seconds of sound recorded on location puts a listener in a place faster than any description, and works as evidence.",
+    "A news photograph's meaning stays unstable until a caption fixes it.",
+    "Leave the silence in: a speaker's pause on tape can say more than the answer."
+  ]
+}
