@@ -558,7 +558,13 @@
           "summary": "Kaufman's 2011 BAFTA lecture asks writers to say who they are, risk failure and resist formula, and his films show structure invented to carry each story's idea.",
           "ready": true
         },
-        { "id": "bergman", "title": "Ingmar Bergman", "subtitle": "The face, the chamber film, and film as music" },
+        {
+          "id": "bergman",
+          "title": "Ingmar Bergman",
+          "subtitle": "The face, the chamber film, and film as music",
+          "summary": "Start from an image or dream rather than a plot, treat film as rhythm closer to music than literature, and trust the human face and the small 'chamber' cast in one place to carry the drama.",
+          "ready": true
+        },
         {
           "id": "waller-bridge",
           "title": "Phoebe Waller-Bridge",

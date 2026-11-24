@@ -292,3 +292,18 @@ details.browse > summary b { display: block; font: 650 18px/1.3 var(--sans); col
 details.browse > summary b::after { content: " ▾"; }
 details.browse[open] > summary b::after { content: " ▴"; }
 details.browse > summary span { font: 14px/1.4 var(--sans); color: var(--muted); }
+
+/* Examples */
+.tabbar { gap: 0; }
+.tabbar a { flex: 1 1 0; min-width: 0; font-size: 11px; }
+.ex-label { font: 650 11px/1.4 var(--sans); text-transform: uppercase; letter-spacing: .07em; color: var(--muted); margin: 22px 0 8px; }
+.lesson-chips { margin-top: 0; }
+.lesson-chips a { font-size: 13px; padding: 8px 11px; }
+.ex-sum { display: block; margin-top: 6px; color: var(--ink); }
+.ex-note { font-size: 15px; margin-top: 24px; }
+.see-it { margin-top: 36px; }
+.see-it a { display: block; text-decoration: none; padding: 12px 14px; margin-bottom: 8px; border: 1px solid var(--rule); border-radius: 12px; background: var(--card); color: var(--ink); }
+.see-it a b { color: var(--accent); }
+.see-it a span { font: 14px var(--sans); color: var(--muted); }
+a.xref { text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); }
+a.xref em { color: var(--accent); }

@@ -34,6 +34,7 @@ Plain HTML, CSS and JavaScript, with no build step.
 - `site/content/concordance.json`: the Compare chart.
 - `site/content/sequences.json`: frameworks for the Put it in order game.
 - `site/content/diagrams.json`: diagrams used by `{{diagram:<id>}}` (labels are placed automatically to avoid collisions).
+- `site/content/examples.json` and `site/content/examples/<id>.md`: case studies for the Examples tab. Italic lesson titles in lessons and examples become links automatically.
 - `site/sw.js`: offline support. Bump `VERSION` when you change the app's code or styling.
 - `tools/make_icons.js`: renders the PNG icons from `site/icon.svg`.
 

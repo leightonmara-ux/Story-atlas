@@ -346,6 +346,19 @@
     ]
   },
   {
+    "term": "Chamber film",
+    "aka": [
+      "Chamber play",
+      "Kammerspiel"
+    ],
+    "origin": "From August Strindberg's chamber plays (1907), written for his Intimate Theatre in Stockholm after the model of chamber music; the German Kammerspielfilm of the 1920s took up the idea, and the term is often applied to Ingmar Bergman's films of the early 1960s, which he likened to chamber music.",
+    "meaning": "A drama with a small cast, few locations and little plot, where the action is close pressure between a handful of people.",
+    "use": "Cut to the fewest characters who pull against each other and one location, so pressure builds instead of leaking into new settings.",
+    "lessons": [
+      "bergman"
+    ]
+  },
+  {
     "term": "Character arc",
     "aka": [
       "Positive, negative and flat arcs"
@@ -524,6 +537,16 @@
     "use": "List the conventions your genre's audience expects, decide which to honour, and name the one invention that makes your story yours.",
     "lessons": [
       "genre-promise"
+    ]
+  },
+  {
+    "term": "Convergence and contrast",
+    "aka": [],
+    "origin": "A teaching distinction in this course for the two ways strands of a braid relate, not a term from one source.",
+    "meaning": "In convergence, strands head toward a meeting the audience waits for; in contrast, they never meet and their meaning comes from comparison.",
+    "use": "Decide which you're writing early, and signal it, so readers don't wait for a collision that never comes.",
+    "lessons": [
+      "braided"
     ]
   },
   {
@@ -728,6 +751,18 @@
     "use": "Read every source for where it stops short and ask why; that silence may be where your story is.",
     "lessons": [
       "morrison"
+    ]
+  },
+  {
+    "term": "Dream sequence",
+    "aka": [
+      "Dream opening"
+    ],
+    "origin": "As old as film itself; no single originator. Ingmar Bergman's opening nightmare in Wild Strawberries (1957) is one of the most imitated examples.",
+    "meaning": "A passage showing a character's dream, which can state a story's fears or theme in images before the plot does.",
+    "use": "Use a dream only if it tells us something the waking story can't, and make its images concrete (a clock with no hands, a coffin in the road) rather than vaguely surreal.",
+    "lessons": [
+      "bergman"
     ]
   },
   {
@@ -1915,6 +1950,18 @@
     ]
   },
   {
+    "term": "Prose screenplay",
+    "aka": [
+      "Literary screenplay"
+    ],
+    "origin": "A descriptive label rather than a coined term; Ingmar Bergman's published screenplays, such as those in Four Screenplays of Ingmar Bergman (1960), are the best-known examples.",
+    "meaning": "A screenplay written as continuous prose, describing moods and inner states directly, closer to a novella than to the industry's formatted script.",
+    "use": "Useful for drafting or for a director-writer; for scripts sent to producers, keep industry format but let the action lines carry mood and faces.",
+    "lessons": [
+      "bergman"
+    ]
+  },
+  {
     "term": "Protagonist and antagonist",
     "aka": [
       "Opponent (Truby)"
@@ -2605,6 +2652,16 @@
     "use": "When you research, go through whole boxes and transcripts. Note what the routine papers reveal about how decisions were actually made.",
     "lessons": [
       "caro"
+    ]
+  },
+  {
+    "term": "Two-hander",
+    "aka": [],
+    "origin": "Theatre slang with no single originator, used for plays with two roles; also applied to films built on two performers.",
+    "meaning": "A play or film, or a long stretch of one, carried by just two characters.",
+    "use": "Give each of the two a clear want against the other, and vary the rhythm so the duel has rests and surges; Bergman's Autumn Sonata (1978) is largely one.",
+    "lessons": [
+      "bergman"
     ]
   },
   {

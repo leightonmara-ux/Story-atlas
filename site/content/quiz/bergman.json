@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer has a picture she can't shake: an old man's empty bedroom with the clock stopped. She has no plot yet. What would Bergman's practice suggest?",
+      "choices": [
+        "Drop it until she has a logline and a beat sheet",
+        "Treat the recurring image as the starting point and ask who is in that room and what has to happen for the picture to occur",
+        "Research the subject until a story appears in the facts",
+        "Turn the image into a twist ending"
+      ],
+      "answer": 1,
+      "explain": "Bergman described films beginning as images or dreams that kept returning; Cries and Whispers grew from a red room with women in white whispering."
+    },
+    {
+      "q": "In his introduction to Four Screenplays (1960), which art did Bergman say film most resembles?",
+      "choices": [
+        "The novel, because both can enter a character's thoughts",
+        "Painting, because both are made of light and composition",
+        "Music, because both act on feeling directly and film is mainly rhythm",
+        "Theatre, because both depend on actors"
+      ],
+      "answer": 2,
+      "explain": "He called the screenplay an imperfect technical basis for a film and said film is mainly rhythm, 'inhalation and exhalation in continuous sequence'."
+    },
+    {
+      "q": "Persona plays Alma's long speech about Elisabet's son twice, word for word. What does the repetition do?",
+      "choices": [
+        "It shows the same words landing on two faces, the listener's and then the speaker's, before merging them into one",
+        "It's a continuity error that Bergman decided to keep",
+        "It lets the audience catch dialogue they missed the first time",
+        "It marks a flashback to an earlier day"
+      ],
+      "answer": 0,
+      "explain": "The first pass stays on Elisabet listening, the second on Alma speaking, and the sequence ends with half of each face combined in one image."
+    },
+    {
+      "q": "Which describes a chamber film in Bergman's sense?",
+      "choices": [
+        "A film shot entirely in a single unbroken take",
+        "A film built from documentary interviews",
+        "A film with many subplots braided together",
+        "A small cast, few locations and little plot, with drama coming from close pressure between people"
+      ],
+      "answer": 3,
+      "explain": "The idea comes from Strindberg's 1907 chamber plays and chamber music; Through a Glass Darkly, Winter Light and The Silence apply it."
+    },
+    {
+      "q": "A screenwriter's key revelation lands, and the script cuts straight to the next scene. What would Bergman's films suggest?",
+      "choices": [
+        "Add a voice-over explaining what the character feels",
+        "Stay on a face, often the listener's, long enough for the moment to register",
+        "Add a musical sting so the audience knows it matters",
+        "Move the revelation to the climax"
+      ],
+      "answer": 1,
+      "explain": "Bergman held close-ups far longer than most directors, as in Märta's letter in Winter Light or Charlotte listening to her daughter play in Autumn Sonata."
+    },
+    {
+      "q": "Which of these did Bergman name as one of his own 'commandments' for filmmaking?",
+      "choices": [
+        "Never let the audience know more than the hero",
+        "Always end with a moral lesson",
+        "Always be entertaining, as a duty to the audience",
+        "Never use music under dialogue"
+      ],
+      "answer": 2,
+      "explain": "In the essay known in English as 'Each Film Is My Last', he listed being entertaining alongside obeying your artistic conscience and making each film as if it were your last."
+    },
+    {
+      "q": "What's the fairest form of the 'solemnity' charge against Bergman?",
+      "choices": [
+        "He became a byword for gloom and was widely parodied, though the charge overlooks comedies like Smiles of a Summer Night",
+        "He never made a comedy in his life",
+        "He refused to direct for the theatre",
+        "He only ever adapted other writers' novels"
+      ],
+      "answer": 0,
+      "explain": "Parodies from De Düva to Bill & Ted's Bogus Journey played on his gloom, but Smiles of a Summer Night became Sondheim's A Little Night Music."
+    }
+  ],
+  "ideas": [
+    "The great originality of cinema is that it can come close to the human face.",
+    "Film is mainly rhythm, like breathing, so it has more in common with music than with literature.",
+    "A film can begin from a recurring image, such as women in white whispering in a red room, before there is any plot.",
+    "Make each film as if it were your last, and always be entertaining."
+  ]
+}

@@ -293,6 +293,16 @@ async function renderLesson(id) {
     while (n && !(n !== tryH && n.tagName === 'H2')) { const next = n.nextElementSibling; box.appendChild(n); n = next; }
   }
 
+  linkLessonTitles(app.querySelector('.lesson-body'));
+  const seeIt = (await getExamples()).filter(e => (e.lessons || []).includes(id));
+  if (seeIt.length) {
+    const box = document.createElement('div');
+    box.className = 'see-it';
+    box.innerHTML = `<p class="ex-label">See it in action</p>` + seeIt.map(e =>
+      `<a href="#/examples/${e.id}"><b>${esc(e.title)}</b> <span>${esc(e.medium)}, ${esc(String(e.year))}</span></a>`).join('');
+    app.querySelector('.quiz-cta').before(box);
+  }
+
   document.getElementById('doneBtn').addEventListener('click', e => {
     const now = !doneMap()[id];
     setDone(id, now);
@@ -761,11 +771,75 @@ async function nameTermPool() {
   });
 }
 
+// ---------- Examples: case studies of works the owner loves ----------
+async function getExamples() {
+  if (!data.examples) data.examples = await getJSON('content/examples.json').catch(() => []);
+  return data.examples;
+}
+
+// Lesson titles written in italics (e.g. *The face and the cut*) become links to that lesson.
+function linkLessonTitles(root) {
+  const byTitle = {};
+  allLessons().filter(l => l.ready).forEach(l => { byTitle[l.title.toLowerCase()] = l; });
+  root.querySelectorAll('em').forEach(em => {
+    if (em.closest('a')) return;
+    const l = byTitle[em.textContent.trim().toLowerCase()];
+    if (!l || location.hash === '#/lesson/' + l.id) return;
+    const a = document.createElement('a');
+    a.href = '#/lesson/' + l.id; a.className = 'xref';
+    em.replaceWith(a); a.appendChild(em);
+  });
+}
+
+async function renderExamples(id) {
+  const examples = await getExamples();
+  const lessons = Object.fromEntries(allLessons().map(l => [l.id, l]));
+  if (id) {
+    const ex = examples.find(e => e.id === id);
+    if (!ex) { location.hash = '#/examples'; return; }
+    document.title = `${ex.title} · Story Atlas`;
+    app.innerHTML = '<p class="loading">Loading…</p>';
+    let body;
+    try {
+      const r = await fetch(`content/examples/${id}.md`);
+      if (!r.ok) throw new Error(r.status);
+      body = md(await r.text());
+    } catch { body = '<p class="muted">This case study couldn’t load. Check your connection and try again.</p>'; }
+    const chips = (ex.lessons || []).filter(l => lessons[l] && lessons[l].ready)
+      .map(l => `<a href="#/lesson/${l}">${esc(lessons[l].title)}</a>`).join('');
+    app.innerHTML = `
+      <a class="back" href="#/examples">← All examples</a>
+      <p class="eyebrow">${esc(ex.medium)} · ${esc(String(ex.year))}</p>
+      <h1>${esc(ex.title)}</h1>
+      <p class="lede">${esc(ex.by)}</p>
+      ${chips ? `<p class="ex-label">Lessons it teaches</p><nav class="chips lesson-chips">${chips}</nav>` : ''}
+      <article class="lesson-body">${body}</article>`;
+    const tryH = [...app.querySelectorAll('.lesson-body h2')].find(h => h.textContent.trim() === 'Try it');
+    if (tryH) {
+      const box = document.createElement('section'); box.className = 'tryit'; tryH.before(box);
+      let n = tryH;
+      while (n && !(n !== tryH && n.tagName === 'H2')) { const next = n.nextElementSibling; box.appendChild(n); n = next; }
+    }
+    linkLessonTitles(app.querySelector('.lesson-body'));
+    return;
+  }
+  document.title = 'Examples · Story Atlas';
+  app.innerHTML = `
+    <h1>Examples</h1>
+    <p class="lede">Works worth studying, and why they work: each one linked to the lessons it teaches.</p>
+    ${examples.length ? `<div class="games">${examples.map(e => `
+      <a class="game" href="#/examples/${e.id}"><b>${esc(e.title)}</b>
+        <span>${esc(e.medium)} · ${esc(String(e.year))} · ${esc(e.by)}</span>
+        <span class="ex-sum">${esc(e.summary || '')}</span></a>`).join('')}</div>`
+      : '<p class="muted">The first case study is on its way.</p>'}
+    <p class="muted ex-note">Want a work you love studied here? Name it in your Story Atlas conversation with Claude.</p>`;
+}
+
 // ---------- routing ----------
 let lastView = '';
 async function route() {
   const [view = '', arg, arg2] = location.hash.replace(/^#\/?/, '').split('/');
-  const tab = ['compare', 'play', 'terms'].includes(view) ? view : 'learn';
+  const tab = ['compare', 'play', 'terms', 'examples'].includes(view) ? view : 'learn';
   stopTimers();
   document.querySelectorAll('.tabbar a').forEach(a => {
     if (a.dataset.tab === tab) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
@@ -775,6 +849,7 @@ async function route() {
   else if (view === 'compare') renderCompare(arg);
   else if (view === 'play') await renderPlay(arg, arg2);
   else if (view === 'terms') await renderTerms(arg);
+  else if (view === 'examples') await renderExamples(arg);
   else renderHome();
   if (!keepScroll) window.scrollTo(0, 0);
   lastView = view;

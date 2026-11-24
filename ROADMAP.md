@@ -24,6 +24,8 @@
   Everything else is under "Browse all lessons" as electives.
 - Working Writers track: Keefe, the braided narrative, Caro, Sorkin, Kaufman, Waller-Bridge, Armstrong, Morrison,
   Baldwin, Nottage.
+- Examples tab: case studies of works the owner loves (why they work, what people said, what to watch for), linked both ways with the lessons. The owner names works in chat; each is written to scratchpad brief-examples.md's structure.
+- Ingmar Bergman lesson (Screenwriter and Playwright paths).
 - Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 
 ## Phase 3: Deepen
