@@ -1,6 +1,7 @@
 // Story Atlas: a small single-page app. Content lives in content/ as JSON and Markdown.
 'use strict';
 
+const APP_VERSION = 'v14';
 const app = document.getElementById('app');
 const data = { curriculum: null, concordance: null };
 
@@ -244,7 +245,8 @@ function renderHome() {
     <details class="browse" ${browseOpen ? 'open' : ''}>
       <summary><b>Browse all ${lessons.length} lessons</b><span>${allDone} done · every track, including electives</span></summary>
       ${tracks}
-    </details>`;
+    </details>
+    <p class="version">Story Atlas ${APP_VERSION}</p>`;
 
   app.querySelectorAll('[data-path]').forEach(a => a.addEventListener('click', e => {
     e.preventDefault(); store.set('sa.path', a.dataset.path); renderHome();
@@ -577,7 +579,7 @@ async function runLightning() {
   };
   const end = () => {
     stopTimers();
-  document.onselectionchange = null; hideBar();
+  hlHandler = null; hideBar();
     const newBest = score > best;
     if (newBest) store.set('sa.bestLightning', score);
     app.innerHTML = `
@@ -891,6 +893,8 @@ function applyHighlights(root, key) {
 }
 
 let hlBar = null;
+let hlHandler = null;
+document.addEventListener('selectionchange', () => setTimeout(() => hlHandler && hlHandler(), 60));
 function showBar(html, onClick) {
   if (!hlBar) { hlBar = document.createElement('div'); hlBar.className = 'hl-bar'; document.body.appendChild(hlBar); }
   hlBar.innerHTML = html; hlBar.hidden = false;
@@ -921,7 +925,7 @@ function enableHighlighting(root, key, title) {
       wrapRange(root, start, start + text.length, h.id);
     });
   };
-  document.onselectionchange = () => setTimeout(() => {
+  const onSel = () => {
     const sel = window.getSelection();
     if (!sel || sel.isCollapsed) {
       // Wait a moment: on iPhone, tapping the button collapses the selection first.
@@ -930,7 +934,11 @@ function enableHighlighting(root, key, title) {
     }
     if (hlBar) hlBar.dataset.mode = 'add';
     check();
-  }, 50);
+  };
+  hlHandler = onSel;
+  // iPhone Home Screen apps don't always report selection changes, so also check when a touch ends.
+  root.addEventListener('touchend', () => setTimeout(onSel, 350));
+  root.addEventListener('pointerup', () => setTimeout(onSel, 350));
   root.addEventListener('click', e => {
     const m = e.target.closest('mark.hl');
     if (!m || !window.getSelection().isCollapsed) return;
