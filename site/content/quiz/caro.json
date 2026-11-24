@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A researcher skims an archive for the famous documents and skips boxes of routine correspondence. What would Caro say?",
+      "choices": [
+        "Turn every page: the crucial document is usually buried in routine material",
+        "Start with the resolution and work backward",
+        "Focus on the documents that confirm your thesis",
+        "Archives are less reliable than interviews"
+      ],
+      "answer": 0,
+      "explain": "Caro credits the advice to his Newsday editor Alan Hathway."
+    },
+    {
+      "q": "During an interview, a subject pauses. What does Caro's 'SU' remind him to do?",
+      "choices": [
+        "Summarize what the subject has said",
+        "Shut up and let the silence run, because people often fill it with what they hadn't planned to say",
+        "Switch to a new topic",
+        "Show the subject a document"
+      ],
+      "answer": 1,
+      "explain": "He writes SU in his notebook to stop himself filling silences."
+    },
+    {
+      "q": "Why did Caro move to the Texas Hill Country?",
+      "choices": [
+        "To find Johnson's private papers",
+        "Because Johnson's family invited him",
+        "He realized he didn't understand the people there, and so didn't understand Johnson; living there let him make readers see the place",
+        "To write a novel set there"
+      ],
+      "answer": 2,
+      "explain": "He moved with his wife Ina in 1978 and lived there for much of the next three years."
+    },
+    {
+      "q": "What does Caro insist on knowing before he begins writing a book?",
+      "choices": [
+        "The first sentence",
+        "The title",
+        "The publication date",
+        "The ending, down to the last sentence, with a full outline"
+      ],
+      "answer": 3,
+      "explain": "Knowing the end tells him what every chapter builds toward; compare Franklin's 'find the resolution first'."
+    },
+    {
+      "q": "In 'One Mile', Caro follows a single mile of the Cross-Bronx Expressway through East Tremont. What is the technique?",
+      "choices": [
+        "Showing abstract power through particular people and places where it lands",
+        "Opening with an anecdote, then a nut graf",
+        "Cross-cutting two timelines",
+        "Using a composite character"
+      ],
+      "answer": 0,
+      "explain": "His books are about how power works, shown at ground level."
+    },
+    {
+      "q": "Which is a well-known dispute about The Power Broker?",
+      "choices": [
+        "Whether Moses existed",
+        "Whether Moses built low parkway overpasses deliberately to keep buses off; later researchers say the evidence for that intent is thin",
+        "Whether Caro interviewed anyone",
+        "Whether Gottlieb edited it"
+      ],
+      "answer": 1,
+      "explain": "The low-bridges claim is famous and contested."
+    },
+    {
+      "q": "A screenwriter is writing a film about a real trial. What would Caro's method suggest?",
+      "choices": [
+        "Rely on the famous testimony everyone quotes",
+        "Invent dialogue for drama first and check facts later",
+        "Read the whole transcript, visit the places, and know the final image before drafting",
+        "Keep research light so it doesn't slow the writing"
+      ],
+      "answer": 2,
+      "explain": "Deep research, sense of place and knowing the ending first."
+    }
+  ],
+  "ideas": [
+    "Turn every page: never assume you know what a file contains.",
+    "Write 'SU' in your notebook during interviews to remind yourself to let silences run.",
+    "Move to the place where your subject grew up and spend a night alone there, because the reader can't see what you haven't seen.",
+    "Power doesn't always corrupt, but it always reveals who someone is."
+  ]
+}

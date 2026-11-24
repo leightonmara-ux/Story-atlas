@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer wants three characters to carry a history of a mass movement. What did Wilkerson do in The Warmth of Other Suns?",
+      "choices": [
+        "Chose three people who met in the same city",
+        "Chose one person from each main stream of the migration, from more than 1,200 interviews, so together they cover the whole",
+        "Invented three composite characters",
+        "Picked the three most famous migrants"
+      ],
+      "answer": 1,
+      "explain": "Each strand covers ground the others can't: different routes, decades and lives."
+    },
+    {
+      "q": "Burnham and Holmes never meet in The Devil in the White City. How does the braid still work?",
+      "choices": [
+        "By contrast: alternating light and dark, the fair and the murders color each other",
+        "It doesn't; readers wait for a meeting that never comes",
+        "Through a framing narrator who links them",
+        "By convergence in the final chapter"
+      ],
+      "answer": 0,
+      "explain": "A contrast braid gets its meaning from comparison, not collision."
+    },
+    {
+      "q": "Where should a writer usually switch from one strand to another?",
+      "choices": [
+        "At a resting point, when a strand's episode is complete",
+        "At chapter lengths fixed in advance",
+        "At a moment of tension, so the reader is pulled through the next strand to get back",
+        "Only at the midpoint"
+      ],
+      "answer": 2,
+      "explain": "Cutting on tension is the slowed-down version of cross-cutting in a chase."
+    },
+    {
+      "q": "How is Killers of the Flower Moon structured?",
+      "choices": [
+        "Strict alternation between Mollie Burkhart and Tom White",
+        "A five-act pyramid",
+        "In reverse chronological order",
+        "Three chronicles in sequence: the victim's family, the investigator, then Grann's own reporting, which questions the tidy ending"
+      ],
+      "answer": 3,
+      "explain": "It's a braid laid end to end, each chronicle re-seeing what came before."
+    },
+    {
+      "q": "A heist film follows a safecracker, a driver and an inside man, all heading toward the night of the job. What kind of braid is this?",
+      "choices": [
+        "A contrast braid",
+        "A convergence braid",
+        "A frame story",
+        "A picaresque"
+      ],
+      "answer": 1,
+      "explain": "The strands head toward a meeting the audience is waiting for."
+    },
+    {
+      "q": "In Stoppard's Arcadia, scenes from 1809 and the present alternate in the same room, and in the last scene both share the stage. What does that show about braiding on stage?",
+      "choices": [
+        "Theatre can't braid without film techniques",
+        "The two periods must be played by the same actors",
+        "A single space can hold strands from different times, letting them meet without the characters meeting",
+        "It's an example of the unity of time"
+      ],
+      "answer": 2,
+      "explain": "Theatre braids by sharing one set across periods, converging in the final image."
+    },
+    {
+      "q": "Your draft braids four strands, and two of them show nearly the same thing. What's the braid-maker's advice?",
+      "choices": [
+        "Cut or merge one: every strand should cover ground the others can't",
+        "Alternate them more strictly",
+        "Add a fifth strand to balance them",
+        "Move them both to the end"
+      ],
+      "answer": 0,
+      "explain": "Strands are chosen, not found; redundancy dilutes the braid."
+    }
+  ],
+  "ideas": [
+    "Choose each strand so it shows something the others can't, and cut any that duplicates another.",
+    "Let two lives that never meet sit side by side, so the comparison makes the meaning.",
+    "Tell the same events in three successive parts from different viewpoints, ending with the writer's own investigation overturning the tidy solution.",
+    "Switch between storylines at a moment of tension, so the reader hurries through one to get back to the other."
+  ]
+}

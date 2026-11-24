@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A screenwriter's film about a factory disaster gives the victims no lives beyond their suffering, so the audience will feel moved and outraged. What would Baldwin's \"Everybody's Protest Novel\" say?",
+      "choices": [
+        "It needs a clearer inciting incident",
+        "It reduces people to a category, denying their full humanity, and so fails as art and as protest",
+        "It should cut the victims' scenes and focus on the investigators",
+        "It breaks the unity of action"
+      ],
+      "answer": 1,
+      "explain": "Baldwin argued that protest fiction which turns people into symbols of a cause rejects their beauty, dread and power, and so fails on its own terms."
+    },
+    {
+      "q": "In Baldwin's view, what is wrong with sentimentality?",
+      "choices": [
+        "It is a parade of excessive, false feeling that lets readers feel virtuous without facing a real person",
+        "It slows the pace of the second act",
+        "It breaks the contract between writer and reader by being too difficult",
+        "It shows rather than tells"
+      ],
+      "answer": 0,
+      "explain": "Baldwin called sentimentality a mark of dishonesty: readers enjoy their own compassion instead of meeting a complicated human being."
+    },
+    {
+      "q": "A columnist wants to write about her brother's arrest during a week of protests in her city. Which approach is closest to the title essay of *Notes of a Native Son*?",
+      "choices": [
+        "Lead with the most newsworthy fact and add context in descending order",
+        "Write only about the protests, leaving her family out to stay objective",
+        "Braid the family story with the public events so each explains the other, and end on an argument the story has earned",
+        "Find the resolution first, then build complications toward it"
+      ],
+      "answer": 2,
+      "explain": "Baldwin braided his father's death and funeral with the 1943 Harlem riot, so private and public anger illuminate each other."
+    },
+    {
+      "q": "A reporter is asked to explain 'what the community thinks' about a police shooting. What distinction from Baldwin is useful here?",
+      "choices": [
+        "Situation versus story",
+        "Contract versus Status",
+        "Showing versus telling",
+        "Spokesman versus witness: report what you have seen and heard rather than presuming to speak for everyone"
+      ],
+      "answer": 3,
+      "explain": "In a 1984 interview with Julius Lester, Baldwin said a spokesman presumes to speak for others; he saw himself as a witness."
+    },
+    {
+      "q": "Writing *Blues for Mister Charlie*, a play based loosely on the murder of Emmett Till, what did Baldwin say he feared?",
+      "choices": [
+        "That he could never draw a valid portrait of the murderer",
+        "That the audience would find the trial scenes too long",
+        "That the play had no clear protagonist",
+        "That Broadway would not accept a split set"
+      ],
+      "answer": 0,
+      "explain": "In his preface he said his fear was failing to make the murderer a valid portrait, which is the protest-novel argument applied to the villain."
+    },
+    {
+      "q": "According to Baldwin's 1984 Paris Review interview, what is the hardest thing to achieve in rewriting?",
+      "choices": [
+        "A strong midpoint reversal",
+        "Simplicity, because it means stripping away disguises you didn't know you had",
+        "An ending that is surprising yet inevitable",
+        "Cutting every adverb"
+      ],
+      "answer": 1,
+      "explain": "Baldwin said simplicity is hardest, and that the goal is a sentence as clean as a bone."
+    },
+    {
+      "q": "In \"The Creative Process\" (1962), what does Baldwin say marks the artist out from most people?",
+      "choices": [
+        "A mastery of the three-act structure",
+        "A duty to entertain before instructing",
+        "The need to cultivate the state of being alone, which most people avoid, and report back what society would rather not know",
+        "Loyalty to a movement or cause"
+      ],
+      "answer": 2,
+      "explain": "Baldwin argued that the artist's solitude lets them tell society truths it resists, which is why societies battle the artist as a disturber of the peace."
+    }
+  ],
+  "ideas": [
+    "Protest fiction fails when it insists that a person's social category is the only thing about them that is real.",
+    "Sentimentality is a display of excessive, false feeling and a mark of dishonesty, not of compassion.",
+    "A writer should be a witness to what they have seen, not a spokesman who presumes to speak for others.",
+    "Societies have always battled the artist as an incorrigible disturber of the peace."
+  ]
+}

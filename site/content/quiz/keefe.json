@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A reporter has a strong subject, decades of political violence, but readers drift away after the opening. What would Keefe's approach in Say Nothing suggest?",
+      "choices": [
+        "Open with a timeline so readers can orient themselves",
+        "Build the book around one question readers want answered, like a disappearance, and let the history follow it",
+        "Cut the history and write only the crime",
+        "Put the thesis in the first paragraph, inverted-pyramid style"
+      ],
+      "answer": 1,
+      "explain": "In Say Nothing, Jean McConville's disappearance is the engine that carries readers through the history of the Troubles."
+    },
+    {
+      "q": "Keefe holds back his most explosive finding until the final chapters of Say Nothing. What keeps this honest in nonfiction?",
+      "choices": [
+        "He invents a red herring to mislead the reader first",
+        "He never tells the reader there is a question",
+        "He delays the answer until the story has earned it, without distorting what's true",
+        "He presents it as fiction"
+      ],
+      "answer": 2,
+      "explain": "Withholding in nonfiction means delay, not distortion: the reader knows the question exists."
+    },
+    {
+      "q": "Why does Say Nothing follow Dolours Price, Brendan Hughes, Gerry Adams and the McConville children rather than one hero?",
+      "choices": [
+        "Each sees the same events from a different side, so a few closely followed lives carry the whole history",
+        "Because the hero's journey requires a mentor and a threshold guardian",
+        "To fit the three-act structure",
+        "Because none of them could be interviewed"
+      ],
+      "answer": 0,
+      "explain": "Multiple protagonists across decades let a lean structure cover a long, contested history."
+    },
+    {
+      "q": "What made the Boston College Belfast Project so valuable, and so fraught, as a source?",
+      "choices": [
+        "It was a government report released under freedom of information",
+        "It contained recordings of former paramilitaries made on a promise of secrecy until their deaths, which later broke down in court",
+        "It was a set of novels based on the Troubles",
+        "It was Keefe's own interview archive"
+      ],
+      "answer": 1,
+      "explain": "Oral histories made in confidence are candid, but the legal fight over the tapes broke the promise of secrecy."
+    },
+    {
+      "q": "A powerful family declines to be interviewed for your book. What would Keefe do?",
+      "choices": [
+        "Drop the subject",
+        "Write their thoughts as if you'd interviewed them",
+        "Use only anonymous sources and skip attribution",
+        "Write around them: build them from documents, others' memories and their public words, attributing each claim and printing denials"
+      ],
+      "answer": 3,
+      "explain": "Keefe says he enjoys the challenge of writearounds; the Sacklers didn't cooperate with Empire of Pain."
+    },
+    {
+      "q": "The podcast Wind of Change ends without proving or disproving its rumor. What does this show about a mystery structure?",
+      "choices": [
+        "It promises an investigation, not necessarily a solution, and should be honest about that",
+        "Every mystery must end with a confession",
+        "A podcast should never use a mystery",
+        "The rumor should have been presented as true"
+      ],
+      "answer": 0,
+      "explain": "A mystery-driven story owes the reader an honest account of what was and wasn't found."
+    },
+    {
+      "q": "How do Keefe's magazine pieces typically open?",
+      "choices": [
+        "With a statement of the issue and statistics",
+        "With the author explaining why he took the assignment",
+        "With a person in a specific moment, before the larger subject arrives",
+        "With a list of key questions"
+      ],
+      "answer": 2,
+      "explain": "Like the feature formula, he starts with a scene and a person, then widens to why it matters."
+    }
+  ],
+  "ideas": [
+    "Build a work of history around a single disappearance, so the reader's need to know who did it carries them through decades of politics.",
+    "Some journalists hate writing about people who won't cooperate, but treat it as a challenge: build them from records, others' memories and their own public words.",
+    "Use an oral history recorded on a promise of secrecy until death to write the inner lives of people who died before you began.",
+    "Hold back your own most explosive finding until the final chapters, after the reader has lived with everyone involved."
+  ]
+}
