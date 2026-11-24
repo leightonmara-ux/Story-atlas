@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "q": "A scene stalls: a refugee pleads with a border officer, but there's no tension. Using Polti, what's probably missing?",
+      "choices": [
+        "A midpoint reversal",
+        "The persecutor: Supplication needs a threat, a suppliant, and a power whose decision is in doubt",
+        "A green world to escape to",
+        "The Dream Stage"
+      ],
+      "answer": 1,
+      "explain": "Polti defines situations by their roles; with only two of the three present, the Supplication has no engine."
+    },
+    {
+      "q": "Where does Polti's number thirty-six come from?",
+      "choices": [
+        "From counting every Greek tragedy",
+        "From Aristotle's list of plot types",
+        "From Goethe's remark to Eckermann that Gozzi claimed there were only thirty-six tragic situations",
+        "From the number of plays in Shakespeare's First Folio"
+      ],
+      "answer": 2,
+      "explain": "The number is thirdhand: Polti citing Goethe citing Gozzi. No list by Gozzi survives."
+    },
+    {
+      "q": "How is a Polti \"situation\" different from one of Booker's plots?",
+      "choices": [
+        "A situation is a charged arrangement of roles at the heart of a story, not its whole shape from beginning to end",
+        "A situation always ends in death",
+        "A situation is defined by the season it belongs to",
+        "There is no difference; they're the same idea"
+      ],
+      "answer": 0,
+      "explain": "Polti catalogues conflicts; Booker describes the stages a whole plot moves through."
+    },
+    {
+      "q": "A writer combines Deliverance with Remorse: a rescuer must save the person she once betrayed. What is she doing with Polti's list?",
+      "choices": [
+        "Diagnosing a missing act",
+        "Using it as a prompt generator, colliding two situations",
+        "Mapping the hero's journey",
+        "Choosing a mythos"
+      ],
+      "answer": 1,
+      "explain": "Combining two situations is one of the commonest ways writers use the list."
+    },
+    {
+      "q": "In North by Northwest, Roger Thornhill, mistaken for a spy, is chased by police and villains alike. Which Polti situation drives the film?",
+      "choices": [
+        "Supplication",
+        "Remorse",
+        "The enigma",
+        "Pursuit"
+      ],
+      "answer": 3,
+      "explain": "Pursuit's elements are punishment and a fugitive; Thornhill flees a murder charge he doesn't deserve."
+    },
+    {
+      "q": "Which is a fair criticism of Polti's list?",
+      "choices": [
+        "It covers only comedy",
+        "It's too short to be useful",
+        "It describes conflicts but not how a story develops or ends, and its categories overlap",
+        "It was written by a screenwriter for Hollywood"
+      ],
+      "answer": 2,
+      "explain": "For shape you need another tool; and many situations are variants of each other, especially the kinship and love crimes."
+    }
+  ],
+  "ideas": [
+    "There are only thirty-six basic dramatic situations, a number traced back through Goethe to Carlo Gozzi.",
+    "A dramatic situation is defined by its roles, such as a persecutor, a suppliant and a power whose decision is in doubt.",
+    "Pick two situations from a numbered list and make them collide to generate a plot.",
+    "Supplication, Deliverance, Vengeance and Pursuit are among the basic configurations of conflict."
+  ]
+}

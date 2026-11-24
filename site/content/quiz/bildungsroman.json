@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "What does the German word Bildung mean in bildungsroman?",
+      "choices": [
+        "Building, as in a house or a plot",
+        "Picture, as in a portrait of an era",
+        "Formation or cultivation: the shaping of a whole person",
+        "Journey or road"
+      ],
+      "answer": 2,
+      "explain": "A bildungsroman is a novel of formation: a young person's character and place in the world, shaped over time."
+    },
+    {
+      "q": "A film ends with its young hero accepting a job in his hometown and getting engaged, at peace with the life on offer. Which classic ending is this?",
+      "choices": [
+        "Rupture",
+        "Accommodation",
+        "Catastrophe",
+        "Dénouement by deus ex machina"
+      ],
+      "answer": 1,
+      "explain": "Accommodation: the young person makes peace with society and takes a place in it, as Wilhelm Meister does."
+    },
+    {
+      "q": "A novel follows a young painter who breaks with her family and religion and ends by leaving her country to make art. What's the term for this branch of the form?",
+      "choices": [
+        "Picaresque",
+        "Künstlerroman",
+        "Roman à clef",
+        "Well-made play"
+      ],
+      "answer": 1,
+      "explain": "The künstlerroman, or artist novel, follows an artist's growth and usually ends in a break, as in Joyce's Portrait of the Artist."
+    },
+    {
+      "q": "In Great Expectations, what does Pip's education finally consist of?",
+      "choices": [
+        "Learning a trade and taking over the forge",
+        "Learning that his expectations, and his snobbery, were wrong",
+        "Learning to write, so that he becomes a novelist",
+        "Learning the secret society that guided him all along"
+      ],
+      "answer": 1,
+      "explain": "Pip discovers his benefactor is the convict he helped, and that the people he looked down on were the ones worth having."
+    },
+    {
+      "q": "A critic says a novel about a girl in 1800 can't follow the classic pattern because she can't leave home, choose a career or roam. Which argument is she making?",
+      "choices": [
+        "The critique from The Voyage In: women's development often takes delayed, inward or blocked shapes",
+        "Aristotle's view that episodic plots are the worst",
+        "Moretti's claim that the form is mainly about money",
+        "Vonnegut's point that some stories are flat lines"
+      ],
+      "answer": 0,
+      "explain": "Abel, Hirsch and Langland argued the classic form assumed a young man's freedoms, so female development often ends elsewhere: marriage, madness or death."
+    },
+    {
+      "q": "You're writing a stage coming-of-age story and can't show years of growth in two hours. What does the lesson suggest?",
+      "choices": [
+        "Narrate each year in a voice-over",
+        "Cast several actors as the same character at different ages, scene by scene",
+        "Compress the formation into one season or crisis where change happens fastest",
+        "Avoid the form on stage altogether"
+      ],
+      "answer": 2,
+      "explain": "Theatre usually compresses formation into a crisis, as Spring Awakening does with one season of adolescence."
+    },
+    {
+      "q": "Moonlight tells its hero's life in three chapters titled Little, Chiron and Black. What does that structure do for a bildungsroman?",
+      "choices": [
+        "It marks each stage of formation by the name he's given or takes, so identity itself is what's being formed",
+        "It turns the film into a picaresque with no development",
+        "It creates a Man in a Hole shape",
+        "It reveals the identity of a secret benefactor"
+      ],
+      "answer": 0,
+      "explain": "Each chapter's name shows who he is at that age, so the question 'who will he be?' is built into the structure."
+    }
+  ],
+  "ideas": [
+    "Which approach promises we'll watch a young person become someone, educated by mistakes, mentors, love and work?",
+    "Which approach ends either in accommodation, taking a place in society, or in rupture, refusing it?",
+    "Which approach took its model from Goethe's Wilhelm Meister, guided in secret by the Society of the Tower?",
+    "Which approach has an artist's branch, ending with the young artist breaking away from home to make art?"
+  ]
+}

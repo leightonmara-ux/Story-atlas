@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A play's last scene gathers all the separated characters for a wedding feast, but one humiliated character storms off vowing revenge. What does the classical division say about this ending?",
+      "choices": [
+        "It's a tragedy, because someone is left unhappy",
+        "It's a comedy whose inclusion has a limit: the group is rebuilt, but someone is left outside",
+        "It's a problem play, because it contains a wedding",
+        "It's satire, because nobody is redeemed"
+      ],
+      "answer": 1,
+      "explain": "Comedy moves toward inclusion and reunion; the excluded figure, like Malvolio in Twelfth Night, shows the edge of that community."
+    },
+    {
+      "q": "A writer's drama brings its hero to the brink of execution, then a pardon arrives and no one dies. Under John Fletcher's definition, what is it?",
+      "choices": [
+        "A tragedy, because the stakes were mortal",
+        "A comedy, because it ends happily",
+        "A tragicomedy: it brings characters near death but has no deaths",
+        "A melodrama, because the pardon is a deus ex machina"
+      ],
+      "answer": 2,
+      "explain": "Fletcher: no deaths keeps it from tragedy, bringing some near death keeps it from comedy."
+    },
+    {
+      "q": "Which plays did F. S. Boas group as Shakespeare's \"problem plays\" in 1896?",
+      "choices": [
+        "The Tempest, The Winter's Tale, Cymbeline and Pericles",
+        "Richard II, Henry IV and Henry V",
+        "Titus Andronicus, Timon of Athens and Coriolanus",
+        "All's Well That Ends Well, Measure for Measure, Troilus and Cressida and Hamlet"
+      ],
+      "answer": 3,
+      "explain": "Boas borrowed the term from the Ibsen-era problem play for works whose endings don't settle the moral questions they raise. The late plays are the \"romances\"."
+    },
+    {
+      "q": "Chekhov called The Cherry Orchard a comedy; Stanislavski staged it as a tragedy. What does this dispute show about modern tragicomedy?",
+      "choices": [
+        "That Chekhov misunderstood his own play",
+        "That modern tragicomedy is often a doubleness of tone rather than a plot that swerves from death",
+        "That comedy must end in a marriage",
+        "That a play's genre is fixed by its subtitle"
+      ],
+      "answer": 1,
+      "explain": "Both readings are in the text; the uncertainty whether to laugh or grieve is the form."
+    },
+    {
+      "q": "Bong Joon-ho's Parasite switches from con-artist comedy to violence at a birthday party. Why does the switch feel earned rather than a broken promise?",
+      "choices": [
+        "Because the comedy was already about the thing that turns violent: class",
+        "Because tragedy always follows comedy in Frye's cycle",
+        "Because the audience was told in advance by a narrator",
+        "Because a death keeps it from being tragicomedy"
+      ],
+      "answer": 0,
+      "explain": "A blended form keeps its contract when the tonal turn grows out of what the comedy was about all along."
+    },
+    {
+      "q": "What does a comedy fundamentally promise its audience?",
+      "choices": [
+        "That the hero will be destroyed by a flaw",
+        "That we'll understand why a loss had to happen",
+        "That the trouble will be survived and the group put back together",
+        "That every institution will fail"
+      ],
+      "answer": 2,
+      "explain": "Comedy promises survival and reunion; tragedy promises meaningful loss; irony and satire show a world without effective heroes."
+    },
+    {
+      "q": "Who first used the word tragicomoedia, and why?",
+      "choices": [
+        "Aristotle, in the Poetics, for Euripides' happy endings",
+        "Plautus, in the prologue to Amphitryon, for a play mixing gods and kings with slaves and jokes",
+        "Philip Sidney, to praise mixed plays",
+        "Guarini, as a title for Il pastor fido"
+      ],
+      "answer": 1,
+      "explain": "Plautus coined it; Sidney later scorned \"mongrel tragi-comedy\" and Guarini defended the form."
+    }
+  ],
+  "ideas": [
+    "Comedy moves toward inclusion, rebuilding a community; tragedy moves toward isolation, cutting one person off.",
+    "The classical rule of thumb: comedy ends in marriage or reunion, tragedy in death or separation.",
+    "A tragicomedy has no deaths, which keeps it from tragedy, yet brings characters near death, which keeps it from comedy.",
+    "Each form is a contract: break the promise the opening made without reason and the audience feels cheated."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A playwright's comedy starts calm, with each character driven by a single fear, and gets faster and faster as secrets pile up in one house. Which form is this?",
+      "choices": [
+        "Melodrama",
+        "The memory play",
+        "Farce",
+        "The well-made play's obligatory scene"
+      ],
+      "answer": 2,
+      "explain": "Farce promises acceleration: flat characters, secrets, rising pressure and a collision."
+    },
+    {
+      "q": "A play's heroine is falsely accused, suffers, and is finally vindicated in a big scene where the villain is unmasked, with music under every emotion. What would Peter Brooks say it is doing?",
+      "choices": [
+        "Making moral forces legible: the moral occult brought into the open",
+        "Alienating the audience so they think",
+        "Hiding everything in subtext",
+        "Testing a hypothesis"
+      ],
+      "answer": 0,
+      "explain": "Brooks argues melodrama makes good and evil visible and spoken in a world with no guaranteed moral order."
+    },
+    {
+      "q": "A narrator steps out of the action to say we're seeing the past as he remembers it, in dim light with music. Why does this license non-realistic staging?",
+      "choices": [
+        "Because Brecht required it",
+        "Because it's verbatim",
+        "Because the well-made play demanded a raisonneur",
+        "Because memory distorts, magnifying some moments and dropping others"
+      ],
+      "answer": 3,
+      "explain": "Williams's production notes say a memory play can be staged with unusual freedom of convention."
+    },
+    {
+      "q": "Schiller's Mary Stuart brings Mary and Elizabeth I face to face, though they never met. What's the history play's justification?",
+      "choices": [
+        "None; it's an error",
+        "The play needs the confrontation to dramatize its question about power, so it rearranges the record",
+        "Documentary theatre allows it",
+        "Melodrama demanded a recognition scene"
+      ],
+      "answer": 1,
+      "explain": "The history play promises a meaning for the record, not the record itself, though audiences often remember the invention."
+    },
+    {
+      "q": "An actor performs two dozen real people, reproducing their recorded words, pauses and 'ums' exactly. Which form is this, and what's its main ethical risk?",
+      "choices": [
+        "Verbatim theatre; selection and ordering can build an argument the speakers never made",
+        "A monologue play; it lacks conflict",
+        "Melodrama; it exaggerates feeling",
+        "A memory play; memory distorts"
+      ],
+      "answer": 0,
+      "explain": "Verbatim theatre promises testimony, which makes editing both its art and its ethical problem."
+    },
+    {
+      "q": "Early in a musical, the hero sings about the life she longs for. What is this number, and what does it do?",
+      "choices": [
+        "An eleven o'clock number; it caps the show",
+        "A reprise; it shows change",
+        "An opening number; it sets the tone",
+        "The 'I want' song; it states the desire that drives the plot"
+      ],
+      "answer": 3,
+      "explain": "The 'I want' song puts the protagonist's want into music, early, so we know what the story chases."
+    },
+    {
+      "q": "A one-person play feels like a string of anecdotes going nowhere. What two choices could fix it?",
+      "choices": [
+        "Add more characters and a subplot",
+        "Add a villain and music",
+        "Decide who the audience is to the speaker, and build toward what the speaker has been avoiding",
+        "Cut it to an obligatory scene"
+      ],
+      "answer": 2,
+      "explain": "Monologue plays depend on the speaker's relationship to the audience and an avoidance they finally reach."
+    }
+  ],
+  "ideas": [
+    "Plays with music once let minor theatres get round a law that reserved spoken drama for licensed houses.",
+    "Recorded interviews played into actors' earpieces let them reproduce real speech exactly, hesitations included.",
+    "A play staged as someone's recollection can use dim light, music and projected titles because memory isn't realistic.",
+    "In a world without a guaranteed moral order, a popular form made virtue and villainy loud and visible."
+  ]
+}

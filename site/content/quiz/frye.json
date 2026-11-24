@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A novel's hero is a clerk crushed by a bureaucracy he can't understand, and we watch him with pity from above. Which of Frye's modes is this?",
+      "choices": [
+        "High mimetic",
+        "Low mimetic",
+        "Romantic",
+        "Ironic"
+      ],
+      "answer": 3,
+      "explain": "In the ironic mode the hero is inferior to us in power or intelligence, so we look down on a scene of frustration or absurdity."
+    },
+    {
+      "q": "A screenwriter's story ends with a young couple's wedding, the disapproving father finally joining the feast. Which mythos, and which season?",
+      "choices": [
+        "Comedy, the mythos of spring",
+        "Romance, the mythos of summer",
+        "Tragedy, the mythos of autumn",
+        "Irony, the mythos of winter"
+      ],
+      "answer": 0,
+      "explain": "Frye's comedy forms a new society around the young hero and tends to convert blocking characters rather than expel them."
+    },
+    {
+      "q": "What decides a work's mode, for Frye?",
+      "choices": [
+        "The number of acts and their order",
+        "The hero's power of action relative to us and to their world",
+        "Whether it ends in marriage or death",
+        "The historian's choice of plot for the facts"
+      ],
+      "answer": 1,
+      "explain": "The modes run from mythic (a god) to ironic (weaker than us). The last option is Hayden White's use of Frye's mythoi."
+    },
+    {
+      "q": "In As You Like It, the exiled characters flee to the Forest of Arden, are changed there, and return to renew the court. What did Frye call such a place?",
+      "choices": [
+        "The special world",
+        "The inmost cave",
+        "The green world",
+        "Base reality"
+      ],
+      "answer": 2,
+      "explain": "Frye's green world, from \"The Argument of Comedy\" (1948). The special world and inmost cave are Vogler's; base reality is improv's."
+    },
+    {
+      "q": "How does Frye arrange his four mythoi?",
+      "choices": [
+        "In a line from beginning to end, like acts",
+        "On a circle of seasons, with comedy opposite tragedy and romance opposite irony, each shading into its neighbours",
+        "As seven plots driven by the ego and the Self",
+        "As thirty-six situations defined by their roles"
+      ],
+      "answer": 1,
+      "explain": "The seasonal circle lets each mythos blend into the next. The others are Booker's and Polti's systems."
+    },
+    {
+      "q": "A journalist realizes she has written a reformer's story as a quest with a triumphant hero, when the same facts could show a system swallowing good intentions. Whose borrowing of Frye is she applying?",
+      "choices": [
+        "Hayden White's: the same facts can be emplotted as romance or irony",
+        "Aristotle's: plot is the soul of tragedy",
+        "Booker's: the monster is the ego",
+        "Polti's: a situation is defined by its roles"
+      ],
+      "answer": 0,
+      "explain": "White took Frye's four mythoi into history-writing, arguing the choice of plot is not dictated by the evidence."
+    },
+    {
+      "q": "What's the most common criticism of Frye's system?",
+      "choices": [
+        "That it only covers comedy",
+        "That it ranks works too harshly",
+        "That it relies on box-office data",
+        "That it's too schematic and ahistorical, floating free of who wrote and why"
+      ],
+      "answer": 3,
+      "explain": "Critics from W. K. Wimsatt to Fredric Jameson found it too tidy and too detached from history; Frye in fact tried to keep value judgments out."
+    }
+  ],
+  "ideas": [
+    "All stories move through four basic plots tied to the seasons: comedy is spring, romance summer, tragedy autumn, irony and satire winter.",
+    "Fiction can be sorted by the hero's power of action relative to us, from gods down to figures weaker than ourselves.",
+    "European fiction has moved steadily down from gods to heroes to ordinary people to the trapped and absurd.",
+    "In comedy's green world, characters escape a harsh society, are transformed, and return to renew it."
+  ]
+}

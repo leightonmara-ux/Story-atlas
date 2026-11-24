@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer plots her novel on graph paper: time runs left to right, and the line rises when things go well for the heroine and falls when they go badly. Whose method is this?",
+      "choices": [
+        "Freytag's pyramid, which charts rising and falling action around a central climax",
+        "Vonnegut's shapes, plotting good–ill fortune against beginning–end",
+        "McKee's value charges, marked scene by scene",
+        "Propp's functions, listed in their fixed order"
+      ],
+      "answer": 1,
+      "explain": "Vonnegut's two axes are fortune (up and down) and time (left to right). Freytag charts dramatic tension, not the hero's luck."
+    },
+    {
+      "q": "A trawler captain is shipwrecked, survives weeks on a raft, is rescued and ends up with a book deal and a reconciled family. Which Vonnegut shape is this?",
+      "choices": [
+        "Cinderella",
+        "The Kafka shape",
+        "Man in a Hole",
+        "Boy Meets Girl"
+      ],
+      "answer": 2,
+      "explain": "Someone gets into trouble, gets out of it, and ends up better off than before."
+    },
+    {
+      "q": "Why does Vonnegut draw Hamlet as a flat line?",
+      "choices": [
+        "Because the play has no reversal, only recognition",
+        "Because Hamlet never changes, like a sitcom character",
+        "Because tragedy, for him, is a steady fall that looks flat on his scale",
+        "Because we can't tell whether its events are good news or bad, and Shakespeare doesn't pretend to know"
+      ],
+      "answer": 3,
+      "explain": "The ghost's news, and much else in the play, can't be plotted as up or down. Vonnegut admired that honesty."
+    },
+    {
+      "q": "A story starts with its hero low, rises step by step to a triumph, drops at a setback (though not as low as the start), then soars to lasting happiness. Which shape?",
+      "choices": [
+        "Cinderella",
+        "Icarus",
+        "Oedipus",
+        "Riches to rags"
+      ],
+      "answer": 0,
+      "explain": "The staircase up, the midnight drop, and the final rise off the top of the graph are Vonnegut's Cinderella."
+    },
+    {
+      "q": "A screenwriter's hero climbs out of trouble by the midpoint, seems safe, then falls again before the final climb. Which finding from the 2016 Vermont study does this echo?",
+      "choices": [
+        "That rags-to-riches stories are downloaded most",
+        "That a double Man in a Hole was among the most popular arcs",
+        "That stories have exactly seven basic plots",
+        "That every story is a hero's journey"
+      ],
+      "answer": 1,
+      "explain": "By Project Gutenberg downloads, Icarus, Oedipus and a fall-rise-fall-rise double hole were among the most popular arcs."
+    },
+    {
+      "q": "A critic says the Vermont study can't tell a cheerful villain from a happy hero. What limit is she pointing to?",
+      "choices": [
+        "It only used plays, not novels",
+        "It measured the emotional tone of the words, not what happens to the protagonist",
+        "It counted box-office takings instead of reading the books",
+        "It relied on readers' star ratings"
+      ],
+      "answer": 1,
+      "explain": "Sentiment analysis scores how happy or sad the words are, so irony and contrast can mislead it."
+    },
+    {
+      "q": "A young man in a dull, badly paid job wakes up as a giant insect, and things only get worse. What does Vonnegut use this shape to show?",
+      "choices": [
+        "That a story can be famous and great without climbing back up",
+        "That every story needs a fall at the midpoint",
+        "That popular stories always end higher than they begin",
+        "That comedy is a living thing behaving mechanically"
+      ],
+      "answer": 0,
+      "explain": "The Kafka shape starts low and goes down off the graph: no climb back, yet a classic."
+    }
+  ],
+  "ideas": [
+    "A story is a line on a graph: time runs along the bottom, good and ill fortune up the side.",
+    "Somebody gets into trouble, gets out of it again, and ends up better off: people never tire of that shape.",
+    "Hamlet is a masterpiece because its line stays flat: we can never tell if its news is good or bad.",
+    "A thesis on the shapes of stories was rejected for being too simple and looking like too much fun."
+  ]
+}

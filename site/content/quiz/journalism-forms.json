@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "q": "An investigative reporter writes a story that opens on a scene and reveals the wrongdoing in paragraph 20. What's the problem?",
+      "choices": [
+        "Nothing; suspense builds readership",
+        "It needs a nut graf",
+        "It should be a Q&A",
+        "It breaks the investigation's promise: the finding should come first, then the proof"
+      ],
+      "answer": 3,
+      "explain": "An investigation inverts the mystery: readers get the finding up front and the rest makes it undeniable."
+    },
+    {
+      "q": "An editor reads a trend piece built on three anecdotes about people quitting city life. What should she ask for?",
+      "choices": [
+        "A better kicker",
+        "A quote from an expert saying it's a trend",
+        "Data showing change over time",
+        "A fourth anecdote"
+      ],
+      "answer": 2,
+      "explain": "Anecdotes show that something happens, not that it's growing. 'Three makes a trend' is the pitfall."
+    },
+    {
+      "q": "Which of these belongs in the first paragraph of a standard news obituary?",
+      "choices": [
+        "The subject's identity, the death, and age",
+        "The survivors",
+        "A long anecdote from childhood",
+        "The writer's memories of the subject"
+      ],
+      "answer": 0,
+      "explain": "Name and what they were known for, the death and age lead; the life follows; survivors come last."
+    },
+    {
+      "q": "A reader asks 'What is a filibuster and why does everyone care?' Which form answers best, and how does it open?",
+      "choices": [
+        "A profile, opening on a senator",
+        "An explainer, opening with the question and a short answer",
+        "An oral history of senators",
+        "A day in the life of a clerk"
+      ],
+      "answer": 1,
+      "explain": "The explainer starts from the reader's question and answers it briefly before adding layers."
+    },
+    {
+      "q": "A writer has months of reporting on a firefighter but no resolution to her story. What would Jack Hart suggest?",
+      "choices": [
+        "Invent a resolution",
+        "Turn it into a trend piece",
+        "Use the inverted pyramid",
+        "Consider an explanatory narrative or a profile instead of a story narrative"
+      ],
+      "answer": 3,
+      "explain": "Hart's point: choose the form the material supports."
+    },
+    {
+      "q": "Gay Talese couldn't interview Frank Sinatra. How did he still write a profile?",
+      "choices": [
+        "By observing Sinatra and interviewing the people around him",
+        "He wrote a Q&A from old clippings",
+        "He invented dialogue",
+        "He wrote an obituary instead"
+      ],
+      "answer": 0,
+      "explain": "A profile's promise is to make a person known; observation and others' testimony can do it."
+    },
+    {
+      "q": "What is the editor's main art in an oral history?",
+      "choices": [
+        "Writing a strong lede",
+        "Checking the five Ws",
+        "Selecting and sequencing voices so they answer and contradict each other",
+        "Writing the questions"
+      ],
+      "answer": 2,
+      "explain": "The editor is invisible but shapes everything through selection and order."
+    }
+  ],
+  "ideas": [
+    "A form that puts the wrongdoing in the first paragraph and spends the rest of the story proving it.",
+    "A form that ends its first paragraph with a short sentence giving the subject's age.",
+    "A form whose editor stays invisible, cutting and ordering people's own words so the voices answer each other."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "q": "A detective novel is so faithful to its genre that readers can predict every scene, and they put it down bored. In Cawelti's terms, what's missing?",
+      "choices": [
+        "Conventions",
+        "Inventions: the new elements only this writer brings",
+        "An obligatory scene",
+        "A controlling idea"
+      ],
+      "answer": 1,
+      "explain": "Conventions give security, inventions surprise. All convention and no invention is cliché."
+    },
+    {
+      "q": "A film shows the audience the killer hiding in the closet while the heroine, unaware, gets ready for bed. What engine is this?",
+      "choices": [
+        "Mystery: curiosity about what happened",
+        "Surprise",
+        "Suspense: the audience knows more than the character",
+        "A whodunit"
+      ],
+      "answer": 2,
+      "explain": "It's Hitchcock's bomb under the table: give the audience the information and they anticipate."
+    },
+    {
+      "q": "In a classic whodunit, why does Todorov call the detective 'immune'?",
+      "choices": [
+        "Because the investigation is safe and the danger lies in the past crime",
+        "Because detectives are always police officers",
+        "Because the detective is the narrator",
+        "Because the crime is never solved"
+      ],
+      "answer": 0,
+      "explain": "In the whodunit the crime story is over; the investigation story uncovers it, and nothing much threatens the detective."
+    },
+    {
+      "q": "In a hard-boiled novel, the detective is beaten up, lied to and chased while the crime is still unfolding. Which of Todorov's types is it?",
+      "choices": [
+        "The whodunit",
+        "The suspense novel without a mystery",
+        "Melodrama",
+        "The thriller, where crime and investigation merge in the present"
+      ],
+      "answer": 3,
+      "explain": "Todorov's thriller (the série noire) fuses the two stories: the story happens now and the detective is vulnerable."
+    },
+    {
+      "q": "A horror writer's creature is a huge but ordinary bear. A critic says it's a thriller monster, not a horror one. What would Noël Carroll's theory say is missing?",
+      "choices": [
+        "Impurity: it doesn't break our categories, so it threatens without disgusting",
+        "A dark night of the soul",
+        "A red herring",
+        "A villain with a backstory"
+      ],
+      "answer": 0,
+      "explain": "For Carroll, the horror monster is both dangerous and impure, like something dead yet alive."
+    },
+    {
+      "q": "A romance's lovers seem permanently parted: she's engaged to someone else and he has left the country. Which of Regis's elements is this?",
+      "choices": [
+        "The barrier",
+        "The point of ritual death",
+        "The meeting",
+        "The betrothal"
+      ],
+      "answer": 1,
+      "explain": "The point of ritual death is the moment when union looks impossible, before the recognition removes the barrier."
+    },
+    {
+      "q": "A screenwriter says, 'My film is a horror film, and in Blake Snyder's terms it's a Monster in the House.' What's the difference between the two labels?",
+      "choices": [
+        "None; they're synonyms",
+        "Horror is the story problem, Monster in the House the setting",
+        "Monster in the House is a kind of noir",
+        "Horror names the market promise; Monster in the House names the story problem the plot must solve"
+      ],
+      "answer": 3,
+      "explain": "Snyder sorted by story problem rather than market label, so his categories cut across genres."
+    },
+    {
+      "q": "Why does the opening of Double Indemnity, with the hero confessing, not kill the suspense?",
+      "choices": [
+        "Because the confession turns out to be a lie",
+        "Because a twist reveals another killer",
+        "Because noir promises doom: the pull is how he walked into the trap, not whether",
+        "Because it's a whodunit"
+      ],
+      "answer": 2,
+      "explain": "Noir trades mystery for fatality. Knowing the end makes us watch the trap close."
+    }
+  ],
+  "ideas": [
+    "A story balances conventions the audience expects with inventions only this writer brings.",
+    "Every detective story holds two stories, the crime and its investigation, and the genre's subtypes depend on how they're combined.",
+    "The horror monster is both dangerous and impure, breaking our categories, and the plot is a drama of proving it exists.",
+    "A romance novel is defined by its elements: the society, the meeting, the barrier, the attraction, the declaration, the point of ritual death, the recognition and the betrothal."
+  ]
+}

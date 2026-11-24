@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A screenwriter's monster movie goes straight from the first attack to the hero being overwhelmed. Using Booker, what's missing?",
+      "choices": [
+        "The Dream Stage, where preparations go well and the hero feels equal to the threat",
+        "The Refusal of the Call",
+        "The blocking character's conversion",
+        "A pinch at the three-eighths mark"
+      ],
+      "answer": 0,
+      "explain": "Booker's Overcoming the Monster runs Anticipation and Call, Dream, Frustration, Nightmare, Thrilling Escape; skipping the Dream Stage removes the contrast that makes Frustration bite."
+    },
+    {
+      "q": "A girl falls into a strange land, is enchanted by it, then threatened, and finally escapes home. Which of Booker's plots?",
+      "choices": [
+        "The Quest",
+        "Rebirth",
+        "Voyage and Return",
+        "Rags to Riches"
+      ],
+      "answer": 2,
+      "explain": "The hero is thrown into an other world and the point is getting home, as in Alice in Wonderland or The Wizard of Oz."
+    },
+    {
+      "q": "In Booker's Tragedy, Macbeth becomes king and for a while it seems to be working. Which stage is this, and why does it matter?",
+      "choices": [
+        "The Nightmare Stage, where hope is lost",
+        "The Dream Stage: hero and audience enjoy getting away with it before the bill arrives",
+        "The Anticipation Stage, where the call comes",
+        "The Frustration Stage, the first confrontation with the monster"
+      ],
+      "answer": 1,
+      "explain": "Tragedy's Dream Stage draws the audience into complicity, which makes the Nightmare and Destruction hurt."
+    },
+    {
+      "q": "How does Booker interpret the monsters and dark figures in stories?",
+      "choices": [
+        "As blocking characters to be converted at the end",
+        "As embodiments of class conflict",
+        "As random obstacles with no deeper meaning",
+        "As projections of the ego, which the hero must overcome to reach wholeness"
+      ],
+      "answer": 3,
+      "explain": "Booker's frame is Jungian: dark powers stand for egotism, the happy ending for maturity and balance."
+    },
+    {
+      "q": "What was the sharpest critical objection to The Seven Basic Plots?",
+      "choices": [
+        "That it ignored Shakespeare",
+        "That it was too short to be useful",
+        "That its second half turned description into a rule, dismissing much of the modern canon",
+        "That it denied stories have any common patterns"
+      ],
+      "answer": 2,
+      "explain": "Reviewers such as Adam Mars-Jones noted that Booker's criteria end up condemning writers like Proust, Joyce and Kafka."
+    },
+    {
+      "q": "A miser is visited by spirits, seems frozen in a living death of greed, and is redeemed overnight. Which of Booker's plots?",
+      "choices": [
+        "Rebirth",
+        "Tragedy",
+        "Comedy",
+        "Overcoming the Monster"
+      ],
+      "answer": 0,
+      "explain": "A Christmas Carol is Booker's classic Rebirth: a dark spell, then a redemptive release."
+    },
+    {
+      "q": "Which two plots did Booker add later in the book, treating them as more limited forms?",
+      "choices": [
+        "Romance and Satire",
+        "Rebellion Against \"The One\" and Mystery",
+        "The Heist and the Road Movie",
+        "Supplication and Deliverance"
+      ],
+      "answer": 1,
+      "explain": "Romance and Satire are Frye's mythoi; Supplication and Deliverance are Polti's situations."
+    }
+  ],
+  "ideas": [
+    "Every story is a variation on seven deep plots, from Overcoming the Monster to Rebirth.",
+    "Plots move through five stages, often from anticipation and a dream of success through frustration and nightmare to escape or destruction.",
+    "The monster and the tyrant are projections of the ego; a happy ending means the hero has grown into wholeness.",
+    "Much modern fiction has broken away from the archetypes and lost touch with why we tell stories."
+  ]
+}

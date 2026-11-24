@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A novel follows a penniless teenage narrator who survives by working for a series of employers, each a target of satire, and he ends much the same as he began. What kind of story is it?",
+      "choices": [
+        "A quest",
+        "A bildungsroman",
+        "A picaresque",
+        "A well-made play"
+      ],
+      "answer": 2,
+      "explain": "A low-born rogue, a string of masters, satire, and little inner change: the pattern of Lazarillo de Tormes."
+    },
+    {
+      "q": "How does Don Quixote relate to the quest and the picaresque?",
+      "choices": [
+        "It's a straight Grail romance with no comedy",
+        "It parodies the knightly quest, sending its hero through the low, episodic world of the picaresque",
+        "It invented the picaresque, which Lazarillo de Tormes later copied",
+        "It's a bildungsroman ending in accommodation"
+      ],
+      "answer": 1,
+      "explain": "Quixote imagines a chivalric quest, but rides through inns, roads and con men; Cervantes even has a galley slave mention Lazarillo."
+    },
+    {
+      "q": "A script reader says your road movie's episodes could be shuffled without anything breaking. Which old criticism is this?",
+      "choices": [
+        "Aristotle's: the plot is episodic, without probability or necessity",
+        "Bergson's: the characters are mechanical",
+        "Freytag's: there's no exciting force",
+        "Vonnegut's: the line is flat"
+      ],
+      "answer": 0,
+      "explain": "Aristotle called plots where events merely follow one another episodic, and the worst kind."
+    },
+    {
+      "q": "Which fix would most help an episodic road story gain momentum?",
+      "choices": [
+        "Adding more locations",
+        "Giving each episode a different tone",
+        "Adding a destination with a deadline, or a relationship that changes along the way",
+        "Removing the companion so the hero is alone"
+      ],
+      "answer": 2,
+      "explain": "An engine running under every episode (a clock, a hidden question, a developing bond) makes the sequence matter."
+    },
+    {
+      "q": "What holds Tom Jones together, despite its road-novel inns and adventures?",
+      "choices": [
+        "A single location, like a farce",
+        "The hidden question of Tom's parentage, which pays off at the end",
+        "A narrator who never leaves home",
+        "A Grail that must be found"
+      ],
+      "answer": 1,
+      "explain": "Fielding's tight plotting around the secret of Tom's birth is why Coleridge ranked it among the most perfect plots."
+    },
+    {
+      "q": "In Huckleberry Finn, what gives the raft journey a true climax?",
+      "choices": [
+        "Huck's moral decision not to betray Jim",
+        "Arriving at the mouth of the Mississippi",
+        "Tom Sawyer's elaborate rescue plan",
+        "The King and the Duke's last con"
+      ],
+      "answer": 0,
+      "explain": "The inner journey, Huck deciding whether to turn Jim in, runs under the episodes and peaks when he tears up the letter."
+    },
+    {
+      "q": "A reporter follows a teenager's real route north to reunite with his mother, retracing the journey herself. What gives this kind of journalism its momentum?",
+      "choices": [
+        "The inverted pyramid's ranking of facts",
+        "The destination: every stop is a step toward or away from it",
+        "A nut graf in every section",
+        "The reporter's own coming of age"
+      ],
+      "answer": 1,
+      "explain": "In a journey narrative like Enrique's Journey, the destination supplies the pull; the stops supply the reporting."
+    }
+  ],
+  "ideas": [
+    "Which approach sends a low-born rogue down the road from master to master, satirizing each, without changing him much?",
+    "Which approach gets its pull from a destination or a sought-after object that turns out to matter less than the search?",
+    "Which approach risks episodic drift, and fixes it with a clock, a companion or a hidden question?",
+    "Which approach puts strangers in a car or bus, so the miles and the relationship change together?"
+  ]
+}
