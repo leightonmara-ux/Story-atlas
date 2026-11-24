@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "autumn-sonata",
+    "title": "Autumn Sonata",
+    "year": 1978,
+    "medium": "Film",
+    "by": "Ingmar Bergman (writer-director); Sven Nykvist (cinematography); Ingrid Bergman, Liv Ullmann, Lena Nyman",
+    "summary": "A chamber film in which one Chopin prelude, played first by a daughter and then by her famous mother, holds a whole relationship, and a single night of talk becomes the climax.",
+    "lessons": [
+      "kuleshov",
+      "dialogue",
+      "want-need-wound",
+      "cast-system",
+      "allegiance",
+      "introductions",
+      "camera",
+      "bergman"
+    ]
+  }
+]
