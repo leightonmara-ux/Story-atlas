@@ -1,6 +1,5 @@
-// Offline support. Serves from cache right away, then refreshes the cache in the background,
-// so new content shows up on the next launch. Bump VERSION when the app shell changes.
-const VERSION = 'v12';
+// Offline support. Fetches the newest version when online and keeps a copy for offline use. Bump VERSION when the app shell changes.
+const VERSION = 'v13';
 const CACHE = 'story-atlas-' + VERSION;
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',
@@ -33,14 +32,19 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const req = event.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
+  // Network first, so updates show up on the next open; fall back to the cache when offline or slow.
   event.respondWith((async () => {
     const cache = await caches.open(CACHE);
-    const cached = await cache.match(req, { ignoreSearch: true });
-    const network = fetch(req).then(res => {
+    try {
+      const res = await Promise.race([
+        fetch(req, { cache: 'no-cache' }),
+        new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 4000)),
+      ]);
       if (res.ok) cache.put(req, res.clone());
       return res;
-    }).catch(() => null);
-    if (cached) { event.waitUntil(network); return cached; }
-    return (await network) || new Response('Offline', { status: 503 });
+    } catch {
+      const cached = await cache.match(req, { ignoreSearch: true });
+      return cached || new Response('Offline', { status: 503 });
+    }
   })());
 });

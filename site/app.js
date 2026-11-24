@@ -894,7 +894,11 @@ let hlBar = null;
 function showBar(html, onClick) {
   if (!hlBar) { hlBar = document.createElement('div'); hlBar.className = 'hl-bar'; document.body.appendChild(hlBar); }
   hlBar.innerHTML = html; hlBar.hidden = false;
-  hlBar.querySelector('button').onclick = onClick;
+  const btn = hlBar.querySelector('button');
+  let done = false;
+  const act = e => { e.preventDefault(); if (!done) { done = true; onClick(); } };
+  btn.addEventListener('pointerdown', act);  // fires before iOS clears the selection
+  btn.addEventListener('click', act);
 }
 function hideBar() { if (hlBar) hlBar.hidden = true; }
 
@@ -913,13 +917,17 @@ function enableHighlighting(root, key, title) {
     showBar('<button type="button">Highlight</button>', () => {
       const h = { id: Date.now().toString(36), key, title, start, text, ts: Date.now() };
       hlSave([...hlAll(), h]);
-      sel.removeAllRanges(); hideBar();
+      window.getSelection().removeAllRanges(); hideBar();
       wrapRange(root, start, start + text.length, h.id);
     });
   };
   document.onselectionchange = () => setTimeout(() => {
     const sel = window.getSelection();
-    if (!sel || sel.isCollapsed) { if (hlBar && hlBar.dataset.mode !== 'remove') hideBar(); return; }
+    if (!sel || sel.isCollapsed) {
+      // Wait a moment: on iPhone, tapping the button collapses the selection first.
+      setTimeout(() => { const s2 = window.getSelection(); if ((!s2 || s2.isCollapsed) && hlBar && hlBar.dataset.mode !== 'remove') hideBar(); }, 600);
+      return;
+    }
     if (hlBar) hlBar.dataset.mode = 'add';
     check();
   }, 50);
@@ -992,5 +1000,10 @@ async function start() {
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   navigator.serviceWorker.register('sw.js').catch(() => {});
+  const hadController = !!navigator.serviceWorker.controller;
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (hadController && !reloaded) { reloaded = true; location.reload(); }  // an update took over
+  });
 }
 start();
