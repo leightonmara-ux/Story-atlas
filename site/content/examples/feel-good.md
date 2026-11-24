@@ -26,13 +26,13 @@ Mae and George meet at the comedy club where Mae performs; Mae's set goes over b
 
 ### Withholding the wound across a whole series
 
-From the start of series 2, the show makes it clear that something went wrong in Mae's teenage years with an older man called Scott. The series doesn't explain at once. As Mae, newly out of rehab, starts trying to make amends to friends and to understand their own reactions, the past arrives in pieces: Mae started doing comedy in Toronto very young, left home early, and lived with older comics. Scott, it emerges, was a much older comedian who housed Mae at fifteen and took advantage of them.
+From the start of series 2, the show makes it clear that something went wrong in Mae's teenage years with an older man called Scott. The series doesn't explain at once. As Mae, in recovery again, tries to make amends to friends and to understand their own reactions, the past arrives in pieces. Mae, like Martin in real life, started on the Toronto comedy circuit as a young teenager. Scott, it emerges, was a much older comedian who housed Mae at fifteen and took advantage of them.
 
 *Story vs. telling* explains why this order matters. Told chronologically, Mae's story would begin with the harm and follow the damage. Told this way, we meet the damage first (the addiction, the fierce need for George) and only later learn where it came from. When the truth arrives, everything in series 1 reads differently. In the penultimate episode, Mae, George and Phil (George's housemate, an unlikely friend) fly to Toronto so that Mae can face it. In the confrontation, Scott tries to make Mae feel the abuse was their fault, and the scene doesn't hand Mae a clean victory. As in *Want, need and wound*'s warning about backstory, the wound isn't a twist; it's an explanation that complicates rather than excuses.
 
 ### Gender as a question, not an announcement
 
-Series 1 lets Mae's discomfort with being called a woman show in small moments. Series 2 brings it into the open, in conversations where Mae tries to say what they don't yet have words for. The show doesn't stage a single coming-out scene or hand Mae a label at the end. Martin has said in interviews since that they use they/them pronouns, and has described the show as very close to the truth of their life.
+Series 1 lets Mae's uncertainty about gender sit in the background. Series 2 brings it into the open, in conversations where Mae tries to say what they don't yet have words for. The show doesn't stage a single coming-out scene or hand Mae a label at the end. Martin has said in interviews since that they use they/them pronouns, and has described the show as very close to the truth of their life.
 
 *Who gets to be the subject* asks whose experiences become stories, and on whose terms. *Feel Good* answers by keeping the subject in control: the person whose gender is being explored is also the writer and the actor. The effect for an audience is unusual intimacy. We're not watching a character be explained; we're watching them work it out.
 
@@ -51,7 +51,7 @@ The two series make a two-part movement: the first about getting hooked, the sec
 | Falling | Series 1, episodes 1–2 | The comedy club; Mae and George get together fast; George keeps it secret |
 | Strain | Series 1, episodes 3–4 | George's secrecy and Mae's need pull against each other; Mae's parents and past start to surface |
 | Relapse | Series 1, episodes 5–6 | George pulls back; Mae uses again; George asks Mae back |
-| Apart | Series 2, episodes 1–2 | Mae out of rehab, making amends; the two apart |
+| Apart | Series 2, episodes 1–2 | Mae in recovery, making amends; the two apart |
 | Facing the past | Series 2, episodes 3–5 | Scott comes into focus; the trip to Toronto; the confrontation |
 | Ending | Series 2, episode 6 | Mae's family home; Mae and George together, on firmer ground |
 
@@ -59,7 +59,7 @@ This is close to Booker's "rebirth" (see *Christopher Booker*): a character unde
 
 ## What people said
 
-**Mae Martin** has explained in interviews that Channel 4 approached them after a stand-up show about addictive behaviour, and that the project got moving only once they brought in Joe Hampson, with whom they found a shared sense of humour. Martin has said the characters include composites of people both writers had dated, and that the show stays very close to the truth of Martin's life without being a documentary of it. Martin has been careful not to say which events in the Scott storyline happened.
+**Mae Martin** has explained in interviews that Channel 4 approached them after a stand-up show about addictive behaviour, and that the project got moving only once they brought in Joe Hampson, with whom they found a shared sense of humour. Martin has said the characters include composites of people both writers had dated, and that the show stays very close to the truth of Martin's life without being a documentary of it.
 
 **Critics** loved the second series especially. Rebecca Nicholson in *The Guardian* (2021) called it a deadpan delight and praised its balance of comedy and darkness. *Rolling Stone*'s review (2021) said the series ended with more of an ellipsis than a full stop, because there was so much to cover in so few episodes: a compliment and a reservation at once.
 
@@ -71,7 +71,7 @@ This is close to Booker's "rebirth" (see *Christopher Booker*): a character unde
 - **George with her friends** (series 1, early episodes): how she introduces Mae, and what Mae does with their face when she does.
 - **Maggie** (series 1): Sophie Thompson as the woman from Narcotics Anonymous who declares herself Mae's sponsor. Comic, and a warning about what recovery can look like.
 - **The relapse** (series 1, episodes 5–6): how the show stops being funny, and how quickly.
-- **Linda** (both series): Lisa Kudrow's deadpan mother. Notice what she won't say about Mae's teenage years.
+- **Linda** (both series): Lisa Kudrow's deadpan mother. Notice how much of her love comes out as criticism, and what that taught Mae.
 - **Making amends** (series 2, early): Mae laying down rules for themself in a bar.
 - **The confrontation with Scott** (series 2, near the end): watch how he turns the conversation around, and how Mae resists.
 - **The last scenes** (series 2, episode 6): an ending that stops rather than resolves.
