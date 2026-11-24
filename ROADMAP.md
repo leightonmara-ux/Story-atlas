@@ -25,6 +25,7 @@
 - Working Writers track: Keefe, the braided narrative, Caro, Sorkin, Kaufman, Waller-Bridge, Armstrong, Morrison,
   Baldwin, Nottage.
 - Examples tab: case studies of works the owner loves (why they work, what people said, what to watch for), linked both ways with the lessons. The owner names works in chat; each is written from docs/briefs/example.md.
+- Highlighting: select text in any lesson or case study; "Your highlights" lists them (stored on the device only).
 - Ingmar Bergman lesson (Screenwriter and Playwright paths).
 - Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 

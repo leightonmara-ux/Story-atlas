@@ -307,3 +307,22 @@ details.browse > summary span { font: 14px/1.4 var(--sans); color: var(--muted);
 .see-it a span { font: 14px var(--sans); color: var(--muted); }
 a.xref { text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); }
 a.xref em { color: var(--accent); }
+
+/* Highlights */
+mark.hl { background: #fde68a; color: inherit; padding: 0; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) mark.hl { background: #6b5410; } }
+:root[data-theme="dark"] mark.hl { background: #6b5410; }
+.hl-bar {
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 10;
+  bottom: calc(var(--tabbar) + env(safe-area-inset-bottom) + 14px);
+}
+.hl-bar button {
+  appearance: none; border: 0; cursor: pointer; font: 650 15px/1 var(--sans);
+  background: var(--ink); color: var(--bg); padding: 13px 20px; border-radius: 99px;
+  box-shadow: 0 4px 16px rgba(0,0,0,.25);
+}
+.hl-bar button.remove { background: var(--accent); }
+.hl-link { display: inline-block; margin-top: 14px; font: 600 15px/1.3 var(--sans); text-decoration: none; }
+.hl-group h2 { font-size: 20px; margin-top: 30px; }
+.hl-group h2 a { color: var(--ink); text-decoration: none; }
+.hl-quote { font-size: 17px; border-left-color: #e0b84a; }

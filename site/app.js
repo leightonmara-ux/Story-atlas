@@ -229,6 +229,7 @@ function renderHome() {
     <section class="hero">
       <h1>Story Atlas</h1>
       <p class="lede">What the great thinkers say about story structure, and how to use it on the stage, the screen and the page.</p>
+      ${hlAll().length ? `<a class="hl-link" href="#/highlights">Your highlights (${hlAll().length}) →</a>` : ''}
     </section>
     ${path ? `
     <section class="path">
@@ -294,6 +295,7 @@ async function renderLesson(id) {
   }
 
   linkLessonTitles(app.querySelector('.lesson-body'));
+  enableHighlighting(app.querySelector('.lesson-body'), '#/lesson/' + id, l.title);
   const seeIt = (await getExamples()).filter(e => (e.lessons || []).includes(id));
   if (seeIt.length) {
     const box = document.createElement('div');
@@ -575,6 +577,7 @@ async function runLightning() {
   };
   const end = () => {
     stopTimers();
+  document.onselectionchange = null; hideBar();
     const newBest = score > best;
     if (newBest) store.set('sa.bestLightning', score);
     app.innerHTML = `
@@ -821,6 +824,7 @@ async function renderExamples(id) {
       while (n && !(n !== tryH && n.tagName === 'H2')) { const next = n.nextElementSibling; box.appendChild(n); n = next; }
     }
     linkLessonTitles(app.querySelector('.lesson-body'));
+    enableHighlighting(app.querySelector('.lesson-body'), '#/examples/' + id, ex.title);
     return;
   }
   document.title = 'Examples · Story Atlas';
@@ -850,6 +854,104 @@ async function renderExamples(id) {
   if (box) box.addEventListener('input', draw);
 }
 
+// ---------- Highlights: select text in a lesson or case study to keep it ----------
+// Stored on this device only, as character offsets into the page's article text (plus the text itself,
+// so a highlight can be found again if the page's wording shifts slightly).
+const hlAll = () => store.get('sa.highlights', []);
+const hlSave = list => store.set('sa.highlights', list);
+
+function textNodesOf(root) {
+  const out = [], w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  while (w.nextNode()) out.push(w.currentNode);
+  return out;
+}
+
+function wrapRange(root, start, end, id) {
+  let pos = 0;
+  for (const node of textNodesOf(root)) {
+    const len = node.nodeValue.length, a = Math.max(start, pos), b = Math.min(end, pos + len);
+    if (a < b && node.nodeValue.slice(a - pos, b - pos).trim()) {
+      const r = document.createRange();
+      r.setStart(node, a - pos); r.setEnd(node, b - pos);
+      const m = document.createElement('mark');
+      m.className = 'hl'; m.dataset.hl = id;
+      r.surroundContents(m);
+    }
+    pos += len;
+  }
+}
+
+function applyHighlights(root, key) {
+  const full = root.textContent;
+  for (const h of hlAll().filter(h => h.key === key)) {
+    let s = h.start;
+    if (full.slice(s, s + h.text.length) !== h.text) s = full.indexOf(h.text);
+    if (s >= 0) wrapRange(root, s, s + h.text.length, h.id);
+  }
+}
+
+let hlBar = null;
+function showBar(html, onClick) {
+  if (!hlBar) { hlBar = document.createElement('div'); hlBar.className = 'hl-bar'; document.body.appendChild(hlBar); }
+  hlBar.innerHTML = html; hlBar.hidden = false;
+  hlBar.querySelector('button').onclick = onClick;
+}
+function hideBar() { if (hlBar) hlBar.hidden = true; }
+
+function enableHighlighting(root, key, title) {
+  applyHighlights(root, key);
+  const check = () => {
+    const sel = window.getSelection();
+    if (!sel || sel.isCollapsed || !sel.rangeCount) return;
+    const r = sel.getRangeAt(0);
+    if (!root.contains(r.commonAncestorContainer)) return;
+    const text = r.toString();
+    if (!text.trim() || text.length > 2000) return;
+    const pre = document.createRange();
+    pre.setStart(root, 0); pre.setEnd(r.startContainer, r.startOffset);
+    const start = pre.toString().length;
+    showBar('<button type="button">Highlight</button>', () => {
+      const h = { id: Date.now().toString(36), key, title, start, text, ts: Date.now() };
+      hlSave([...hlAll(), h]);
+      sel.removeAllRanges(); hideBar();
+      wrapRange(root, start, start + text.length, h.id);
+    });
+  };
+  document.onselectionchange = () => setTimeout(() => {
+    const sel = window.getSelection();
+    if (!sel || sel.isCollapsed) { if (hlBar && hlBar.dataset.mode !== 'remove') hideBar(); return; }
+    if (hlBar) hlBar.dataset.mode = 'add';
+    check();
+  }, 50);
+  root.addEventListener('click', e => {
+    const m = e.target.closest('mark.hl');
+    if (!m || !window.getSelection().isCollapsed) return;
+    const id = m.dataset.hl;
+    showBar('<button type="button" class="remove">Remove highlight</button>', () => {
+      hlSave(hlAll().filter(h => h.id !== id));
+      root.querySelectorAll(`mark.hl[data-hl="${id}"]`).forEach(x => x.replaceWith(...x.childNodes));
+      root.normalize(); hideBar();
+    });
+    hlBar.dataset.mode = 'remove';
+    setTimeout(() => { if (hlBar.dataset.mode === 'remove') hideBar(); }, 4000);
+  });
+}
+
+function renderHighlights() {
+  document.title = 'Highlights · Story Atlas';
+  const list = hlAll().sort((a, b) => b.ts - a.ts);
+  const groups = {};
+  list.forEach(h => { (groups[h.key] = groups[h.key] || { title: h.title, items: [] }).items.push(h); });
+  app.innerHTML = `
+    <a class="back" href="#/">← Home</a>
+    <h1>Your highlights</h1>
+    <p class="lede">Select any text in a lesson or case study, then tap Highlight. Saved on this device.</p>
+    ${list.length ? Object.entries(groups).map(([key, g]) => `
+      <section class="hl-group"><h2><a href="${key}">${esc(g.title)}</a></h2>
+        ${g.items.map(h => `<blockquote class="hl-quote"><p>${esc(h.text)}</p></blockquote>`).join('')}
+      </section>`).join('') : '<p class="muted">Nothing highlighted yet.</p>'}`;
+}
+
 // ---------- routing ----------
 let lastView = '';
 async function route() {
@@ -865,6 +967,7 @@ async function route() {
   else if (view === 'play') await renderPlay(arg, arg2);
   else if (view === 'terms') await renderTerms(arg);
   else if (view === 'examples') await renderExamples(arg);
+  else if (view === 'highlights') renderHighlights();
   else renderHome();
   if (!keepScroll) window.scrollTo(0, 0);
   lastView = view;
