@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer's Act Three is one long fight in which the hero's plan simply works. Which tool from Save the Cat! Strikes Back would most help?",
+      "choices": [
+        "Laying Pipe",
+        "The five-point finale, which adds a High Tower Surprise that breaks the plan",
+        "The Pope in the Pool",
+        "Kishōtenketsu's twist in the third part"
+      ],
+      "answer": 1,
+      "explain": "Snyder's five-point finale makes the first plan fail (the High Tower Surprise) so the hero must dig deep and form a new one."
+    },
+    {
+      "q": "A thriller's villain is a toxic spill that will reach the town in about thirty years. Which Snyder rule does it break?",
+      "choices": [
+        "Double Mumbo Jumbo",
+        "Keep the Press Out",
+        "Covenant of the Arc",
+        "Watch Out for That Glacier!"
+      ],
+      "answer": 3,
+      "explain": "A slow, distant threat builds no suspense; danger should be close and closing in fast."
+    },
+    {
+      "q": "A comedy's premise is a dentist who can read minds, and who is also, it turns out, a secret prince. What would Snyder call this?",
+      "choices": [
+        "Black Vet, or Too Much Marzipan: one clever idea piled on another",
+        "Fun and Games",
+        "Save the Cat",
+        "The Hero Leads"
+      ],
+      "answer": 0,
+      "explain": "A story needs one hook. Stacking a second, unrelated gimmick on top is Black Vet."
+    },
+    {
+      "q": "A screenwriter's hero wants a corner office. What does 'Is it primal?' ask them to do?",
+      "choices": [
+        "Cut the goal and start the story later",
+        "Raise the stakes at the Midpoint",
+        "Find the basic drive underneath, such as survival, protecting family or love",
+        "Bury the exposition in an entertaining scene"
+      ],
+      "answer": 2,
+      "explain": "Snyder wanted a drive a caveman would understand; a promotion works only if it stands for something primal."
+    },
+    {
+      "q": "Mapping a draft against the beat sheet, a writer finds no Midpoint. How does this lesson suggest treating the gap?",
+      "choices": [
+        "As proof the draft must be rewritten to the page",
+        "As a question: is it deliberate, and does the second half have anything new to push against?",
+        "As irrelevant, since beats only matter for comedies",
+        "As a sign the B Story should be cut"
+      ],
+      "answer": 1,
+      "explain": "Used as a diagnosis, a missing beat is a prompt to check whether the gap serves the story, not an automatic error."
+    },
+    {
+      "q": "In Die Hard, McClane pulls glass from his feet and asks Powell to tell Holly he's sorry. Which beat is this?",
+      "choices": [
+        "Debate",
+        "Fun and Games",
+        "Break into Two",
+        "Dark Night of the Soul"
+      ],
+      "answer": 3,
+      "explain": "After the All Is Lost moment, McClane faces possible death and states the theme aloud: classic Dark Night of the Soul."
+    },
+    {
+      "q": "Midway through a family drama, TV news crews start reporting on the characters' private crisis. Which Snyder rule warns against this?",
+      "choices": [
+        "Keep the Press Out",
+        "Make the Bad Guy Badder",
+        "Laying Pipe",
+        "A Limp and an Eye Patch"
+      ],
+      "answer": 0,
+      "explain": "Once the media arrive, the story stops feeling private and real, unless it's a story about the press."
+    }
+  ],
+  "ideas": [
+    "The ending should be built in five steps: gather the team, execute the plan, hit a surprise that breaks it, dig deep down, and execute a new plan.",
+    "A threat that creeps in slowly from far away, like a glacier, builds no suspense.",
+    "Piling a second clever gimmick on top of a first one is 'too much marzipan'.",
+    "Once news crews show up in a story, it stops feeling private and real."
+  ]
+}

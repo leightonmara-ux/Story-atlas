@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "q": "A writer says: 'If readers can't follow my novel, that's their problem; its value doesn't depend on their pleasure.' Which of Franzen's models is this?",
+      "choices": [
+        "The Contract model",
+        "The Status model",
+        "The inverted pyramid",
+        "Defamiliarization"
+      ],
+      "answer": 1,
+      "explain": "In the Status model, art's value is independent of readers' enjoyment, and difficulty can signal seriousness."
+    },
+    {
+      "q": "A playwright's second act asks the audience to sit through forty minutes of deliberate confusion. What question would Franzen's Contract model ask?",
+      "choices": [
+        "Does it break the three unities?",
+        "Is the confusion a defamiliarizing effect?",
+        "What does the audience get back for the effort, and when?",
+        "Has the protagonist made a choice?"
+      ],
+      "answer": 2,
+      "explain": "In the Contract model, difficulty is allowed but must pay the audience back."
+    },
+    {
+      "q": "What does Franzen mean by 'The most purely autobiographical fiction requires pure invention'?",
+      "choices": [
+        "Invented stories can carry the author's inner life more truly than transcribed events",
+        "Writers should avoid all personal material",
+        "Fiction must be fact-checked like memoir",
+        "Only first-person narration can be autobiographical"
+      ],
+      "answer": 0,
+      "explain": "His example is Kafka's The Metamorphosis: pure invention, yet deeply autobiographical."
+    },
+    {
+      "q": "Where did Franzen end up in 'Why Bother?', the revised version of his 1996 Harper's essay?",
+      "choices": [
+        "The novel must win back a mass audience from television",
+        "Novels should be replaced by long-form journalism",
+        "Writers should give up realism for experiment",
+        "There was never a mass audience to lose; serious fiction serves a scattered community of readers"
+      ],
+      "answer": 3,
+      "explain": "Drawing on Shirley Brice Heath's research, he concluded the novel matters by keeping faith with its readers, not by reforming society."
+    },
+    {
+      "q": "Franzen's first rule calls the reader 'a friend, not an adversary, not a spectator.' What does 'not a spectator' warn against?",
+      "choices": [
+        "Writing in the first person",
+        "Performing at the reader instead of drawing them in",
+        "Using too much dialogue",
+        "Ending without a resolution"
+      ],
+      "answer": 1,
+      "explain": "A spectator only watches; Franzen wants the reader involved as a participant."
+    },
+    {
+      "q": "Which is the best-known answer to Franzen's Contract model?",
+      "choices": [
+        "Jennifer Weiner's 'Franzenfreude' complaint",
+        "Oprah Winfrey's withdrawn invitation",
+        "Ben Marcus's 2005 Harper's essay defending experimental fiction",
+        "Peter Suderman's 2013 Slate piece"
+      ],
+      "answer": 2,
+      "explain": "Marcus argued that difficult work offers its own rewards. Franzenfreude was about press coverage; Suderman wrote about Snyder."
+    },
+    {
+      "q": "A reporter keeps calling more sources instead of staying at the scene. Which Franzen rule fits?",
+      "choices": [
+        "You see more sitting still than chasing after",
+        "Never use 'then' as a conjunction",
+        "Write in the third person",
+        "Interesting verbs are seldom very interesting"
+      ],
+      "answer": 0,
+      "explain": "Franzen's seventh rule favors patient observation over chasing."
+    }
+  ],
+  "ideas": [
+    "Fiction can be judged as art for its own sake, or as a deal in which the writer owes the reader something for their effort.",
+    "The reader is a friend, not an adversary and not a spectator.",
+    "The most autobiographical fiction is pure invention, as in Kafka's The Metamorphosis.",
+    "It's doubtful anyone with an internet connection at their workplace is writing good fiction."
+  ]
+}
