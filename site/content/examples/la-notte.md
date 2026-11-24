@@ -2,7 +2,7 @@
 
 *Spoilers: this case study discusses the whole film, including the ending.*
 
-*La Notte* (*The Night*, 1961) was directed by Michelangelo Antonioni and photographed in black and white by Gianni Di Venanzo; it won the Golden Bear at the Berlin Film Festival that year. Giovanni Pontano (Marcello Mastroianni), a successful Milanese novelist, and his wife Lidia (Jeanne Moreau) spend one day and one night together: a visit to a dying friend in hospital, the launch of Giovanni's new book, a long walk Lidia takes alone through the city, and an all-night party at the villa of a rich industrialist, where Giovanni pursues the host's daughter, Valentina (Monica Vitti). Almost nothing happens in the usual sense; by dawn the marriage has been looked at squarely, and found empty. It is the middle film of Antonioni's loose trilogy, between *L'Avventura* (1960) and *L'Eclisse* (1962).
+*La Notte* (*The Night*, 1961) was directed by Michelangelo Antonioni and photographed in black and white by Gianni Di Venanzo; it won the Golden Bear at the Berlin Film Festival that year. Giovanni Pontano (Marcello Mastroianni), a successful Milanese novelist, and his wife Lidia (Jeanne Moreau) spend one day and one night together: a visit to a dying friend in hospital, the launch of Giovanni's new book, a long walk Lidia takes alone through the city, and an all-night party at the villa of a rich industrialist, where Giovanni pursues the host's daughter, Valentina (Monica Vitti). Little happens in the usual sense; by dawn the marriage has been looked at squarely and found empty. It is the middle film of Antonioni's loose trilogy, between *L'Avventura* (1960) and *L'Eclisse* (1962).
 
 ## Why it works
 
@@ -10,7 +10,7 @@
 
 The film opens before it has any characters. Under the credits, the camera moves along the glass skin of Milan's new Pirelli Tower, then barely finished, while the street and the city slide across its surface as reflections.
 
-That sets the visual rule for everything after. Antonioni and Di Venanzo keep framing people small against big, flat surfaces: blank walls, office facades, long pavements, a horizon. A face often occupies a corner of the frame while the rest is architecture or sky. This is **negative space** used not for suspense but for weight: the emptiness around Giovanni and Lidia is the subject. *The camera's eye* explains that the wider the shot, the more a person belongs to their surroundings, and that a figure pushed to the edge of an empty frame feels isolated. *Light, colour and setting* would call it setting as character: the new Milan of glass and concrete isn't a backdrop to the marriage but a picture of it, prosperous and cold.
+That sets the visual rule for everything after. Antonioni and Di Venanzo keep framing people small against big, flat surfaces: blank walls, office facades, long pavements, a horizon. A face often takes one corner of the frame; the rest is architecture or sky. This is **negative space** used not for suspense but for weight: the emptiness around Giovanni and Lidia is the subject. *The camera's eye* explains that the wider the shot, the more a person belongs to their surroundings, and that a figure pushed to the edge of an empty frame feels isolated. *Light, colour and setting* would call it setting as character: the new Milan of glass and concrete isn't a backdrop to the marriage but a picture of it, prosperous and cold.
 
 ### Glass, reflections and the scene you can't hear
 
@@ -59,7 +59,7 @@ What drives it instead of plot is the clock, morning to night to dawn, and accum
 
 ## What people said
 
-**Michelangelo Antonioni** spoke about the trilogy's theme most directly in a statement he made at Cannes in 1960, when *L'Avventura* was booed: in paraphrase, that modern people had acquired new scientific knowledge while still living by old, worn-out moral and emotional habits, and that love was the place where this showed most painfully. *La Notte* is the bleakest application of that idea, set not on an island but in the most modern city in Italy.
+**Michelangelo Antonioni** spoke about the trilogy's theme most directly in a statement he made at Cannes in 1960, when *L'Avventura* was booed: in paraphrase, that modern people had acquired new scientific knowledge while still living by old, worn-out moral and emotional habits, and that love was the place where this showed most painfully. *La Notte* moves that idea from a remote island to Italy's most modern city.
 
 **Ingmar Bergman**, who disliked most of Antonioni's work and in 2002 dismissed him as tedious, made a striking exception: he singled out *Blow-Up* and *La Notte* as masterpieces, and suggested that the second owed a great deal to the young Jeanne Moreau. The remark is widely reported; the precise wording varies between sources.
 

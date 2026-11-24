@@ -8,7 +8,7 @@
 
 ### An introduction that is the whole film in miniature
 
-The film opens with Cabiria and her boyfriend Giorgio running and laughing across open ground to a riverbank. At the water's edge he snatches her handbag and shoves her in. She can't swim. Some boys pull her out, half-drowned, and the men who revive her hold her upside down. Her first reaction when she comes round is not grief but fury, and her second is to refuse to believe Giorgio meant it.
+The film opens with Cabiria and her boyfriend Giorgio running and laughing across open ground to a riverbank. At the water's edge he snatches her handbag and shoves her in. She can't swim. Some boys pull her out, half-drowned. Her first reaction when she comes round is not grief but fury, and her second is to refuse to believe Giorgio meant it.
 
 *Introducing a character* says the first action should be a thesis the rest of the story will test. Cabiria's first scene is exactly that: a moment of joy, a betrayal for money, a near-death, and a recovery driven by stubborn hope. Every later episode repeats this pattern, and the ending repeats it almost exactly, on a cliff above a lake instead of a riverbank. By the time the end comes, we've been told the shape twice before we know we've been told it.
 
@@ -40,7 +40,7 @@ Two things happen at once. The music, which we see the young people playing, is 
 
 ## The shape
 
-The film is a picaresque in episodes, with a hidden rising line under them. Freytag's pyramid doesn't fit the episodes, but it fits the repeated betrayals once you see them as a single pattern escalating.
+The film is a picaresque in episodes, with a hidden rising line under them. *Gustav Freytag*'s pyramid doesn't fit the episodes, but it fits the repeated betrayals once you see them as a single pattern escalating.
 
 | Part | What happens | Roughly where |
 |---|---|---|
@@ -52,7 +52,7 @@ The film is a picaresque in episodes, with a hidden rising line under them. Frey
 | Reversal | The cliff at sunset; Oscar takes the money and runs | About five-sixths |
 | Recovery | The road, the musicians, the look at the camera | Final minutes |
 
-The opening and the reversal are the same scene told twice, the device *Story vs. telling* calls repetition, but staged rather than retold.
+The opening and the reversal are the same event staged twice, the move *Jane Alison* calls a spiral: a return to the same centre at a higher level, so the second time means more.
 
 ## What people said
 
@@ -60,7 +60,7 @@ The opening and the reversal are the same scene told twice, the device *Story vs
 
 **The critics** made Masina the centre of almost every review. Her Cannes prize came on the film's premiere, and her performance is still widely ranked among the great screen performances. Roger Ebert, in his Great Movies essay, gave the final shot special attention, describing her face in it as indomitably resolved. A Criterion essay links that final look to the end of Chaplin's *City Lights* (1931), where the tramp, recognized at last, looks out with the same mix of hurt and hope.
 
-**The dissent** came mainly on release. Bosley Crowther's review in the *New York Times* was mixed: he admired the film's small, observed details but was put off by its setting, and some American reviewers were uneasy with a heroine who was a prostitute. Later critics have sometimes found Masina's clowning too mannered, a performance that keeps reminding us it's a performance; others answer that this is the point, since Cabiria herself is always performing toughness.
+**The dissent** came mainly on release. Bosley Crowther's review in the *New York Times* was mixed: he admired the film's small, observed details but was put off by its setting, and some American reviewers were uneasy with a heroine who was a prostitute.
 
 ## Watch for
 

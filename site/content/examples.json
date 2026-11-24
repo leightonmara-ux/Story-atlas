@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "la-notte",
+    "title": "La Notte",
+    "year": 1961,
+    "medium": "Film",
+    "by": "Michelangelo Antonioni (director); Gianni Di Venanzo (cinematography); Giorgio Gaslini (music); Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
+    "summary": "A day and a night in a dying marriage, told almost entirely through images: figures dwarfed by Milan's new architecture, faces behind glass, a long silent walk, and a dawn ending that withholds the climax.",
+    "lessons": [
+      "camera",
+      "mise-en-scene",
+      "film-sound",
+      "music-silence",
+      "cast-system",
+      "mckee",
+      "le-guin",
+      "kishotenketsu"
+    ]
+  },
+  {
     "id": "lord-of-the-rings",
     "title": "The Lord of the Rings",
     "year": "2001–2003",
