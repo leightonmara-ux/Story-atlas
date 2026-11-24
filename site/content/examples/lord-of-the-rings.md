@@ -32,7 +32,7 @@ The clearest example is the climax of *The Two Towers*, where the siege of Helm'
 
 The novel's *The Two Towers* ends with Frodo stung by the giant spider Shelob and Sam believing him dead. The films move this to *The Return of the King*. *The Two Towers* ends instead with Gollum, alone, deciding to lead the hobbits to an unnamed "her".
 
-The move is a lesson in structure. Jackson has said he decided during work on the second film that the sequence would play better at the start of the third, and the change gave both films a better shape. *The Two Towers* could end on its battle and on Gollum's turn, and *The Return of the King* gained a climax for the Frodo–Sam–Gollum strand. The writers also added a film-only turn to set it up: Gollum frames Sam for eating the last of the elvish bread, and Frodo sends Sam home. Frodo walks into Shelob's lair alone, and Sam's return becomes his finest moment. A plot event has been repositioned to sit at the bottom of a relationship's arc (see *The cast as a system*).
+The move is a lesson in structure. The decision was made late, while the second film was being finished, and it gave both films a better shape. *The Two Towers* could end on its battle and on Gollum's turn, and *The Return of the King* gained a climax for the Frodo–Sam–Gollum strand. The writers also added a film-only turn to set it up: Gollum frames Sam for eating the last of the elvish bread, and Frodo sends Sam home. Frodo walks into Shelob's lair alone, and Sam's return becomes his finest moment. A plot event has been repositioned to sit at the bottom of a relationship's arc (see *The cast as a system*).
 
 Not every change was welcomed. Faramir, who in the book resists the Ring almost at once, is made to take the hobbits towards Gondor, and many readers felt the character had been diminished.
 
@@ -51,7 +51,7 @@ Vogler's twelve stages fit the whole trilogy, stretched across nine hours (theat
 | Stage | What happens | Roughly where |
 |---|---|---|
 | Ordinary World | The prologue, then the Shire and Bilbo's party | Opening of the first film |
-| Call and refusal | Gandalf reveals the Ring; Frodo wishes it had never come to him | First quarter of the first film |
+| Call and refusal | Gandalf reveals the Ring; Frodo begs him to take it | First quarter of the first film |
 | Mentor, threshold | Gandalf; leaving the Shire; Rivendell and the Council, where Frodo volunteers | First film, first half |
 | Tests, allies, enemies | Moria, Gandalf's fall, Boromir's betrayal and death, the Fellowship's breaking | End of the first film through the second |
 | Approach | Gollum's guidance, Osgiliath, the stairs of Cirith Ungol, Shelob | Second film into the first half of the third |

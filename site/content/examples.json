@@ -16,5 +16,21 @@
       "camera",
       "bergman"
     ]
+  },
+  {
+    "id": "worst-person-in-the-world",
+    "title": "The Worst Person in the World",
+    "year": 2021,
+    "medium": "Film",
+    "by": "Joachim Trier (director; co-writer with Eskil Vogt); Renate Reinsve, Anders Danielsen Lie, Herbert Nordrum",
+    "summary": "A coming-of-age film told in a prologue, twelve titled chapters and an epilogue, whose wry narrator, elastic sense of time and a city frozen mid-stride show how the telling can carry a heroine who won't choose.",
+    "lessons": [
+      "narrative-order",
+      "point-of-view",
+      "bildungsroman",
+      "want-need-wound",
+      "introductions",
+      "trier"
+    ]
   }
 ]

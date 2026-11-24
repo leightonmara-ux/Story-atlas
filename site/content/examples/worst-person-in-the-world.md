@@ -34,7 +34,7 @@ The sequence introduces Eivind as the man who plays, unlike Aksel, who explains,
 
 *The bildungsroman* says the form promises formation, education and an answer to the question "who will she be?", classically either accommodation (she takes her place, often by marrying) or rupture (she breaks away). Trier's film keeps both doors open, then walks through neither.
 
-Aksel represents one kind of accommodation: he is established, articulate, and he wants children; Julie isn't sure she does. Eivind represents another, the life of an ordinary job and no grand plan. She tries both. The film's late movement, after Aksel's brother tells her that Aksel has incurable cancer, brings a different kind of education: Julie sits with someone who is running out of the time she has been treating as unlimited. In their last conversations, at the hospital, Aksel talks about the world he grew up in, of books, records and comics he could hold, and his sense that it is disappearing; he is gentler with her than she expects, and she listens in a way she rarely has. Nothing is resolved, but she is changed.
+Aksel offers one kind of accommodation: established, articulate, wanting children she isn't sure she wants. Eivind offers another: an ordinary job and no grand plan. She tries both. The film's late movement, after Aksel's brother tells her that Aksel has incurable cancer, brings a different kind of education: Julie sits with someone who is running out of the time she has been treating as unlimited. In their last conversations, at the hospital, Aksel talks about the world he grew up in, of books, records and comics he could hold, and his sense that it is disappearing. Nothing is resolved, but she is changed.
 
 The epilogue answers the form's question quietly. Julie is working as a stills photographer on a film set, alone, competent, apparently at peace. Through a window she sees Eivind with a partner and a baby. It is neither triumph nor loss, and closer to the künstlerroman's ending than the marriage plot's: she has, at last, done something steadily.
 
@@ -57,11 +57,11 @@ The film doesn't fit a three-act or five-part model comfortably. Its chapters be
 | Mortality | Aksel's illness; their last conversations; Julie's pregnancy and its loss | About two-thirds to the epilogue |
 | Epilogue | Julie as a photographer on set; Eivind seen through a window | Final minutes |
 
-What none of the standard frameworks captures is that the climax isn't a decision. The last third is driven by something outside Julie's control, another person's death, and the change it brings is in how she holds time rather than in anything she does.
+What the standard frameworks miss is that the climax isn't Julie's decision. The last third is driven by another person's death, and the change is in how she holds time, not in anything she does.
 
 ## What people said
 
-**Joachim Trier** has explained that the title is a Norwegian figure of speech: what you say, half-jokingly, when you've let someone down in some small way. He liked the irony of putting it on a film about love and passion (he said so to *The Hollywood Reporter* around the film's US release). In interviews he has tied the frozen-time sequence to the film's larger subject, time itself.
+**Joachim Trier** has explained that the title is a Norwegian figure of speech: what you say, half-jokingly, when you've let someone down in some small way. He liked the irony of putting it on a film about love and passion (he told *The Hollywood Reporter*).
 
 **Eskil Vogt**, interviewed by *Seventh Row* in 2022, said that the frozen-time scene was among the earliest ideas the writers had, before there was a plot around it.
 
@@ -77,7 +77,7 @@ What none of the standard frameworks captures is that the climax isn't a decisio
 - **The thirtieth birthday** (in the first third): the narrator's step back through Julie's female ancestors, and her father's absence.
 - **The light switch** (a little before halfway): what is frozen, what isn't, and how the film brings time back. Watch the scene that follows it.
 - **The mushroom trip** (a little past halfway): how the images give away fears Julie never says aloud.
-- **The hospital conversations** (last third): how much Aksel talks, and how little Julie does. Notice who is listening for once.
+- **The hospital conversations** (last third): how much Aksel talks, and how much Julie, for once, listens.
 - **The epilogue** (final minutes): Julie at work, the window, Eivind and the baby. Ask whether this is loss, peace or both.
 
 ## Try it
@@ -88,7 +88,7 @@ Write a scene where the clock stops for your character, and then write the momen
 2. Write a short passage in which time pauses (literally, or through a dream, a lie, a held breath) and they get to have the forbidden thing without consequences.
 3. Write the moment time restarts, and the first action they take afterwards. It must cost them something.
 
-- **Stage:** Freeze the other actors mid-gesture while your character moves among them. Decide what the audience sees in the frozen faces.
+- **Stage:** Freeze the other actors mid-gesture while your character moves among them.
 - **Screen:** Script the stopped world in a few precise images, then cut back to the exact frame where it stopped. Note what has changed in the character's face.
 - **Journalism:** In a profile, slow one decisive moment right down, a pause in the telling, before returning to the subject's ordinary pace of life. Use it to show what they were weighing.
 
