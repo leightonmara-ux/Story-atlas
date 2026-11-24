@@ -1,6 +1,6 @@
 // Offline support. Serves from cache right away, then refreshes the cache in the background,
 // so new content shows up on the next launch. Bump VERSION when the app shell changes.
-const VERSION = 'v8';
+const VERSION = 'v9';
 const CACHE = 'story-atlas-' + VERSION;
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',

@@ -398,7 +398,7 @@ async function whoseIdeaPool() {
     'science-of-story', 'making-us-care', 'side-characters', 'introductions', 'want-need-wound', 'cast-system',
     'dialogue', 'film-sound', 'music-silence', 'allegiance', 'kuleshov', 'editing', 'camera', 'mise-en-scene',
     'stage-tools', 'journalism-tools', 'tragedy-comedy', 'bildungsroman', 'quest-picaresque', 'genre-promise',
-    'stage-forms', 'journalism-forms', 'save-the-cat-practice']);
+    'stage-forms', 'journalism-forms', 'save-the-cat-practice', 'braided']);
   const people = qs.filter(z => z.ideas && z.ideas.length && !topics.has(z.lesson.id));
   const out = [];
   for (const z of people) {
