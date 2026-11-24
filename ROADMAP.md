@@ -32,24 +32,25 @@
 - "Diagnose this" exercises: map a known work (*Casablanca*, *Death of a Salesman*, a Pulitzer feature) onto two frameworks and compare.
 - Verify the points the lesson writers flagged as uncertain (kept in the commit history and listed below), against the books.
 
-### Flagged for checking against the source books
-- Swain: the order of reactions (feeling, action, speech) in a motivation-reaction unit.
-- Hart: the exact stage names of his narrative arc (used in Compare and the ordering game).
-- Burroway: the line "only trouble is interesting".
-- Thompson: her own names for the four parts.
-- Vogel: her terms for alternative play structures.
-- Natyashastra: where its stages sit on the arc in Compare.
-- Glossary origins marked uncertain: dramatic irony (Thirlwall, 1833), "indirect action" (Magarshack, 1952),
-  "given circumstances" via Pushkin, the 5 Ws, "lede", "in late, out early", "inciting incident" before McKee.
-- Character/Tools details recalled rather than checked: Pinter's "two silences" talk (date), Altman's radio mics
-  (California Split vs. Nashville), Smith's later essay on perverse allegiance, Hauge's "reflection" character.
-- Story Types/Franzen details from memory or search snippets: Booker's stage names, Frye's four Greek theme words,
-  Polti's dates, Franzen's ten rules beyond the two quoted, the Die Hard beat placements, Vonnegut's thesis story.
-- Working Writers: sources were often blocked, so claims rest on search excerpts. Check against originals:
-  Kaufman's BAFTA lecture transcript, Sorkin's Reddit AMA ("the tactics are the story"), Baldwin's 1984 Paris Review
-  interview, Morrison's Paris Review interview, the Priest's line in Fleabag S2E3, Armstrong's interview quotes.
-- Lenses quotes recalled rather than checked: Bakhtin on polyphony, Adichie on stereotypes, Thomas King's
-  "that's all we are", Benjamin's "half the art of storytelling" (Zohn translation), Kermode's tick-tock.
+### Fact-check status (pass completed November 2026)
+Checked against Wikipedia, archive.org full texts, the BFI, the Guardian (via secondary sources) and others.
+Corrected: Jeremy Strong (not Armstrong) said "a completely tragic ending"; Thomas King accepted in 2025 that he
+has no Indigenous ancestry; Thirlwall wrote "tragic/practical irony", not "dramatic irony"; "lede" per the OED;
+"inciting incident" in drama textbooks by the 1920s; Booker's "Destruction or death wish Stage"; Burroway's line has
+no comma; Snyder's "Dig, Deep Down"; Natyashastra Compare row; plus scene details in Tony and La Notte, Sorkin,
+Kaufman, Baldwin and Morrison.
+Confirmed: Swain, Hart, Thompson, Frye, Polti (b. 1867), Pinter 1962, Altman/California Split, Hauge, Bakhtin,
+Kermode, Benjamin (Zohn), Magarshack, Pushkin/Stanislavski, Franzen's ten rules, Fleabag S2E3, Sentimental Value's
+Oscar and Grand Prix, Murray Smith's "Apparently Perverse Allegiances" (1999).
+
+Still open (sources refuse automated readers or couldn't be found):
+- Vogel's own terms for alternative structures (check Ruhl's *100 Essays* or Vogel directly).
+- Adichie quote: check against the TED transcript (TED blocks automated readers).
+- "In late, out early" origin; Polti's death year (Wikipedia only).
+- Kaufman lecture: "no tips" and marketplace paraphrases (BAFTA site unreachable).
+- Baldwin's "worked at night" detail; Paris Review interviews generally (site refuses automated readers).
+- Reagan et al. 2016 corpus figure (1,327 vs 1,737): check the published paper.
+- Save the Cat in practice: consider comparing with Snyder's own Die Hard beat sheet in *Save the Cat! Goes to the Movies*.
 
 ## Further voices (for "Read next" lists, not full lessons)
 Weave these into the relevant lessons' reading lists:
