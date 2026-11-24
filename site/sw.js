@@ -5,7 +5,7 @@ const CACHE = 'story-atlas-' + VERSION;
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'icon.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png',
-  'content/curriculum.json', 'content/concordance.json', 'content/sequences.json', 'content/diagrams.json',
+  'content/curriculum.json', 'content/concordance.json', 'content/sequences.json', 'content/diagrams.json', 'content/paths.json',
 ];
 
 self.addEventListener('install', event => {

@@ -20,6 +20,9 @@
   editing, camera, mise-en-scène, mood on stage, mood in journalism), plus the "What's this doing?" game.
 - Story Types track (10 lessons), Save the Cat in practice (Die Hard beat by beat), and Jonathan Franzen,
   plus the "What kind of story?" and "Name the genre" games.
+- Learning paths on the home screen: Start here (20 core lessons), then Playwright, Screenwriter or Journalist.
+  Everything else is under "Browse all lessons" as electives.
+- Working Writers track: Keefe, the braided narrative, Caro, Sorkin, Kaufman, Morrison, Nottage.
 - Terms tab: a glossary giving each concept's origin (who, where, when), common misattributions, and how to use it.
 
 ## Phase 3: Deepen

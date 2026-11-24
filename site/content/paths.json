@@ -1,0 +1,95 @@
+[
+  {
+    "id": "start",
+    "title": "Start here",
+    "blurb": "The core of the course: the ideas every story shares, and the essentials for stage, screen and page. About 20 lessons.",
+    "lessons": [
+      "shared-core",
+      "aristotle",
+      "freytag",
+      "forster",
+      "narrative-order",
+      "three-media",
+      "making-us-care",
+      "want-need-wound",
+      "dialogue",
+      "mckee",
+      "field",
+      "snyder",
+      "campbell-vogler",
+      "chekhov",
+      "stanislavski",
+      "franklin",
+      "inverted-pyramid",
+      "wsj-formula",
+      "allegiance",
+      "kishotenketsu"
+    ]
+  },
+  {
+    "id": "playwright",
+    "title": "Playwright",
+    "blurb": "After Start here: how plays are built, from the well-made play to Brecht, Fornés, Parks and interview-based drama.",
+    "lessons": [
+      "well-made-play",
+      "egri",
+      "ball",
+      "tragedy-comedy",
+      "comedy",
+      "stage-forms",
+      "cast-system",
+      "brecht",
+      "fornes",
+      "vogel",
+      "parks",
+      "ruhl",
+      "stage-tools",
+      "nottage"
+    ]
+  },
+  {
+    "id": "screenwriter",
+    "title": "Screenwriter",
+    "blurb": "After Start here: the screenwriting toolkit, from beat sheets and sequences to sound, cutting and the camera.",
+    "lessons": [
+      "save-the-cat-practice",
+      "truby",
+      "harmon",
+      "sequence",
+      "swain",
+      "yorke",
+      "pixar",
+      "tv",
+      "introductions",
+      "genre-promise",
+      "film-sound",
+      "music-silence",
+      "kuleshov",
+      "editing",
+      "camera",
+      "sorkin",
+      "kaufman"
+    ]
+  },
+  {
+    "id": "journalist",
+    "title": "Journalist",
+    "blurb": "After Start here: structuring true stories, from the feature and the profile to long-form narrative and its ethics.",
+    "lessons": [
+      "hart",
+      "new-journalism",
+      "mcphee",
+      "gornick",
+      "glass",
+      "journalism-forms",
+      "journalism-tools",
+      "keefe",
+      "braided",
+      "caro",
+      "ethics",
+      "white-didion",
+      "benjamin",
+      "documentary"
+    ]
+  }
+]

@@ -186,42 +186,69 @@ function diagram(id) {
 function renderHome() {
   document.title = 'Story Atlas';
   const lessons = allLessons();
-  const ready = lessons.filter(l => l.ready);
+  const byId = Object.fromEntries(lessons.map(l => [l.id, l]));
   const done = doneMap();
-  const doneCount = ready.filter(l => done[l.id]).length;
-  const next = ready.find(l => !done[l.id]);
-  const pct = ready.length ? Math.round(100 * doneCount / ready.length) : 0;
+  const paths = data.paths || [];
+  const pathId = store.get('sa.path', 'start');
+  const path = paths.find(p => p.id === pathId) || paths[0];
+  const start = paths.find(p => p.id === 'start');
+
+  // Your path: specialist paths assume Start here, so unfinished Start lessons come first.
+  const pathLessons = path ? path.lessons.map(id => byId[id]).filter(l => l && l.ready) : [];
+  const startLeft = path && path.id !== 'start' && start
+    ? start.lessons.map(id => byId[id]).filter(l => l && l.ready && !done[l.id]) : [];
+  const next = [...startLeft, ...pathLessons].find(l => !done[l.id]);
+  const pathDone = pathLessons.filter(l => done[l.id]).length;
+  const pct = pathLessons.length ? Math.round(100 * pathDone / pathLessons.length) : 0;
+
+  const row = (l, n) => {
+    const txt = `<span class="txt"><b>${esc(l.title)}</b><i>${esc(l.subtitle)}</i></span>`;
+    if (!l.ready) return `<li><div class="soon"><span class="mark">${n}</span>${txt}<span class="tag">Soon</span></div></li>`;
+    const isDone = !!done[l.id];
+    return `<li class="${isDone ? 'done' : ''}"><a href="#/lesson/${l.id}"><span class="mark">${isDone ? '✓' : n}</span>${txt}</a></li>`;
+  };
 
   const nextCard = next ? `
     <a class="next-card" href="#/lesson/${next.id}">
-      <small>${doneCount ? 'Up next' : 'Start here'}</small>
+      <small>${startLeft.includes(next) ? 'First, from Start here' : (pathDone || Object.keys(done).length ? 'Up next' : 'Begin here')}</small>
       <strong>${esc(next.title)}</strong>
       <span>${esc(next.subtitle)}</span>
-    </a>` : `<p class="muted">You’ve finished every lesson available so far. More are on the way.</p>`;
+    </a>` : `<p class="muted">You've finished this path. Pick another, or browse everything below.</p>`;
 
   let n = 0;
   const tracks = data.curriculum.tracks.map(t => `
     <section class="track">
       <h2>${esc(t.title)}</h2>
       <p>${esc(t.blurb)}</p>
-      <ul class="lessons">${t.lessons.map(l => {
-        n++;
-        const txt = `<span class="txt"><b>${esc(l.title)}</b><i>${esc(l.subtitle)}</i></span>`;
-        if (!l.ready) return `<li><div class="soon"><span class="mark">${n}</span>${txt}<span class="tag">Soon</span></div></li>`;
-        const isDone = !!done[l.id];
-        return `<li class="${isDone ? 'done' : ''}"><a href="#/lesson/${l.id}"><span class="mark">${isDone ? '✓' : n}</span>${txt}</a></li>`;
-      }).join('')}</ul>
+      <ul class="lessons">${t.lessons.map(l => row(l, ++n)).join('')}</ul>
     </section>`).join('');
+  const allDone = lessons.filter(l => l.ready && done[l.id]).length;
+  const browseOpen = store.get('sa.browseOpen', false);
 
   app.innerHTML = `
     <section class="hero">
       <h1>Story Atlas</h1>
       <p class="lede">What the great thinkers say about story structure, and how to use it on the stage, the screen and the page.</p>
-      <div class="progress">${doneCount} of ${ready.length} lessons done${ready.length < lessons.length ? ` · ${lessons.length - ready.length} more coming` : ''}
+    </section>
+    ${path ? `
+    <section class="path">
+      <nav class="chips" aria-label="Choose a path">${paths.map(p =>
+        `<a href="#/" data-path="${p.id}" aria-current="${p.id === path.id}">${esc(p.title)}</a>`).join('')}</nav>
+      <p class="muted path-blurb">${esc(path.blurb)}</p>
+      <div class="progress">${pathDone} of ${pathLessons.length} done on this path
         <div class="bar"><span style="width:${pct}%"></span></div></div>
       ${nextCard}
-    </section>
-    ${tracks}`;
+      <ol class="lessons">${pathLessons.map((l, i) => row(l, i + 1)).join('')}</ol>
+    </section>` : nextCard}
+    <details class="browse" ${browseOpen ? 'open' : ''}>
+      <summary><b>Browse all ${lessons.length} lessons</b><span>${allDone} done · every track, including electives</span></summary>
+      ${tracks}
+    </details>`;
+
+  app.querySelectorAll('[data-path]').forEach(a => a.addEventListener('click', e => {
+    e.preventDefault(); store.set('sa.path', a.dataset.path); renderHome();
+  }));
+  app.querySelector('details.browse').addEventListener('toggle', e => store.set('sa.browseOpen', e.target.open));
 }
 
 async function renderLesson(id) {
@@ -761,6 +788,7 @@ async function start() {
       getJSON('content/sequences.json').catch(() => []),
     ]);
     data.diagrams = await getJSON('content/diagrams.json').catch(() => ({}));
+    data.paths = await getJSON('content/paths.json').catch(() => []);
   } catch {
     app.innerHTML = '<p class="loading">Couldn’t load the course. Check your connection and reload.</p>';
     return;

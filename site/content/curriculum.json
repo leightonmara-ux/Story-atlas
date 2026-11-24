@@ -528,9 +528,7 @@
         { "id": "caro", "title": "Robert Caro", "subtitle": "Working, 2019: turn every page" },
         { "id": "sorkin", "title": "Aaron Sorkin", "subtitle": "Intention and obstacle" },
         { "id": "kaufman", "title": "Charlie Kaufman", "subtitle": "The BAFTA lecture, 2011" },
-        { "id": "king", "title": "Stephen King", "subtitle": "On Writing, 2000" },
         { "id": "morrison", "title": "Toni Morrison", "subtitle": "The Site of Memory, 1987" },
-        { "id": "zadie-smith", "title": "Zadie Smith", "subtitle": "That Crafty Feeling, 2008" },
         { "id": "nottage", "title": "Lynn Nottage", "subtitle": "Plays built from interviews" }
       ]
     },
